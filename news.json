@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-28T17:20:38.130984+00:00",
+  "updated": "2026-07-28T21:01:06.505615+00:00",
   "total": 304,
-  "high_priority": 11,
+  "high_priority": 12,
   "stats_by_category": {
     "财经主流": 80,
     "科技+出海": 80,
@@ -15,6 +15,15 @@
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "summary": "USTR to review China tariffs as Section 301 takes center stage&nbsp;&nbsp;Supply Chain Dive",
       "source": "Google News | China Trade/Tariff/Supply Chain",
+      "priority": 4,
+      "relevance": "high"
+    },
+    {
+      "title": "USTR Forced Labor Investigations Result in New Section 301 Tariffs - Buchanan Ingersoll & Rooney PC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMkZrUWpOZy00ckFkVHFPb050SkZEOXdxQ2ZxaWZsaGtfc1lLMTRNT2dXc2JxRGxXME5RUkotbFVXSzI3dHNRb1poUnRMR0lMUDlQZ00tV2szYW1vNVdUNFN6dzUxYmtpVTZ4WGpjWTBMSktmdEw5d0lRX0NUUWYyM2RQRmQ5ajFLaTVFMDg1Xzg?oc=5",
+      "published": "Tue, 28 Jul 2026 16:04:10 GMT",
+      "summary": "USTR Forced Labor Investigations Result in New Section 301 Tariffs&nbsp;&nbsp;Buchanan Ingersoll & Rooney PC",
+      "source": "Google News | USTR 301",
       "priority": 4,
       "relevance": "high"
     },
@@ -172,19 +181,10 @@
       "relevance": "medium"
     },
     {
-      "title": "USTR Launches Section 301 Investigation into Vietnam’s Acts, Policies, and Practices Related to Intellectual Property - thompsonhinesmartrade.com",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY080UmZFTUtnMDlSZExBQjE4dk5qQS1nUDI5VG1TLUtJWlE0QWlWXzdScDFkVXFpblNkYkIyc3hBd3pTQjBDX0dZX3BKZUoxejEtQUdZeDlpUXF3QkNiLV9QMWR4TkRuUVpyR1k1WFVucmdmSVBjYjhOMTZ1WVlHVElzbFdHQjVzRFR6VzdDalFHT3RScjdOYVV5d3U4anFlSk9DWnhHaUhMSGExOWxmT0Z6UmxxRDJOMndMR2hSZkpWY1A4ZzdRSVlSV3ZnNm9acHp4cG5MUGx4TG81MTdncUdJcmE4ZXpmMWk4TzhZSC1OS1U?oc=5",
-      "published": "Sun, 31 May 2026 07:00:00 GMT",
-      "summary": "USTR Launches Section 301 Investigation into Vietnam’s Acts, Policies, and Practices Related to Intellectual Property&nbsp;&nbsp;thompsonhinesmartrade.com",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "A Winner in Early Trump Tariffs, Vietnam Thrives in Trade War 2.0 - Bloomberg",
+      "title": "A Winner in Early Trump Tariffs, Vietnam Thrives in Trade War 2.0 - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNUx4eWlDZ29VRkc3RThxRlhUMDB4VEMyS01NQmZkVThrNkJtM2ZSYlB3OHlkX2JXcUpZYkFpZVNOX0dBRHJsWmI1VDZjTV9nWmZndUhmb1B0SWhSUzJyOHRSSlFHZVZETC0tblRiWFpiN1ZNWnJQTHBNNDlGSWlwcA?oc=5",
       "published": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "summary": "A Winner in Early Trump Tariffs, Vietnam Thrives in Trade War 2.0&nbsp;&nbsp;Bloomberg",
+      "summary": "A Winner in Early Trump Tariffs, Vietnam Thrives in Trade War 2.0&nbsp;&nbsp;Bloomberg.com",
       "source": "Google News | Vietnam Trade",
       "priority": 2,
       "relevance": "medium"
@@ -298,15 +298,6 @@
       "relevance": "medium"
     },
     {
-      "title": "Report: Overseas expansion a growth necessity - China Daily Global Edition",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1ZzTGRZbzdNeUl4T1l1TXJ2MFIwcTFUOHgtbW1IcVQ2OExNYzlLcFFEZno3ZlBxSEV1bkFrSmI4M080VXlFcFZHbHZUU2JRNXgxME5vaUN0ZnZiVFVidWNVVW5TSUpHdUE3UmpJQUZmSDNxWXpaaUZIWG5sNk1LbmtR?oc=5",
-      "published": "Wed, 28 Jan 2026 08:00:00 GMT",
-      "summary": "Report: Overseas expansion a growth necessity&nbsp;&nbsp;China Daily Global Edition",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
       "title": "Partnerships, not plants: Chinese companies rethink overseas expansion strategy - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdldUUFNNRzdPaDVqbTE5bDRlTjM1R1BNWEJoSjU2ZHV5UklueE1XYU5McHNWWl9zT25iWXVfdDNxUjNsMGNDRno1TFpTSWIyRzRBSDdaMUdSdVpLNFhFaWJzVWZTZV9DVnhJUHF5MWtHSjlDckJEaFJNMG1HZThiR2Y1ekdLWjdzWXlCREM3RGNHekZoN0F0N3RXQjJsQU5wMkd0X015d1NIMmtWeG81LXZGYkhVWmZyZGNlM0lra0LSAcABQVVfeXFMT0ZLVlFjcktyLTZBVFpHUVpack0yZU4zbWx3QW5ncnRSVXVrUWFOY1pnWmRGOTVGSlJkSEJCcUxmOV9iU0cwVVF1QjFtN0N2Q2R3U0NHV0QzVklmcHFGZTR0cWd6bTg2V3lPZzlGZDJOSmd4ZU5yZDJERTdpeHFzbWFhQWQ4MU9NcnNnYVR0Y18zRjZ3NDFPTlAtRlF6TGtHOGsxUXp4R2wyZjhoT3VqcXc0RmZzWml2RnAyYnlWRHJl?oc=5",
       "published": "Wed, 28 Jan 2026 08:00:00 GMT",
@@ -375,6 +366,15 @@
       "published": "Wed, 15 Jul 2026 07:00:00 GMT",
       "summary": "Brazil braces for new U.S. tariffs as Washington broadens trade push, sources say&nbsp;&nbsp;Reuters",
       "source": "Google News | USTR 301",
+      "priority": 1,
+      "relevance": "medium"
+    },
+    {
+      "title": "36Kr Research Institute: 2025 - 2026 Research Report on Chinese Enterprises' Overseas Expansion - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81b01oX1pYM2xOZl9JQll0c0t3QXFaVlFoS0tZV0dEMTBBQW13YXVMQmhJRFVQdU1QRkpZNzU3Z2xCZUdtX3k2WlFST1I4dUZFNld3?oc=5",
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "summary": "36Kr Research Institute: 2025 - 2026 Research Report on Chinese Enterprises' Overseas Expansion&nbsp;&nbsp;36 Kr",
+      "source": "Google News | China Going Global",
       "priority": 1,
       "relevance": "medium"
     },
@@ -937,6 +937,15 @@
       "relevance": "medium"
     },
     {
+      "title": "Emerging Trends in Going Global Across Different Regions - HKTDC Research",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1taXptY2ZpSHVUZFRnRDVWUGVHck0zR3ptYUpDaGlhb2UyUGo4Nlh1c2NqUHlQWkptbWRjT3lUZkRiUDV2UzFkcWxfTGxuZFdObG9SX1BHXzJWdlpqa1BWcEdR?oc=5",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "summary": "Emerging Trends in Going Global Across Different Regions&nbsp;&nbsp;HKTDC Research",
+      "source": "Google News | China Going Global",
+      "priority": 1,
+      "relevance": "medium"
+    },
+    {
       "title": "Vietnam’s quest for export resilience as Trump tariffs loom - East Asia Forum",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNnA4UzNWLVVKbEFQMGdLbTl6NFE2ZE12OWZfTW9UbjBRakdsOXJTb2JkYTBGSDgtd0czUkhOZXQ0MmFLNERFQW82M0Jtb1lKdXJranprTVRzdE4tMkdEV0ZNX1FQZzlVTHRjUUJObHJIbHVlODExZlJweFZBc2tBT0IxcnpxclgtcVY5R3VjVmF4WmhUZUJIc1BxbDc?oc=5",
       "published": "Fri, 04 Jul 2025 07:00:00 GMT",
@@ -957,15 +966,6 @@
     {
       "title": "Australia explores new refinery as miners grapple with diesel volatility",
       "link": "https://asia.nikkei.com/spotlight/iran-tensions/australia-explores-new-refinery-as-miners-grapple-with-diesel-volatility",
-      "published": "",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Taiwan's space industry prepares for lift-off",
-      "link": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/taiwan-s-space-industry-prepares-for-lift-off",
       "published": "",
       "summary": "",
       "source": "Nikkei Asia",
@@ -1090,6 +1090,15 @@
       "relevance": "low"
     },
     {
+      "title": "US Adds Alibaba, Baidu, BYD, Unitree To Military List - Silicon UK",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5TkxhYi02M3lYWUxieURCT1h5MGM1bk9jTWNISFo2RzJSdTNDZVN0b0tFZnUtaTJUaDBXX04wV3FhT0RoRXpwQWhBTGJpNE5aZ3Y5S0dvdlRKbGhVaUVWaU1IQWlRUdIBa0FVX3lxTE9vbnJDWU1YbWtuQ2JCT01KeHNyNTVzcVEwZjhqM2l0Y0tJX3p1elc1NlNSTEdLOXVzcWg1VVhrcmFGWkNvTFFWVnRnWWZ0UTdYZ3ZrMGp1UXJJV2luMnRGcnhTaWJXRDJLcE9V?oc=5",
+      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+      "summary": "US Adds Alibaba, Baidu, BYD, Unitree To Military List&nbsp;&nbsp;Silicon UK",
+      "source": "Google News | 1260H Sanctions",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
       "title": "BYD says Pentagon military-company designation lacks basis as Nio considers legal action - CarNewsChina.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0lLb0FxS1d2bE82Qk56QjVDalJTMWI2VG9OT3lQRU10ZmRlUnBJSFctODVIWDdLNEdpZ1dMMVhMNGhEMnh0SHR5LXRfT3gwMW80LVhUaEFzSWh1Qnhmdk9ScDhiNnF4c2N4X0RoaFRrTE5UXzFud0hLazJ4cDJpVDhHeld1R1J3OWptal8taF9HN2QybkhCbUFkZ2V0ZUJjWXY0UTJlc2NNSlh5aEVVVUxoSWlzSWhOak1FVkJZYnpyWkE?oc=5",
       "published": "Wed, 10 Jun 2026 07:00:00 GMT",
@@ -1117,10 +1126,10 @@
       "relevance": "low"
     },
     {
-      "title": "Vietnam Trade Surplus Shrinks as Imports, Exports Miss Estimates - Bloomberg",
+      "title": "Vietnam Trade Surplus Shrinks as Imports, Exports Miss Estimates - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUpKSWQ3WS1fTlppTkpCM0xrMjRqRGxENldZNWJRMElaT3dHNk5wbkJ6U1RYSXFjNXpJNUF2Z0xSbkdyd2huUURoaEZGZWZ1RnQ1UFY4VGlMM3JfU1p3UG5UMUlOMUlmaFhvN1dwNnVRLXp2a2o2bl9JM3JiX3FDa2NvakdQcWxLVW9nNXdCSUN3c0RDaUM5b2FscF84UzUtaExfV2Q0eGlObjVwZ1pvNnhnMVI?oc=5",
       "published": "Wed, 05 Nov 2025 08:00:00 GMT",
-      "summary": "Vietnam Trade Surplus Shrinks as Imports, Exports Miss Estimates&nbsp;&nbsp;Bloomberg",
+      "summary": "Vietnam Trade Surplus Shrinks as Imports, Exports Miss Estimates&nbsp;&nbsp;Bloomberg.com",
       "source": "Google News | Vietnam Trade",
       "priority": 0,
       "relevance": "low"
@@ -1198,11 +1207,38 @@
       "relevance": "low"
     },
     {
+      "title": "Cate Blanchett and Angelina Jolie appeal for refugee protections as UN convention turns 75",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3362183/cate-blanchett-and-angelina-jolie-appeal-refugee-protections-un-convention-turns-75?utm_source=rss_feed",
+      "published": "Tue, 28 Jul 2026 20:26:37 +0000",
+      "summary": "Cate Blanchett, Angelina Jolie and Archbishop of Canterbury Sarah Mullally were among public figures who on Tuesday called for refugee protections to be upheld as the United Nations decried mounting pressure ‌on asylum systems.\nLegal safeguards for refugees are enshrined in the 1951 Refugee Convention, drafted in the aftermath of World War II, which displaced tens of millions of people. But while most people still support the principle of safe refuge, many governments are tightening border...",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
       "title": "Malaysia busts scam centres in Forest City",
       "link": "https://www.bangkokpost.com/world/3292977/malaysia-busts-scam-centres-in-forest-city",
       "published": "Tue, 28 Jul 2026 20:21:00 +0700",
       "summary": "KUALA ​LUMPUR - Malaysian police have raided 32 premises hosting online ​scam activities in Forest &zwnj;City in the state of Johor, arresting 335 people and seizing assets worth about 1 million ringgit ($245,000), the state police chief said on Tuesday.",
       "source": "Bangkok Post | Breaking",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Defendant in Salman Rushdie stabbing declines to testify in federal terrorism trial",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3362182/defendant-salman-rushdie-stabbing-declines-testify-federal-terrorism-trial?utm_source=rss_feed",
+      "published": "Tue, 28 Jul 2026 19:46:18 +0000",
+      "summary": "The man on trial in the stabbing of Salman Rushdie chose on Tuesday not to testify or call any witnesses in the federal terrorism case, which is expected to head to the jury as soon as Wednesday.\nHadi Matar’s lawyer told the court that the 28-year-old – who already has been convicted of state-level attempted murder charges – would not take the stand at his trial on charges that include engaging in an act of transnational terrorism.\n“At this time, the defence rests,” lawyer Nathaniel Barone said....",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Keiko Fujimori sworn in as president of Peru following narrow election victory",
+      "link": "https://www.scmp.com/news/world/americas/article/3362181/keiko-fujimori-sworn-president-peru-following-narrow-election-victory?utm_source=rss_feed",
+      "published": "Tue, 28 Jul 2026 18:50:15 +0000",
+      "summary": "Keiko Fujimori was sworn in as Peru’s ninth president in a decade at an official ceremony in Lima on Tuesday.\nThe conservative 51-year-old won June’s run-off by fewer than 50,000 votes and will govern until 2031.\nFujimori, the daughter of a former president jailed for human rights abuses, will become Peru’s ninth president in a decade. The 51-year-old is hoping to stabilise the country’s turbulent politics.\nOver the past decade, only three of Peru’s presidents have been elected by popular vote.....",
+      "source": "SCMP | China Economy",
       "priority": 0,
       "relevance": "low"
     },
@@ -1221,6 +1257,15 @@
       "published": "Tue, 28 Jul 2026 18:46:00 +0700",
       "summary": "Thai authorities are continuing to coordinate with their Japanese counterparts over the case of a 28-year-old Thai woman arrested at Fukuoka Airport after crystal methamphetamine was found hidden in coffee sachets she was carrying into Japan.",
       "source": "Bangkok Post | Breaking",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Trump shows irritation with Netanyahu before White House talks on Iran",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3362180/trump-shows-irritation-netanyahu-white-house-talks-iran?utm_source=rss_feed",
+      "published": "Tue, 28 Jul 2026 17:49:31 +0000",
+      "summary": "US President Donald Trump voiced ⁠irritation with Benjamin Netanyahu ahead of their White House meeting on Tuesday, complaining that details of the Israeli prime minister’s planned talking points on Iran had surfaced publicly, in a fresh sign of strain between the two leaders.\nAsked about reports that Netanyahu wanted to talk to him about Pickaxe Mountain, a fortified facility buried deep underground near one of Iran’s main nuclear sites, Trump said, using Netanyahu’s nickname. “I don’t need...",
+      "source": "SCMP | China Economy",
       "priority": 0,
       "relevance": "low"
     },
@@ -1297,7 +1342,7 @@
       "relevance": "low"
     },
     {
-      "title": "‘I was quite scared’: Hongkonger in Japan’s quake-hit Kumamoto describes shock",
+      "title": "Hongkonger in Japan’s quake-hit Kumamoto describes shock: ‘I was quite scared’",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3362174/i-was-quite-scared-hongkonger-japans-quake-hit-kumamoto-describes-shock?utm_source=rss_feed",
       "published": "Tue, 28 Jul 2026 15:24:38 +0000",
       "summary": "A Hongkonger has described being “quite scared” as a 7.1-magnitude quake shook Japan’s southern Kumamoto prefecture where she and her boyfriend were travelling, while the city’s travel authority confirmed that about 200 members of tour groups visiting the region were all safe.\nLeon Chan, 18, recounted to the South China Morning Post that she and her boyfriend had just got off a bus on the west side of Kumamoto city when the quake hit on Tuesday afternoon. The epicentre was about 20km (12.4...",
@@ -1400,42 +1445,6 @@
       "link": "https://www.scmp.com/opinion/world-opinion/article/3361944/america-declares-international-law-thee-not-me?utm_source=rss_feed",
       "published": "Tue, 28 Jul 2026 12:30:09 +0000",
       "summary": "In Orwellian totalitarianism, two plus two can equal five. But with American hegemony, things can be A and not A at the same time.\nEarlier this month, Washington declared war on the International Criminal Court (ICC), whose very existence, it claims, poses an “intolerable” challenge to America’s sovereignty. But, citing an international maritime law, it also led a coalition of 14 mainly Western countries in issuing a joint statement in support of a 10-year-old South China Sea arbitration ruling....",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Ebola cases in DR Congo top 3,200, nearing record of country’s worst outbreak",
-      "link": "https://www.scmp.com/news/world/africa/article/3362155/ebola-cases-dr-congo-top-3200-nearing-record-countrys-worst-outbreak?utm_source=rss_feed",
-      "published": "Tue, 28 Jul 2026 12:25:32 +0000",
-      "summary": "Confirmed cases in the Democratic Republic of Congo’s ongoing Ebola outbreak reached 3,262, its ministry of health said in an overnight update, nearly the same as the 2018-2020 outbreak that is the largest ever recorded in the country.\nData from the Congolese health ministry showed that 1,437 patients have died out of the 3,262 cases, in what officials have said is the fastest Ebola outbreak on record, concentrated in the eastern Ituri province.\nThe 2018-2020 outbreak that was recorded in Congo....",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "‘Micro-discrimination’ against Indonesians? Bali run club controversy revives concerns",
-      "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3362154/micro-discrimination-against-indonesians-bali-run-club-controversy-revives-concerns?utm_source=rss_feed",
-      "published": "Tue, 28 Jul 2026 12:00:43 +0000",
-      "summary": "A running club in Bali’s expatriate hub of Canggu has become the latest flashpoint in an enduring debate over whether Indonesians are being sidelined in parts of their own country.\nIndonesian immigration authorities have blacklisted two Dutch nationals linked to Entourage running club after an online outcry over the alleged exclusion of locals from the popular group.\nThe incident echoes long-standing concerns about discrimination against Indonesians on the resort island.\nThe furore has also...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Moonshot’s Kimi K3 triggers Silicon Valley debate over bans on Chinese open source models",
-      "link": "https://www.scmp.com/tech/article/3362143/moonshots-kimi-k3-triggers-silicon-valley-debate-over-bans-chinese-open-source-models?utm_source=rss_feed",
-      "published": "Tue, 28 Jul 2026 12:00:13 +0000",
-      "summary": "China’s Moonshot AI has made its latest artificial intelligence model Kimi K3 available for public download, as its open-source strategy and more support for non-Nvidia ecosystems trigger heated debates across Silicon Valley.\nOn Monday, the Chinese AI start-up not only released the model’s “weights” – the underlying parameters that encode its intelligence – but also made available key infrastructure, including tools to improve efficiency and stability.\nThe move has allowed developers around the....",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "What does deeper tech integration during US-led Rimpac mean for China?",
-      "link": "https://www.scmp.com/news/china/military/article/3362134/what-does-deeper-tech-integration-during-us-led-rimpac-mean-china?utm_source=rss_feed",
-      "published": "Tue, 28 Jul 2026 12:00:08 +0000",
-      "summary": "This year’s US-led Rim of the Pacific (Rimpac) military exercises around Hawaii displayed a higher level of integration of new technology in allied operations, with deterring Beijing in mind, experts said.\nFrom Japanese land-based anti-ship missiles to US attack submarines and exploding drone boats, allied forces linked troops on shore with aircraft, surface and undersea vessels to form a single network able to find, track and attack the same maritime target.\nThe drills, which ran from June 24.....",
       "source": "SCMP | China Economy",
       "priority": 0,
       "relevance": "low"
@@ -1797,15 +1806,6 @@
       "published": "Tue, 26 May 2026 07:00:00 GMT",
       "summary": "Tech edge to boost Chinese firms’ overseas revenues to record high: UBS&nbsp;&nbsp;South China Morning Post",
       "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Vietnam gains edge over Thailand as exporter and global production hub - Nation Thailand",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xWWdTRVNPYVRpMFFRdXNIVjVRdFVEaU51WWRTSjJET01nZ3hpVTVUemFHcFk2SUxWeVRtYXlQdUlOalpRdUVYbkE0U2RLQmxzSVNXWjc2T001LTR4THU0cE95clVjeFE?oc=5",
-      "published": "Tue, 26 May 2026 07:00:00 GMT",
-      "summary": "Vietnam gains edge over Thailand as exporter and global production hub&nbsp;&nbsp;Nation Thailand",
-      "source": "Google News | Thailand Trade",
       "priority": 0,
       "relevance": "low"
     }
