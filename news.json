@@ -1,308 +1,20 @@
 {
-  "updated": "2026-08-18T00:46:03.369221+00:00",
-  "total": 304,
-  "high_priority": 14,
+  "updated": "2026-08-18T04:28:13.976329+00:00",
+  "total": 149,
+  "high_priority": 0,
   "stats_by_category": {
-    "财经主流": 80,
-    "科技+出海": 80,
-    "政策法规": 100,
-    "东南亚本地": 70
+    "财经主流": 40,
+    "科技+出海": 60,
+    "政策法规": 60,
+    "东南亚本地": 10
   },
   "articles": [
-    {
-      "title": "USTR to review China tariffs as Section 301 takes center stage - Supply Chain Dive",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVVtVGx6R05MN0tKT3pLSDlBTFhzTzhmSWx0azA3Slhxa0R5bzlKUjBLUlFWZ052TE1UaER0RzZsSG9KSEtEOEp0dUx3WFNveTlUSzRzcTVpb3drZG50TUZOMG94RmZDSUZDeGNHTUx5X0FLQkFnRFR5SzlwOFNpX0RxVDJpZWxrZ1VhaTVSNEZpTkhRRjNmMWlwaUw0dVBsSHVQUmxma2Z6ZlE?oc=5",
-      "published": "Wed, 06 May 2026 07:00:00 GMT",
-      "summary": "USTR to review China tariffs as Section 301 takes center stage&nbsp;&nbsp;Supply Chain Dive",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 4,
-      "relevance": "high"
-    },
-    {
-      "title": "USTR Forced Labor Investigations Result in New Section 301 Tariffs - Buchanan Ingersoll & Rooney PC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMkZrUWpOZy00ckFkVHFPb050SkZEOXdxQ2ZxaWZsaGtfc1lLMTRNT2dXc2JxRGxXME5RUkotbFVXSzI3dHNRb1poUnRMR0lMUDlQZ00tV2szYW1vNVdUNFN6dzUxYmtpVTZ4WGpjWTBMSktmdEw5d0lRX0NUUWYyM2RQRmQ5ajFLaTVFMDg1Xzg?oc=5",
-      "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-      "summary": "USTR Forced Labor Investigations Result in New Section 301 Tariffs&nbsp;&nbsp;Buchanan Ingersoll & Rooney PC",
-      "source": "Google News | USTR 301",
-      "priority": 4,
-      "relevance": "high"
-    },
-    {
-      "title": "USTR Proposes Sweeping Tariffs as Part of Section 301 Forced Labor Import Enforcement Investigation - Crowell & Moring LLP",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcjRRdGQ3Z2w2SHB6TWwtRFJaSFo2VTQxRUJ4OTRiSTFja0Q0aW16MDVrNkdBZVF6dXVzS01nRlBpZ19fZGt2WnRIM2ZqZVg2Z3FXdWVYY2dsOG43VzNfb200QjNhSHJNTTJGaFlUQXBKYy1FVlMxcU9HaEZWclZhNGU5dGstd1RvN2JKVkRORjVRMldCR0haWUJsYWx6VnRTR09OZUJoczNDb3AwVmlaSkcyRm9GVUlucTdTNzVqMmFNcWtHNEotRjg2VDI0M0RFc1hRSE5FRF9OMVVUNDJVU3JHQQ?oc=5",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "USTR Proposes Sweeping Tariffs as Part of Section 301 Forced Labor Import Enforcement Investigation&nbsp;&nbsp;Crowell & Moring LLP",
-      "source": "Google News | USTR 301",
-      "priority": 4,
-      "relevance": "high"
-    },
-    {
-      "title": "USTR Finalizes Sweeping Section 301 Tariffs Targeting Imports From 60 Economies Over Failure To Impose And Enforce Forced Labor Import Prohibitions - JD Supra",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOThuRnhXTmZ5UWo1TVZyNi14WXpteE4yaWRZVmJKY051ckdGbXFWMVVLT08zUjRIZGwzd2ppWk1WR1NMT3NIWXdSblpfLW9iSWs3c1VpcV9PN1Z0Z1YyT1R2OXV0V2JmWDhZV0ZjRjNQc29JWnVwTDlZUTJtR3RKTjE4eno?oc=5",
-      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "summary": "USTR Finalizes Sweeping Section 301 Tariffs Targeting Imports From 60 Economies Over Failure To Impose And Enforce Forced Labor Import Prohibitions&nbsp;&nbsp;JD Supra",
-      "source": "Google News | USTR 301",
-      "priority": 4,
-      "relevance": "high"
-    },
-    {
-      "title": "USTR proposes 10% to 12.5% tariffs in Section 301 investigations of the regulation of imports produced with forced labor - White & Case LLP",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGRtbHhITlJ1RWVTT1hkeWpMUkxqT0RkVW5DdThZWktwMUNJcHRrX2NxVUlDMUFLVVVNbFlKWjh4ZnN4TkRBemt1N1I1dHBWd2pWN2hESmVmNGZQTFJZVXNRTVo4NF84SkRxa0ZwcmZSam9IMEt0TDJTRVpQY2ZTUS1ETmR4a3RSSDFka1R4cWQ4QVdjUWNnZHlveFhrenZxRWdlVU5KNmVxYVJhdzhBRHZaaTFOWGlzTk1QTDNMSm8?oc=5",
-      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "USTR proposes 10% to 12.5% tariffs in Section 301 investigations of the regulation of imports produced with forced labor&nbsp;&nbsp;White & Case LLP",
-      "source": "Google News | USTR 301",
-      "priority": 4,
-      "relevance": "high"
-    },
-    {
-      "title": "USTR issues Notice of Action imposing 25% Section 301 tariffs on imports from Brazil, effective 22 July 2026 - EY",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcFBHcTkxOEZSRWIyQXlkYmV6ay1hRU1ORG9SZ2Zhc1Z4WU03YVJ6R3FRazJtamZNV090TVpTaGJWanVlQ0U1U0c4ekJsUjlGbkxBano4V0t3dVNDeHlMakFQc2RwQ1h1YmhZU1NhSm9BTXN1Qnd5YU9PUC1Xakk0NGZESUE1dG03VkY1VmM4MWh3ZnNyYU5kdElTQXFzNGlvTnVfT2JERWdadVNjWS13dUJUUkd4NWxqU3ZhRmFLMndVV3BHNUFKRXBIX1o2eE82UFE0bWozNTJtcW9EYmlZMVNLM1QxN3M?oc=5",
-      "published": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "summary": "USTR issues Notice of Action imposing 25% Section 301 tariffs on imports from Brazil, effective 22 July 2026&nbsp;&nbsp;EY",
-      "source": "Google News | USTR 301",
-      "priority": 3,
-      "relevance": "high"
-    },
-    {
-      "title": "USTR Initiates Second Four-Year Review of Section 301 Tariff Actions on Imports of Certain Chinese Products - thompsonhinesmartrade.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMHBBR3pSTHoyR0Z2dlRtTmY0NGJFLThPVVhmX3MtUGhOdldJTDdLSUN3UW5BcFZlNGs3RXVQd0RRUTJhV3RkVHVGTVAyek9rdU1GR0dCRllkS2hLZWxKZVczaGNRb1RZZHFNT01SLUQxb21sUnVwN1lRSmFxQW9OdWpNYjJFb05VdV9BUDJKUXhoYWxSR1I0NjNJZTZHSUFYV1BtWE1DMGhyeXFtWndVc20wWmFaVmtybnd6cWRqV0ttQ2ZnUUdOalB2d0pPcHJnRVExY21nTEJXcDFpZzREeVRHYUxZMnhhd3c?oc=5",
-      "published": "Wed, 06 May 2026 07:00:00 GMT",
-      "summary": "USTR Initiates Second Four-Year Review of Section 301 Tariff Actions on Imports of Certain Chinese Products&nbsp;&nbsp;thompsonhinesmartrade.com",
-      "source": "Google News | USTR 301",
-      "priority": 3,
-      "relevance": "high"
-    },
-    {
-      "title": "Hot Topics in International Trade - June 2026 - USTR Report Proposes Section 301 Tariffs of 10%, 12.5% on Major Trading Partners - JD Supra",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPck5mTF9UaUVIbFQ5bkpkcU9FZWswZmNyZFdUY0lKcXd2eU9vUFptcWg5aDk5UUJfc0YxNUN1SF82eGNyNEFHREZYblNzS1k2Tk9BUG1felFocE1sa0U4UTg3V1lvOTl1WnVkV2l1SkNONzRseFV2bDhFSzZuQkVNdmRLeS0xN3lR?oc=5",
-      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "summary": "Hot Topics in International Trade - June 2026 - USTR Report Proposes Section 301 Tariffs of 10%, 12.5% on Major Trading Partners&nbsp;&nbsp;JD Supra",
-      "source": "Google News | USTR 301",
-      "priority": 3,
-      "relevance": "high"
-    },
-    {
-      "title": "Legal Authority for Section 301 Tariffs to Address Forced Labor and Excess Manufacturing Capacity - everycrsreport.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FdUZyZXQwS1BlcWQ0U1pITk9UUlBCbmo1SDVvS1M5QUlSSkRoand2MkZac0VxMnBpYjRTOHRTU09vdmRPTzk5b0hHdWRwZVRsNGZWTjFDXzE3a0puLTBMUnRB?oc=5",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "Legal Authority for Section 301 Tariffs to Address Forced Labor and Excess Manufacturing Capacity&nbsp;&nbsp;everycrsreport.com",
-      "source": "Google News | USTR 301",
-      "priority": 3,
-      "relevance": "high"
-    },
-    {
-      "title": "How Trump's tariffs, and forced labor, led China to new record trillion-dollar trade surplus: Supply chain data - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWJ6YVg3dDJvVDQ2M0NBS2VFNGJsMUlPVldGUkhpZjJ6V0xrNTljbldwRWk5RHRpMFJzY0dBRWsxN0RYRWJaYjN6dkx3czlUdkt0VmxYbHNsaUdQUjZlM2g2Tm90aXp0dHRqbUVkSjJHc0Q5TXYxZDhLSGo0MFlNS1IzUzQ0WDdqSkF4X0hJbXllNG8yS1U0YtIBngFBVV95cUxOMkZZQ2l6ak9RTC1hUFBfUWNsMWFGc1B6ZVdWN01aeTBQazFtalFtOVZmNHRLcGpHSFVIWm40cXI5RkpXcGI4Wk8tVThjdlZjcFh2UHB5NEVLTUZvSVctVy1rd0FkRXh1Z0xxRktXcEI2WDZ3OG9MN09FWXl4TVlTa0wwc3U2OEFqMm9qRFh1cTZjbkRoWmdsaDB1YXlYdw?oc=5",
-      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
-      "summary": "How Trump's tariffs, and forced labor, led China to new record trillion-dollar trade surplus: Supply chain data&nbsp;&nbsp;CNBC",
-      "source": "Google News | SE Asia Trade",
-      "priority": 3,
-      "relevance": "high"
-    },
-    {
-      "title": "US imposes tariffs over forced labor before global duty ends - Supply Chain Dive",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSE5BdE5zYlpyRDV3RHRSb2dEMlpSZGZzam5pN05tUFJwSVRxVnp3WDhubk1hVlUwcXFrakN5TW9GdDlsUnVERDcza2oxNEEzQjVlOUdSY0ZTUUVZVTBDa3FieGU2V1Nhekk3cEtkenlYNm40b2ZGNC1QUkVxMUdsMS1lUzJybG5Cem5semFvOVR0a2VLRjJNRXJnZ0JIb05mdmJYQ2owRGU?oc=5",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "summary": "US imposes tariffs over forced labor before global duty ends&nbsp;&nbsp;Supply Chain Dive",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 3,
-      "relevance": "high"
-    },
-    {
-      "title": "USTR Makes Forced Labor Findings in Section 301 Investigation - Mayer Brown",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGdUcDRyR1VFMTFRYmo1cmNLUFpDUllEQzc5anVyXy1idTBRazBiSWU5R196MWdILXQ2UDJwV3AwS0FCN1kwRFdqWERaa0FydVRDM0tMNXlYWHE2cTlRbGJabjZBRnBwM0RxMkhROUcxbzVDZ1I3N2RFSUNQQzlnbGVnOFNmWUZkYjNEWTA0QmVjNG5lNmExdzZXWmlFNjdDNmdiaHhqNDVmQ1JJUmVzNjNHclZ3QWxyMHFod3ZR?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "summary": "USTR Makes Forced Labor Findings in Section 301 Investigation&nbsp;&nbsp;Mayer Brown",
-      "source": "Google News | USTR 301",
-      "priority": 3,
-      "relevance": "high"
-    },
-    {
-      "title": "US buyers could intensify supply chain scrutiny post Section 301 tariffs on India: FIEO - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGlTeUVHRGxDcGRmR2JTMHhETFdFZ2thb0ZOQWdTcFdLVEhtbDE3X1VwS01jR0NlOXdoTmVJMWVHbmtOZHNtZkpfUG04M05XZy1UZ19ldFRVY1NvTDVyNGFrNnQ4a2d1cC1QbXZTSHVMeWJPVU1vbXBvcWpxYTZTZkdLMVJ5MVB4VjVfcjBNOHBYdWJyQUk4MWxUeFNnWmh6dVR6aGh1eWRra0JFUTNqVW5n0gG4AUFVX3lxTE5na0tOdlFSN3k2aGozQzMyWFA2WlBnY2dsejdOY29ySW9xMlNtVjF3d3I2ZEg5LVB0cVMxdEVXekRWelpzZ25LLUxRUVNEZmwtWlNSLWQ4bG5rT0NSVVplUGVjWDI4Mlo2ZE9HQ3FuQ21JYjUxNW1mY3RFSHpMZ0pjWXpKdHFvdFVQd0pwMmdWVzk5eEFmRlFveFZiQVhRTlJKc2Y1clEzcmdEVDBQdDVranRPZ2RvWlk?oc=5",
-      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-      "summary": "US buyers could intensify supply chain scrutiny post Section 301 tariffs on India: FIEO&nbsp;&nbsp;The Indian Express",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 3,
-      "relevance": "high"
-    },
-    {
-      "title": "Forced Labor, Meet Section 301: New Tariffs Target 60 of America's Biggest Trading Partners - Troutman Pepper Locke",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa3FMM3hMcHlaNFNHUVlLRklkQndsSkF5OGVzaFJrLURHQWtpMWwzOGhsX29HaGRUUmtwUHNBRERxSHp0TUFCSVE4TGNUTlp6QjFZbnNRZ2JZZ2I1RkVwcGdBcmRCOVZMaXpsc29zSFRkdHRWZWI1NkI5eTVSSVpfUG9MOEFVclplakF1RWVfU2ltRWJ1cWJfb0IwSFlTb0FFaG1qOGdSNFZLTFE3SWZxVnRHaTRBNnB2b19jTjljaGE?oc=5",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "summary": "Forced Labor, Meet Section 301: New Tariffs Target 60 of America's Biggest Trading Partners&nbsp;&nbsp;Troutman Pepper Locke",
-      "source": "Google News | USTR 301",
-      "priority": 3,
-      "relevance": "high"
-    },
-    {
-      "title": "Why Section 301 tariffs won’t go away so fast - Thomson Reuters",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iRXJKZnVBaGdjdGJFT1VJYzZpZExHdWlhT2dvZTUzZkZNQmxpbGt4RDM5NncxWTV1eWNYUENEQmRZSU9hRzJFZks0WmFhNk1KeE4xMmRiY3diNGw2WHZhYS1DS0pxRHVGT3NId3pZcVBSNmowRFRMWjdXY0g?oc=5",
-      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "summary": "Why Section 301 tariffs won’t go away so fast&nbsp;&nbsp;Thomson Reuters",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "US eyes new tariffs for China, EU, Mexico and more after labor probes - Supply Chain Dive",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzg4SE5vNk5UYVB0NUxiWDZ3S1lwdERxejdBSGtRWE1lT19IdFhUZEF0bzlpM1R3elZoY05maUo4dUpHRzV2Tk5JYTBBaFQzaEZSdUJ2d2ctVG5nMTVrT1kxTVphZzM5U1ZkbzN4TVBaOVJhNDkzN2tqWHMyZ0JaSVh6dUVBSl9MOTVZWUEwWVNneU5JZmZVYWE4bFZJc24tQVByMFRJazIwU09qUjBIU0ZR?oc=5",
-      "published": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "summary": "US eyes new tariffs for China, EU, Mexico and more after labor probes&nbsp;&nbsp;Supply Chain Dive",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "USTR's Section 301 Hearings: Reflections from a Witness - hklaw.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3I3UVJuTXB5b21KeVc5eHMySV9kNDJnWmhzNWFGRTJvd1Uwbi01dTVWMllJSnZGQWg0RGpEYnhqdWhiYkxTLTg4MUxucEVxSE5SaVZKdnBwQ283MEc0eGFPU2R3R3NfVTFoTThMb294XzZ0empQVUhKVi1hX0xhQ2dDbkhoOXAtTnQ2a1QzYUM5OXF0RzM4Y0xBTU1QX0pjRmJoR3M4WnpiNGJL?oc=5",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "USTR's Section 301 Hearings: Reflections from a Witness&nbsp;&nbsp;hklaw.com",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "Trump's trade war has a new target: forced labor. The case behind it is far from simple - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjdDRzB3Q3VlZU1pakpuTXVwX1U0UWZVMWVMZFZBMks3RFNpaFpqbFhtaHFUejBFcnJwRVU0eGY4WVFSM3ZHTWM4VnVtUDNVYWZNcEotWGZMWVlqN3JtUVJYRldFcF9vZy1PczNNRkVMWE1zVld1SkdsSFNKMXVmbNIBhgFBVV95cUxOakdWQTB4c0R0cEp3eGFVaTI5VVpQUFhfb25qbko0ZGhPM2NyNFM0dU5ndGprYnFGc0ItNjZQMGxSd1VCSHJZWUxxSHJ1LTBwNFpFekxkVkNhUEdmVFB6QWV1UG9FNGViQnZHU3hieWhYZXpuQzlqeHMySUVHdk1kOEhCeEt5UQ?oc=5",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Trump's trade war has a new target: forced labor. The case behind it is far from simple&nbsp;&nbsp;CNBC",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "US tags Brazil imports with 25% tariff - Supply Chain Dive",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVkyZ1RPdV9HTVZhVW5XdWxRR1NSaVVFZnY5SmhDcTdxS1FwMm92SU92cHZJaEV1bGxhWS12SWNDRk5zV1VuYXFOQXpkemhhb01DcVlCVnVqNW9CVmdYQ2ZhVV9RSW95Rm13dHB4TXo2eXJOLXBRcjdYM25nMHFLaXByd0RZc2laVEE?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "summary": "US tags Brazil imports with 25% tariff&nbsp;&nbsp;Supply Chain Dive",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "USTR initiates Section 301 investigations of 16 US trade partners targeting industrial excess capacity - White & Case LLP",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZjMtLTlzLUpYSGRaVTFaclhVWTlYTGtWakFQZExnRXQ0a2lqbkd2MGJqYVpfTC1jTGw0UDhPaUlsNzRWNmtNOXMtTUxZZ2R4RkFTS2ZDZXkzcktleXhUNnBuMm5CV2drWFhNT2VsX1dHeDNwTUhIakpreEttVlAtcl8xV3pGaS1jQXAzb1BEQms0eGdyZk5oTkh4eWw0RXlBVWhQa2dZMGY5YjRUU0I2ckcyYndqMnhZSGdNc0E0R3g?oc=5",
-      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "summary": "USTR initiates Section 301 investigations of 16 US trade partners targeting industrial excess capacity&nbsp;&nbsp;White & Case LLP",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "Proposed New Section 301 Tariffs and Other Trade-Related Developments - Dorsey & Whitney",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVRYUXBfNzQwNmktb1I2S2NlMzhMYTN1TkphOVk4N1NjMTUwRXlCVWpjc0dxWEhuaVdUUk55N1NfaVRVUHNyRENkR2dSeXNyOGR0Y0s1cC1uTWYybjQzX3c5T1RyUlpqQ0VvY2h2U0gybUdYOHVIY3dEQXFVOWI2SnpLb2t1QUU3S3VyTjBRX3luVmI0RS1mckJ3?oc=5",
-      "published": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "summary": "Proposed New Section 301 Tariffs and Other Trade-Related Developments&nbsp;&nbsp;Dorsey & Whitney",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "USTR Launches Section 301 Investigation into Vietnam’s Acts, Policies, and Practices Related to Intellectual Property - thompsonhinesmartrade.com",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY080UmZFTUtnMDlSZExBQjE4dk5qQS1nUDI5VG1TLUtJWlE0QWlWXzdScDFkVXFpblNkYkIyc3hBd3pTQjBDX0dZX3BKZUoxejEtQUdZeDlpUXF3QkNiLV9QMWR4TkRuUVpyR1k1WFVucmdmSVBjYjhOMTZ1WVlHVElzbFdHQjVzRFR6VzdDalFHT3RScjdOYVV5d3U4anFlSk9DWnhHaUhMSGExOWxmT0Z6UmxxRDJOMndMR2hSZkpWY1A4ZzdRSVlSV3ZnNm9acHp4cG5MUGx4TG81MTdncUdJcmE4ZXpmMWk4TzhZSC1OS1U?oc=5",
-      "published": "Sun, 31 May 2026 07:00:00 GMT",
-      "summary": "USTR Launches Section 301 Investigation into Vietnam’s Acts, Policies, and Practices Related to Intellectual Property&nbsp;&nbsp;thompsonhinesmartrade.com",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "US Section 301 Investigation: New Tariff Risks for Vietnam Exporters - Vietnam Briefing",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRDU2OW51QXhmUW1SbkdReVZCdFdrb2gzRVR2WWNDV01aZmF3c1ozaWl3bUxXdkQtMktSZEVpTmkxSVRUWTFmQTV1bUloX2hSS28xV21jVnRkVEotZlpRT2NMN3JZbENBNmkyZEJKZjhGMDdNUjZNOUdNclRRSlNVZmYxQVE2TS1waHZtbEV6UGFVUE9uWldrMDB5NzVnTjVUMmM2Zy04MnAyenQ5LVNHYzVMOWdRRlk3bzh2R3V6SDRxWVRfcFdoXzJGNjBRbzQ?oc=5",
-      "published": "Sun, 26 Jul 2026 07:00:00 GMT",
-      "summary": "US Section 301 Investigation: New Tariff Risks for Vietnam Exporters&nbsp;&nbsp;Vietnam Briefing",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "A Winner in Early Trump Tariffs, Vietnam Thrives in Trade War 2.0 - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNUx4eWlDZ29VRkc3RThxRlhUMDB4VEMyS01NQmZkVThrNkJtM2ZSYlB3OHlkX2JXcUpZYkFpZVNOX0dBRHJsWmI1VDZjTV9nWmZndUhmb1B0SWhSUzJyOHRSSlFHZVZETC0tblRiWFpiN1ZNWnJQTHBNNDlGSWlwcA?oc=5",
-      "published": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "summary": "A Winner in Early Trump Tariffs, Vietnam Thrives in Trade War 2.0&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News | Vietnam Trade",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "Trump Administration’s New Section 301 Tariffs Reach Nearly All U.S. Imports - Ward and Smith, P.A.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUVBxS3Vzb2FPOXFsa2VWeXh3eFNTTHA0Zjgyeko1MmVaZnpXLWVKbWtQenFQQ3FnVDJ4Y2xoODNhMWlzWXJMQVR4ODJMaFRUdDQycnYwUDNySGdfd3cwWTkyZGREc0J3OTBHdDd4ZVI3NXlOQk85eE80cnBXRkdVR09BTUN2clBCYXJOZUQtRXYyQkZZbmpUTzU1c3BYTVZOWDc5dFp5czc2c0pSRnNwTA?oc=5",
-      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-      "summary": "Trump Administration’s New Section 301 Tariffs Reach Nearly All U.S. Imports&nbsp;&nbsp;Ward and Smith, P.A.",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "New Forced Labor Tariffs Imposed on 60 U.S. Trading Partners - Wiley Law",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUxLYmFEVHN4R3FOWWtkYWFyNlgxVG5FX1dEbmNLTkF4aWREVk9TcEJvQ0JuX3lraGt4aHltM0h6b25tcFB4aE9hWlNqM0JHM2x4UGFENExobWd6VDZSSFNsa2xSMGhGUDZpdHVtUVZFa1FfZ2FpbDRObTR5c3BwaTNaa0VYcDIxenU5Qml4MA?oc=5",
-      "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-      "summary": "New Forced Labor Tariffs Imposed on 60 U.S. Trading Partners&nbsp;&nbsp;Wiley Law",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "USTR Launches Section 301 Investigation into Germany’s Underpayment for Pharmaceutical Products - thompsonhinesmartrade.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUjNTa29kRk9VODZJS0VlNVVxSjBubzhGUVMzc0lrMHhFYzYtekFWSVNBMUJTZ05SM3FvV2VSYXdFTGFpNFk5Y2wxUzIxcE9rNzlzRW5sM3hkblhPdUJJQnh6SjBRSHU2NjJnQlBtNm9lY1BySm5qNnRqUHpweVBNSE9pTXdWZURvaEZDZmVxSjFja0FWeFZ2VU5ZOWp3eXVHeVZBYi1vel9zZHdvSzUzUjRkRjVPbkp3Ym9vOElNZVM5WjRXRk5YME1LQTBQemFMZVI1dmtMQkk?oc=5",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "USTR Launches Section 301 Investigation into Germany’s Underpayment for Pharmaceutical Products&nbsp;&nbsp;thompsonhinesmartrade.com",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "medium"
-    },
     {
       "title": "China’s pharma contractors rally as US supply chain pressures face industry resistance",
       "link": "https://www.scmp.com/business/companies/article/3364303/chinas-pharma-contractors-rally-us-supply-chain-pressures-face-industry-resistance?utm_source=rss_feed",
       "published": "Mon, 17 Aug 2026 10:00:32 +0000",
       "summary": "China’s pharmaceutical contractors are showing financial resilience in the face of Washington’s push to curb reliance on Chinese supply chains.\nAnalysts said investors were bullish because the US government’s recent measures to curb Beijing’s rise as a global pharmaceutical supplier had met resistance from industry players reluctant to give up China’s cost advantages.\nHong Kong-listed shares of WuXi AppTec, Asia’s largest provider of contract pharmaceutical research, gained 3 per cent on Monday....",
       "source": "SCMP | Tech",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "Midea Launches \"Agentic Factory Overseas Expansion Solution,\" Marking a New Stage for Chinese Enterprises Going Global - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNc2tlQktuWEEtMmQxNkItYjJsTmVWZWs4d0NvSk9FMFNHU0VaY1BfTlZJazV1T013TVg5ZUMtejBDQUREMWRTTHpxa1l1ODlNdi1aZ1pnMnkwcUpXa1dnVGhuX2szZG82V0tnWUc4WlR5S1dlVzRYbDFIb2drU0hPTHh4QXZ3ZDJxUlQxajAwNWZISGI0Y2RwNERWcWRGbTN6RkMwMXYyeElDcnpYVmVLZUpTSzlNdFB4UWlHRWF6LVZXQWszUlVENHVEemtDaHJ2OHBSTVd4MjlmNzByNHdNYVdOZFJ4MGxXb055WHdSRmtlM2tQUWpFQ0hLckpqbGhp?oc=5",
-      "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "summary": "Midea Launches \"Agentic Factory Overseas Expansion Solution,\" Marking a New Stage for Chinese Enterprises Going Global&nbsp;&nbsp;PR Newswire",
-      "source": "Google News | China Going Global",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "U.S. Supreme Court Declines Review of China Section 301 Tariff Challenge - thompsonhinesmartrade.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTlKOFdpWDd0czk3ZkZ1Y1JXZmNJSkxFVFVsZWw2R1BHT1g4b1JqODBaV200aGRyMTNFbm5RRTNKcm15UndmSUxvQU9HWUJrOHJDa0hXT2pGMTQtRW9iUGthTDgwLVNJenM0Y1UweTNtWGVSQ2dnVi1XSENNVWRSSWtUdXVDUVZlaURIQkktamFyWW5VU1ZoR0NITzF5WjBhUnlRM2NVVVo1THhyTzBkaXJaM0pHZ25pQXc?oc=5",
-      "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "summary": "U.S. Supreme Court Declines Review of China Section 301 Tariff Challenge&nbsp;&nbsp;thompsonhinesmartrade.com",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "Toy Association Calls for Tariff-Free Treatment of Toys in Latest USTR Comments - The Toy Association",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa1UwLWxncFVRa3U4OE5DVEN5VXdPNngzV01wcmZudXNOak9JT1RoNDRCTUVzc3p6UFlnQmxueGNHTEZfWEdiZ0NkRkdXaDd1eVd1bmJ1bFNFdmdwQ3RROEEydzZHcTdMMXktblFtNWpXdnRxN3B0N1FrSUdqX2RyVVF2eVRSMnNhb2QzcFg1bWk4X2U1OWVhcWNjbnZUbER6bEZlQXlhc2YxWEVnWVA0WTBRMkhwVms1V3J4Z0JnamdNdWdSMUt1NmM5RDZ2c3E1TUZmTGoxemIwX3JX?oc=5",
-      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "summary": "Toy Association Calls for Tariff-Free Treatment of Toys in Latest USTR Comments&nbsp;&nbsp;The Toy Association",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "Section 301 Forced-Labor Tariffs Now Cover 99% of US Trade, Replacing Two Failed Regimes - Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcHNjNEJnSHliM2VSTnZnc2tGdzlrVUlWUldwaGhnaTVsVXpoejVUemY4bEx4T2JWQ2xjUXAtSTZmY3B2aHlDaHZKR3dXMGJhbGhnU0VSRmtMd3pfQ3ZQQ1dmVy1NX0hJVkVvQXlycS1KS3I0NmFHcGh0U180elhhTHhqXzFCNWpWSUYwQnFSOFBIcTJQQjMyUGhCT3lQUUNrUENBSjFBbVV1dEdUaUlDbW5yME1sY2VLXzE0bk5Hc3BXNVF3dTlJWUVLWG1GUkwtcUkxNw?oc=5",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "summary": "Section 301 Forced-Labor Tariffs Now Cover 99% of US Trade, Replacing Two Failed Regimes&nbsp;&nbsp;Tech Times",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "New Section 301 Investigations on Countries Regarding Manufacturing Overcapacity and Forced-Labor Enforcement - Mayer Brown",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObVNIZ0JKOHE5bWMwZWZBNERoSDRtMHppZkhRcjhOV3NLeVlYMEdwSXAwVkR3SlI4aE91bHlnQlFBQ0N5WnJ5WXV0T3JTb3czZzBod2N5QWRRV3JWcGxqSHpNUVlhTjVUTEJmeEFsdGFvOFp2NE11aGpFX29YbnV2bmswY3AydjNjbVE1S1RiQ0EwdGVBc3NSNlhybndIZkRkeHhjUzVzVTVxWU9CMDNTSmw0cjBxTGlWSGkxTkdON1ZERndIUGlrenc4cGtNWFRoX1dWNldBaHIyOWIyR3hMRlE1T2pjOWhXUURpQ0hwYjNzOGgweU5n?oc=5",
-      "published": "Fri, 20 Mar 2026 07:00:00 GMT",
-      "summary": "New Section 301 Investigations on Countries Regarding Manufacturing Overcapacity and Forced-Labor Enforcement&nbsp;&nbsp;Mayer Brown",
-      "source": "Google News | USTR 301",
       "priority": 2,
       "relevance": "medium"
     },
@@ -316,110 +28,11 @@
       "relevance": "medium"
     },
     {
-      "title": "Tariff exemptions: Ford, Nestlé and others seek relief from proposed levies - Supply Chain Dive",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUR3NTI0ajloTG5BdTI2cWJPR1ZlS0tjY1FHUXUyQ3hFVlFEeUpaVE1pdGRPbk54WEFQZGNwSW81NlRmbFd0cWttTEhHazc2V1gyM1UyaVhKX0dfdVdHSXlKY054azRoQXZ5ajJ3TnN3cG9KVjZRTTY5MzhSa3EzR3NTcER0amM4My11WVA3Nmt5ZXdIOE9HZFY0aUtLbnNwNktYNEVKdC1qN2NIMmpwNjZ1UVo1bFlNaEE?oc=5",
-      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "summary": "Tariff exemptions: Ford, Nestlé and others seek relief from proposed levies&nbsp;&nbsp;Supply Chain Dive",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "U.S. Government Moves Toward Far-Reaching Section 301 Tariffs - orrick.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2ZDU3VSbEdvRER1eXpVa3JsdkFGczJJZmZHanYwR3BCUUMydjlzWHNGYmpwQUsxYVpPUXVGcERhQ3ZVWnN5LUgyTjJEb3lTdEtWbVlMZ2tPNENscHFaNHRnb3R4X042VUN1ZDZDR3hrTnQzV1RRS3I5RFdJLXY1ZjNsUThINElmTlNWLWRMVDNjT0tPNXB2X1RSbk5VMjdlUGs1LQ?oc=5",
-      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "U.S. Government Moves Toward Far-Reaching Section 301 Tariffs&nbsp;&nbsp;orrick.com",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "medium"
-    },
-    {
-      "title": "\"Going Global & Taking Root\"丨The 4th China Automotive & Parts Overseas Ecosystem Forum 2026 - Gasgoo",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZlhTbmp4ZV82R2VqaGpucmREUG9wdXI2RjROZGszb3lmejJocXpyYnlqZWdsZ0hUbFFBR1NFSlhKMXR1UWRTRWFBWldTR0JFMGNJNGRVY3BKZ2FVZ2cwN045Z0Q5Z0dXWjc5azRiMTdUMTRBcktvNVhUNU9OUW83bmFFSkRwUlppenlNLTJOeUo1QnlMOXBaQURteTZQZEExdmtGelNhZ3diRnZOTjdnV21uVUY5TWdDcm5mSldYMHlGYTlLbFJJNC1XLWFtLThTSkdMU3ZTMVpfWWR6RUtz?oc=5",
-      "published": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "summary": "\"Going Global & Taking Root\"丨The 4th China Automotive & Parts Overseas Ecosystem Forum 2026&nbsp;&nbsp;Gasgoo",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "The challenges of Xinpinmu's overseas expansion are more difficult than you can imagine. - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wN2pucGFZT0w5RWtaYi1NbnFEcVEtWmVWQjJZSXJ6clkxYlgtSUpUa0hhTTNkM3R1QVNZSTZwcDRDMS1EUWQwRGVFSlpHMzFmenZZ?oc=5",
-      "published": "Wed, 27 May 2026 07:00:00 GMT",
-      "summary": "The challenges of Xinpinmu's overseas expansion are more difficult than you can imagine.&nbsp;&nbsp;36Kr",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "What Every Multinational Should Know About … The Opportunity to Shape the Next Phase of U.S.-China Tariffs - Foley & Lardner LLP",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYWxWaWxXN3pNcjQxT1ZfWU52WjNXYmc2Z3hDN3Nzd3Q1a29CVDgxQ2tqUE9PQ3pkMDJfNTU1dzQ5dHZ0ZXljbUp3Y0Y5ZEhidkI0SmExcTNCd2ctSTh1MjRBVW56Mnd3RU51SS10QXdla0IyR2padHJ1Umk0WVRWSXoyREZBZWp5LURZTS1jZ3lqa3RRTGxrcU5aUk9tVGtKTEZZRTJhSjVGWVpGejR1ZWFsTjQ1UUtZcFJ3M0VwaktEVzN2T2tEbV9wa2tVWnZ2bDVEb0FRdUdPRWRlc21mc1NuRUFMSzE0N2JpcA?oc=5",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "summary": "What Every Multinational Should Know About … The Opportunity to Shape the Next Phase of U.S.-China Tariffs&nbsp;&nbsp;Foley & Lardner LLP",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US trade with Southeast Asia and Taiwan surging despite Trump tariffs - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN01iaTVmVk9pTWlOMVRacXJGN0QzNFViNWRnVjNVdTNhSk12TzNHdUx3ZW80d3RienNfSm5lYlFDQlFTOWlNNnA1d3I1VjhHZHloN0l1UFowZmM3MkdfOEVwaFBtSUp4cnhmZzR0Uy1VSzV2RVJ6elZhRmdNUzlHMS1SdW1FenNNaUUtenhrLU5xMXlHaGxhV2xIVlQtLUFkTDNOUzBUVjh1OERqV2FB0gG0AUFVX3lxTE55dF9KZEZ4aTBKTmpId3ZrUENmMEkyS2ZMYjFIOEhPZno1QmdCcmx1eGk1T0c3THBCQS1SS2hmUjc5MEhrNUs2YVZjMlVtM0d4ckNsMDBBQmhQWXNUZ2h4UzBrVmtIYjZnNEZzQzd2anpkX3RjU2V3MXg2ZEFSYjg5X2FnZ0NHWGl1VjJDbkhBY0psWEFIVzl4UDVVTlRxZTVHVEE1WmZJQ0tMNUZaQ2UyeTRwVQ?oc=5",
-      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "summary": "US trade with Southeast Asia and Taiwan surging despite Trump tariffs&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News | SE Asia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "How have India’s exports jumped 20 percent, despite Trump’s trade war? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmkyS1BkU2xoOTBwel9rRnY1V1NvcUIwVTI0LTdSRE1vdmw3WU9Jem5FRW9SNU1mMG00eGhwNkhXX2hvUGxmTVBtNUliMDNnUnRrSlpHM2t0TzEwSE1raUJoUEJqdVdTUEtLVzNHeGhVZ0JXcnl1MG90R3VqM09KMmI0NE5rV0NUdWdZQjZmdnIyTkZJb2trSDJGOFN1ajFnaUVoU2t0MDhRanlO0gGyAUFVX3lxTFBsYy10RjVTbFU1OGxfV3EtbmExMldHd2NaNUwyU1dNV3JudDBIYlpkNGdNYWFDcWllNC1UZVljR3FSeV9hSFJ3SklaUFhlTkFNSXc2dnJCYXZlcHIxS2VYbHgta2pGeWdiUGw0dl9PeUxqYnJjWXhsM0JCUElJX2hTc3d3ZTd0SEl1bDRMT0dBTHdqRk9Va0k3Wnd2T3VBQ2lTMG5uNVZWVC1sMkhPUXh4TFE?oc=5",
-      "published": "Wed, 17 Dec 2025 08:00:00 GMT",
-      "summary": "How have India’s exports jumped 20 percent, despite Trump’s trade war?&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Vietnam’s 8% growth making a mockery of Trump’s tariffs - Asia Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON0daTlAyZFRsZno4Y19xbnF0ZjZuVnQ3SXYxLXNXQk96anJ4WnZGYnhXbXhMTGRSME5GdVJDMkwyMWJxdU5naXNENGNBWEN6djJ2NE5fR1hmb1JwaU9iMlFBdzhSajVNaWZnUFFtR0o0ZlVraXB1OHRKbmhqU3VWemM5bUlTRUVMQWI0?oc=5",
-      "published": "Wed, 03 Dec 2025 08:00:00 GMT",
-      "summary": "Vietnam’s 8% growth making a mockery of Trump’s tariffs&nbsp;&nbsp;Asia Times",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "One year of Trump tariffs: What has changed and what’s next for South-east Asia? - The Business Times",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWxBbHpQQVRhWDMxR21RZ2M3Tk0tUzBabTd5RHllUFdlb3VVemhRTEZvaWo3Y2ZQMWlubEJQdXF5NV9jaGhNSmpfSlBBSGVtM2lkVEYxbW5oRzhkLUFScmwtbjd4eXZ6ZUNQRDBGZWR5Wlk0Nm1xWlBjdmdMMzdvQmxXUzB1dGE0TDJsYXdOdXByMW9TRFJZb3lrbFFZaHg2SnpjSmpkNFlBeThPWExrSDlMUTA0RmMwSnA4Sl9lblE?oc=5",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "One year of Trump tariffs: What has changed and what’s next for South-east Asia?&nbsp;&nbsp;The Business Times",
-      "source": "Google News | SE Asia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
       "title": "Inflow connects small fashion brands with manufacturers in Vietnam",
       "link": "https://techcrunch.com/2023/11/27/inflow/",
       "published": "Tue, 28 Nov 2023 02:00:59 +0000",
       "summary": "Textiles and garments contribute 16% of Vietnam’s total GPD, but it’s challenging for small garment brands to take advantage of the country’s manufacturing prowess. Inflow is stepping into the gap, with a platform that gives small brands visibility into manufacturers&#8217; supply chains and the design-to-production cycle. It also helps them meet manufacturers who are willing [&#8230;]",
       "source": "TechCrunch | SE Asia",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Impact of Tariffs by President Trump on Vietnamese Exports - Vietnam Briefing",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSE1rbjlfT0ZlU2hQbGNPNjI1am9EMFQ4M0EzcGE4N3QzcjItQ0p3VUd6dDFUUVRGTUE5em1nT1U4X1NzdkxYYkVJWnpvNTRNSWIzMEs4OHRra0VvYzZ3X0pSOV93ZGNBZlc4eG1tZkNTWHhxaE0tZF8zTzZWLXA3dzZsUTN6UG1hQ1hJdzhUNjRBejFIMWVBQ2E2VHpsZjFTTmdXY3Excmw5cVIxclE?oc=5",
-      "published": "Tue, 26 Aug 2025 15:42:46 GMT",
-      "summary": "Impact of Tariffs by President Trump on Vietnamese Exports&nbsp;&nbsp;Vietnam Briefing",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Trump tariffs tilt Southeast Asia towards China - East Asia Forum",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnQ1YktFSlJqSTBIWlhSZnBpMXlXeVd0LTNIU01HZGxucGFGXzNScjV4eWU2WURCSTdNNE9ZVHBUX2IyN2hLYTh5SV9IUGREZUUyREZ2dVBHT0FMb0VOTkNNM3IxVEVTNDMtc0JmZWdvODFJYXdrSnNDeHJabjFudHYzTm8zZlZxMVBkV3NB?oc=5",
-      "published": "Tue, 23 Sep 2025 07:00:00 GMT",
-      "summary": "Trump tariffs tilt Southeast Asia towards China&nbsp;&nbsp;East Asia Forum",
-      "source": "Google News | SE Asia Trade",
       "priority": 1,
       "relevance": "medium"
     },
@@ -433,20 +46,11 @@
       "relevance": "medium"
     },
     {
-      "title": "Lives at risk in war on pollution",
-      "link": "https://www.bangkokpost.com/thailand/general/3303520/lives-at-risk-in-war-on-pollution",
-      "published": "Tue, 18 Aug 2026 06:11:00 +0700",
-      "summary": "For years, residents of Prachin Buri have fought industrial waste pollution that they say has contaminated farmland and waterways. But for some leading the fight, protecting their communities has come at a far higher price: threats to their lives.",
-      "source": "Bangkok Post | Breaking",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "PM to boost relations with Australia, NZ",
-      "link": "https://www.bangkokpost.com/thailand/general/3303290/pm-to-boost-relations-with-australia-nz",
-      "published": "Tue, 18 Aug 2026 05:15:00 +0700",
-      "summary": "Thailand will seek to expand trade, investment, technology and creative-economy cooperation with Australia and New Zealand during Prime Minister Anutin Charnvirakul's visits to the two countries.",
-      "source": "Bangkok Post | Breaking",
+      "title": "Chinese workers turn bosses into virtual pets for stress relief amid rising quirky trend",
+      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3364350/chinese-workers-turn-bosses-virtual-pets-stress-relief-amid-rising-quirky-trend?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 01:00:32 +0000",
+      "summary": "AI desktop pets are gaining popularity in China, offering young workers an outlet for workplace frustration and providing bereaved owners with a digital means to preserve memories of their deceased pets.\nVirtual pets first emerged on messaging platforms in the early 2000s, roaming across screens and interacting with users as they browsed the web, chatted, or watched videos.\nAdvancements in AI are evolving virtual pets from simple digital novelties into more responsive forms of emotional...",
+      "source": "SCMP | China Economy",
       "priority": 1,
       "relevance": "medium"
     },
@@ -469,69 +73,6 @@
       "relevance": "medium"
     },
     {
-      "title": "Chinese pharma innovators are going global with the help of innovative deal structures - A&O Shearman",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaTZYUklETVUxREhPeG53THdmdG1fWFA1aEYwSElwbHVuQ212Qlc5WUl4V0VwV251NTBKTk82S09KdkV0Uy0zemVsOGgyTWhicmxxU2kzdk9vaEVMR2Nueld1QjNJUkpabC1kY1FrZjllTkZ1VDA4NzVKc0FGRklhVml6cVdZR215Q3Fvd3RveVJTdXV5TEp1b1JsU244MUtGdWJWUTZraDE3Z0c3dnNTdkdSZmczWXVSbDh3N1lkSU1maGZsbG55WmlmSTBtckJCdXJKeS1CRzZGRklOZ0ZCYnBKOGNvNXhQUEhLcElRTVY0cmY3VVE?oc=5",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
-      "summary": "Chinese pharma innovators are going global with the help of innovative deal structures&nbsp;&nbsp;A&amp;O Shearman",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "The new supply chain order - bangkokpost.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMHJUQmFVMnUzaG11UTFETThQRDhNeXdJWl9KMWtKa3hRTEdMNWpFWDBZc0JOYnNHdUp0eTc2SlgtaWl3cUhsOUhKaXFQQU5BR0xHeGxHVTg5NE5IZE9xT1VBR3NRR0ktbmNRcm5xSUZ1aFR4YjlYOWlfVU1WRmNLWS0yWDJfQQ?oc=5",
-      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
-      "summary": "The new supply chain order&nbsp;&nbsp;bangkokpost.com",
-      "source": "Google News | SE Asia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "From rules to discretion: How Trump reconfigured US tariff policy - Brookings",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPanVpQ2p0NFNFcTh0c3JkVGZ3aS10NjFXWjB4ZGZBSDRwNE1qa19SLXAzRDVfZ0xabmNmdUkwb0dSMHA0WFU3ZDhLc0NTS21DVV96a0JDRk9ESUxYWlJwUElPNG5JVUJDV1hBZWpHS3N1c3piNENtRkVCaUI2MHFmeXhyRHJPdzhMci10TVVRSjhDOXoxWEtLUHBzSmFPY0tSMXc?oc=5",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "From rules to discretion: How Trump reconfigured US tariff policy&nbsp;&nbsp;Brookings",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Southeast Asia, spooked by Trump tariffs, presses for more talks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeldyNjhCcnZXU0p1dUFmQml2RHNEcVBaOURfTktDRmE4X3VLRklCdW5EOVU1U1JsUkt2NUV1OWlEX0tqVmo5dWFta2NMWlJSNDBzMWRvVHhncTYzVVJGVU4xNDQxSGhEQWQ1RFN3a3lpZVlwQzFSb2NQOXU2MXZNUXpQSGk3eUVGeVE2cjgxaGZuMHR5WERpRFNvMktLRDgtQlVSbkJWNS1ZdGVzZFcyNWtYRQ?oc=5",
-      "published": "Tue, 08 Jul 2025 07:00:00 GMT",
-      "summary": "Southeast Asia, spooked by Trump tariffs, presses for more talks&nbsp;&nbsp;Reuters",
-      "source": "Google News | SE Asia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Energy transition combined with global demand accelerates Chinese energy storage companies' overseas expansion - ChemNet News",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xT3lqMFE0Mmd0YW9pc1d6RlpfUzdLR21kdV9vU1VDR0diQ0VGeHlBTzRuOG5OakNqZzdXSXd5eTlJODZxWVI1eVBNc01naHlm?oc=5",
-      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "summary": "Energy transition combined with global demand accelerates Chinese energy storage companies' overseas expansion&nbsp;&nbsp;ChemNet News",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Why Trump's tariffs haven't derailed Southeast Asia's exports to the US - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEFrbXoydXlWTkhZb3NVN0dxMWRoYmY0Rkc1WUNvbEQzcHlJWk5UNkcwUlRkOTJVeTZFTjZnWWJwXzVmWFhPTGRqZVdnR09HTHAxUzhPeGV2QUlOU0xULW1LdnBsODZCU2FUMmNwdUE0bE53WS1oZ0swY3owNkpFRnlmQ0hDNExwWGNIa052VGJfaDh0LXpEdDJxWFZaOFJweU9iTE13LVRYbFRZTE55ZFpqZEFkc2xOREdlcUsweEbSAcYBQVVfeXFMT1NlMEFwVEhmb2xJYW56ZWUtYUZQemI1U25RbVZLQkpnWnYzRkpOa2NodnM4YWdFc0JaMEk3WXpvSFlsVG56ODJ3MVd4UDViVGs1QU11ZDJrdWdUa09jY0g2TXhudXlpSlRHRUl5bFRtTDBwNmw1eGNMMU00UTl3Z0RGX0lEVk90UDZDYmpCR2xzbE5za2g1cTFobW5kbVdMb292bGI0OW1UZkY4TWp0c2F5cE5nM2I2aFF3b3lKTGdmTnc5UkFR?oc=5",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "Why Trump's tariffs haven't derailed Southeast Asia's exports to the US&nbsp;&nbsp;Business Standard",
-      "source": "Google News | SE Asia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "The US-Indonesia Tariff Deal - Transnational Institute",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80SkVrRlkyQ0dYTFJEU19IeDc0Z05ZMGRScmlhNS1XU0pKSGJmcDVfaU1uMWM0NGdrOXMzcEUtTGRZLXVvZEtGMU1nbHllYnF3dXVZc0wtengyWEFWZ0R5UTE5ekpwUzJSamdv?oc=5",
-      "published": "Thu, 31 Jul 2025 07:00:00 GMT",
-      "summary": "The US-Indonesia Tariff Deal&nbsp;&nbsp;Transnational Institute",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
       "title": "Backed by East Ventures, Fr8Labs aims to digitize Asia’s logistics industry",
       "link": "https://techcrunch.com/2023/11/29/fr8labs/",
       "published": "Thu, 30 Nov 2023 00:00:10 +0000",
@@ -541,74 +82,11 @@
       "relevance": "medium"
     },
     {
-      "title": "DoD Expands Section 1260H “Chinese Military Companies” List - Dentons",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1RzdUhSRGpLM1c0ZmRnLXdVNUlZYm9sWXhDQTZ0Tk5IUENEb0FKV21lMmRqMDhJcVZRcWhicFJUYkxCeXEzWFRXTmx6WVFUd1hiNzNQcTNqRy1oRXV2R1FTZDNBb1Nac09MTU9fWkJwVlZ6WVJkekQ1YnVKdEtYZjZtUE9zSG0xYnJ6TEY0bHZianhjLVkzZ0QzUERiUUduUkowekJ0Y2N1am01SkJuT1hadw?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "DoD Expands Section 1260H “Chinese Military Companies” List&nbsp;&nbsp;Dentons",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Full Analysis of the U.S. “1260H List”: Which Chinese Tech Giants Will Be Affected? - China Academy",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUXE4MEJjb1BzNGgxa3dYV0IzWS1oVWhLbXhiOWFESUN0dDhxNDlEQTZiVG0tNnhrZDRiMnpOSmlDWk01SU1GMVlTc3ZjR2s4NjhhWEhhb25sOFZkdEhzOTNocDQxN0hEYkNVbzVCZ3AxMFpqUkVwOHBkTG9CMXlWV0FnU3FYYWh4bGdWSnBNeHNvc2NhT19NdWN1Q0piTUFqQlgtUHgzTG03Q21aZkN6dEhTRFdDNzJzSF9ZVkhjd21JX081RFEtLUFERlY?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "Full Analysis of the U.S. “1260H List”: Which Chinese Tech Giants Will Be Affected?&nbsp;&nbsp;China Academy",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "U.S. tariff whiplash pushed toy factory in China to brink of collapse - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMnNKMXk3dTludmtkNUxLN09zTENTWlhPMVhRR1hoNjZVd2x0SU8zd0VuNEljYXVOLWw0N3FHelJ2UzZQZ3dobW4yMFJBY1ZEWlNnQ0xpSUpkQjYydGx6S1lOY0tEcGlrQjJtN1FVdnR5clIxY2FqQmMwSXdRX211ZkNFeUJleFplT2JjcjZB?oc=5",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "summary": "U.S. tariff whiplash pushed toy factory in China to brink of collapse&nbsp;&nbsp;The Japan Times",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
       "title": "US pharma giant Merck backs healthcare marketplace HD in Southeast Asia",
       "link": "https://techcrunch.com/2025/02/12/merck-backs-healthcare-marketplace-hd-in-southeast-asia/",
       "published": "Thu, 13 Feb 2025 02:00:00 +0000",
       "summary": "Big Tech and pharmaceutical companies are accelerating the implementation of artificial intelligence in the healthcare industry. Just last month, AWS and General Catalyst announced their partnership to speed up the development and deployment of healthcare AI tools. GE HealthCare teamed up with AWS to build generative AI for medical use in 2024.   Now, Thailand-based [&#8230;]",
       "source": "TechCrunch | SE Asia",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "ASEAN economy under threat after Trump tariffs - GIS Reports",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NeXFmbDF3bEo0SDhQaUhFMGJmSXR3ejJrMVJpbnZ3STdDUkc0TzZiRnhWYjRlLW5xZTNiUXNIR3dKNGxwZE91X0lQd1N1UFE1c3N3MFhxLWVGOXZkY1E?oc=5",
-      "published": "Thu, 11 Sep 2025 07:00:00 GMT",
-      "summary": "ASEAN economy under threat after Trump tariffs&nbsp;&nbsp;GIS Reports",
-      "source": "Google News | SE Asia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "China’s worker protections scrutinised as US weighs forced-labour tariffs - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSW54OGxHR0U2S3VTaU9SakNPTkdfZ2RhUWt5WEM4OGpRV09XVjRLTGl2dHlUNF9BQmJPWEZqN3FMcWdqVUJHUld1bDZwVVRJQkJnX21XNUFTU296WTVvVmFIblFzSXQ5N1dVZ2h3bGJfUHk1NUQyUm4tRkNCZkNIWmxLeFIxc29HNGJjbzBJRzdRU0hwMzBzaFI4WHRDOTRibEpPbEVfOEVaLWc0c3RJSENfc2NSMUhuMVRQdtIBvAFBVV95cUxQTGw2ekEyeUE2Qlp1clgxMXhjWDBFVmZvZXNiblFZTkpCZFh2MnRTZDVqV1JPTjE1Nm9JWk1oaVRGRmdGbnlkUE9Dd2hoT2w2Z3VyX3B5TWIzWGNzTjhhVE5yNS1DdmxYc0JJNG1KZDRRTm90bVF4VXMtbjlfWkY4TW1KZDRPX3hHMDI3emo4bkJwSkVsNFZLcHpHSllhVUd1Sl9lNURMLThXUWhwMTdzRlVJSmtOUVpENkx3OA?oc=5",
-      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "summary": "China’s worker protections scrutinised as US weighs forced-labour tariffs&nbsp;&nbsp;South China Morning Post",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Trump’s tariffs hammer Global South, shrink policy space - Down To Earth",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzdZcHdlc2RUcE9NRXBoMVpTM2hPQ1NiTXdWWk5yZzRyMU1FMXNxaGtIWGhaWGFpVTROTEUyOVFia0pld2tKSVpuTXBIYWJBZGpvSFNYU09fWVhJZ3hxVkZmcl9PekowdGdranVScWQ2ZFBKTjdwS0NVWHFaSDkzTkFPX0RxNkozbDIzd1FBWEVxLWlHVTVGNtIBpgFBVV95cUxPaGxyOXpJZ2kxZzY3anJudWhndE5ZTGRUc2Q2QW1sVGlmU21oVHQxdmFYTUZyZ2c4NjhGSkJia2FZZXBHT3ExUFJKd0U2cGRLTzNxZHBkRGR4SVh0NDJkdlg4QzUwLS1LWFd4eXZVT3F3ZVBPdnpkeEdCUDdUN2stVHF0cExqVjNBMEZ5eHVlWDBRZy0xVGpoUndaZ0dNd1pOUkRHUzBB?oc=5",
-      "published": "Thu, 04 Sep 2025 07:00:00 GMT",
-      "summary": "Trump’s tariffs hammer Global South, shrink policy space&nbsp;&nbsp;Down To Earth",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US tariff deal with Vietnam set to expand trade but faces hurdles - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObzhlOTNfUjlkLUxLWnlSYThnU19ONEs1ZjhJc2NTalRRU3JGcWhMQ2NMWGUyQm1TQV9mNXFpNXpCd1lnTy1LMVQ2cmlqMlpoeDlCODJVS29sWWswQl9xdDJSd2F0VTh6R01NdGt2ZjJOalBVNzRnWGViZUE2VlJyeXAxSTBjNU5Obl9YeGNzdFNuZFRBZUJRUmFPc3BXTnhRby1qRnpiZGI2X1YyS2piQ3Y0Ylc?oc=5",
-      "published": "Thu, 03 Jul 2025 07:00:00 GMT",
-      "summary": "US tariff deal with Vietnam set to expand trade but faces hurdles&nbsp;&nbsp;Reuters",
-      "source": "Google News | Vietnam Trade",
       "priority": 1,
       "relevance": "medium"
     },
@@ -631,92 +109,11 @@
       "relevance": "medium"
     },
     {
-      "title": "Musk’s headaches: meet China’s corporate matrix challenging his business empire",
-      "link": "https://www.scmp.com/business/china-business/article/3364094/musks-headaches-meet-chinas-corporate-matrix-challenging-his-business-empire?utm_source=rss_feed",
-      "published": "Sun, 16 Aug 2026 10:00:12 +0000",
-      "summary": "US entrepreneur Elon Musk has long been highly respected in China. His business ideas – from electric cars to rockets, humanoid robots and brain implants – have spawned Chinese followers, many of which now pose growing threats to Musk’s business empire.\nThese Chinese competitors tend to follow a similar strategy: capitalise on the large domestic market to grow their business while taking advantage of the country’s integrated supply chains and expertise in fast-response manufacturing to hone...",
-      "source": "SCMP | Tech",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Thailand seeks lower US tariffs on remaining product lines - Nation Thailand",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OdFNsVzBQYV9pTnl0LXZWWTc5LXRDamQ5N1o3NXRGOFQxamdORWR4Q2J0YWZaLW5Pa3ZQSWU4cW5yOVZCWlh1c1RzQ1ZlRWVfVko3Q1ZxYzdwTUFtX2c3N2xzNzQ?oc=5",
-      "published": "Sun, 16 Aug 2026 03:17:00 GMT",
-      "summary": "Thailand seeks lower US tariffs on remaining product lines&nbsp;&nbsp;Nation Thailand",
-      "source": "Google News | Thailand Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Between the superpowers: Southeast Asia’s strategic supply chain dilemma - Lowy Institute",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlpiVkNXREV5TzdueERpTjZZM0JBTmQ4emJrdGdDUXBPRG9WOWlrMlhOcUtFSEV2MGVZbVpoZFp1VXJzcDVjWklKdk1FZVNqaV9zckVoZWlmMDdtREQwbkdUQ3hOWFhPZmdKODZNbmhVRWJNSXRfSEttRWhnU2dUNlF0UVRlV2h5ajludEk2S2psWG1VenptWXNDUF9NVDU5QndhMjZlSHJuMFJqMUNLVlNOOEc?oc=5",
-      "published": "Sun, 05 Jul 2026 07:00:00 GMT",
-      "summary": "Between the superpowers: Southeast Asia’s strategic supply chain dilemma&nbsp;&nbsp;Lowy Institute",
-      "source": "Google News | SE Asia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "How south-east Asia is riding out Trump’s tariff storm - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkd2aXl2eTBxa1lGU1BIUWRjT2UzUjBTQjd1ZDJ1VllyQ25SQkdvcnhvb0duOWd0MHNHNGpwODBFc2tWNU5sc2NtZTNQVlpPeHFGN29VSXByMEoxMUx3MElfWENhLTBZTGdQZFp5a0dIeU1kRnRidnd1R1pHMDB0b0JUN2M?oc=5",
-      "published": "Sun, 04 Jan 2026 08:00:00 GMT",
-      "summary": "How south-east Asia is riding out Trump’s tariff storm&nbsp;&nbsp;Financial Times",
-      "source": "Google News | SE Asia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
       "title": "Why China’s humanoid robot industry is winning the early market",
       "link": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
       "published": "Sat, 28 Feb 2026 15:00:00 +0000",
       "summary": "China’s push into humanoid robots is accelerating, with domestic firms shipping more units and iterating faster than U.S. competitors in a still-nascent market.",
       "source": "TechCrunch | China",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Iran war energy shock sees Chinese firms recalibrate overseas expansion plans - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1BTOVFqRGR5cVZ2U3g3WXlRTGpRX19NZnFrSEFHUVhZclp5dzFNN3JnVFVrOVI5dGhpakgtWXJQdDdqUC0zb0x4TkNTYktsMWJIV2xZalRtaVVMZk1SbXV4NEREM2lRSGZsVWlHOEpLLXhlWkdqTzMxLWVucnhESlhxZ2xnVW9CUEZDVzR2YjRpMmNxaVFNZjFudlQ3OTNqYmlNMlg5akFYM3FRZ2RPWTBLSmd2NGI4V1RRVHNYaXJ2TWtPb2s1Q1lTNNIBywFBVV95cUxNbjVISktaREZGRVhBRXZBY1hmTW1JaFVHdlhUUGpTeUtuMkJicnJPVENaRklSRFdseE80cTdwRDV0WGItZlFmLWdWT0YxR0YwRWFXMzZDNWRHdURCR2F3MnV1VFJJX1VtYmlFZ2o5R3AtTzE3RndxUlk5Q0JPM011V0U3X3BBY3M2dy04VGttcVhQT3g0andJQWlyWFpFX1pFNWt6VFVLVVR3MHZCb3J1Y1VYemw4QlY5Vl9KUlJ2N2ZUc1pFRUR1eERmVQ?oc=5",
-      "published": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "summary": "Iran war energy shock sees Chinese firms recalibrate overseas expansion plans&nbsp;&nbsp;South China Morning Post",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "AI Reshapes Globalization: Unveiling New Overseas Expansion Opportunities for Chinese Enterprises - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NdGh5R1Q5elVOSjZqdTlMeGhmYzFSdmt2YVRQSnpfbW5qNUY5aG5jSGZBQ1ItX0ROaXFHQkRncWJaYnYwQXkyNGtvNUcwVU1CV1JV?oc=5",
-      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "summary": "AI Reshapes Globalization: Unveiling New Overseas Expansion Opportunities for Chinese Enterprises&nbsp;&nbsp;36Kr",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "DoD Expands the Section 1260H “Chinese Military Companies” List: Key Changes, New Designations, and What They Mean for Your Business - JD Supra",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFkxSUZZWnFYM2xaOGwwVDRjRktDSlhfRm1WLWx0M09sSW1zajZUQVNHSXJrcS1XejdYVGpFSEpVUUVmYWZQYmdCeDZudUIwemNUWm5rQ04wVHBLOXBYZUFmTDRpYmEtOGFYMGRHbzVGaURLR0kxekd5SHB4RUQtVWp4eVZ3c0k?oc=5",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "DoD Expands the Section 1260H “Chinese Military Companies” List: Key Changes, New Designations, and What They Mean for Your Business&nbsp;&nbsp;JD Supra",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "China imposes export controls on Pentagon-linked US companies - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2MzTmI4Q0l2dkhWMjFfZVBMZ2tJdzhia1pDM2xkRmwtM1otM09JbGRyZ0hvcnpnSDl4QUloYVhxM3ptX0FGWUhhYVFQN1lmNGlucEdtdDNkWmZvQy1NZmFUSHk3cFN0YVM2MFRGbHFrLUZNMTc5ZDFtVzV4d05YQzV6eGhJb0pLZFVMeGUxQmo?oc=5",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "China imposes export controls on Pentagon-linked US companies&nbsp;&nbsp;Newsweek",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US and China to establish trade board, tout agriculture commitments - Supply Chain Dive",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEJJRmZqNzJJNk5LM05sYi00c2ZrejZfXzYwMTR4bGFYUXV6S0QyVF82VU52Mm53aEpqbWNtSlh2UHVIUHVyX2xLdE84NGxGMGk1ZXlDMFlxcjFONE83bXZxd2FYMi1Mc2Rxa3N3YjdrSUdNaTVHUXVUaE0tRUFXa2ZBRTg1Vm1kaFdoWDdmeUZiX1hENi1ja2tjTTRGczBzZ1VzS1NhUHdVYkgyenRlUg?oc=5",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "summary": "US and China to establish trade board, tout agriculture commitments&nbsp;&nbsp;Supply Chain Dive",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
       "priority": 1,
       "relevance": "medium"
     },
@@ -757,65 +154,11 @@
       "relevance": "medium"
     },
     {
-      "title": "Chinese firms reshape global industrial cooperation as overseas footprint grows - Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnYmVUdC0xRk1Va2txTzBWZ2Z6aGtxWmtrV3lkNzFJQVdaVE5SanVHTXNVQV92Yzl5YU84akc1WVB1YWdpRmpMMDJMek9DSHlEdUJGak9UM3pzV1EtN0FDeHgwUzVRY3JWeUw5Zks2dGxhVElJYlFmWkVHOWs?oc=5",
-      "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "summary": "Chinese firms reshape global industrial cooperation as overseas footprint grows&nbsp;&nbsp;Xinhua",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Trump’s tariffs on Southeast Asia put US Christmas gifts at risk - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWVNaZ0xNUG1MU09fZzVfS2F5MElSeWxhNnVEcUVjSTBac2dON1YwSGswQ3otYWJvWEJ4b05DOG55TWY0TTNsNS1UVldNSDhDOEVqalp4SDJZWGRVNVA3VG5QeHJIaVhCTTBNUUhzdDFGWVZuSUFjU2Y0SDJTTFU5WVJSRW1UVFB1TDJXUVZSSHB6M2VRanlfM2tmMkdCVnFvei14bXNndnpZc2tLZzE5OHV6dmrSAbQBQVVfeXFMTlRrRVZ3QkNWZGZxc0FxelNhN2ptaUZmU0ltb0JNbkNrU1dLV19YT3pZNElmTW9EQVFTUm9jTFNyUWdGRXZmWG5ZX1VyLWs4cV9PcnZyeUtXV3d3NTNnakNPUXUtRGhYMURzWTM4WUt1SHdUbDlhdjlSM0lJdzhPOU5sY0RDbWhxLVA0RFQ5eWIyRHI5SFZrT3FBaDE0V1hydkVaaXVZZlU4bV93enpJOXBTbDEx?oc=5",
-      "published": "Mon, 15 Dec 2025 08:00:00 GMT",
-      "summary": "Trump’s tariffs on Southeast Asia put US Christmas gifts at risk&nbsp;&nbsp;South China Morning Post",
-      "source": "Google News | SE Asia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
       "title": "Peak XV takes startups on a Silicon Valley trip in AI push",
       "link": "https://techcrunch.com/2024/02/11/peak-xv-takes-startups-on-a-silicon-valley-trip-in-ai-push/",
       "published": "Mon, 12 Feb 2024 04:34:07 +0000",
       "summary": "Peak XV, the venture capital firm that split from Sequoia Capital last year, is taking its portfolio companies from India, Southeast Asia and Australia on an &#8220;immersion&#8221; trip to Silicon Valley this week to meet several industry titans, the latest in the venture firm&#8217;s broadening offerings and networking flex. About 60 founders, many backed by [&#8230;]",
       "source": "TechCrunch | SE Asia",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Thailand Crackdown: BOI Targets Illicit ‘Chip’ Transshipment to China - Nation Thailand",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51OXZWVU1zLXBBR3FUbGJWSENNdHI5SEFSY1RlNFVndVFNQV9VRzhsa1djRnRwbmM1YTRweE9HaWZUMUtFN29ZTG9jdXVrVWtYb0ZMaTZEVHBXbklPSnFpYlY2dGM?oc=5",
-      "published": "Mon, 11 May 2026 07:00:00 GMT",
-      "summary": "Thailand Crackdown: BOI Targets Illicit ‘Chip’ Transshipment to China&nbsp;&nbsp;Nation Thailand",
-      "source": "Google News | Thailand Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "The View | Why Vietnam’s property sector has weathered Trump’s tariff typhoon well - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFl2d196ZkFqOVRORWZMa21BVDVqWHJZWndTMnNGd2Z6bHMtdUFVUk1BVzZKTUhZMUZac3NmTGhZNE05RGxaRVlET29iT1BIYUhOelZjY0JTckxBaGFhbTU1SHZKVzdGTHFCWHdzOTdveXZSMHB2Rk9sdkVBaC0xUDlrRXJHOTVfNnpTNEVMc1Rxc193UTJYaGh4U2JaM0cxajAwcDlaQy1FNW9kOGI1TVN6cjQ5d0I3YkVLZ9IBvAFBVV95cUxQYTlQc0t0WHZ5aExmeVY5NmRDdlJ4OXlUMV9lV0FHaHZVMDBGd19MZ2hrZVlLZmFkUEJTR1RydEhDcUw0SXkya1dGTks0aGdlaFJ2WjRqc0RhVk9PS2dON1pSZ29qWWRYbUE3aHhVLUk4TkwtZVFfUEFjQVFpMGhuU0hiZHVkNm96OFZ4VUlDUXdSQUQwT1lTSUpfY1lDOFlGVUdXQW1xbFk0cHVPYlJOLXU0bGxoc2c1QTZzRQ?oc=5",
-      "published": "Mon, 10 Nov 2025 08:00:00 GMT",
-      "summary": "The View | Why Vietnam’s property sector has weathered Trump’s tariff typhoon well&nbsp;&nbsp;South China Morning Post",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "How Trump's next tariffs could drive companies back to China - Peterson Institute for International Economics",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZm53N1FUVi11M0NWMHZWcVRBb3RoNGJMTnlpbTJIUHFPY1FBNFJMMV9MZWQwUjJONzZfTzY0UGs3bGVxWGZLWmZQbUJBMi03NVhBenRaTGdLdDlOR3lmSnVBb1EycnJnU1Y0WFU5b0RLcHZLMjJmVUl2Y3pPNXVCVVVjT3IwVlZkM0RoY1pCV1VxZGZrVmVCc0Zoc2g2RVlXazgtTmxINUhJWmc?oc=5",
-      "published": "Mon, 10 Aug 2026 14:00:00 GMT",
-      "summary": "How Trump's next tariffs could drive companies back to China&nbsp;&nbsp;Peterson Institute for International Economics",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "DOW Releases List of Chinese Military Companies in Accordance With Section 1260H of the Na - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN1NyT2xMek5URjVUc245azl1UWxSSG5HQnVLTG9NaUNaLXJodkFTUjZISnRCdTlLUHRZWDdJNUlpTld5Y2tNei1oRll0ZHFSeW9YZEVwdHhwUXdGZEt1cmdyTzliQ2FLUEpiMlp0RWpmOHJNdTQ2a2hkTElWYkJqa3JTM3dxYXdKMS1pWTQ2WFQ5WVBlSExHSUl6U3FvRnNZSmd1NUdrZHJGNFUzX1VuRmFUUzFUOXlYeDYxalNKNWt2R1l5bjc3N0l4MUp1ckh1NFpzTQ?oc=5",
-      "published": "Mon, 08 Jun 2026 16:47:31 GMT",
-      "summary": "DOW Releases List of Chinese Military Companies in Accordance With Section 1260H of the Na&nbsp;&nbsp;U.S. Department of War (.gov)",
-      "source": "Google News | 1260H Sanctions",
       "priority": 1,
       "relevance": "medium"
     },
@@ -829,83 +172,11 @@
       "relevance": "medium"
     },
     {
-      "title": "China plus one strategy hangs in the balance amid US-Vietnam tariff discussions - Kuehne+Nagel",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNDJPNTdsU2NKbUtnR1ZfSElDLWxKUVg5Qm11MnEwX3NMeU9KLUxqS1BfMWpxVGZuNERQVm1sYzB6U2N5T2JJd1B2cE1qbl9Bcjd3R2c0ZWpBMEVONVdPdzJjR294aXp1OHdRdWFONkNKRnVwdGZKUVI4emJycHJYN2NfdTNVaGJBYXNn?oc=5",
-      "published": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "summary": "China plus one strategy hangs in the balance amid US-Vietnam tariff discussions&nbsp;&nbsp;Kuehne+Nagel",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
       "title": "China is leading the fight against hidden car door handles",
       "link": "https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/",
       "published": "Mon, 02 Feb 2026 21:55:38 +0000",
       "summary": "Under new safety rules published Monday by China's Ministry of Industry and Information Technology, cars sold in the country must have mechanical releases on their door handles. The new rules, which go in effect January 1, 2027, will prohibit the hidden, electronically actuated door handles popularized by Tesla — and now found on numerous other electric vehicles in China.",
       "source": "TechCrunch | China",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Vietnam, Thailand log higher US trade surpluses in 2025 despite tariffs - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZlowVlhPSVJxZkVZR1o5ejV2ZFJUVmpJa1RPc245d1ViSzU2dkRiVjUtUExSNUk1NG04cm1QTWp1Ym5tVnRxNmk2Z0l1ZTFjYkVsNnl2YmRBLTJwTUk3ODY3M0VEOE1GeFJ5YjZQYVh5OHl6RVF2cm1CY0pBVW1Wdi01N1p4dERxUWNGM08wN0ppWDlIOGdRcVpyU3ZsNjk4dzhYYnZkd0toVGFU?oc=5",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "summary": "Vietnam, Thailand log higher US trade surpluses in 2025 despite tariffs&nbsp;&nbsp;Nikkei Asia",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "The End of \"Business Only\" Overseas Expansion: China's New Outbound Investment Rules - Geopolitechs",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56WUlNZlBITmxHeTRfTWd4T0NjMHRrRHo3M0FPUTFodFEzOXFzLVFqazJvcU1VTFBRZ0xRTUFfamFfY2g3ZFhVWnc2T3dRUlVGb0pZQzI0clRRWXlxWHZfQWhFSENjcmF6bGZGTkZ5SzQxZw?oc=5",
-      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "summary": "The End of \"Business Only\" Overseas Expansion: China's New Outbound Investment Rules&nbsp;&nbsp;Geopolitechs",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Giant Chinese brokerage raising billions for overseas expansion - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcTVaMmE5bkhrZ0VETlFoQmc0MmRvaVlLWHliTHh5SGhsb2k5aWx2MzU4QVVfcWRlOHlWcHMxaHpXd3hPMHA0TWtXaWhaM3JkOHZlM2N0SVJJQXcwdUhPUFBISWpKZlh1QnAtYmVMLWJOcUhDU0xjWklIT0FkVThZNUpiaUQ5blI2bG9XQm9HcHoxQ3RzM0xZYWIxdnM4NmgxMllIX1k2UVdDV01MVmZFYTItOFlVMXZ5Zms2MXk2RTlNbFNndUNLRUtNM2NKd9IBzgFBVV95cUxNTVJtQW9oYzU3bkhyVlN3clZXc1JjdHdHSVk1NEJWX2FfenZLVmJtZExOSTRkZWJsbDY2QXYxRnd6SXM2LWlnUEdoSXgyUDVRTmtZZ0JTTjZ2UDBJRFVBejEwN09KLUpIamdLQXQtc2QzNFAxNzB3NU4wU1Z2aEo3dGxCUld4THlITVpLVFhJSms4dEh0ZnZtTE5UQ3MxUFRkdHo4eThnLW15YmpCMUl6N21jRTFCclMxM0QySTlDbnVYYzdnM2h4aUNkT3RSUQ?oc=5",
-      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "summary": "Giant Chinese brokerage raising billions for overseas expansion&nbsp;&nbsp;South China Morning Post",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "New U.S. tariffs target imports from China, Mexico, Canada and 57 other economies - FreightWaves",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOERVcUFqZUZEOG1CSk0xMlRWWkNpeVl5X2FhaGNrbWZRSnY3NmF4VUhmdEQ2NE9SMmRvbzE5Q0t3YzFXenVPejREZUFfNXdLOVlkSDdCWUNDcEJVUG1ydmZQVGwwZFlXMFNkNVFkUmRQUkphYWFDY3RsZExfMEw3d1N0cGM2aXpFZ0ZfRjNiYnlYQkdjWTkzRTI1WmVESTQ5blhyX2QzTnRiMUJvUEQyQ01R?oc=5",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "summary": "New U.S. tariffs target imports from China, Mexico, Canada and 57 other economies&nbsp;&nbsp;FreightWaves",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Indonesia secures 19% tariff deal with US, palm oil and other commodities exempt - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdld0elJlakRDRWNvMWoxUmF6NklxZnpueEtfT21QVE15dkdPcXo4NkpSMHNQdkREOEVGN2lDSFYzVEF2MmRKcVBud1Y1TjlpbEN3ME82NVVQOTdNTGpNWWxXdldxN1BXcXRkZGFCajVIS3NxX0p3RWF3T2hWcE14SVFSMVl6d1MwWjdkUXlORm5YU2tCVFZjZXlBMlNvRmNvSHZxMGhpbkEtMkI1dU1lYW9adnFjeDZEYVZ0T1ZBbDUtdw?oc=5",
-      "published": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "summary": "Indonesia secures 19% tariff deal with US, palm oil and other commodities exempt&nbsp;&nbsp;Reuters",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Indonesia Secures 19% U.S. Tariff Deal - Modern Diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWUxUjVScWxoZzVDWVJrcDNST2ZuVGhsc1oyWEFEckJyTlljbzFiSVlOS29TQnU5b0g1cHJPWG94YkZzYWM2bnZEeVIwNkpja19mZmVNTEU0Zkt2MUROMi1BalM3R1dWOHkxai1rRTExaXhWUG1YX1lZQVZXYnl4NQ?oc=5",
-      "published": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "summary": "Indonesia Secures 19% U.S. Tariff Deal&nbsp;&nbsp;Modern Diplomacy",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "China's trade ends 2025 with record $1.2 trillion surplus despite Trump tariff jolt - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTJBRGwwTTYzOEZ1ZGJxeDhqbHVXOWJ3ejBrY2c3ZzVDZXhIRV9IemtkRG15MERacVJQVnZxcVVTeWVqZnlkZ3pkVWJpY2RXTGxCV3EtOFhUQ29WUDBuSVdWY0M3WlBTRG1TTWlpVjNxd3JEMGxpZkd6YzR6eGxxZkhObERkc1NXSnJwT3pHQ2ZHUXhzdDNjQmxrYzJST0lQWXBZRVpvdHFIMVNlb2RUc3RLMFI1RnYybDFlWlp3c04xaC10cFlj?oc=5",
-      "published": "Fri, 16 Jan 2026 08:00:00 GMT",
-      "summary": "China's trade ends 2025 with record $1.2 trillion surplus despite Trump tariff jolt&nbsp;&nbsp;Reuters",
-      "source": "Google News | SE Asia Trade",
       "priority": 1,
       "relevance": "medium"
     },
@@ -919,29 +190,11 @@
       "relevance": "medium"
     },
     {
-      "title": "Emerging Trends in Going Global Across Different Regions - HKTDC Research",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1taXptY2ZpSHVUZFRnRDVWUGVHck0zR3ptYUpDaGlhb2UyUGo4Nlh1c2NqUHlQWkptbWRjT3lUZkRiUDV2UzFkcWxfTGxuZFdObG9SX1BHXzJWdlpqa1BWcEdR?oc=5",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "Emerging Trends in Going Global Across Different Regions&nbsp;&nbsp;HKTDC Research",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Pentagon Adds 65 New Entities to the 1260H List of Chinese Military Companies - Lexology",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjNhb1E1TGtZTzJiS2J0WktieGRBVG00N0xnUzFMUk9CUFRkRkpiMTk4N3AyNlNYVEpaVzB5N01FbHkxa3NHU01OSTZGSi1uQkRNUzNSVF9SWXIzd0M3QnRSRkRsdm93UW83U0JkcmRnWmFiTlN5Nk9sMlctR0ozT3B2LXh6QUpHbGdN?oc=5",
-      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "Pentagon Adds 65 New Entities to the 1260H List of Chinese Military Companies&nbsp;&nbsp;Lexology",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "80% of Chinese companies plan overseas expansion within three years: UOB - macau daily times 澳門每日時報",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalo0UWlMUEdPbkxrWFZkOXJhQkFTNS1NNnNEQTgtaE9yYklWeVY4eVo4ektoN3ZZTWc3QTBUaXNZODBCNU9QMnNxLURlZTdiVFY4dGx1cmc1TkNPOUNpc282OVZMdzVsNjZrZHp1aGtJZnlZcHM5TVhia0JUV3Z0a2UzcWJaaUJxLVlLUmlkZ1JCRHBfY0tVb3ozMnVCSnY4Z2tVdUU3bm0xUQ?oc=5",
-      "published": "Fri, 07 Aug 2026 00:37:49 GMT",
-      "summary": "80% of Chinese companies plan overseas expansion within three years: UOB&nbsp;&nbsp;macau daily times 澳門每日時報",
-      "source": "Google News | China Going Global",
+      "title": "Copper is new king for Australia's BHP as profit jumps 30%",
+      "link": "https://asia.nikkei.com/business/markets/commodities/copper-is-new-king-for-australia-s-bhp-as-profit-jumps-30",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
       "priority": 1,
       "relevance": "medium"
     },
@@ -953,15 +206,6 @@
       "source": "Nikkei Asia",
       "priority": 1,
       "relevance": "medium"
-    },
-    {
-      "title": "Thailand—Not Japan—Will be the Other Home Base of Mazda’s Electrified Compacts - autoblog.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSV83cDY1WlBqV3RIUm03QVJMTm1LQ0pZMmJhaG1FY0MyaXpsdkhKNlluaWFBaXN1RmFDaDZrWW9laHJFMUpnTFJveFNMaGgzc1NKcVRQNk9zbmRYUVRfampnZlRnR1J6aGY5bEtISjg1WHdzVlc3dVU0dUMzMWhXSHpEa1lfTy14RmNmSjBKS0FuLTJmdGVNMmNVbkdaeWdNR2ZTSXdYYkZtZGs?oc=5",
-      "published": "Wed, 28 Jan 2026 08:00:00 GMT",
-      "summary": "Thailand—Not Japan—Will be the Other Home Base of Mazda’s Electrified Compacts&nbsp;&nbsp;autoblog.com",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
     },
     {
       "title": "China is increasingly keeping its best AI talent to itself",
@@ -978,42 +222,6 @@
       "published": "Wed, 23 Apr 2025 15:15:15 +0000",
       "summary": "A new venture firm aims to prove that the most successful startup ideas don’t have to be born or scaled in Silicon Valley. Fluent Ventures, a global early-stage fund, is backing founders replicating proven business models from Western markets in fintech, digital health, and commerce across emerging markets. The more cynical might describe this as [&#8230;]",
       "source": "TechCrunch | SE Asia",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Exports help Thailand's economy grow - China Daily",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtZUY3TzE0cGdnZy1CODdlRGU4X0tRQXlMQ0VOVFZHUDAtNTEwWm5GWU9jWk52VU5oZEVUVEF6VXN6SjBCWGZpZVNPQ0xpckpVVm12bUFrQ0p0SVQxOFc5b29FMkZzaUx1WHU5VDl0N0xMVmFKYzA2YU5RNXhsQQ?oc=5",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "summary": "Exports help Thailand's economy grow&nbsp;&nbsp;China Daily",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "A new US trade deal with Indonesia secures fossil fuels and access to critical minerals - Pioneer Press",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xWHNadElhZF85bHBXemo5UVNKS3JSMElIb2Z4RWs5V0JaREVWN3ViV2VOTHZoNi01Y2ZhNjB0aUJkNGN0c3lUOW55RWtOZVZBS2RZbndQblJJRlZ4UkoxOUkyQVN0UGxsT3RCbUFoaw?oc=5",
-      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "A new US trade deal with Indonesia secures fossil fuels and access to critical minerals&nbsp;&nbsp;Pioneer Press",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "E&E News: US secures Indonesia trade deal on fossil fuels, critical minerals - POLITICO Pro",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmZ4QzBvTUp0aXdOLXVvOGp0WE9ZWUhfUTYxRHY5WFhIVWNkczRGalc3T1psQURpTEpvaGx1VWZNMmNQMXhwMFZvUFB0NFNRQXp2WWdqbXNtY2xLNVNoU01CYXl5Ry1XcjlJQ0ZETTFMZWI0STBFUVVzU0pMYUNkdU9XV1FRSEZZS1ZQOGUwUjJiM1JDSHZXeVVOMG1CUzZMSkhpOXJqa0FPdkN4S3ZFUXEwem85U2hhTVBKYkN5OE5zcWFMSlJPWmVvWG9KWHl0VHoxZlNHMA?oc=5",
-      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "E&amp;E News: US secures Indonesia trade deal on fossil fuels, critical minerals&nbsp;&nbsp;POLITICO Pro",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Indonesia Tightens Control on Nickel as the US and China Scramble for Critical Minerals - Military.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMVR4TlNPNG5ZZFhhbWVKbE00UnRFV1NzbkozYjh2TEVLb2dsSUFWNEN1OGphQmdkdVdoMVZYQWw5SmtXNEMwRW5tbW9nTTh3RWZiRFhKS1pubXVIcGRnVEJLemg0dng3S0Z4eGpyTUVjRWRrZDJwVURuUjJ4d1Z6WjdHZE5RSmc4UkJSWTFhVzItNTF3eEl4NDRzSjlJZm9jdUgwTElJb0NjNUt1T2s0SnBrQnlXNVlsd0JJLVpOWXh3M3c?oc=5",
-      "published": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "summary": "Indonesia Tightens Control on Nickel as the US and China Scramble for Critical Minerals&nbsp;&nbsp;Military.com",
-      "source": "Google News | Indonesia Trade/Minerals",
       "priority": 0,
       "relevance": "low"
     },
@@ -1036,65 +244,11 @@
       "relevance": "low"
     },
     {
-      "title": "Thai auto groups urge EV rescue plan before 2027 production cliff - Nation Thailand",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QVnBES1hBRjI4eVRHVzhMdV9USnp6REtkbzU2Rm1FOE1oTkhBTXpJNjUtRDlHWFZlLTByZWMya0QyVHRoSFdfV01lQzQxSlZhdU5YZ29tYWRwQ2xNaFp4LWZsS3VUN1QxR01B?oc=5",
-      "published": "Wed, 13 May 2026 07:00:00 GMT",
-      "summary": "Thai auto groups urge EV rescue plan before 2027 production cliff&nbsp;&nbsp;Nation Thailand",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
       "title": "Salesforce to invest $1B in Singapore to boost adoption of AI",
       "link": "https://techcrunch.com/2025/03/12/salesforce-to-invest-1b-in-singapore-to-boost-adoption-of-ai/",
       "published": "Wed, 12 Mar 2025 10:12:26 +0000",
       "summary": "Salesforce plans to invest $1 billion in Singapore over the next five years as it seeks to fuel the adoption of its AI agent development platform, Agentforce. Salesforce claimed that Agentforce can help alleviate Singapore&#8217;s ongoing labor issues and augment the country&#8217;s workforce and enterprises by creating &#8220;digital workforces&#8221; that combine humans with autonomous AI [&#8230;]",
       "source": "TechCrunch | SE Asia",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Indonesia’s Nickel Diplomacy: Navigating US–China Competition in Critical Minerals - Geopolitical Monitor",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEYzTXc4ODZaNVdTVno1amVxQzFjWlk3SWVXSXNEcDQ4TVkzbXRSeV8zUUZya2k0STlnNkt4SlFRVjBxLVctdFk4WEpONmcydzRYRFlzblJndGxCVmMxNExfRVBseHpFazY2QWpaR0wzVnpfTVR2UDhuQnp2YlEtVmlXakhZZXY5enhPamdsaTF2YS1Xb2xZS1ptak9EUUNSV0hPSkM0TnU3UXZpZ3F4SW1RdFpWOEYz?oc=5",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "summary": "Indonesia’s Nickel Diplomacy: Navigating US–China Competition in Critical Minerals&nbsp;&nbsp;Geopolitical Monitor",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Midea helps ramp up go-global push - China Daily",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41ak1zeHl3QU5TeDRIbzNSalBaSVpLZ1dxMUVMNlhWSkctd0s3cFJxUEg3VG5lZ09Kd1ZiVzB1bVVCVm1NRWZzbWI2M2hUSHZLT21HaGpKVl9oMzFZMjFyS1dhZjdPMjhtckFWRUFVLWRrdDVWU0RNLUVJWnFMdw?oc=5",
-      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "summary": "Midea helps ramp up go-global push&nbsp;&nbsp;China Daily",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "BYD Responds to Inclusion in US Department of Defense \"Chinese Military Companies\" List - Gasgoo",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMjZ1WmFPMlQ2bU9rTFozZU5nVkdXdlBHVkIxZTdHYUM1MjFyRWZTMm1NY0p4cFBYV0JPc2tnUTJtYkVrZHBveFJvY3dWVjVLWmpnQnlVeGRWOHlMQ0N6NS0xQVZKUjZHaGJ4b3RqMFNVcjg0amlrTGMxdklUaEozSjhRSnhCMU9OVS1tMkQwVURwMzFtRmJsR2owd1J3RUVOLU9UbnQ1dDBueVdRZE1vbVVBaEdSV2V0b2RiT0c3ZnBrZTFaUF82TFZkR0ZJcjVXVkxUMEVnWnZBczRjYUhrNA?oc=5",
-      "published": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "summary": "BYD Responds to Inclusion in US Department of Defense \"Chinese Military Companies\" List&nbsp;&nbsp;Gasgoo",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Navigating the storm: Southeast Asia and the global trade shocks - Lowy Institute",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTNTYjR0Njd1Sm5Kdk9ZM2Qxdnp5dExBLUtCQU45ZFJHTDNqcDJNNlpNem9ieTBlMWZSWkh3ZDNJcXNGMnpRU01SeU13TzBYclpMcV90RGQtMnpYUTl2ZHZaRkduRG00VXhaSzZiSFJGY3JvZjFJUjRyTGk1MmdUaHV2dzF5Y1pYU3BaWVJFRENpSXU3dkRhS3NB?oc=5",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "Navigating the storm: Southeast Asia and the global trade shocks&nbsp;&nbsp;Lowy Institute",
-      "source": "Google News | SE Asia Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Should Southeast Asia Fear the Second China Shock? - fulcrum.sg",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tell5cVRiMndkdnNsYnJmY3NObkQtYk56UFoyb0RpWWtuSldHYWNIZF9pLUstcjVrYTZSSjFfa2Q5TU9iZmdTTFdxbXFQQWd6a0ZtZExVdFNBRnNkNnhabkt5dVRsV2c3ZHNmaW5rMGx4bWJvUDJyNQ?oc=5",
-      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "summary": "Should Southeast Asia Fear the Second China Shock?&nbsp;&nbsp;fulcrum.sg",
-      "source": "Google News | Thailand Trade",
       "priority": 0,
       "relevance": "low"
     },
@@ -1108,24 +262,6 @@
       "relevance": "low"
     },
     {
-      "title": "Vietnam Trade Surplus Shrinks as Imports, Exports Miss Estimates - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUpKSWQ3WS1fTlppTkpCM0xrMjRqRGxENldZNWJRMElaT3dHNk5wbkJ6U1RYSXFjNXpJNUF2Z0xSbkdyd2huUURoaEZGZWZ1RnQ1UFY4VGlMM3JfU1p3UG5UMUlOMUlmaFhvN1dwNnVRLXp2a2o2bl9JM3JiX3FDa2NvakdQcWxLVW9nNXdCSUN3c0RDaUM5b2FscF84UzUtaExfV2Q0eGlObjVwZ1pvNnhnMVI?oc=5",
-      "published": "Wed, 05 Nov 2025 08:00:00 GMT",
-      "summary": "Vietnam Trade Surplus Shrinks as Imports, Exports Miss Estimates&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News | Vietnam Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "36Kr Global Middle East: Abu Dhabi Masdar City Free Zone China Representative Office Launched in Shenzhen – Empowering Chinese Enterprises to Expand Footprints in the Middle East Market - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjSExFZmRmX3RGWEhXR3JGQVZwcjl4dFVoeS1tYmx5OVhtZjJHd0JMV0pvWFQwYkZKRExFSkRIeUFOaUNrMWcwYmp5YUh0bEpHdXNV?oc=5",
-      "published": "Wed, 05 Aug 2026 07:52:55 GMT",
-      "summary": "36Kr Global Middle East: Abu Dhabi Masdar City Free Zone China Representative Office Launched in Shenzhen – Empowering Chinese Enterprises to Expand Footprints in the Middle East Market&nbsp;&nbsp;36Kr",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
       "title": "HD raises $5.6M to build a Sierra AI for healthcare in Southeast Asia",
       "link": "https://techcrunch.com/2024/04/02/hd-mall-southeast-asia-ai-healthcare/",
       "published": "Wed, 03 Apr 2024 02:54:22 +0000",
@@ -1135,38 +271,11 @@
       "relevance": "low"
     },
     {
-      "title": "Europe-Thailand Trade Relations: Why Can Thailand Become a Reliable Trade Partner of Europe - tradeimex.in",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQU5UTmhlSVhCS1RMNmExZTBDLVgzbzJfVEVTTU9CejlrdXktUk0wUHJUT2kwd2pXZWZ5NWkwNXI2WUI4RHBXWXNLdUZqaEJKc2VvV1pYeDh1YWFXR05XMDJmN2lMRHhKNndRM3JUZld5UjM2cmlDbjg1SXM0S3ZMSFVLQml1UQ?oc=5",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "summary": "Europe-Thailand Trade Relations: Why Can Thailand Become a Reliable Trade Partner of Europe&nbsp;&nbsp;tradeimex.in",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US-Indonesia minerals deal points to new global trade era - Asia Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbzJacmE2Vm82REE4S2Nka1dsYUllRW5xbWVkSGFRT0FHOWc1V0lxME02eDdxM3h2ODRGR2czSlBxYUNCcDJEOWJyblZWSVVScUpnS0tDYzBPWEUxelJQenlRXzN6Q1BqY0JnZVRCVDdNdHV1QVRCUUNsNkRrakdEeGpHV0VYdzd3YmVKZmd6TWlmUQ?oc=5",
-      "published": "Tue, 30 Dec 2025 08:00:00 GMT",
-      "summary": "US-Indonesia minerals deal points to new global trade era&nbsp;&nbsp;Asia Times",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
       "title": "Wind.app makes DeFi accessible to the average consumer",
       "link": "https://techcrunch.com/2023/11/27/wind-app/",
       "published": "Tue, 28 Nov 2023 05:00:58 +0000",
       "summary": "Hussain Elius is best known as the co-founder of Pathao, one of Bangladesh’s top ridesharing apps. For his latest startup, however, Elius is exploring the world of DeFi with Wind.app, a self-custodial, smart contract wallet with three main features. The first is enabling businesses to send payments to remote employees around the world. The second [&#8230;]",
       "source": "TechCrunch | SE Asia",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "How Vietnam's garment factories benefited from Trump's trade policy - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaHAzSTEya1RkN3dUVUJvWjczNUZrVWQtUFpMTXB6b2JHWmlYdEVZWW0xcnJHVjVpUElIV21DSlV2a3V5LXhvZ3FuUEU0eVVZQlZoTWpaS0pEUklqVEI3SWUwRWJ0NUFhWXI4N01nd1Fyd1FIVmZEWi1ucTdCdURCYzhNN191MkExZ3dRVE1fVld3REktWkV3YXlqTGNIQVZacnRVOXdDWHdYdzdNbTd4TWh3MXhnVEtWRUQwM1A4eTBJTktjaTZjM3JWRmlmY0pjT0E?oc=5",
-      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "summary": "How Vietnam's garment factories benefited from Trump's trade policy&nbsp;&nbsp;Le Monde.fr",
-      "source": "Google News | Vietnam Trade",
       "priority": 0,
       "relevance": "low"
     },
@@ -1189,47 +298,11 @@
       "relevance": "low"
     },
     {
-      "title": "Tech edge to boost Chinese firms’ overseas revenues to record high: UBS - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNlV3TkpJOEc5ZFVROWM4bDJoczMzbEI4OTMxUElmQXpRR0kzLVllQ2ZJaWJrVW9LdVhSNXFGWUtid3NtTUo5ZUZaLVFWZUJhYlNXTm5CRGxGbklCU3RoM2xqVURVR1BWZFNMbmFEeHo0NzZENEV4dWRPeExBVXEtSXF2TE51UHVQeWctYTdTa21tNkNjbDRCb3NONW1VSWR0UDFCS1hWVi15YjZXSGxKa3J0MEE1Y0wyODdReUJSckx6VENmaTlhbnRZN0EtT2tuN0R2T0kwNkFyZ9IB2gFBVV95cUxQVFVnYzFGa2ZjNGQyRlR5QkJyN0Iya0p5UkpnRVVZOHBpRS1hU0JTejFkQnN1MjNDc25tSmlhV01BdV9JZm0zZ1VMLWp6V1UtZExodnZOczNkRGFLZldkSENFM1pFY3h0QXNZeFR3cGxNZjVZUFdzMldPN2FwMlp6U3pPX0dqYWFOazRHRUxnNjVwOFRYQTdfTnpOQW9TTzdkVEw5ZG0xSnVGbm1WN2lpUHJHajRONWRHSnZaUXlBb21DNUFsSmZwWWx3TmhBUHZfMEhhWERVNjZNQQ?oc=5",
-      "published": "Tue, 26 May 2026 07:00:00 GMT",
-      "summary": "Tech edge to boost Chinese firms’ overseas revenues to record high: UBS&nbsp;&nbsp;South China Morning Post",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Vietnam gains edge over Thailand as exporter and global production hub - Nation Thailand",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xWWdTRVNPYVRpMFFRdXNIVjVRdFVEaU51WWRTSjJET01nZ3hpVTVUemFHcFk2SUxWeVRtYXlQdUlOalpRdUVYbkE0U2RLQmxzSVNXWjc2T001LTR4THU0cE95clVjeFE?oc=5",
-      "published": "Tue, 26 May 2026 07:00:00 GMT",
-      "summary": "Vietnam gains edge over Thailand as exporter and global production hub&nbsp;&nbsp;Nation Thailand",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Southeast Asian manufacturing: No longer immune from geopolitics - Lowy Institute",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnNwMDBwVGVaMWo4TW82SDVIekZYdnA5NU96eEZhTGs4QlN4VFFWbGljWHlvcGlrNk5XV1JqX3RuWFdWWVFubWhtV3FGZFpFU0d3QW4zbGpScWJHWVo5LWNqejBXZTVsSzBtcGZHSGxRYmlqNjVFQ1ZGYk1aRVRmLXMzam9GYzF3cTVURWRwbW11Z1pTMmNselhZaEY0Sl9PTWRzVTlzQQ?oc=5",
-      "published": "Tue, 25 Nov 2025 08:00:00 GMT",
-      "summary": "Southeast Asian manufacturing: No longer immune from geopolitics&nbsp;&nbsp;Lowy Institute",
-      "source": "Google News | SE Asia Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
       "title": "Fintech Jupiter in talks to buy a stake in SBM Bank India",
       "link": "https://techcrunch.com/2024/09/23/fintech-jupiter-in-talks-to-buy-a-stake-in-sbm-bank-india/",
       "published": "Tue, 24 Sep 2024 04:00:05 +0000",
       "summary": "In the latest instance of an Indian fintech startup pursuing strategic partnerships with traditional banking institutions, neobank Jupiter is in talks to acquire a stake in SBM Bank India, three sources familiar with the matter told TechCrunch. Jupiter, backed by Tiger Global and Nubank, is in discussions to buy a 5% to 9.9% stake in [&#8230;]",
       "source": "TechCrunch | SE Asia",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Thai Investment in Vietnam: Key Investors, Growth Sectors, and Market Entry Strategies in 2026 - Vietnam Briefing",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSlhzQXFVLWpXZzlFbzk3WVVGOXhoRkZtaHhsZDI3bmJGSm85bFZld1FLQThEQ0x3VXc4UnVMWGU0RjR3N0dQU2NvOTBTTG9yQVU2MGZKT3BHaF9jb3RMUEUtYXBOS21WSE9hdDFIaXFrNEM2eHpKTFdTNDdzV3QwenVVQThyX0h6ZG5rOE81WXI1OEZVaHZhc1R6aElDX2ZvYlRSeXVLa3BVNDVLbzFlTkV3VGJCbVdwLTJ3bE9QNG9KellwQldpUUpiQ1NJUWZi?oc=5",
-      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "summary": "Thai Investment in Vietnam: Key Investors, Growth Sectors, and Market Entry Strategies in 2026&nbsp;&nbsp;Vietnam Briefing",
-      "source": "Google News | Thailand Trade",
       "priority": 0,
       "relevance": "low"
     },
@@ -1243,110 +316,218 @@
       "relevance": "low"
     },
     {
-      "title": "E&E News: Indonesia lifts ban on mineral exports in Trump trade deal - POLITICO Pro",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT3pwV2d6X2NvbjhYQ1IxaGlYLXBGMzdocGc0YUZ1WjZ1Zjhvbms5WGNpanZ1dl95TnlQMjZfTVVQbjBQZkJ5VVl2TWFockUtOGxZbUpLNGlkb0tIdU5rMDBkWTVGcEp2eUJpOW15QkFkQlNVZVdPa2dRdEVvRS1VQkhZSDBjMlpsRk0zTUpxU0YwMDhBUXcwa3dCZnNsSnBOS1pVQUF1UWgyQ2t2cmtxbnF6OE8wcmZ5VGdlZE01alYwWUUwc3pz?oc=5",
-      "published": "Tue, 22 Jul 2025 07:00:00 GMT",
-      "summary": "E&amp;E News: Indonesia lifts ban on mineral exports in Trump trade deal&nbsp;&nbsp;POLITICO Pro",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "The sun is setting on Southeast Asia’s solar exporters - Lowy Institute",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3lHNEtMRmZfbnB3X3hyME1KLXk0MHZNVE9FV1hRVmFkRXVDOVdVZkhRNndSTEVrWk1kUVRQdS1GTzhEM3paM0g2UUR3T1ZDQ1VVVjIzZGNwZTQ3UEZrd3hSdWVDVDJlbWhMYVJqT0NnTUprUllwMWVlcUo5M0xpTC1QX1NXd2c2NWdJbjU2Rk9MSEgw?oc=5",
-      "published": "Tue, 21 Oct 2025 07:00:00 GMT",
-      "summary": "The sun is setting on Southeast Asia’s solar exporters&nbsp;&nbsp;Lowy Institute",
-      "source": "Google News | SE Asia Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "What Venezuela Teaches Indonesia About Managing Critical Minerals - Tempo.co English",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjE1SzZDMmFVcUU2N3MxdnVRU3Brb2lNYW5ReXdpTmV3eHRGb09wSkh5MGJYN05QcV9BZm1SQmdocElfUEo2eUpkc3lybzJfYWhjaDVPV00yY2pYWndlUFFKZFcwandWR2RuRmJTT3QxTGI3djdESC1iTmozUmNDaDZCeWZocElfUEJjblp3Y3R0QU0xVHZobzB0M29yREk?oc=5",
-      "published": "Tue, 20 Jan 2026 08:00:00 GMT",
-      "summary": "What Venezuela Teaches Indonesia About Managing Critical Minerals&nbsp;&nbsp;Tempo.co English",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "UK services sector seeks slice of China's overseas investment boom - China.org.cn",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VaVd1RE1LQW1Hb3ZUUkpVMlJham5hZFpFcmRwV3dBT296N2VWYjJFcmtDb3FvYVZ5dzUwVjZKd3E2Yy1JSElEVUFyalBTYlJEWS01ZDBDSWZJcDJXQ1pmLXVqYWtTWWxGRVE?oc=5",
-      "published": "Tue, 19 May 2026 07:00:00 GMT",
-      "summary": "UK services sector seeks slice of China's overseas investment boom&nbsp;&nbsp;China.org.cn",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Asset World Corp steps up hotel repositioning strategy",
-      "link": "https://www.bangkokpost.com/property/3303480/asset-world-corp-steps-up-hotel-repositioning-strategy",
-      "published": "Tue, 18 Aug 2026 07:10:00 +0700",
-      "summary": "SET-listed Asset World Corp (AWC) is accelerating its hotel repositioning strategy to unlock the value of existing properties, with upgraded assets recording average daily rate (ADR) increases of 135&ndash;430% from pre-development levels.",
+      "title": "Two killed in high school shooting in southern Philippines",
+      "link": "https://www.bangkokpost.com/world/3303672/two-killed-in-high-school-shooting-in-southern-philippines-officials-say",
+      "published": "Tue, 18 Aug 2026 10:44:00 +0700",
+      "summary": "MANILA &mdash; Two people ​were killed in a shooting at a high ​school in the southern &zwnj;Philippines on Tuesday and the situation was now under control, officials said, in the second such incident in the country in nearly two months.",
       "source": "Bangkok Post | Breaking",
       "priority": 0,
       "relevance": "low"
     },
     {
-      "title": "CRC sees revenue increase by 3.5% to B60.1bn in Q2",
-      "link": "https://www.bangkokpost.com/business/general/3303505/crc-sees-revenue-increase-by-35-to-b601bn-in-q2",
-      "published": "Tue, 18 Aug 2026 06:06:00 +0700",
-      "summary": "Central Retail Corporation Plc (CRC) reported total revenue of 60.1 billion baht for the second quarter, a 3.5% year-on-year increase, and core profit from continuing operations of 2.11 billion baht, a 124% rise from the same period last year.",
+      "title": "Trump's approval tanks to lowest of his presidency",
+      "link": "https://www.bangkokpost.com/video/world/3303667/trumps-approval-tanks-to-lowest-of-his-presidency",
+      "published": "Tue, 18 Aug 2026 10:09:00 +0700",
+      "summary": "President Donald Trump's approval rating fell to the lowest level of his presidency, &zwnj;with an overwhelming majority of Americans concerned the U.S. war with Iran will last a long time, according to a Reuters/Ipsos poll that concluded on Monday (August 17). - REUTERS",
       "source": "Bangkok Post | Breaking",
       "priority": 0,
       "relevance": "low"
     },
     {
-      "title": "Colombian minister under fire over beach holiday post-quake",
-      "link": "https://www.bangkokpost.com/world/3303600/colombian-minister-under-fire-over-beach-holiday-postquake",
-      "published": "Tue, 18 Aug 2026 06:00:00 +0700",
-      "summary": "BOGOT&aacute; - Colombia's new housing minister has come under fire after it emerged that he took his family on a Caribbean holiday while the country was reeling from a devastating earthquake that left thousands homeless.",
+      "title": "Some gun dealers have switched businesses to survive",
+      "link": "https://www.bangkokpost.com/thailand/general/3303655/some-gun-dealers-have-switched-businesses-to-survive",
+      "published": "Tue, 18 Aug 2026 10:06:00 +0700",
+      "summary": "Loaves of sourdough bread now fill the display window of Suchart and Friends Gun, a firearms shop-turned-bakery in Bangkok's old quarter where pistols and rifles once lined the glass case.",
       "source": "Bangkok Post | Breaking",
       "priority": 0,
       "relevance": "low"
     },
     {
-      "title": "Anutin sets limits for censure debate",
-      "link": "https://www.bangkokpost.com/thailand/politics/3303315/anutin-sets-limits-for-censure-debate",
-      "published": "Tue, 18 Aug 2026 05:56:00 +0700",
-      "summary": "Prime Minister Anutin Charnvirakul said his ministers were ready for a no-confidence debate but would not answer for Senate election allegations he called unrelated to the government.",
+      "title": "Trump: Iran won't make deal he thinks is needed, threatens to bomb Oman",
+      "link": "https://www.bangkokpost.com/video/world/3303664/trump-iran-wont-make-deal-he-thinks-is-needed-threatens-to-bomb-oman",
+      "published": "Tue, 18 Aug 2026 10:05:00 +0700",
+      "summary": "President Donald Trump said on Monday (August 17) that Iran would not make the deal he thinks is needed to end a war with the U.S. - REUTERS",
       "source": "Bangkok Post | Breaking",
       "priority": 0,
       "relevance": "low"
     },
     {
-      "title": "NOCT targets 14-15 golds at Aichi-Nagoya",
-      "link": "https://www.bangkokpost.com/sports/3303345/noct-targets-1415-golds-at-aichinagoya",
-      "published": "Tue, 18 Aug 2026 05:45:00 +0700",
-      "summary": "The National Olympic Committee of Thailand (NOCT) has set a target of 14-15 gold medals at the Asian Games, which will take place in Aichi-Nagoya from Sept 19 to Oct 4.",
+      "title": "Could this Antarctic plant unlock secrets of climate-resilient crops?",
+      "link": "https://www.bangkokpost.com/video/world/3303660/could-this-antarctic-plant-unlock-secrets-of-climateresilient-crops",
+      "published": "Tue, 18 Aug 2026 10:01:00 +0700",
+      "summary": "A team led by Chilean researchers has produced the most complete genetic map yet of one of only two flowering plants that grow naturally in Antarctica, potentially helping the development of crops resistant to extreme weather. - REUTERS",
       "source": "Bangkok Post | Breaking",
       "priority": 0,
       "relevance": "low"
     },
     {
-      "title": "Thailand vow no complacency",
-      "link": "https://www.bangkokpost.com/sports/3303255/thailand-vow-no-complacency",
-      "published": "Tue, 18 Aug 2026 05:32:00 +0700",
-      "summary": "Despite holding a 3‑1 advantage from the first leg, Thailand will march into&nbsp; Tuesday night's semi‑final second leg against Singapore determined to treat the contest as if the scoreline were still level.",
+      "title": "South Korea landslide kills one amid heavy rains, media reports",
+      "link": "https://www.bangkokpost.com/video/world/3303654/south-korea-landslide-kills-one-amid-heavy-rains-media-reports",
+      "published": "Tue, 18 Aug 2026 09:58:00 +0700",
+      "summary": "A landslide in South Korea killed at least one person and injured ​three, media reports said on Monday (August 17), &zwnj;as heavy rainfall lashed the country's southern region. - REUTERS",
       "source": "Bangkok Post | Breaking",
       "priority": 0,
       "relevance": "low"
     },
     {
-      "title": "Thai growth faces mounting economic headwinds",
-      "link": "https://www.bangkokpost.com/business/general/3303295/thai-growth-faces-mounting-economic-headwinds",
-      "published": "Tue, 18 Aug 2026 05:26:00 +0700",
-      "summary": "Thailand faces growing economic challenges from a current account deficit, tight fiscal conditions and uncertainty over trade negotiations with the US, limiting the government's room to drive growth, says Supavud Saicheua, chairman of the National Economic and Social Development Council (NESDC).",
+      "title": "Tourists flock to Indonesia's Labuan Bajo despite deadly earthquake",
+      "link": "https://www.bangkokpost.com/video/world/3303650/tourists-flock-to-indonesias-labuan-bajo-despite-deadly-earthquake",
+      "published": "Tue, 18 Aug 2026 09:54:00 +0700",
+      "summary": "Tourists were still flocking to Indonesia's seaside town of Labuan Bajo on Monday (August 17) even as the East Nusa Tenggara province continued to recover from a magnitude 7.7 earthquake that struck the island and amid fear of aftershocks. - REUTERS",
       "source": "Bangkok Post | Breaking",
       "priority": 0,
       "relevance": "low"
     },
     {
-      "title": "Slower Q2 growth close to ministry's earlier estimate",
-      "link": "https://www.bangkokpost.com/business/general/3303370/slower-q2-growth-close-to-ministrys-earlier-estimate",
-      "published": "Tue, 18 Aug 2026 05:19:00 +0700",
-      "summary": "The slower economic growth in the second quarter was close to the Finance Ministry's previous estimate and confirmed the outlook anticipated by the economic team, particularly regarding the impact of the Middle East conflict, which began in late March and affected the economy in waves throughout the second quarter, says the finance minister.",
+      "title": "Elderly far more at risk from rising heat than thought: study",
+      "link": "https://www.bangkokpost.com/world/3303614/elderly-far-more-at-risk-from-rising-heat-than-thought-study",
+      "published": "Tue, 18 Aug 2026 08:45:00 +0700",
+      "summary": "PARIS - The threat that rising temperatures fuelled by climate change pose to the health of older people has been dramatically underestimated, according to a US modelling study published Tuesday.",
       "source": "Bangkok Post | Breaking",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Whales spark joy in New York but face threats from boat traffic",
+      "link": "https://www.bangkokpost.com/world/3303624/whales-spark-joy-in-new-york-but-face-threats-from-boat-traffic",
+      "published": "Tue, 18 Aug 2026 08:45:00 +0700",
+      "summary": "NEW YORK - \"WHALE AT ONE O'CLOCK!\"",
+      "source": "Bangkok Post | Breaking",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Discord suspends livestreams in Brazil after teen's suicide",
+      "link": "https://www.bangkokpost.com/life/tech/3303639/discord-suspends-livestreams-in-brazil-after-teens-suicide",
+      "published": "Tue, 18 Aug 2026 08:45:00 +0700",
+      "summary": "BRAS&iacute;LIA - Popular messaging platform Discord said Monday it had complied with a Brazilian government order to suspend livestreaming and video calls in the country after a teen girl was allegedly goaded into taking her own life during a broadcast.",
+      "source": "Bangkok Post | Breaking",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Why is Chinese state media telling people to stop using English AI terms?",
+      "link": "https://www.scmp.com/news/china/politics/article/3364320/why-chinese-state-media-telling-people-stop-using-english-ai-terms?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 04:00:11 +0000",
+      "summary": "China’s state media has called for English-language terms related to artificial intelligence (AI) to be dropped in favour of standardised Chinese equivalents in a push to boost the country’s “discourse power”.\nAs AI technologies have rapidly spread in China, English terms have entered common speech in the country, such as “agent” and “LLM” for large language model, a commentary published by the Communist Party mouthpiece People’s Daily noted earlier this month.\nThe article argued that reliance.....",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "The ugly side of pressure on White House women to maintain Trump’s ‘Maga perfect’ image",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3364371/ugly-side-pressure-white-house-women-maintain-trumps-maga-perfect-image?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 03:56:20 +0000",
+      "summary": "Women working in US President Donald Trump’s White House were not surprised that press secretary Karoline Leavitt announced last week she was leaving her job – and they do not think it was just because she wants to spend time with her young children.\nIn an interview with the Daily Mail, several anonymous White House employees spoke of the pressure that Leavitt, executive assistant Natalie Harper and other female staff are under to adhere daily to a “Maga perfect” standard of beauty that requires...",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "China’s five-year plan for its oil and gas sector",
+      "link": "https://www.scmp.com/plus/economy/china-economy/article/3364370/chinas-five-year-plan-its-oil-and-gas-sector?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 03:47:02 +0000",
+      "summary": "China unveiled its 15th five-year plan for the oil and gas sector on August 17. The nation aims for domestic oil and gas production equal to 440 million tonnes of oil equivalent by 2030, a 5 per cent increase over its 2025 output. Below are key targets of the blueprint, which was released jointly by the National Development and Reform Commission and National Energy Administration.\n\n\nSee below for the original document in Chinese:\n\nChina's 15th five-year plan for the oil and gas sector by scmp",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Japan’s hotels embrace sleep tourism with brain scans, tea and custom beds",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3364363/japans-hotels-embrace-sleep-tourism-brain-scans-tea-and-custom-beds?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 03:03:25 +0000",
+      "summary": "An increasing number of hotels in Japan are offering “sleep tourism” experiences – stays designed to promote high-quality and restful sleep.\nThe trend, which started gaining popularity overseas several years ago, provides hotels with an opportunity to attract new health-conscious guests.\nA sleep retreat plan called totono-ne, featuring the relaxing effects of tea, is proving a popular offering for Hotel 1899 Tokyo in the capital’s Shimbashi business district.\n\nThe guests answer a set of simple.....",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Several US billionaire investors reshuffle their Chinese technology stocks amid AI boom",
+      "link": "https://www.scmp.com/business/china-business/article/3364358/several-us-billionaire-investors-reshuffle-their-chinese-technology-stocks-amid-ai-boom?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 03:00:17 +0000",
+      "summary": "Some of Wall Street’s best-known billionaire investors are reshuffling their bets on Chinese technology stocks amid the artificial-intelligence boom, with Stanley Druckenmiller returning to the market for the first time in more than two years with a stake in Baidu.\nDruckenmiller, an investor known for his decades-long track record of outsized returns, bought 88,200 of Baidu’s American depositary receipts (ADRs) – US-traded securities that represent shares in the Chinese company – through his...",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Zhipu AI’s answer to Project Glasswing marks shift for Chinese cyber safety: researcher",
+      "link": "https://www.scmp.com/tech/article/3364356/zhipu-ais-answer-project-glasswing-marks-shift-chinese-cyber-safety-researcher?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 03:00:14 +0000",
+      "summary": "Zhipu AI’s launch of China’s first answer to Project Glasswing signals a shift in how the country’s top artificial intelligence labs approach global cybersecurity, according to a researcher.\nThe Beijing-based firm – now known internationally as Z.ai – announced its new GLM-5.3 model on Friday alongside the launch of its “Shield of Open Source” initiative. The programme offers free security audits to help users patch software vulnerabilities, as well as automated code-auditing tools via its ZCode...",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "At least 2 students killed in Philippine school shooting",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3364359/least-2-hit-philippine-school-shooting?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 02:25:29 +0000",
+      "summary": "A high school student carrying two firearms shot to death a fellow student before killing himself on Tuesday in a high school in a university campus in the southern Philippines where hundreds of students were evacuated to safety, officials said.\nZamboanga city Mayor Khymer Adan Olaso said the suspect apparently wore a body camera to live stream the attack at the high school on the Ateneo de Zamboanga University campus in his city. Two other people were injured, he said.\n“A [seventh-grader]...",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Bangkok gun shop trades bullets for baguettes as Thai firearm ban bites",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3364357/bangkok-gun-shop-trades-bullets-baguettes-thai-firearm-ban-bites?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 02:15:14 +0000",
+      "summary": "Loaves of sourdough bread now fill the display window of Suchart and Friends Gun, a firearms shop-turned-bakery in Bangkok’s old quarter where pistols and rifles once lined the glass case.\nLike all the gun shops in Thailand, it ‌has been banned from importing firearms since a 2023 shooting at a Bangkok mall – one of several mass shootings, including at a school and a childcare centre, that have periodically prompted tighter regulations in a country with the second highest private gun ownership.....",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Even the rich in Hong Kong expect to work past retirement age, survey says",
+      "link": "https://www.scmp.com/business/article/3364316/even-rich-hong-kong-expect-work-past-retirement-age-survey-says?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 02:00:21 +0000",
+      "summary": "Wealthy Hongkongers now invest in a way that shows they do not have a fixed retirement age in mind, as most of them expect to work longer than their parents, according to a survey.\nSome 58 per cent of high-net-worth individuals in Hong Kong expected to work beyond retirement age, with 32 per cent anticipating they would work five to 10 years past it and another 26 per cent assuming they would work as long as possible, said the survey, released by Manulife on Tuesday.\nHong Kong has no official...",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Why Siberia’s warming landscape could shatter Trump’s Arctic ambitions",
+      "link": "https://www.scmp.com/news/china/science/article/3364286/why-siberias-warming-landscape-could-shatter-trumps-arctic-ambitions?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 02:00:17 +0000",
+      "summary": "As the United States, Russia and China race to turn a melting Arctic into the world’s next major economic gateway, their strategic ambitions face a hidden threat: thawing permafrost.\nSince returning to office last year, US President Donald Trump has pushed to expand America’s Arctic footprint. This includes investing in icebreakers to counter Russian and Chinese shipping ambitions, unlocking natural resources in Alaska and renewing efforts to buy or annex Greenland.\nYet, as the three powers vie....",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Hongkong Post scraps permanent contracts for new staff amid financial strain",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3364354/hongkong-post-scraps-permanent-contracts-new-staff-amid-financial-strain?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 01:58:41 +0000",
+      "summary": "Hong Kong’s self-financing postal administration will stop offering permanent civil service contracts to new employees as part of cost-saving measures amid a worsening financial outlook.\nPostmaster General Leonia Tai Shuk-yiu said on Tuesday that new Hongkong Post employees who pass probation in or after September would be offered two-year contracts on civil service terms, as the organisation faces a decline in mail volume.\n“Therefore, we must carefully plan our human resources, making timely...",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Trump’s decision to scale back South Korea drills unsettles Asian allies: ‘makes no sense’",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3364352/trumps-decision-scale-back-south-korea-drills-unsettles-asian-allies-makes-no-sense?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 01:32:23 +0000",
+      "summary": "President Donald Trump’s decision to scale back joint military exercises with South Korea does not just slight a long-time ally but raises broader concerns about the security interests of the United States in Asia and elsewhere.\nTrump explained his decision by citing South Korea’s refusal to join his war against Iran and pointing to what he said was his good relationship with North Korea’s reclusive dictator Kim Jong-un, a transactional and personal approach to foreign policy that has defined...",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Huanggang Port points to the future of Greater Bay Area travel",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363923/huanggang-port-points-future-greater-bay-area-travel?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 01:30:07 +0000",
+      "summary": "The much-anticipated revamped Huanggang Port, expected to open later this year, should be seen as more than a story about faster clearance. Its deeper significance lies in a question that deserves wider discussion: if border functions can be redesigned, where should border control actually operate?\nLiving in the Greater Bay Area, where people and businesses move across administrative boundaries every day, I have watched the meaning of borders change. A border is no longer simply a line...",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Colombian minister’s Caribbean holiday amid earthquake crisis stokes fury",
+      "link": "https://www.scmp.com/news/world/americas/article/3364351/colombian-ministers-caribbean-holiday-amid-earthquake-crisis-stokes-fury?utm_source=rss_feed",
+      "published": "Tue, 18 Aug 2026 01:17:40 +0000",
+      "summary": "Colombia’s new housing minister has come under fire after it emerged that he took his family on a Caribbean holiday while the country was reeling from a devastating earthquake that left thousands homeless.\nThe August 10 earthquake, which killed nearly 300 people in western Colombia, struck just three days after right-wing President Abelardo de la Espriella took office.\nThe 7.4-magnitude tremor was the most powerful in Colombia in nearly half a century.\nOver the weekend, photos and videos emerged...",
+      "source": "SCMP | China Economy",
       "priority": 0,
       "relevance": "low"
     },
@@ -1356,24 +537,6 @@
       "published": "Tue, 18 Aug 2026 00:00:13 +0000",
       "summary": "China’s state-backed funds are pulling out of Kweichow Moutai, adding to the woes of the nation’s biggest baijiu liquor maker whose stock has lost more than 40 per cent from its peak five years ago.\nCentral Huijin Investment, a unit operated by China’s sovereign wealth fund, and China Securities Finance were not listed among Kweichow Moutai’s top 10 shareholders at the end of the second quarter, according to the liquor maker’s first-half report. Profits for the distiller fell by 1.95 per cent...",
       "source": "SCMP | Tech",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Trump announces trade deal with Indonesia - politico.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CR0loYUQ1dkUzejhCVUtUZDFXWTc1MTBNQTVOQko1eXFRenZTU0FXTk55ZVBuQ2RqSzcxUGh4YmlyVk9Uck5lcS1qeW5NV2QxNzE3ZzMtQTFsNFZxeXVQeHppZVlsdUlxakNYSE5oLS1mY0xWNE9ZU1pwSQ?oc=5",
-      "published": "Tue, 15 Jul 2025 07:00:00 GMT",
-      "summary": "Trump announces trade deal with Indonesia&nbsp;&nbsp;politico.com",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Southeast Asia’s Solar Panel Boom - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ydzFVd3Q0LTY4QVE2QWRncHh3ZHpsaVEzZ012ZmlQc1YxUWhXOXlBTjZxRDBrY01nR0g1SE51U0hqbTg2dFRvQmdkekVKeUNvSkZmeWIwVFUwNlZLaGQzSENiV2twbDR4SVdBSE1Tb3FwVTg?oc=5",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
-      "summary": "Southeast Asia’s Solar Panel Boom&nbsp;&nbsp;The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "source": "Google News | SE Asia Trade",
       "priority": 0,
       "relevance": "low"
     },
@@ -1396,15 +559,6 @@
       "relevance": "low"
     },
     {
-      "title": "Thailand seeks three-way plan to narrow China trade deficit - Nation Thailand",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yMDJhUWN4MjFmd1VmaXY2Y2FEdnVYQ3NXaERfTFY2c2NzQmx3UHVRR04tN2hUeG1CNjFVVEdZNEFZbFBPc2NFMU91eFFmM0Vrb0tnTHVheXJpbWN4SWNyazNKUUQ?oc=5",
-      "published": "Tue, 11 Aug 2026 01:03:00 GMT",
-      "summary": "Thailand seeks three-way plan to narrow China trade deficit&nbsp;&nbsp;Nation Thailand",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
       "title": "US military contractor likely built iPhone hacking tools used by Russian spies in Ukraine",
       "link": "https://techcrunch.com/2026/03/10/us-military-contractor-likely-built-iphone-hacking-tools-used-by-russian-spies-in-ukraine/",
       "published": "Tue, 10 Mar 2026 17:44:22 +0000",
@@ -1423,78 +577,6 @@
       "relevance": "low"
     },
     {
-      "title": "Pentagon targets Alibaba, Baidu and BYD over alleged China military ties - Ynetnews",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iUjYwTzVTSnNXNWc5T2tnMzJZbjRKUmhqc211X3ZSSUlUOGdycEN4bHhpYWtScW5uTllJQVlSSFhsbXJWRVIzRmtGRmxxaU9WdnNQa2NR?oc=5",
-      "published": "Tue, 09 Jun 2026 09:46:36 GMT",
-      "summary": "Pentagon targets Alibaba, Baidu and BYD over alleged China military ties&nbsp;&nbsp;Ynetnews",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US adds Alibaba, BYD, other Chinese tech champions to military company blacklist - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWUZVWjF4bHUxQVZmVlRSdlBPSEE5dlJlYjhSdWVJaGd4MlNxQms1ZUNjSEIxVWhCRjN1X2Y5cXRsTXhsMUJFNmhRTElSZjIwX2kwM04xOWVUMVRkQVpQZnBRaGNPelJ6RmFEajVhUkpoQUd4VXota3pWQWt3RkpsUC02RTJUcDlrdk83dThRZ0ZtcFJvYV9xS1Q0SnBNRUM3RUE5bVNDbmI2REIxdVl3ZDE2eUZlSWJpaG5oM1RWcFh1Z2pIWFZ6b1I2aGfSAcwBQVVfeXFMUGVHX1ozS25fMFZNelVpNGQya2RHdlMwaWplcThXSXhvQkkzbVNwYWxoU1JuRnRzaHdtRTVaMDhNM0FyMzBqWEJ3M29jdnZWTlVOZGN0ODBBcmdJMzJHYlZDSktvWTM1bm8xLUJjTExDeURhbXhiNHRmYlJXOFI4X3Zxa3RTRjV5VmMyMzJoYUhoa3BTMkxBNDUtaTl6MXQzM1VnZWpwR0lfcG51dDd6aUFaZDJnZVFVWUJFM1hwdjR0b29jZFlaYXJMcmNJ?oc=5",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "US adds Alibaba, BYD, other Chinese tech champions to military company blacklist&nbsp;&nbsp;South China Morning Post",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US says BYD, Baidu, Alibaba and other tech giants are aiding China's military - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelJqSF9oSWNaaE56YnpwNkVadW83aHZ4OWNCWk40c21jTXF2T0l4dF94UmpiN0wyaHRoWUp2UXZ4NW9VVW1ERXJhRURTYkRQZnRycFZmMkoxMHdtblR2ZVNZcFVHTTV1NHFyQ1h1OUhkY2E2anBETkQySXlxeGd1cndQNlNzYzBXWkxJOUQ1WUlYamxfUFlCNFUyYThuM1I2MW9FTDJ6SHV2QngwYU9MOUFBRm4?oc=5",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "US says BYD, Baidu, Alibaba and other tech giants are aiding China's military&nbsp;&nbsp;Reuters",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Pentagon publishes annual list of companies working in US aiding Chinese military - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXFMWWc2dGJ2NS16OWxKR00yY2NwSEVJblgweXFuUllBSlFZZjJhOHh4MGV0ajVrTHR3SmpaSlF4SUs5cndfZVo0UXlKWk9rQWI5eVpuTGpYOWZkRWZuM0RTWVNxQlRyN0pYSHhIRC1YRXhfakhidFdnSHRNUWRTd3JxNVRDMU85VC1rRTlTVUM3bHU4RGdkTkl1WWZ1S2ZhSXc?oc=5",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "Pentagon publishes annual list of companies working in US aiding Chinese military&nbsp;&nbsp;Washington Examiner",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "WuXi AppTec lands on Pentagon blacklist, facing Biosecure ban - Fierce Pharma",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOXpBSEhtRXJoTDR4aVRnM0h1Nld0WTZKSk9jcjhVTmF1a3gwTGpfYVdYbEFGUVFnZXA5TGJDM0FybUtRVWstZW5ZZlNNaEdsS3BUcy1QbWZ1aWlUM08tWWljRzJ2cV9ma1V4U3BPRTRWamUzNUF6OS1wNTFkU0FWOE13XzRZc2pjMXc2djN4OXczUW9XUkxPSnh3YUFSSmZqVFlTMw?oc=5",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "WuXi AppTec lands on Pentagon blacklist, facing Biosecure ban&nbsp;&nbsp;Fierce Pharma",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US adds BYD, Nio and battery maker CALB to Chinese military company blacklist - carnewschina.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQanZIWlhaUUFFQVpkWlF3T21BQWFyeTVUdVg5VGZWVmxodmhYOE9YdjB3V2M1NEhZVGtybDdONFFYeVRQcnNoaDVSOTlpdnZjeEZKb2tGV1ZxZlJySVg2NVJLdWw2bVlYelVzUmV6VlRJOHY5eDI3SzBwLUZMYm5ZcXhFZndadEtDYXNtSHdqWW81VnZwNzNzZ09aSUJucjkwT0F5bHhzNVFjZHFGSGxlam5lbw?oc=5",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "summary": "US adds BYD, Nio and battery maker CALB to Chinese military company blacklist&nbsp;&nbsp;carnewschina.com",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Indonesia’s Over-Reliance on China is a Warning for Other Global South Countries - The China-Global South Project",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0hNVG5jQ25feXNwamNDd3R1RlNVV1ByTFNqVkVYU3BXTVFCaFNQRDI3U19oMk9nVFBTUGxjbUN3Q1hqTnNibHdDTXJRMzBUanZTRXQ0Rm1vNlAzdEJ0NXFBRnpQYkJRU0cyZVctNVloaDVvUk5iWU1RUHJTUDNHWmVUQk5LMjlGUUxrVVFB?oc=5",
-      "published": "Tue, 08 Jul 2025 07:00:00 GMT",
-      "summary": "Indonesia’s Over-Reliance on China is a Warning for Other Global South Countries&nbsp;&nbsp;The China-Global South Project",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Deep dive: Vietnam’s $134bn US surplus driven by sports - Sporting Goods Intelligence Europe",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2tVbkQwajdXZ3BfbTNqVTdzMWtCaUpfZDhLUFljS2FMRU1RMkliVTFQNzlPUXhiNlUxNXRqSUFXc1lFRVNfZWpWaTFsdmFhdnFvMUdhdWFJeVA0RWxMV2hOVFl4a3dwTUttRnRhbWhlTmlnVVUwSFF0dGFOaW1IN2hBVjRxVEVQTlNYTHZSNWRUVTJJV1I5bg?oc=5",
-      "published": "Tue, 06 Jan 2026 08:00:00 GMT",
-      "summary": "Deep dive: Vietnam’s $134bn US surplus driven by sports&nbsp;&nbsp;Sporting Goods Intelligence Europe",
-      "source": "Google News | Vietnam Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
       "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
       "link": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
       "published": "Tue, 05 May 2026 15:20:24 +0000",
@@ -1504,29 +586,11 @@
       "relevance": "low"
     },
     {
-      "title": "ASEAN’s U.S.-China Balancing Act Is Getting Much Harder - ChinaFile",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZndSSEpzV2czWmVvMW5FYTB0d29mU2ZhcHF5VXdCVUVha2w3U0tCeENqMWhWLWhUUVhOM3lweWFOM2hHWnhnYXJwWUEyRmNVNFVHX2g1bzFrMlAtc1VyU2J5a3ppYUI0WndVVG9kSEMtbkl1RGgyVFFJbkxPOTZxeHNhR19OWnk0VFZPekNLTmFUd045QmNteHB4Nkp2Rl9pT0NqMg?oc=5",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "summary": "ASEAN’s U.S.-China Balancing Act Is Getting Much Harder&nbsp;&nbsp;ChinaFile",
-      "source": "Google News | SE Asia Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
       "title": "The iPhone just had its best quarter ever",
       "link": "https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/",
       "published": "Thu, 29 Jan 2026 23:57:21 +0000",
       "summary": "Growth in regions like China and India are credited with pushing Apple's phone sales higher than ever.",
       "source": "TechCrunch | China",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Vietnam affirms joint growth with Thailand to drive ASEAN economy - Nation Thailand",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ybS1ZOXNSQXlsSHBacTY4ckZkRWJFX3pvcHVPUWFMM0lmUGNPRnBYUzFvNDZ2V2paYmVFSzEyd2lyVHlNXzlXNl9RQnNxWXNSTE1UT3JaQ0pnRlA5YTRn?oc=5",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "Vietnam affirms joint growth with Thailand to drive ASEAN economy&nbsp;&nbsp;Nation Thailand",
-      "source": "Google News | Thailand Trade",
       "priority": 0,
       "relevance": "low"
     },
@@ -1545,24 +609,6 @@
       "published": "Thu, 26 Mar 2026 02:46:48 +0000",
       "summary": "Did anyone think there would not be a reckoning over this tie-up?",
       "source": "TechCrunch | China",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Vietnam is on track to overtake Canada as a source of U.S. imports - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkU4alNORnNWem5BOXktTXhlOENSVFZvN3JSMkI2dUVpU28xQm1CeTNib281eDlmTFBwa2NmSG1VSTQ5MEY4c2x5MmJYUkFtSTNVTXR3cjFzTUZrWDRBSlpZejQtUHl5b1dzNTJxbzRkeER1ZThtSmVXTk5lRm54b3VLNTF5V0E2cEVmM1dNZTNXZW9jdzJNR2I0R0hSOXNCUE01aE9SZw?oc=5",
-      "published": "Thu, 26 Feb 2026 08:00:00 GMT",
-      "summary": "Vietnam is on track to overtake Canada as a source of U.S. imports&nbsp;&nbsp;The Globe and Mail",
-      "source": "Google News | Vietnam Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US, Indonesia discussing strategic management of critical minerals trade, minister says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMXpwZWJYUXV1V1F3eEliVjFTcEpCMDZmR1VHZVA2QjBiaHlNUnFncHNPRVVGWkNxeXJPUTNnazJkZ0NMTDlTcXRMMFA4QW9qdVZkbTR2M3BodXBJaWxhbW10dlN3ZmNNd18yN2luT0NOdmN6RTBmNDhYZWV1bURxck9kVWZUOEtBb05PMnFtQW0wY2kteldZOFc0QmpqQ3VhVEJuTlVJX2M5NTVza0RfNHRmS0J4ZTVtTkd6bXdJaVNvMHFfYWc2SWhwX04?oc=5",
-      "published": "Thu, 24 Jul 2025 07:00:00 GMT",
-      "summary": "US, Indonesia discussing strategic management of critical minerals trade, minister says&nbsp;&nbsp;Reuters",
-      "source": "Google News | Indonesia Trade/Minerals",
       "priority": 0,
       "relevance": "low"
     },
@@ -1603,42 +649,6 @@
       "relevance": "low"
     },
     {
-      "title": "Chinese drugmakers with big ambitions struggle to recruit staff for global expansion - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObC1HNXRtWmZwT3c2YVhxU1N5czl2N0VTZkVSbUhPVTlEVk12T2ZZcElYdVJVZUduTGJadm53dVBJMDRqTm1Pc2llclhUX0l5ZVpyRWh4NGl1cExsMFRxUEZsdWgzV05OSkk2NmwtWklYNUl3SE9GcDRkczVmV0tmMzFmLXhMU1N4SVpRbWllUV9ocEZHQlhvdzQ3X2JRYlBJS0hPMEFKZ0hFRFE0U04zMzRaYkNCYU0xbk1qdHlMdnl3cUdWQjZvYXlvWFdsdzlZeFhEZXZPNGlJZVpya2lRZV9Gbw?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "summary": "Chinese drugmakers with big ambitions struggle to recruit staff for global expansion&nbsp;&nbsp;Reuters",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "From volume to value: 5 strategic pillars to reform Indonesia’s nickel downstream processin - Independent Observer",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWk5MHlzMGJvaHdKNzM0TWdVRjd1Ylp1SlJ3VXVZMktOeC1vUHNrQnYzTnp1RjdNRTFHa0psNDk1WVVERHEyQ01JVUZrc1YyT2I4UTU3aUNHcXgyNVVFckhydjNCVjRSaWNTaUwxMmZQS3BhbUd6OUVjV1VSVDAtU00xaVRZMGRJakFzRWFkMzlSR2JrSmZySEdkZTNIT0k3azZ6VWRDcHF3SGRYZXpuRm41RQ?oc=5",
-      "published": "Thu, 15 Jan 2026 08:00:00 GMT",
-      "summary": "From volume to value: 5 strategic pillars to reform Indonesia’s nickel downstream processin&nbsp;&nbsp;Independent Observer",
-      "source": "Google News | Indonesia Trade/Minerals",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Mapping the China-Vietnam Trade Relationship: Key Trade Routes and Growth Drivers - Vietnam Briefing",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTVCc3N0ODVqVnU1Ykh0ZHJraEJPYUNRbXpkODBudkVFUlBmMnRiZkc1eElkWUNCdlVqTUlIbV9ZQ0Q5RDl0ZENoS0dIYXFCb2EwU1FNZmtkWHREeWNUNEhhbkY5MnVjcWgtMm1qeHRSM0RTaTlWZ0lXRGg3b0JFR3U3bXkxMnlSY05BREI1MklOS05DaDluZWZGMWhHZ2lfTmtzRGFXc0VMQmNnNURua1ZR?oc=5",
-      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "summary": "Mapping the China-Vietnam Trade Relationship: Key Trade Routes and Growth Drivers&nbsp;&nbsp;Vietnam Briefing",
-      "source": "Google News | Vietnam Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Thailand Economic Monitor February 2026: Advanced Green Manufacturing for Growth - World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWhJU3E4eHdhY0hmOXJGY25FVThyWldScmpUbXZ0ZjM4cHBHdHBxSHg5emxFZTVzVFN0RGI5UG5xUnc1U1doWkhweU9TdXQzUFVsZUJuVU9FUjJMbjQxdXk1emxWVmFpMEhXUDlZcExaRnJ1M0trU1R4N0pyeXZnTXBPUmNCeV9kZmp4NE9sWnFVRzRpUnFzaE4tNXUxZHN6RGhkT2Q1a01IcktmQkhoYmpTTEpDcVNnWUQ5QWZHX0dyOXYtaUxUTWVDVlFTbFZYQWdj?oc=5",
-      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
-      "summary": "Thailand Economic Monitor February 2026: Advanced Green Manufacturing for Growth&nbsp;&nbsp;World Bank Group",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
       "title": "OpenAI’s affordable ChatGPT Go plan expands to 16 new countries in Asia",
       "link": "https://techcrunch.com/2025/10/09/openais-affordable-chatgpt-go-plan-expands-to-16-new-countries-in-asia/",
       "published": "Thu, 09 Oct 2025 07:01:57 +0000",
@@ -1648,73 +658,10 @@
       "relevance": "low"
     },
     {
-      "title": "US-China Relations in the Trump 2.0 Era: A Timeline - China Briefing",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "US-China Relations in the Trump 2.0 Era: A Timeline&nbsp;&nbsp;China Briefing",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US reciprocal trade deals built to push America's trade partners away from China - Peterson Institute for International Economics",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTGpDblg2UjI3dkszcVEtSVJEb3JsdkhaSkFZVGxmTHV6UUg0NWd3MFFlQ2prRG04dS00Vk9neHJ1MXozNm5BcnNGWmszNDE3NktxdzFoZVFiVjczS1F5Qi1ZV0dTbFFETHN6bTBNNHYwTWNhdnlzY09HU2g3YXlHRlhHcDdUcGl6N3FsVkpLZGE1RXFRT1VXem83SlY2MFJ6UU5wSGM5aUV0Y19RREZWdm4tZ1dpZ3c?oc=5",
-      "published": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "summary": "US reciprocal trade deals built to push America's trade partners away from China&nbsp;&nbsp;Peterson Institute for International Economics",
-      "source": "Google News | China Trade/Tariff/Supply Chain",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US hits Vietnam with third probe as trade pressure grows - The Business Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORUJTNDFnQ0s2YzdQUE5OcXNQbWpOMTFyR1ZYb1I4TFRyWkV4bDV2TkNaZWpjVGtwRGs0Y0tXWWlsWkpYV3AwOGRYMkRCcVo3ZzU5MWI2NGRSczBXMlhQcER3aENSUWtUaHZsZG1CRm1OWlZiVFhkYjVqVHMwdTlJSm5NUjFsWmNUX1kwMHJici1ST0ppXzBPSlY4Zw?oc=5",
-      "published": "Sun, 31 May 2026 07:00:00 GMT",
-      "summary": "US hits Vietnam with third probe as trade pressure grows&nbsp;&nbsp;The Business Times",
-      "source": "Google News | Vietnam Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Why Chinese tech companies are racing to set up in Hong Kong - bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xUGw3V2NUMlZIU2ZmVHd1RWpSYjgwR3UxUVRMa2VoUEFDM09SUE5KcF9jUnRibTFNaWJlTDJJSU5QZk1WLVBCa1ZhV0xqODBuYWttVkNLZTd6dw?oc=5",
-      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
-      "summary": "Why Chinese tech companies are racing to set up in Hong Kong&nbsp;&nbsp;bbc.com",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXo1RzZsUk1PSnJ4V2hJWEZmZG51bmZrRW5Na183b0I5TUlWbGpFR3lVTFVoQ0pBUkNoQlcyUm9QQW1oSTdWLTdvaHRoZUdVVnJFalNQOWRjSC1fVHFIOVJnZjliSTdxTXhWYkNqQVU2dlRmYlRJMW9vLWpwY3hiLVBFNk10alBTLW1ud1FtOF9iaDRtRURMNEQ2ZHpIcmtkN2M1VEl0b1doX3dBckptVEppZXlzVi1xMUx5ZtIBwgFBVV95cUxPNUNPb1BmUzVUdm1pZVFfcC1jUGVwaUVyV1NvSjZVM1lEdnF1MnpsSzNRTnBXbFY2cHIxb1EwQ29peXZmNHFxUE9tUTg3ZlVuenZYeVVNZ1JwLVhkVktMdVlNWGtYVjNsWWR1Zk5fa2hKZHRZeDJadElPXzQwY1g0MUJhUTdzOFU0THNJSVhJSUR0NXFVUjdyNlZtUXdGRjNlbDRMWXJVbzdNVDFWSEZ5Q0RkT0ZvekJLMVI2aFAxZ3FRZw?oc=5",
-      "published": "Sun, 21 Jun 2026 07:00:00 GMT",
-      "summary": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist&nbsp;&nbsp;CNBC",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
       "title": "Launch of Northern Metropolis flats attracts strong interest from Hong Kong homebuyers",
       "link": "https://www.scmp.com/business/article/3364205/launch-northern-metropolis-flats-attracts-strong-interest-hong-kong-homebuyers?utm_source=rss_feed",
       "published": "Sun, 16 Aug 2026 23:30:08 +0000",
       "summary": "Hong Kong homebuyers flocked to the first batch of units at a major residential project in the Northern Metropolis with 44 – or more than half – of the 82 flats made available via regular sale finding buyers as of 7.30pm on Sunday, according to agents.\nWheelock Properties’ Park Silicon project in Kwu Tung North also sold eight units via tender worth more than HK$78.43 million (US$9.99 million), the developer said. The units were among the 18 available via tender starting Sunday.\nThe positive...",
-      "source": "SCMP | Tech",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Bruce Rockowitz on Why AI Is Reshaping Hong Kong’s Food Economy",
-      "link": "https://www.scmp.com/presented/business/topics/ai-transforming-industries/article/3363841/bruce-rockowitz-why-ai-reshaping-hong-kongs-food-economy?utm_source=rss_feed",
-      "published": "Sun, 16 Aug 2026 16:00:09 +0000",
-      "summary": "[The content of this article has been produced by our advertising partner.]\nArtificial intelligence is moving quickly from experiment to operating tool, and Bruce Rockowitz believes it is becoming an important competitive advantage for Hong Kong’s catering businesses as the city’s food delivery economy enters a more demanding phase.\nHong Kong’s online food delivery market has evolved from a pandemic-era convenience into one of the city’s most intensely contested consumer sectors. Operators now.....",
-      "source": "SCMP | Tech",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Jim Rogers talks up the Chinese yuan amid fears of a US market crisis",
-      "link": "https://www.scmp.com/business/money/markets-investing/article/3364181/jim-rogers-talks-chinese-yuan-amid-fears-us-market-crisis?utm_source=rss_feed",
-      "published": "Sun, 16 Aug 2026 08:38:09 +0000",
-      "summary": "Legendary American investor Jim Rogers has long advocated cash holdings given the potential for a market crisis due to US national debt.\nBut the currency he would hold might be the Chinese yuan rather than the US dollar, if the former were fully convertible, the veteran investor said in an interview at an investor event in Hong Kong on Saturday.\nThe remarks came at a time when the 83-year-old billionaire was planning to sell some equities and buy up cash, as he worried about an “extremely bad”.....",
       "source": "SCMP | Tech",
       "priority": 0,
       "relevance": "low"
@@ -1729,56 +676,11 @@
       "relevance": "low"
     },
     {
-      "title": "As Southeast Asia welcomes Trump, it battles headwinds unleashed by him - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW9weS1FRVlMemNfUWUyUnFxTFhRWllIRThpZUhKZzdQVEJ3Q1BZQlFMRklrSUNnQ21JdXB5LWtWaTF4RkNiUmo3YURBYWV2VHV6TVUtWERpVkh4Q2hzTkg5SHhFZG9URHFScFhKNXh3Rkc4b19SU1c1SDRJazdWamcySGs1OHdrZ1VLal9ZT0ktaWQ1TUdqelVkTnJYcy01SFdYbVFMMHR4bjNvRGFsN3p30gG3AUFVX3lxTE1sVWlaR21yeFEtb0xHX1R0azNRamxPUlBUVjJfd2hCOXRHcEx3bUtLYzNVNUpWTEhLNmMybVJDYmJrQ05MTzhRMlRzdjF3bW1jeFJPVUV0dFZFbGU1bnB1NURGbjJiWVp1LXA0bzBGRDktb3JxX1JhaW5Bdi1IRXhCYlNlM0FJbmZVc0RVRnFVVnp2ZHZsYmROcHhaU1dtQUdLemx4a0tDTUxGU1JkNHNoOVhMSUlmNA?oc=5",
-      "published": "Sat, 25 Oct 2025 07:00:00 GMT",
-      "summary": "As Southeast Asia welcomes Trump, it battles headwinds unleashed by him&nbsp;&nbsp;Al Jazeera",
-      "source": "Google News | SE Asia Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Thai Commerce Ministry, China discuss premium goods and SME access - Nation Thailand",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zY0pkQlo0VTZaaHo4WjN4b01ZVnZfTWNlb01CSEExaElXNWY4OEwwT1MtMFA0MWY5NzhFZU5oLVdXYXFKV3hNMWdvV1o5MG5CTFNWd1BOazBMdGRhdUdqUnJGUTFJemZxa0w5YjZtYkhkNjJoeHc?oc=5",
-      "published": "Sat, 23 May 2026 07:00:00 GMT",
-      "summary": "Thai Commerce Ministry, China discuss premium goods and SME access&nbsp;&nbsp;Nation Thailand",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Thailand gains from Vietnam tech boom but faces supply-chain challenge - Nation Thailand",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JX09EaWRqZEFjekNNTk9DZ2xra1lJeWVQYVFYUmFVVERYZC1Hc0JkdENLN0Q1X2kySFNOU1BjMHFWcEJVd3VLNllOOEVfaDFlSUo4OWxMY1J3a1dmTGYtMW9KemM?oc=5",
-      "published": "Sat, 13 Jun 2026 07:00:00 GMT",
-      "summary": "Thailand gains from Vietnam tech boom but faces supply-chain challenge&nbsp;&nbsp;Nation Thailand",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Thriving Beyond - JLL",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWQzNHdVd1dsWlVSaTdLTzltNWE5STBsUzJEYXpuQ3NCaVEyZE1adGh5YXVFNnRUUkZrbmlGTTFuTDhxbEQzT2g3UHVBMlVseEpfVXZMZWlhQmtvZm1CXzJQZFFEcnFnX2JtV0ZyZUZxblFlV2hWSGQwTlc0QndWaDFB?oc=5",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Thriving Beyond&nbsp;&nbsp;JLL",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
       "title": "China blocks Meta’s $2B Manus deal after months-long probe",
       "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
       "published": "Mon, 27 Apr 2026 13:16:55 +0000",
       "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
       "source": "TechCrunch | China",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Kazakhstan, Thailand Seek to Expand Trade, Investment Ties at Bangkok Business Forum - The Astana Times",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjFjbVExOTgtN19oQmFFY2hkZURNVDNHQTNLM0VyQnZNbi1iOUlFYXVSZ085WWFzc1J0eTVaMzJtV3pPQ1JXTl9aWVYzd1pRMEI2cnJxUW4xbzJkMFNmN0daQW55X2NNMG5ZbWF1cXJ6aW1pQnZQMTRteXNUS3ZsRkVFTGFrZk5GcVp6dGpNY2xlYW10WWFfUFlwSTh5bFAzSmFDZlpNcWN0T2FZQVR1V0JPd2R1QQ?oc=5",
-      "published": "Mon, 25 May 2026 07:00:00 GMT",
-      "summary": "Kazakhstan, Thailand Seek to Expand Trade, Investment Ties at Bangkok Business Forum&nbsp;&nbsp;The Astana Times",
-      "source": "Google News | Thailand Trade",
       "priority": 0,
       "relevance": "low"
     },
@@ -1792,20 +694,659 @@
       "relevance": "low"
     },
     {
-      "title": "Why Indonesia should ditch Trump’s mineral trade deal - Asia Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXhlR3hLUTF4RkxQc1F3dGRNYzkxb0FONDJiaDIzT1cwd2ZmUlFPbVRYUHlDN2dKMVFkNTl2WnBuZ2tnS0RKcVRkakRPdzVyVXplaVIyZHRTdGxzci1EenY2QzhzZTVBWXpJcVNiQ1pHNTBhSDhGUWgyc2g0ek5kLTc3X0cwSEpRa3lz?oc=5",
-      "published": "Mon, 23 Feb 2026 08:00:00 GMT",
-      "summary": "Why Indonesia should ditch Trump’s mineral trade deal&nbsp;&nbsp;Asia Times",
-      "source": "Google News | Indonesia Trade/Minerals",
+      "title": "US diesel crack surpasses US$100 a barrel for the first time on supply disruptions",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3364349/us-diesel-crack-surpasses-us100-barrel-first-time-supply-disruptions?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 23:09:16 +0000",
+      "summary": "The US diesel crack, a key measure of refining profitability, hit an all-time high of US$102.20 a barrel on Monday as global supply disruptions from the wars in Iran and Ukraine run into peak agricultural consumption season.\nMeasured as the premium ‌of US diesel futures over US West Texas Intermediate crude oil futures, the US diesel crack was trading at US$99.82 a barrel, up 2.4 per cent from Friday.\nThe crack has hit new intraday record highs in five of the last six sessions, reflecting...",
+      "source": "SCMP | China Economy",
       "priority": 0,
       "relevance": "low"
     },
     {
-      "title": "DW News. . The Pentagon just added three of China’s biggest companies to a military-linked blacklist, and they aren’t weapons manufacturers. Alibaba, BYD, and Baidu are just three of 188 Chinese companies on a list spanning EVs, AI, and semiconductors. - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQODFoTkM5RjhYSVhILW51cDJ1bE8yQ0lSWlhDWGtyR2VGclBxSWg5MVFvVTlORkRxbmx1eEVyTzRGNnpMaGlzTTZ6a3V5a3djc05KMENzS1BxcHN1UUdBNV9SM0hNMVlBU1AwUXBva1N4SkRMQjN0d3ZVWjRpd2FYXy1UU29aVU1jczVpZVNqeXJEWTNOSEMwVjZZZU9wRVZSRXNLcWlkSFZ2VVBpb2RaX3RYSjJIZURrdHlMZHhaaDNPM0ZTc0d1THRxV3UxNzBUUTg0eHB1MXhsVVFKTTBJeA?oc=5",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "DW News. . The Pentagon just added three of China’s biggest companies to a military-linked blacklist, and they aren’t weapons manufacturers. Alibaba, BYD, and Baidu are just three of 188 Chinese companies on a list spanning EVs, AI, and semiconductors.&nbsp;&nbsp;facebook.com",
-      "source": "Google News | 1260H Sanctions",
+      "title": "Is Hong Kong’s property market recovery running out of gas? UBS flags 4 risks",
+      "link": "https://www.scmp.com/business/article/3364136/hong-kongs-property-market-recovery-running-out-gas-ubs-flags-four-risks?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 23:00:09 +0000",
+      "summary": "The Hong Kong property market’s recovery is forecast to moderate in both prices and rents in the coming months as disruptions brought about by artificial intelligence, slower population inflows and other factors are likely to impact the upturn, according to UBS.\nThe Swiss investment bank said that in addition to AI and slower population growth, the city’s residential market could also be affected by the deepening integration of the Greater Bay Area, as well as incoming supply of new homes in the...",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Banking on Connectivity in a Fragmented World",
+      "link": "https://www.scmp.com/presented/business/banking-finance/topics/c-suite-content-hub/article/3363978/banking-connectivity-fragmented-world?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 23:00:07 +0000",
+      "summary": "George Tung, CEO of UOB Hong Kong, is positioning the bank to leverage the city’s role as a cross-border capital hub by strengthening ASEAN links, deepening client trust and embedding disciplined risk management.\nCapital rarely stands still in Asia. From mainland China to ASEAN and the Middle East, funds are constantly in motion, searching for stability, yield and trusted channels through which to flow. In an era shaped by geopolitical tension, trade realignment and volatile interest rates, the....",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Trump lets 60-day deadline for Iran peace deal expire, threatens to ‘bomb’ Oman",
+      "link": "https://www.scmp.com/news/us/diplomacy/article/3364348/trump-lets-60-day-deadline-iran-peace-deal-expire-threatens-bomb-oman?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 22:42:27 +0000",
+      "summary": "US President Donald Trump said on Monday that he would not seek to extend the memorandum of understanding with Iran, claiming that while Iran wants to make a deal, “they’re not going to make the kind of a deal that I feel is necessary”.\nThe agreement aimed to end the war and restore commercial navigation through the Strait of Hormuz, a vital global energy chokepoint, but negotiations stalled as both sides accused each other of violating the deal.\nPakistan brokered the memorandum of...",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Russia summons Japan ambassador over disputed Kuril Islands row after Putin visit",
+      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3364347/russia-summons-japan-ambassador-over-disputed-kuril-islands-row-after-putin-visit?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 22:30:14 +0000",
+      "summary": "Moscow said on Monday it had summoned the Japanese ambassador after Tokyo condemned President Vladimir Putin’s recent visit to Russia’s far-eastern Kuril Islands, which are also claimed by Japan.\nRussian-Japanese relations have long been dogged by the contested islands, known in Japan as the Northern Territories and seized by the Soviet Union in 1945.\nPutin, 73, travelled to the islands after visiting the nearby Russian island of Sakhalin, prompting Japan to summon Russia’s ambassador in...",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Claims Hegseth ‘on verge of losing job’ raise questions about future US-China defence ties",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3364313/claims-hegseth-verge-losing-job-raise-questions-about-future-us-china-defence-ties?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 22:00:09 +0000",
+      "summary": "Speculation is growing that Pentagon chief Pete Hegseth is at increasing risk of losing his job, raising questions about the possible implications for US-China relations, according to multiple sources familiar with the matter.\nThe sources, speaking on condition of anonymity because they were not authorised to discuss the matter publicly, said Hegseth was “on the verge of losing his job”.\nThey cited the ongoing deadlock over Iran and a slew of negative media reports, with one source pointing to.....",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "China’s space race has a new problem: finding room for failure",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3364147/chinas-space-race-has-new-problem-finding-room-failure?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 21:30:06 +0000",
+      "summary": "There is something about the speed of consensus on China’s rocket failures that should give us pause. Within hours of Long March-7A rocket’s disintegration over the South China Sea on August 10, trade reports were pointing to an engine as the likely culprit. The China Aerospace Science and Technology Corporation (CASC) had said nothing of the kind. An official Xinhua report about three hours after the launch described only “a flight anomaly” and an investigation under way.\nThe cause is unknown,....",
+      "source": "SCMP | China Economy",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Hong Kong exchange extends CEO Bonnie Chan’s term for 3 more years",
+      "link": "https://www.scmp.com/business/markets/article/3364333/hong-kong-exchange-extends-ceo-bonnie-chans-term-3-more-years?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 14:16:35 +0000",
+      "summary": "Hong Kong Exchanges and Clearing (HKEX) has extended the tenure of CEO Bonnie Chan Yiting for another three years amid the bourse’s aggressive push to enhance its international competitiveness.\nThe tenure of the 57-year-old Chan, the first woman to serve as CEO of the city’s exchange operator, will be renewed from March 1, 2027, to February 28, 2030, according to an exchange filing on Monday evening.\n“Bonnie has led HKEX Group with vision, purpose and distinction,” said Carlson Tong, HKEX...",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Billionaire Geely Auto head Li Shufu steps down as profit slips",
+      "link": "https://www.scmp.com/business/china-business/article/3364318/billionaire-geely-auto-head-li-shufu-steps-down-profit-slips?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 11:32:39 +0000",
+      "summary": "Chinese billionaire Li Shufu has relinquished his role as chairman of Geely Auto, describing the planned succession as the foundation for the future sustainable growth of the country’s second-largest carmaker.\nLi, the 63-year-old founder of the automotive group, announced his resignation just after Hong Kong-listed Geely reported record first-half revenue in China’s cutthroat car market on Monday.\nAndy An Conghui, 56, an executive director, would fill in the vacancy left by Li, effective on...",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "China’s first‑tier new home prices flat in July, ending 4‑month rebound",
+      "link": "https://www.scmp.com/business/article/3364291/chinas-first-tier-new-home-prices-flat-july-ending-4-month-rebound?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 09:04:58 +0000",
+      "summary": "New home prices in China’s four first-tier cities were flat on average in July from June, bringing an end to a four-month rebound, as analysts said month-on-month readings had weakened amid seasonal headwinds and an unusually rainy summer, further highlighting the urgency of stabilising the nation’s property market.\nShanghai and Shenzhen saw new home prices edge up 0.2 per cent in July from June, while Guangzhou posted a 0.1 per cent gain, according to data released by the National Bureau of...",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand",
+      "link": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 07:00:11 +0000",
+      "summary": "China’s autonomous-driving ambitions are winning growing recognition in Europe, with Deutsche Bank raising its target price for Momenta following a key regulatory breakthrough, and Pony.ai expanding its European robotaxi roll-out alongside Uber Technologies.\nIn a research note released on Monday, Deutsche Bank analyst Bin Wang saw Momenta as the “No 1 independent autonomous-driving solution provider globally”, particularly in the urban “navigation on autopilot” (NOA) segment.\n“Momenta’s market.....",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Ingenic launches IPO, joining wave of mainland China chipmakers raising funds in Hong Kong",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 06:40:22 +0000",
+      "summary": "Beijing-based Ingenic Semiconductor has launched a Hong Kong share offering to raise up to HK$3.22 billion (US$410.4 million), joining a growing wave of mainland Chinese chipmakers tapping the city’s capital markets to fund international expansion.\nThe company, which has been listed on Shenzhen’s Nasdaq-like ChiNext board since 2011, is offering 31.29 million H shares priced at up to HK$102.80 each, according to a filing on Monday. The shares were expected to start trading on August 25 under the...",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "China embraces ‘Grandpa Cute’; policewoman probed over uniform dance: 5 weekend reads you missed",
+      "link": "https://www.scmp.com/news/world/article/3364231/china-embraces-grandpa-cute-policewoman-probed-over-uniform-dance-5-weekend-reads-you-missed?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 04:15:09 +0000",
+      "summary": "We have put together stories from our coverage last weekend to help you stay informed about news across Asia and beyond. If you would like to see more of our reporting, please consider subscribing.\n1. Why Chinese youth are turning to an 84-year-old Cambridge professor for support\n\n2. Chinese officials rattled by White House chaos weeks ahead of Xi-Trump summit\n\n3. How Southeast Asia’s monarchies stay relevant in a volatile region\n\n4. Hong Kong policewoman facing probe over viral video of her...",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Parvin Decentralized Fund and Parvin Fund Management, LLC",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16768/parvin-decentralized-fund-and-parvin-fund-management-llc",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Sunshine Act Meetings",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16767/sunshine-act-meetings",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Agency Information Collection Request; 30-Day Public Comment Request; Submission for Office of Management and Budget Review; Generic Clearance for the Trusted Exchange Framework and Common Agreement (TEFCA) Monitoring Activities",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16766/agency-information-collection-request-30-day-public-comment-request-submission-for-office-of",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "The Office of the National Coordinator for Health IT (ONC), Office of the Secretary (OS), Department of Health and Human Services, is seeking a three-year generic clearance to collect routine customer feedback on agency service delivery and program performance related to TEFCA.",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Northern Lights Fund Trust and Ocean Park Asset Management, LLC",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16765/northern-lights-fund-trust-and-ocean-park-asset-management-llc",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16764/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16763/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "Notice is hereby given that the U.S. International Trade Commission has received a complaint entitled Certain Dynamic Random Access Memory (DRAM) Devices, Products Containing the Same, and Components Thereof (III), DN 3930; the Commission is soliciting comments on any public interest issues raised by the complaint or complainant's filing pursuant to the Commission's Rules of Practice and Procedure.",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16762/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Proposed Collection: 30-Day Comment Request; Specimen Resource Locator (National Cancer Institute)",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16761/proposed-collection-30-day-comment-request-specimen-resource-locator-national-cancer-institute",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "In compliance with the requirement of the Paperwork Reduction Act of 1995 to provide an opportunity for public comment on proposed data collection projects, the National Institutes of Health, National Cancer Institute (NCI) will publish periodic summaries of proposed projects to be submitted to the Office of Management and Budget (OMB) for review and approval.",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Ferndale Pier Maintenance Activities in Ferndale, Washington",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16758/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "In accordance with the regulations implementing the Marine Mammal Protection Act (MMPA), as amended, notification is hereby given that NMFS has issued a renewal incidental harassment authorization (IHA) to Petrogas Pacific, LLC (Petrogas) to harass marine mammals incidental to Ferndale Pier Maintenance Activities in Ferndale, Washington.",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Notice of Intent To Prepare an Environmental Analysis Assessing Potential Modifications to the Atlantic Large Whale Take Reduction Plan To Reduce Mortality and Serious Injury of Large Whales in Commercial Trap/Pot and Gillnet Fisheries Along the U.S. East Coast",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16756/notice-of-intent-to-prepare-an-environmental-analysis-assessing-potential-modifications-to-the",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "NMFS intends to prepare an environmental analysis in accordance with the National Environmental Policy Act (NEPA) to analyze the impacts of alternatives to amend the Atlantic Large Whale Take Reduction Plan (Plan) if determined to be necessary to reduce mortalities and serious injuries of North Atlantic right whales (Eubalaena glacialis) and other large whales caused by entanglement in commercial trap/pot and gillnet fisheries along the U.S. East Coast. This notice of intent informs the public o...",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Pesticide Program Dialogue Committee (PPDC); Notice of Charter Reestablishment; Request for Nominations",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16755/pesticide-program-dialogue-committee-ppdc-notice-of-charter-reestablishment-request-for-nominations",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "Notice is hereby given that the Environmental Protection Agency (EPA) has determined that, in accordance with the provisions of the Federal Advisory Committee Act (FACA), the Pesticide Program Dialogue Committee (PPDC) is in public interest and is necessary in connection with the performance of EPA's duties. Accordingly, PPDC will be reestablished for a two-year period and renewed as determined necessary. Copies of the PPDC charter will be filed with the appropriate congressional committees and ...",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Agency Information Collection Activities: Requests for Comments; Clearance for Renewal of Information Collection: Privacy International Civil Aviation Organization (ICAO) Address",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16754/agency-information-collection-activities-requests-for-comments-clearance-for-renewal-of-information",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, FAA invites public comments about our intention to request the Office of Management and Budget (OMB) approval for an information collection renewal. The collection involves an aircraft operator's request for a privacy ICAO address through a web-based application process. The information to be collected is necessary to qualify for the authorized use of the privacy ICAO address services and for monitoring to support continued airworthiness an...",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Aluminum Extrusions From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16753/aluminum-extrusions-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that the 18 companies under review of the antidumping duty (AD) order on aluminum extrusions from the People's Republic of China (China), covering the period of review (POR) May 1, 2024, through April 30, 2025, are not eligible to receive a separate rate and are, therefore, part of the China-wide entity.",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Foreign-Trade Zone (FTZ) 176, Notification of Proposed Production Activity; Coilcraft, Inc.; (Ferrous Iron Pre-Fabrication Material); Princeton, Illinois",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16752/foreign-trade-zone-ftz-176-notification-of-proposed-production-activity-coilcraft-inc-ferrous-iron",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Agency Information Collection Activities; Oil and Gas Drilling Operations",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16751/agency-information-collection-activities-oil-and-gas-drilling-operations",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Bureau of Safety and Environmental Enforcement (BSEE) proposes to renew an information collection.",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Denial of Motor Vehicle Defect Petition, DP26002",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16749/denial-of-motor-vehicle-defect-petition-dp26002",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "This notice sets forth the reasons for the denial of a defect petition (DP26002) submitted by Mr. Bhupinder Dhadda. The petition requested that the Agency initiate a safety defect investigation into wheel fastening practices on heavy-duty vehicles and vehicles utilizing 10-285.75 mm bolt circle wheels, with the focus of the investigation being the absence of a redundant mechanical wheel fastener mechanism. After conducting a technical review of the petition and other information, NHTSA's Office ...",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; New Collection: Title-Requests for DOJ Certification Letters for T Visa Holders",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16747/agency-information-collection-activities-proposed-ecollection-ecomments-requested-new-collection",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "The Criminal Division, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Notice of Final Federal Agency Actions on Proposed Highway in Tennessee",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16746/notice-of-final-federal-agency-actions-on-proposed-highway-in-tennessee",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "This notice announces actions taken by FHWA that are final. The actions relate to a proposed highway project, Interstate I-24, from I-40 in Nashville to I-840 near Murfreesboro, in Davidson County and Rutherford County, Tennessee, for approximately 26 miles. Those actions grant licenses, permits, and approvals for the project. The FHWA's Finding of No Significant Impact (FONSI) provides details on the Selected Alternative for the proposed improvements.",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Notice of Determinations; Culturally Significant Objects Being Imported for Conservation, Scientific Research, and Exhibition",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16745/notice-of-determinations-culturally-significant-objects-being-imported-for-conservation-scientific",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "Notice is hereby given of the following determinations: I hereby determine that certain objects, constituting a sculpture entitled &quot;Satyr and Hermaphrodite,&quot; being imported from abroad pursuant to an agreement with their foreign owner or custodian for temporary conservation, scientific research, and exhibition or display at The J. Paul Getty Museum at the Getty Villa, Pacific Palisades, California, and at possible additional exhibitions or venues yet to be determined, are of cultural s...",
+      "source": "Federal Register | USTR Notices",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Safety Zone; Fox River, Green Bay, WI",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16757/safety-zone-fox-river-green-bay-wi",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters on the Fox River, in Green Bay, WI. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an overwater fireworks display. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Lake Michigan, or their designated representative.",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Hematology and Pathology Devices; Reclassification of In Situ Hybridization Test Systems for Use With a Corresponding Approved Oncology Therapeutic Product",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16727/hematology-and-pathology-devices-reclassification-of-in-situ-hybridization-test-systems-for-use-with",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "The Food and Drug Administration (FDA, the Agency, or we) is issuing a final order reclassifying in situ hybridization (ISH) test systems indicated for use with a corresponding approved oncology therapeutic product (product codes NYQ, MVD, OWE, and PNK), all postamendments class III (premarket approval) devices, into class II (special controls), subject to premarket notification. FDA is also establishing a new device classification regulation, along with the special controls that are necessary t...",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Walnuts Grown in California; Changes to Administrative Requirements",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16723/walnuts-grown-in-california-changes-to-administrative-requirements",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "This final rule implements a recommendation from the California Walnut Board (Board) to make changes to the administrative requirements prescribed under the Federal marketing order for walnuts grown in California (Order). This final rule provides a schedule for required handler assessment payments, establishes interest and late payment charges on overdue assessments owed, and modifies the existing reporting requirements for handler acquisitions of walnuts.",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Calcium Carbonate; Exemption From the Requirement of a Pesticide Tolerance",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16720/calcium-carbonate-exemption-from-the-requirement-of-a-pesticide-tolerance",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "This regulation establishes an exemption from the requirement of a tolerance for residues of calcium carbonate (CAS # 471-34-1), in or on all food commodities when used in accordance with label directions and good agricultural practices. Columbia River Carbonates, submitted a petition to EPA under the Federal Food, Drug, and Cosmetic Act (FFDCA), requesting an exemption from the requirement of a tolerance. This regulation eliminates the need to establish a maximum permissible level for residues ...",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Establishment of the Columbia Hills Viticultural Area",
+      "link": "https://www.federalregister.gov/documents/2026/08/17/2026-16701/establishment-of-the-columbia-hills-viticultural-area",
+      "published": "Mon, 17 Aug 2026 04:00:00 GMT",
+      "summary": "The Alcohol and Tobacco Tax and Trade Bureau (TTB) establishes the 29,387-acre &quot;Columbia Hills&quot; American viticultural area (AVA) in Klickitat County, Washington. The newly established AVA is located entirely within the existing Columbia Valley viticultural area. TTB designates viticultural areas to allow vintners to better describe the origin of their wines and to allow consumers to better identify wines they may purchase.",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Foreign capital is dipping its toes into China’s property sector. Is a rebound in store?",
+      "link": "https://www.scmp.com/business/article/3364091/foreign-capital-dipping-its-toes-chinas-property-sector-rebound-store?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 02:00:11 +0000",
+      "summary": "From shopping malls to warehousing and logistics companies, a wave of deals by foreign funds in China is injecting liquidity into a property sector scarred by years of struggle.\nSeveral Wanda Plazas – the sprawling mixed-use developments that were once the flagship assets of tycoon Wang Jianlin’s Dalian Wanda Group – received fresh capital injections from global asset manager PAG in June and July.\nThe cash-strapped developer has been forced to offload properties to repay debt. Such deals,...",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Hong Kong tax reforms for treasury centres will lure multinationals, mainland firms: PwC",
+      "link": "https://www.scmp.com/business/banking-finance/article/3364223/hong-kong-tax-reforms-treasury-centres-will-lure-multinationals-mainland-firms-pwc?utm_source=rss_feed",
+      "published": "Mon, 17 Aug 2026 00:16:57 +0000",
+      "summary": "The Hong Kong government’s plan to increase tax incentives for corporate treasury centres will be attractive to multinational and mainland firms considering such activities in the city, according to tax experts at PwC.\nThe government is soliciting public comment from late July until September 4 for a range of tax reforms, after which a bill will be submitted to the Legislative Council in the first half of 2027.\n“Enhancing the relevant tax incentives will not only help attract more enterprises to...",
+      "source": "SCMP | Tech",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Notepad++ says Chinese government hackers hijacked its software updates for months",
+      "link": "https://techcrunch.com/2026/02/02/notepad-says-chinese-government-hackers-hijacked-its-software-updates-for-months/",
+      "published": "Mon, 02 Feb 2026 18:09:34 +0000",
+      "summary": "The developer of the popular text editor Notepad++ said hackers associated with the Chinese government hijacked its software update mechanism to deliver tainted software to users for months.",
+      "source": "TechCrunch | China",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
+      "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+      "published": "Fri, 15 May 2026 15:42:11 +0000",
+      "summary": "While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities.",
+      "source": "TechCrunch | China",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Differential Pay for Prescribed Wildland Fire Activities",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16687/differential-pay-for-prescribed-wildland-fire-activities",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The Office of Personnel Management is issuing a final rule to add prescribed (planned) wildland fire duties as covered activities triggering payment of Hazardous Duty Pay (HDP) for General Schedule (GS) employees and Environmental Differential Pay (EDP) for Federal Wage System (FWS) employees. The final rule authorizes a 25 percent differential for GS and FWS employees participating as a member of a firefighting crew engaged in activities on the fireline directly involving the implementation and...",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Airworthiness Directives; Air Tractor, Inc. Airplanes",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16672/airworthiness-directives-air-tractor-inc-airplanes",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The FAA is superseding Airworthiness Directive (AD) 2024-16- 06, which applied to all Air Tractor, Inc. (Air Tractor) Model AT-802 and AT-802A airplanes with Wipaire, Inc. Supplemental Type Certificate (STC) No. SA01795CH installed. AD 2024-16-06 required repetitively inspecting the left and right, forward and rear, horizontal stabilizer spars for cracks, replacing any horizontal stabilizer spar found cracked or damaged, installing bathtub fittings, and reporting inspection results to the FAA. S...",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Special Local Regulation; ChattaWake Wakesurfing Event, Tennessee River, Chattanooga TN",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16660/special-local-regulation-chattawake-wakesurfing-event-tennessee-river-chattanooga-tn",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The Coast Guard is establishing a special local regulation (SLR) for the ChattaWake wakesurfing competition, from Mile Marker 462 to 466 on the Tennessee River near Chattanooga, TN. This rulemaking will create a special regulated area requiring non-participants to transit at no-wake speed to protect wake surfers from potential hazards on the waterway.",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16657/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The FAA is superseding Airworthiness Directive (AD) 2023-21- 10, which applied to certain ATR-GIE Avions de Transport R[eacute]gional Model ATR42-500 and ATR72-212A airplanes. AD 2023-21-10 required an inspection of the horizontal stabilizer (HS) left- and right-hand leading edge lateral ribs, the box in between, the center box upper panel, and HS forward back-up fitting for discrepancies and applicable corrective action. Since the FAA issued AD 2023-21-10, it was determined that additional airp...",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Airworthiness Directives; Pratt & Whitney Canada Corp. Engines",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16655/airworthiness-directives-pratt-and-whitney-canada-corp-engines",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The FAA is superseding Airworthiness Directive (AD) 2026-13- 09, which applied to all Pratt &amp; Whitney Canada Corp. (P&amp;WC) Model PW210A, PW210A1, and PW210S engines. AD 2026-13-09 required repetitive visual inspections of the turbine exhaust frame for cracks and, depending on the results of the inspections, replacement of the turbine exhaust frame. Since the FAA issued AD 2026-13-09, a manufacturer's analysis revealed that turbine exhaust frames manufactured from a certain material were l...",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Safety Zone; West Passage Narragansett Bay, Narragansett, RI",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16645/safety-zone-west-passage-narragansett-bay-narragansett-ri",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters on the West Passage Narragansett Bay. The safety zone is needed to protect swimmers, personnel, vessels, and the marine environment from potential hazards during a swim event. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Southeastern New England, or their designated representative.",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Safety Zone; St. Clair River; Port Huron, MI",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16644/safety-zone-st-clair-river-port-huron-mi",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters of the St. Clair River for 7.5 miles beginning in Port Huron, MI. Though this is an unsanctioned, non-permitted marine event, this zone is necessary to provide for the safety of life on these navigable waters during a float down event near Port Huron, MI. Entry into this zone of vessels or non-participants in the event is prohibited unless specifically authorized by the Captain of the Port Detroit (COTP) or their design...",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Safety Zone; Atlantic Ocean, Culebra, Puerto Rico",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16643/safety-zone-atlantic-ocean-culebra-puerto-rico",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters within 200 yards west of Carlos Rosario Beach, Culebra, Puerto Rico. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with unexploded ordnance and associated removal operations. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector San Juan, or their designated representative.",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Airworthiness Directives; Airbus Helicopters",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16641/airworthiness-directives-airbus-helicopters",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The FAA is superseding Airworthiness Directive (AD) 2023-25- 14, which applied to certain Airbus Helicopters Model EC130T2 helicopters. AD 2023-25-14 revised the procedures for inspecting the vibration level on the tail rotor drive shaft and, depending on these results, required replacing certain parts. Since the FAA issued AD 2023-25-14, the manufacturer developed a modification of the rear drive shaft, sliding flange, and equipped splined sleeve. This AD requires installing this modification a...",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16636/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The FAA is adopting a new airworthiness directive (AD) for all Rolls-Royce Deutschland Ltd &amp; Co KG (RRD) Model Trent 1000-A2, Trent 1000-AE2, Trent 1000-C2, Trent 1000-CE2, Trent 1000-D2, Trent 1000-E2, Trent 1000-G2, Trent 1000-H2, Trent 1000-J2, Trent 1000-K2, and Trent 1000-L2 engines. This AD was prompted by reports of cracking of the intermediate pressure (IP) compressor variable inlet guide vanes (VIGVs) due to high-cycle fatigue propagation. This AD requires repetitive borescope inspe...",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Updates and Amendments to the Civil Service Rules",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16630/updates-and-amendments-to-the-civil-service-rules",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "Pursuant to the President's direction in Executive Order 14410, Implementing Schedule Policy/Career in the Excepted Service, the Office of Personnel Management (OPM) is issuing a direct final rule to update and amend obsolete and outdated provisions of the Civil Service Rules that do not substantively affect agency operations.",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Approval of Source-Specific Air Quality Implementation Plan; New York; Big Six Towers Inc.",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16627/approval-of-source-specific-air-quality-implementation-plan-new-york-big-six-towers-inc",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The Environmental Protection Agency (EPA) is approving a revision to the State of New York's State Implementation Plan (SIP) for the ozone National Ambient Air Quality Standard (NAAQS) related to a source-specific SIP (SSSIP) revision for Big Six Towers Inc. (the Big Six), located at 59-55 47th Ave. Woodside, NY 11377 (the Facility). The EPA found that the control options in this SSSIP revision implement Reasonably Available Control Technology (RACT) with respect to oxides of nitrogen (NO&lt;INF...",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "General Services Administration Property Management Regulation (GSPMR): Nondiscrimination in Programs Receiving Federal Financial Assistance",
+      "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16584/general-services-administration-property-management-regulation-gspmr-nondiscrimination-in-programs",
+      "published": "Fri, 14 Aug 2026 04:00:00 GMT",
+      "summary": "The General Services Administration (GSA) revises its regulations implementing Title VI of the Civil Rights Act of 1964 (Title VI) and moves those regulations from the Federal Property Management Regulations (FPMR) to the General Services Administration Property Management Regulations (GSPMR). Title VI prohibits discrimination on the basis of race, color, or national origin in programs or activities receiving Federal financial assistance. This final rule updates GSA's Title VI regulations to ref...",
+      "source": "Federal Register | BIS Rules",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "China’s Salt Typhoon hackers broke into Norwegian companies",
+      "link": "https://techcrunch.com/2026/02/06/chinas-salt-typhoon-hackers-broke-into-norwegian-companies/",
+      "published": "Fri, 06 Feb 2026 15:39:46 +0000",
+      "summary": "Norway's government accused China’s Salt Typhoon hacking group of conducting a cyberespionage campaign in the country.",
+      "source": "TechCrunch | China",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Exclusive: Google plans to stop making Pixel products in China in 2027",
+      "link": "https://asia.nikkei.com/spotlight/supply-chain/exclusive-google-plans-to-stop-making-pixel-products-in-china-in-2027",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Designer denim and AI concierges: Japan's konbini put a new face forward",
+      "link": "https://asia.nikkei.com/business/retail/designer-denim-and-ai-concierges-japan-s-konbini-put-a-new-face-forward",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Takaichi's food tax cut will leave Japan budget relying on inflation",
+      "link": "https://asia.nikkei.com/spotlight/comment/takaichi-s-food-tax-cut-will-leave-japan-budget-relying-on-inflation",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Chip boom pushes Vietnam, Philippines closer to 'high-income' status",
+      "link": "https://asia.nikkei.com/economy/chip-boom-pushes-vietnam-philippines-closer-to-high-income-status2",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Japan readies strategic changes as drones, China upend landscape",
+      "link": "https://asia.nikkei.com/politics/defense/japan-readies-strategic-changes-as-drones-china-upend-landscape",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Delta Electronics' Thai subsidiary thrives despite recent share slump",
+      "link": "https://asia.nikkei.com/spotlight/asean-money/delta-electronics-thai-subsidiary-thrives-despite-recent-share-slump",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Global stock pickers' Japan buys: JX Advanced Metals, Sanrio move up",
+      "link": "https://asia.nikkei.com/business/markets/equities/global-stock-pickers-japan-buys-jx-advanced-metals-sanrio-move-up",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Won and yen: 2 currencies, 2 very different problems",
+      "link": "https://asia.nikkei.com/opinion/won-and-yen-2-currencies-2-very-different-problems",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Japan Inc. raises full-year profit forecast to 14% jump on AI and chips",
+      "link": "https://asia.nikkei.com/business/companies/japan-inc.-raises-full-year-profit-forecast-to-14-jump-on-ai-and-chips",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Japan wrestles with low rates of immigrant pension payments",
+      "link": "https://asia.nikkei.com/spotlight/japan-immigration/japan-wrestles-with-low-rates-of-immigrant-pension-payments",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Trump opens door to talks with North Korea's Kim with downsized drills",
+      "link": "https://asia.nikkei.com/politics/international-relations/trump-opens-door-to-talks-with-north-korea-s-kim-with-downsized-drills",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Japan's life insurers' unrealized bond losses near $200bn as rates soar",
+      "link": "https://asia.nikkei.com/business/insurance/japan-s-life-insurers-unrealized-bond-losses-near-200bn-as-rates-soar",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Xi's decisions on military, party leadership in focus after annual conclave",
+      "link": "https://asia.nikkei.com/politics/xi-s-decisions-on-military-party-leadership-in-focus-after-annual-conclave",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "China's Geely boosts export target as founder warns of 'deglobalization'",
+      "link": "https://asia.nikkei.com/business/automobiles/china-s-geely-boosts-export-target-as-founder-warns-of-deglobalization",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Indonesia extends credit card network in challenge to Visa and Mastercard",
+      "link": "https://asia.nikkei.com/business/finance/indonesia-extends-credit-card-network-in-challenge-to-visa-and-mastercard",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Japan's Ippudo aims for Indonesian noodle network with halal help",
+      "link": "https://asia.nikkei.com/business/food-beverage/japan-s-ippudo-aims-for-indonesian-noodle-network-with-halal-help",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "China's economic growth challenges mount as consumption slips",
+      "link": "https://asia.nikkei.com/economy/china-s-economic-growth-challenges-mount-as-consumption-slips",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "priority": 0,
+      "relevance": "low"
+    },
+    {
+      "title": "Canada review of Argentina lithium sale tests warming ties with China",
+      "link": "https://asia.nikkei.com/business/materials/canada-review-of-argentina-lithium-sale-tests-warming-ties-with-china",
+      "published": "",
+      "summary": "",
+      "source": "Nikkei Asia",
       "priority": 0,
       "relevance": "low"
     }
