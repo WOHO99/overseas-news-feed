@@ -216,9 +216,9 @@ def main():
     # 排序：优先级降序 → 发布时间降序
     recent_items.sort(key=lambda x: (x["priority"], x.get("published", "")), reverse=True)
 
-    # 分类标记
+    # 分类标记（标题命中2个关键词即high）
     for item in recent_items:
-        if item["priority"] >= 3:
+        if item["priority"] >= 2:
             item["relevance"] = "high"
         elif item["priority"] >= 1:
             item["relevance"] = "medium"
