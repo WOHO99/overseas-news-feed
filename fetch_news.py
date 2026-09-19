@@ -39,6 +39,18 @@ FEEDS = {
             "url": "https://www.scmp.com/rss/91/feed",
             "tag": "SCMP | China Economy"
         },
+        {
+            "url": "https://news.google.com/rss/search?q=site:reuters.com+trade+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Reuters | Trade/Tariff"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:cnbc.com+tariff+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "CNBC | Tariff/Trade"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:bloomberg.com+tariff+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Bloomberg | Tariff/Trade"
+        },
     ],
     "科技+出海": [
         {
@@ -51,6 +63,10 @@ FEEDS = {
         },
     ],
     "政策法规": [
+        {
+            "url": "https://ustr.gov/taxonomy/term/244/feed",
+            "tag": "USTR | Press Releases"
+        },
         {
             "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=office-of-the-united-states-trade-representative&conditions%5Btype%5D%5B%5D=NOTICE",
             "tag": "Federal Register | USTR Notices"
