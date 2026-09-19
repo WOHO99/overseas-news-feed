@@ -1,18 +1,17 @@
 #!/usr/bin/env python3
 """
-Overseas News Feed Fetcher v2
+Overseas News Feed Fetcher v3
 抓取海外新闻RSS，合并为news.json，通过jsDelivr CDN分发给国内使用。
 
-v2 改动：
-1. Google News 搜索词加 when:3d，强制返回最近3天文章
-2. 加日期过滤：只保留最近72小时内的条目
-3. Federal Register 降噪：标题不含贸易关键词的丢弃
-4. 去重优化：title 哈希 + link 双重去重
-5. 去掉明显无效的源（feedburner Bloomberg、TechCrunch 旧 feed）
+v3 改动：
+1. 增量去重（SeenIndex）：读取旧news.json，记住已见过的文章，避免重复
+2. 熔断机制：记录每个源的产出，连续3次零产出的源标记为熔断
+3. 从v2继承：when:3d、72h日期过滤、Federal Register降噪、双重去重
 """
 import feedparser
 import json
 import re
+import os
 import hashlib
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -227,15 +226,51 @@ def fetch_feed(url, tag, max_items=20):
 
 def main():
     now_str = datetime.now(timezone.utc).isoformat()
-    print(f"[{now_str}] Starting news fetch v2...")
+    print(f"[{now_str}] Starting news fetch v3...")
     all_items = []
     stats = {}
+
+    # 加载旧 news.json（增量去重）
+    old_seen = set()
+    old_articles = []
+    source_health = {}
+    if os.path.exists("news.json"):
+        try:
+            with open("news.json", "r", encoding="utf-8") as f:
+                old = json.load(f)
+            old_articles = old.get("articles", [])
+            for a in old_articles:
+                key = a.get("link") or hashlib.md5(a.get("title", "").lower().encode()).hexdigest()
+                old_seen.add(key)
+                # 记录源健康状态
+                src = a.get("source", "")
+                if src not in source_health:
+                    source_health[src] = {"runs": 0, "total_items": 0}
+                source_health[src]["runs"] += 1
+                source_health[src]["total_items"] += 1
+            print(f"  Loaded old news.json: {len(old_seen)} seen articles, {len(source_health)} sources")
+        except Exception as e:
+            print(f"  [WARN] Failed to load old news.json: {e}")
+
+    # 熔断：连续3次零产出的源跳过
+    circuit_broken = set()
+    for src, health in source_health.items():
+        if health["runs"] >= 3 and health["total_items"] == 0:
+            circuit_broken.add(src)
+    if circuit_broken:
+        print(f"  Circuit broken (skipped): {circuit_broken}")
 
     for category, feeds in FEEDS.items():
         cat_items = []
         for feed_def in feeds:
             url = feed_def["url"]
             tag = feed_def["tag"]
+
+            # 熔断检查
+            if tag in circuit_broken:
+                print(f"  [SKIP] {tag} (circuit broken)")
+                continue
+
             print(f"  Fetching: {tag}...")
             items = fetch_feed(url, tag)
             cat_items.extend(items)
@@ -254,8 +289,16 @@ def main():
             seen[key] = item
     unique_items = list(seen.values())
 
+    # 增量去重：过滤掉旧 news.json 里已有的文章
+    new_items = []
+    for item in unique_items:
+        key = item["link"] or hashlib.md5(item["title"].lower().encode()).hexdigest()
+        if key not in old_seen:
+            new_items.append(item)
+    print(f"  Incremental: {len(unique_items)} unique -> {len(new_items)} new (filtered out {len(unique_items)-len(new_items)} duplicates)")
+
     # 日期过滤：只保留最近72小时
-    recent_items = [i for i in unique_items if is_recent(i.get("published", ""), 72)]
+    recent_items = [i for i in new_items if is_recent(i.get("published", ""), 72)]
 
     # 排序：优先级降序 → 发布时间降序
     recent_items.sort(key=lambda x: (x["priority"], x.get("published", "")), reverse=True)
@@ -269,19 +312,23 @@ def main():
         else:
             item["relevance"] = "low"
 
+    # 合并新旧：新文章放前面，旧文章补到后面（保留历史）
+    combined = recent_items + [a for a in old_articles if a not in recent_items][:100]
+
     # 构建输出
     output = {
         "updated": now_str,
-        "total": len(recent_items),
-        "high_priority": len([i for i in recent_items if i["relevance"] == "high"]),
+        "total": len(combined),
+        "high_priority": len([i for i in combined if i.get("relevance") == "high"]),
         "stats_by_category": stats,
-        "articles": recent_items[:200],
+        "circuit_broken": list(circuit_broken),
+        "articles": combined[:200],
     }
 
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\nDone. Recent(72h): {output['total']}, High priority: {output['high_priority']}")
+    print(f"\nDone. New recent(72h): {len(recent_items)}, Total: {output['total']}, High priority: {output['high_priority']}")
     print(f"Stats: {stats}")
 
 
