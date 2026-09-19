@@ -107,6 +107,18 @@ FEEDS = {
             "url": "https://news.google.com/rss/search?q=site:kemendag.go.id+when:3d&hl=en-US&gl=US&ceid=US:en",
             "tag": "Indonesia Kemendag"
         },
+        {
+            "url": "https://news.google.com/rss/search?q=site:wto.org+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "WTO"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:unctad.org+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "UNCTAD"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:worldbank.org+trade+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "World Bank"
+        },
     ],
     "东南亚本地": [
         {
