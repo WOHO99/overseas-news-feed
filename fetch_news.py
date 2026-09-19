@@ -57,6 +57,22 @@ FEEDS = {
             "url": "https://news.google.com/rss/search?q=Chinese+companies+going+global+when:3d&hl=en-US&gl=US&ceid=US:en",
             "tag": "Google News | China Going Global"
         },
+        {
+            "url": "https://news.google.com/rss/search?q=Amazon+seller+ban+suspension+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Amazon Seller Policy"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=Temu+SHEIN+TikTok+Shop+tariff+regulation+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Cross-border Ecom Policy"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=de+minimis+small+parcel+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "De Minimis Tariff"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=VAT+cross-border+e-commerce+seller+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Ecom VAT/Tax"
+        },
     ],
     "政策法规": [
         {
