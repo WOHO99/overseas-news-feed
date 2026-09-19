@@ -32,10 +32,6 @@ FEEDS = {
             "tag": "Google News | SE Asia Trade"
         },
         {
-            "url": "https://asia.nikkei.com/rss/feed/nar",
-            "tag": "Nikkei Asia"
-        },
-        {
             "url": "https://www.scmp.com/rss/91/feed",
             "tag": "SCMP | China Economy"
         },
@@ -84,28 +80,12 @@ FEEDS = {
             "tag": "Google News | 1260H Sanctions"
         },
         {
-            "url": "https://news.google.com/rss/search?q=site:commerce.gov+tariff+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
-            "tag": "US Commerce Dept"
-        },
-        {
             "url": "https://news.google.com/rss/search?q=site:policy.trade.ec.europa.eu+when:3d&hl=en-US&gl=US&ceid=US:en",
             "tag": "EU DG Trade"
         },
         {
             "url": "https://news.google.com/rss/search?q=site:mti.gov.sg+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
             "tag": "Singapore MTI"
-        },
-        {
-            "url": "https://news.google.com/rss/search?q=site:miti.gov.my+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
-            "tag": "Malaysia MITI"
-        },
-        {
-            "url": "https://news.google.com/rss/search?q=site:moc.go.th+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
-            "tag": "Thailand Commerce"
-        },
-        {
-            "url": "https://news.google.com/rss/search?q=site:kemendag.go.id+when:3d&hl=en-US&gl=US&ceid=US:en",
-            "tag": "Indonesia Kemendag"
         },
         {
             "url": "https://news.google.com/rss/search?q=site:wto.org+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
@@ -121,14 +101,6 @@ FEEDS = {
         },
     ],
     "东南亚本地": [
-        {
-            "url": "https://moit.gov.vn/rss/2005517/101788859.rss",
-            "tag": "Vietnam MoIT"
-        },
-        {
-            "url": "https://www.thejakartapost.com/rss",
-            "tag": "Jakarta Post"
-        },
         {
             "url": "https://www.straitstimes.com/rss/breaking-news",
             "tag": "Straits Times | Breaking"
