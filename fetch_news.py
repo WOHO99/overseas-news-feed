@@ -72,6 +72,26 @@ FEEDS = {
             "url": "https://news.google.com/rss/search?q=VAT+cross-border+e-commerce+seller+when:3d&hl=en-US&gl=US&ceid=US:en",
             "tag": "Ecom VAT/Tax"
         },
+        {
+            "url": "https://news.google.com/rss/search?q=site:maersk.com+trade+shipping+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Maersk | Shipping/Trade"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:dhl.com+shipping+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "DHL | Logistics"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:fedex.com+shipping+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "FedEx | Logistics"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:shopee.com+seller+policy+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Shopee | Seller Policy"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:lazada.com+seller+policy+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Lazada | Seller Policy"
+        },
     ],
     "政策法规": [
         {
