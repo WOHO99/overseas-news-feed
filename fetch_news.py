@@ -92,6 +92,42 @@ FEEDS = {
             "url": "https://news.google.com/rss/search?q=site:lazada.com+seller+policy+when:3d&hl=en-US&gl=US&ceid=US:en",
             "tag": "Lazada | Seller Policy"
         },
+        {
+            "url": "https://news.google.com/rss/search?q=site:msc.com+shipping+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "MSC | Shipping"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:hapag-lloyd.com+shipping+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Hapag-Lloyd | Shipping"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:cma-cgm.com+shipping+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "CMA CGM | Shipping"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:ups.com+shipping+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "UPS | Logistics"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:ebay.com+seller+policy+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "eBay | Seller Policy"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:mercadolibre.com+seller+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Mercado Libre | Seller"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:walmart.com+trade+sourcing+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Walmart | Sourcing/Trade"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:apple.com+supply+chain+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Apple | Supply Chain"
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=site:toyota.com+supply+chain+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Toyota | Supply Chain"
+        },
     ],
     "政策法规": [
         {
