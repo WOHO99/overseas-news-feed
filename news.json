@@ -1,1814 +1,503 @@
 {
-  "updated": "2026-09-20T22:04:13.599117+00:00",
-  "total": 252,
-  "high_priority": 9,
-  "stats_by_category": {
-    "财经主流": 106,
-    "科技+出海": 203,
-    "政策法规": 84,
-    "东南亚本地": 56
+ "updated": "2026-09-27T01:38:15.365876+00:00",
+ "total": 50,
+ "high_priority": 2,
+ "stats_by_category": {
+  "美国官方": 0,
+  "欧盟官方": 0,
+  "国际组织": 0,
+  "海外媒体": 0,
+  "Google News 精选": 0,
+  "企业官方": 0,
+  "亚太官方": 0
+ },
+ "fail_counts": {
+  "USTR | Press Releases": 1,
+  "Federal Register | USTR": 1,
+  "Federal Register | BIS": 1,
+  "USITC | Trade": 1,
+  "EU DG Trade | News": 1,
+  "WTO | News": 1,
+  "IMF | News": 1,
+  "World Bank | News": 1,
+  "OECD | News": 1,
+  "IEA | Energy": 1,
+  "SCMP | China Economy": 1,
+  "Straits Times | Breaking": 1,
+  "Bangkok Post | Breaking": 1,
+  "Vietnam Plus | News": 1,
+  "Google News | China Trade/Tariff": 1,
+  "Reuters | Trade/Tariff": 1,
+  "Bloomberg | Tariff/Trade": 1,
+  "CNBC | Tariff/Trade": 1,
+  "Google News | USTR 301": 1,
+  "Google News | EU Trade": 1,
+  "Google News | SE Asia Trade": 1,
+  "Maersk | Shipping": 1,
+  "CMA CGM | Shipping": 1,
+  "MSC | Shipping": 1,
+  "Hapag-Lloyd | Shipping": 1,
+  "DHL | Logistics": 1,
+  "FedEx | Logistics": 1,
+  "UPS | Logistics": 1,
+  "eBay | Seller": 1,
+  "Shopee | Seller": 1,
+  "Apple | Supply Chain": 1,
+  "Japan METI | Trade": 1,
+  "Singapore MTI | Trade": 1,
+  "Australia DFAT | Trade": 1,
+  "Australia DFAT | Google": 1
+ },
+ "articles": [
+  {
+   "title": "Jacob Sullum: Why Section 301 tariffs are illegal - The Daily Times",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORExvQ3Racnk4dlcxVEZfSWlBTWhQOW9RdzFKd192em40V01pQjZZM0FySmhBeHUzbzdJT2tQUWgzQUFnVUo5QmtWZ01PV205WlF1SS1sVmJtMTg1TWpJYkZNMm1icDZ5TTUyb3czX3FJYjNWWXdtT0RMbnJrTVoxcU9DUlU3U1dPU2xhNW41cWJSZTlqelYtczVXMnFEQTZIdmJtVXdHd0tLVTRxWi1ZRy15eU5EaWFldXk1RVlBX043YV9hd3JYSzdwZlJlVVRZ?oc=5",
+   "published": "Sun, 20 Sep 2026 03:30:00 GMT",
+   "summary": "Jacob Sullum: Why Section 301 tariffs are illegal&nbsp;&nbsp;The Daily Times",
+   "source": "Google News | USTR 301",
+   "priority": 2,
+   "relevance": "high"
   },
-  "circuit_broken": [],
-  "articles": [
-    {
-      "title": "FTI advisor urges balanced use of AI",
-      "link": "https://www.bangkokpost.com/business/general/3323289/fti-advisor-urges-balanced-use-of-ai",
-      "published": "Mon, 21 Sep 2026 04:26:00 +0700",
-      "summary": "People should make smart and balanced use of artificial intelligence (AI) to avoid becoming overly dependent on the technology and developing a \"rusty brain\", despite its growing importance in manufacturing and business operations, according to Supant Mongkolsuthree, honorary chairman of the Federation of Thai Industries.",
-      "source": "Bangkok Post | Breaking",
-      "priority": 2,
-      "relevance": "high"
-    },
-    {
-      "title": "US expected to delay new excess capacity tariff announcement until after Trump-Xi summit: report - The Korea Times",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONjJsWWhmVWlMV2YwZmdvQ1NoT253QjkxTE9jNkE2YjZEeFhyR2htaWNsUlBoSTZJY05MM0R6RVNCMkFiTTR6X2xOWkhMN0VnMkZLcnpGcHZmc21VUXAtQkdfT002NGNXYWhzNDBZamg4OWdZNXA0Wk1fdlhLVUF5ak1GbGNkV3hPb2tBSk94UHBFNmtib21hRXQ5elRHZmtzck4wbWNVTGJwTUxobi1Hb1dNbmU2NnNzVk9tVWdEeU9PakxfbnVIbzBmaE85UWtxc1FvRWdvaDl1cnZqSVdEUEt30gHnAUFVX3lxTE90RWg2NlZLeXZhTldWRXNocFUwVHJwLXlVaDVjR2o5ODBJSUUzOFFLOWZZN2dxWktIVjQyR3RVX0hGZ1otSF9qcGtJMlpWVG1XLVZXdk10XzdDdmZ4aWJuVnlxcHFoYmJTZkZHbnNFWEJxa2hkcEd1blpBRU1Fb2tMUzVHVGN3VnQ4amJiNlVLbVhEYWtXZy1idnJkYkRwMmFUbnBBOGpEcjd3MVlWUW9wcldhWEpmTlVDbWROSFZsdUFjLVhyLU5DRUxXWDdjcXJuVWpPRDFKazlGRzNHRWUwM2NRcXIyNA?oc=5",
-      "published": "Thu, 17 Sep 2026 22:55:00 GMT",
-      "summary": "US expected to delay new excess capacity tariff announcement until after Trump-Xi summit: report&nbsp;&nbsp;The Korea Times",
-      "source": "Google News | USTR 301",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US, China open final trade talks in New York to keep tariff truce alive ahead of Trump-Xi summit - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0Q1ZlhrWGxNT0xKV0V6RVVaLUNSZDNQN3BKNkd0SVhpTjhSdlhNaUhSMUcwQ1lUQkg0Mk1HeFFrRnlxVG1PMEJLRTJhbDhmVTMyeDZTTm9ZczY2Y3FZM29VMGJ2VF9aMEp3YnFPTWFoM3psRGZwTGxGajRuV0JXcy1NMjRLbVQzSndSUUNwb21QMEtTRUVuZV9hc2ZuQXRqeU9vbnRCV0tZa0pmTWJSOFJhdTFlQ2NNb1JnSzNnVU55LThwdVhFQkxkSl_SAdIBQVVfeXFMTWhKWHUyT1VtX05lM3R3U1lERmZ6T0NkNzNQTWRldTNjUUw0dFJqRlM1S240ZTIycDJEUHdraVd2Xy04QWZISG9TT3pjM1BVVTFfQ2xkNXoxZTl5Z085NXZHZHdDTmFxVE9yemQ4Y2VOSjJUWUtsUGtUa1RfN2VGQURmemtpSUdXUHZmbEllYXJLWDE4NUpfd2N3N3VxTnNUdDhPM000QkF5SnY0clNTTW5ibG83VVNrZnNpWEtseVhWR3VOMVd0b1FLSl9PZWRhNjFn?oc=5",
-      "published": "Sun, 20 Sep 2026 19:00:49 GMT",
-      "summary": "US, China open final trade talks in New York to keep tariff truce alive ahead of Trump-Xi summit&nbsp;&nbsp;The Economic Times",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Reimagining industrial dynamics of Global South - China Daily",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BWEJyRndteWtMLWFpeTV3cTVhcGVwejhycWpUSEtRdUVHNVJGTkZCNV95U0dHSmVKb19jamFWRk1OX0hXbFhISnpGVE1yWDNvaUVYSFpjdW00eXpqbG1tU1otajJJVS1uQ0ZlUHJ1a2drbzVfT0p4ckxQMmZMdw?oc=5",
-      "published": "Sun, 20 Sep 2026 14:20:48 GMT",
-      "summary": "Reimagining industrial dynamics of Global South&nbsp;&nbsp;China Daily",
-      "source": "Google News | Thailand Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Guyana Minerals Imports by country & region 2013 - World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRzY3MkdNdWlUUVl4NVUxcUJ1MU9ZTWZPRzNWY1NpcWVCMTJ5WDZsa0c1bGdfMFNramg4NE11VUNmakx6M0puZkxfbHhSNkdDMU1CZnRzYThQdTNwaEpxbXpUQWkwMEFsNE4yTXhhdTFiUmRadlNsZ0pHNzJXNVk0S1pmbGxiVy0xanlQcnhYbjMwQ0dVc0RwUEdOMzFhV0dlQmFTLXFXS0swSjdTQ1huRlhmQlhtZWZsVVE?oc=5",
-      "published": "Sun, 20 Sep 2026 08:52:09 GMT",
-      "summary": "Guyana Minerals Imports by country & region 2013&nbsp;&nbsp;World Bank Group",
-      "source": "World Bank",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Fiji Mats, matting and screens of vegetable material imports by country - World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3VTdVpXMmJVM2diWFl1UDllSUh6OHExXzFGNHNPVWdpbmk4RzAyN1lMc2RISUc5YWotOXZqbWF2dGl2ajZOd1Z5Zl9Ic2IxXzdreEFmODlMWERnbGRSTzNOQjF0ZkJWUnN3b2lSME9YWDY4NVJlSDNwc1BDM3hWUHFfZWE2ZUNOR3pSMWp5NUdiR3JIX1dtbzJHMEFaMVc0SHBacWljblBsaFFXbm9OSw?oc=5",
-      "published": "Sat, 19 Sep 2026 17:58:21 GMT",
-      "summary": "Fiji Mats, matting and screens of vegetable material imports by country&nbsp;&nbsp;World Bank Group",
-      "source": "World Bank",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Lesotho Plasters imports by country - World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPandRUzVfTUV4d2ZuRGFuWEhrNHJfU3V2QkpzVU5ieTNzQ0ZET1dqVVloM0lOMUtyWllzMG84eU9KSm9LeVl4clVLUjNoUzFUdjNnM1hpX09qT2FPQTM1MmxScXZYY0ZQMElTTS1EVFNkRzd2UGZFbVNXNVdKeDJkeW82V0pCb3R4NllvanFab2JRd3U2a0o0TkxMOEF2V2xlcncyUWo4Nk0xVGJTQ1VMbQ?oc=5",
-      "published": "Sat, 19 Sep 2026 13:31:06 GMT",
-      "summary": "Lesotho Plasters imports by country&nbsp;&nbsp;World Bank Group",
-      "source": "World Bank",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Trump set to impose sweeping tariffs on 60 trade partners - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
-      "published": "Fri, 18 Sep 2026 19:20:10 GMT",
-      "summary": "Trump set to impose sweeping tariffs on 60 trade partners&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Monitoring trade diversion - policy.trade.ec.europa.eu",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2lyZXpPendVX25JRnN0UDhKR3NmV2xRcTdHXzV1cHI0M1VQQmZvVjdfSWZOdWZodUQ2cFh0Z3ZsRXdnVkRuR1c1cVVFMmhKd1E1bHZ4bEREMEhEVjRveGROS3RhSkNzM1dMNGlUQnFGcnAxNnMyWk1LMnozc056SzFkX3JIV1hNbFl6QmVraDlMRUFDTjIyaV9ZZnRvQlJLQ01takN1QQ?oc=5",
-      "published": "Fri, 18 Sep 2026 12:00:00 GMT",
-      "summary": "Monitoring trade diversion&nbsp;&nbsp;policy.trade.ec.europa.eu",
-      "source": "EU DG Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Deputy Prime Minister and Minister For Trade and Industry (Trade) Gan Kim Yong to attend the 58th Asean Economic Ministers’ Meeting and Related Meetings in The Philippines - Ministry of Trade and Industry",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPR3A2MUtsWGEyU19UNGJJVVFnQVlFdU9iRkR4QWc3NVVqaDV3ZXZNYTJFWkFwQVdoZzFHN0JQa3lOZElSdVhYOFgtZzB6RXZGYlR3NGxkSXFjU3Z3blFYUm5RWUQ1ZEpPZVY1QWRhbDVkQ21aQ0xvZWZ2MFBsdEFHVkZMNTRRQmtRamI5clZzU3ZEWnZNSWdaTFBfbGtrbmRKRmtTNDlHbnhQTW5VR3ZIVmxMMWM2OFladkY4VThEQzh4eTdYTHA2TldySnpaMGxyN2lGWklzemU2UW5LU042Z21NSHRra3NCcU9uS2NQdkFqaVItUjI5bWRtWHR5UHo1RW5ZZm5kdnpUNzBJWmFQM3dnTTF6alVaRklNNEZzaFB2TWN3eVFodERrRk8?oc=5",
-      "published": "Fri, 18 Sep 2026 03:42:05 GMT",
-      "summary": "Deputy Prime Minister and Minister For Trade and Industry (Trade) Gan Kim Yong to attend the 58th Asean Economic Ministers’ Meeting and Related Meetings in The Philippines&nbsp;&nbsp;Ministry of Trade and Industry",
-      "source": "Singapore MTI",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Screwworm infests US horse before port reopens to Mexican livestock - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZFlCLXk4UWVrQ2R1eC1SbXkxMHdIRXVwcklYZHRxNURWb2gzZ19PUk9FenBQTjZaVUNpeEQxaW5ObG1Tajlzd3lFMkJwWXhKRVlHRnY4enVEWUZLamJvaVNqNjI4TXZYNVgyT0YtTnZIQkY1WWUzVW1UT3RVYVlIU2ZPbWJXbGFnZXJpc0RXWGxubXhOZEtnZHROU250ZjJGNnlEUFdMbEJZQ0kwNXRHbFpkRE5ERXRfdkxOb1RyWnNFLVp4dHdkTlltOW9qcWxmQVE?oc=5",
-      "published": "Thu, 17 Sep 2026 23:58:13 GMT",
-      "summary": "Screwworm infests US horse before port reopens to Mexican livestock&nbsp;&nbsp;Reuters",
-      "source": "Reuters | Trade/Tariff",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "JPMorgan, CIBC Win Mandate for Carney’s Sale of Canada Airport Concessions - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb1hOa3lpbUctRnJENDhIQUM4YzhwZ0ppdDY0NnlLSGdpbnZNcDYtb1JEVko3U2c4d3BjU3lzWTYzLTRsQzVXTXc5Wm5lOENXd0dUOHhtTlE5S2NNckFHR1hLeVV2dzJpMkRIMlJDREZQMFp4VEg4YWRFQmk2M0daNGd5eUs2bndtVmpxVzJ3dURNazN3OWd4YThydDlkVUs0TnNkd1RQajhHZXdNal9YOGxEcXdVQ1B6ZmhhZnRYd0VhUQ?oc=5",
-      "published": "Thu, 17 Sep 2026 22:07:03 GMT",
-      "summary": "JPMorgan, CIBC Win Mandate for Carney’s Sale of Canada Airport Concessions&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Former WTO head Pascal Lamy on the EU’s China choice: get a rebalance, or go protectionist",
-      "link": "https://www.scmp.com/economy/global-economy/article/3367981/former-wto-head-pascal-lamy-eus-china-choice-get-rebalance-or-go-protectionist?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 22:00:11 +0000",
-      "summary": "Pascal Lamy served two consecutive terms as director general of the World Trade Organization from 2005 to 2013. Before that, he spent decades in various French government roles, contributing to the building of the European Union. He was chief of staff to European Commission president Jacques Delors from 1985 to 1994, and European trade commissioner from 1999 to 2004.\nHere, he discusses Europe’s trade tensions with China, the continent’s growth potential problem and the WTO’s need for stronger...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "China, US find new trade ties in services - tribune.com.pk",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWpFRzZVaER2aWEzTDdzNHpsRVZ2dXlvVEFQem4wR1hKOWlVVm5mRnhwUjZKZmp6VldOc0gyZGJNMjd0aVYtOFVUS2k4Y3RaZ1J3bW1yZEt4OHg1aTQtMmVyM0s2Q0lfLXhZUnpxbDM3aVZmUkxrcjRudU1iMEc5U3BNONIBiwFBVV95cUxOTnF2UzJBMFFZWUE4RUFDV201V3dJY2xHRDVSNmVxUmtXZm5UNXpMR3BhZDZPYUV1YzRjd2NLeWhkWFRTY00yQ1VpRVVpZURhUVVDa3hoRU9RN3V6cGFyak1HR2JsbjRORG1seTRPNXBEbWNMTE1tcmNHaFUyMnRzQnZUVkVtb0FoNzg0?oc=5",
-      "published": "Sun, 20 Sep 2026 21:51:27 GMT",
-      "summary": "China, US find new trade ties in services&nbsp;&nbsp;tribune.com.pk",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Pacific island states are trapped in Cold War 2.0",
-      "link": "https://www.scmp.com/opinion/asia-opinion/article/3367734/pacific-island-states-are-trapped-cold-war-20?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 21:30:06 +0000",
-      "summary": "In early July, China fired a test missile from a nuclear submarine into the South Pacific for the first time, a weapon capable of carrying nuclear warheads. Washington and Canberra were livid. The Pacific has long been the exclusive testing ground for such long-range missiles from the United States. How dare China!\nThe reaction from Pacific island states was more measured. While leaders from Tuvalu, Palau and the Solomon Islands strongly criticised the test, the 18-member Pacific Islands Forum.....",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Golden triple as Thais rule the table in Japan",
-      "link": "https://www.bangkokpost.com/sports/3323023/golden-triple-as-thais-rule-the-table-in-japan",
-      "published": "Sun, 20 Sep 2026 20:25:00 +0700",
-      "summary": "Thailand&rsquo;s teqball stars struck gold three times over in Nagoya on Sunday, sweeping the mixed, women&rsquo;s and men&rsquo;s doubles titles to announce themselves as the team to beat on the sport&rsquo;s Asian Games debut.",
-      "source": "Bangkok Post | Breaking",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Guyana Coconuts, fresh or dried exports by country - World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjFhUUhuelMxNG9UaldVLWV3Z1Z5cWJkYUt3Q3gtV0RrVFdZV3lMaEJpUVR3d05FZVhGdkxEQ25JLTFSZ1QteHZxalRkYnFnV3dPV2dodm0yVE85Z2Z5TC1Jd1N1WjY4OGo5eDliNVh4NDdpQ3FweVZuWFlTc0xmc0ppSXRrZUFMZGtpTjlvX2o4VDZnUHpzT2k0enNWWjhoeU9BU2lGT3pibXFlYTlLTQ?oc=5",
-      "published": "Sun, 20 Sep 2026 20:15:01 GMT",
-      "summary": "Guyana Coconuts, fresh or dried exports by country&nbsp;&nbsp;World Bank Group",
-      "source": "World Bank",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Trump and Mamdani plan to meet in New York during US president’s UN visit",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3368179/trump-and-mamdani-plan-meet-new-york-during-us-presidents-un-visit?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 20:13:06 +0000",
-      "summary": "US President Donald Trump will meet New York City Mayor Zohran Mamdani when Trump travels to the city for the UN General Assembly.\nThe meeting is scheduled for Monday at Gracie Mansion, the official mayoral residence, according to Anna Bahr, Mamdani’s communications director.\nBahr said the two will discuss issues affecting the city and New Yorkers. The White House confirmed the meeting will take place but did not offer more details.\nMamdani, a democratic socialist who upset former Governor...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Five-goal blitz secures Thailand's place in football quarters",
-      "link": "https://www.bangkokpost.com/sports/3323019/fivegoal-blitz-secures-thailands-place-in-football-quarters",
-      "published": "Sun, 20 Sep 2026 19:53:00 +0700",
-      "summary": "Thailand put on a five-star show in Nagoya on Sunday, thrashing Hong Kong 5-1 to sail into the quarter-finals of the men's football event at the 20th Asian Games, with a second-half goal blitz putting the tie beyond doubt.",
-      "source": "Bangkok Post | Breaking",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Zelensky and Trump have agreed to meet in New York, Ukrainian president says",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3368178/zelensky-and-trump-have-agreed-meet-new-york-ukrainian-president-says?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 19:46:11 +0000",
-      "summary": "Ukrainian ⁠President Volodymyr Zelensky said ⁠on Sunday he had spoken to US President Donald Trump and the two agreed to meet in New York for ‌talks that “could change a lot” in terms of finding a resolution to the war with Russia that began in February 2022.\nThe two leaders will be in New York in the coming week for the UN ⁠General Assembly.\n“We agreed to meet in New York, ‌and this meeting could change a lot. There is diplomatic momentum,” Zelensky wrote ‌on social media.\nZelensky said he...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "The Lever Is Price: China’s New Leverage Play in Thailand - orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYVcyN3ltVHRXVlBOR3FnUXpOWWdHR19adkpJR0NGWHRYWmJxM1ZseVRmMDBrcTBHeXQwLVBrVTZTLS1Nd0JzRGFVUjI0N053YXdZbHNBRmZheTJJUG1Ibjlwb3ZoN3lnWXZCMHFEUEY5SXNEdU5VQWRsdS1lMGVIajBaRjRob1Z0aXhiNFd6OGpsa3E4Tmc?oc=5",
-      "published": "Sun, 20 Sep 2026 19:45:43 GMT",
-      "summary": "The Lever Is Price: China’s New Leverage Play in Thailand&nbsp;&nbsp;orfonline.org",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "How can I resolve an issue through eBay messages - eBay Community",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1ZndEI0WlNycFN4N2tXVC1OSGRMRTgxR2liQ2JNVlBMMHNkN3pDRWdZUjBMa0dlcVlxTHZXZS1TQjJXS2VyWWtySUozWlJ1WlN5TzVrWUhWWVpvejZSNWpUQm9pZzdGdm5sT0dTSFFuMkhaN2xfc2p3Qm5Ia0NiYmtoaGwtSE9fenRSQzlvQ0RTYVRTcEJhT29Mbi1oRUJ0Wk9hSDdRTWF2U3U4SU56VlkzRVVSRVRMWFEta0stZVgzMHlNTWFIZFJ5ZXhCUQ?oc=5",
-      "published": "Sun, 20 Sep 2026 19:45:19 GMT",
-      "summary": "How can I resolve an issue through eBay messages&nbsp;&nbsp;eBay Community",
-      "source": "eBay | Seller Policy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US warns of rapid escalation in Mideast war",
-      "link": "https://www.bangkokpost.com/world/3323015/us-warns-of-rapid-escalation-in-mideast-war",
-      "published": "Sun, 20 Sep 2026 19:45:00 +0700",
-      "summary": "RIYADH (SAUDI ARABIA) - The United States warned that fighting between Saudi Arabia and Iran-backed Houthis could \"escalate rapidly\" after a missile attack targeted Riyadh for the first time since the Yemen conflict resumed.",
-      "source": "Bangkok Post | Breaking",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Russia vows revenge for Ukraine’s election-day attacks as poll shows win for ruling party",
-      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3368177/russia-vows-revenge-ukraines-election-day-attacks-poll-shows-win-ruling-party?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 19:23:35 +0000",
-      "summary": "Russia vowed on Sunday to “intensify” its strikes on Kyiv in response to Ukrainian drone attacks on Moscow, as an exit poll showed the ruling United Russia party on course to win tightly controlled parliamentary elections.\nUkraine fired waves of drones at Moscow and the surrounding region on the final day of voting, killing two people and setting an oil refinery ablaze, officials said.\nRussia’s defence ministry accused Ukraine of attempting to “disrupt the democratic will of Russian citizens”...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "- Mercado Libre",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WUVhb1hfNXVvY3luZXlScFgwWTcxeHdMNzRiendXSnc2MDVLWm5pWk1abTRxb3VNMkVTelZaUXZrRUEzazNzMENwQ0FlYWlYLTNFVHpWZHV5Zw?oc=5",
-      "published": "Sun, 20 Sep 2026 19:07:32 GMT",
-      "summary": "&nbsp;&nbsp;Mercado Libre",
-      "source": "Mercado Libre | Seller",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "PSG president Nasser al-Khelaifi under investigation in France for conflict of interest",
-      "link": "https://www.bangkokpost.com/sports/3323010/psg-president-nasser-alkhelaifi-under-investigation-in-france-for-conflict-of-interest",
-      "published": "Sun, 20 Sep 2026 18:45:00 +0700",
-      "summary": "PARIS (FRANCE) - Nasser al-Khelaifi, the Qatari president of French football club Paris Saint-Germain (PSG), is under investigation in France on suspicion of an illegal conflict of interest, prosecutors in Paris said on Sunday.",
-      "source": "Bangkok Post | Breaking",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "AppLovin Fell 38% — Broken Thesis or Buying Opportunity? (APP Stock Deep Dive) - Apple Podcasts",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDROdGpxTFE5T2pxU2tTdHB5Y1J0Zm5Dcm5WdmJ0a2dTaGR5b0JSN1JKMkhrT1FsaTJKM1JENGRVc2xmcFR5ak9IZjdvWmRxbEwzWjVjVzRmbkh5U0c3czNkUWIwRkpScW9FMW1rMDVSb2QxUlp4eERBZXc1eUotbGd6M1I2OHl3YzIyVUVwcmVsbC1fX3NUYjdCMzBUZTU4d01BZmduX1RIQ0UzZ291WGpHUWxjM254dklYalhNQWRMZw?oc=5",
-      "published": "Sun, 20 Sep 2026 18:40:27 GMT",
-      "summary": "AppLovin Fell 38% — Broken Thesis or Buying Opportunity? (APP Stock Deep Dive)&nbsp;&nbsp;Apple Podcasts",
-      "source": "Apple | Supply Chain",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "- Mercado Libre",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfdUVBVk1kMk9pdXVudlY0emJvYm5Qam5JZW9nbkZVVUlnMS1xQXVsdWFXaGNoY3pNSl93QkxqemhxMWtZZXl4aUZqTXlSQV9yX054bTdR?oc=5",
-      "published": "Sun, 20 Sep 2026 18:31:42 GMT",
-      "summary": "&nbsp;&nbsp;Mercado Libre",
-      "source": "Mercado Libre | Seller",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Uganda Measuring or checking instruments, appliances a exports by country - World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXU1MUpnSHRGajJ2TmlzcGdMZHB3U0FmNTAxNFVVVzVja3NCNk1oTV96VWVjcHJiOUQwRnFOVnlfdUtDc1htQWlveHlzaTRlNm90WDV4Ymo3dFFYdlNsdTB2Y19jVk1sQWc3UUdhWWxKYWpyTzI2aVRaZDR1c3ZXWDNsYXpnWEtWaldUOTBBZnRxTVA0X2hHWHdGanV5M3JySVU5UllEMUVteHJpSldpbg?oc=5",
-      "published": "Sun, 20 Sep 2026 18:02:42 GMT",
-      "summary": "Uganda Measuring or checking instruments, appliances a exports by country&nbsp;&nbsp;World Bank Group",
-      "source": "World Bank",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Repair crews battle to reopen Blue Line for Monday rush hours",
-      "link": "https://www.bangkokpost.com/thailand/general/3323008/repair-crews-battle-to-reopen-blue-line-for-monday-rush-hours",
-      "published": "Sun, 20 Sep 2026 17:59:00 +0700",
-      "summary": "Trains running on the Blue Line of Bangkok's fire-damaged Mass Rapid Transit system would resume full services on Monday morning if overnight repairs were complete and guaranteed safe,&nbsp; Deputy Transport Minister Phattrapong Phattraprasit said on Sunday.",
-      "source": "Bangkok Post | Breaking",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Thai Airways flies higher in global rankings",
-      "link": "https://www.bangkokpost.com/business/general/3322999/thai-airways-flies-higher-in-global-rankings",
-      "published": "Sun, 20 Sep 2026 16:03:00 +0700",
-      "summary": "Thai Airways International has promised the best has yet to come after climbing up the global rankings and entering the top 20 best airlines list.",
-      "source": "Bangkok Post | Breaking",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Heavy rain forecast for North, Northeast, Central Plains, East, South",
-      "link": "https://www.bangkokpost.com/thailand/general/3323004/heavy-rain-forecast-for-north-northeast-central-plains-east-south",
-      "published": "Sun, 20 Sep 2026 15:55:00 +0700",
-      "summary": "The Meteorological Department forecast is for heavy rain in the lower North, lower Northeast, Central Plains including Greater Bangkok, the East and the South from Monday to Saturday.",
-      "source": "Bangkok Post | Breaking",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US, China Begin Trade Talks in New York Ahead of Trump-Xi Summit - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWVmRU80NEg0T0lDVEtveTZ6SkN6cXlFdHgzWVB0RkszbzZibklldWRLMFhrV2o4T3YwNW5rQ001bFJRbG9CdkZ2LWVQRmFoS3Mwb3MwYl9jOXBlcWpBQlY5ODRhWWdOeDZIcHl1cm15czBuQ2dZdUdoNHBoZjM5WmJoVklULTQyREhxdE5pSFE0bVVpbFZqbUU3MUxpNldqakhZdlFqRG0yS0QwVEptb1FPMXE?oc=5",
-      "published": "Sun, 20 Sep 2026 14:49:39 GMT",
-      "summary": "US, China Begin Trade Talks in New York Ahead of Trump-Xi Summit&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US, China seek Xi-Trump summit deliverables in New York talks",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3368171/us-china-seek-xi-trump-summit-deliverables-new-york-talks?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 14:34:25 +0000",
-      "summary": "US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer held their final preparatory talks with Chinese Vice Premier He Lifeng in New York on Sunday to work out deliverables for next week’s summit between Chinese President Xi Jinping and US President Donald Trump in Washington.\nThe leaders are meeting at JP Morgan’s headquarters in the city to discuss possible economic outcomes for the summit and begin their long-awaited dialogue on artificial intelligence safety and...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "‘His love for Hong Kong was profound’: Tung Chee-hwa honoured at state funeral",
-      "link": "https://www.scmp.com/news/hong-kong/politics/article/3368170/his-love-hong-kong-was-profound-tung-chee-hwa-honoured-state-funeral?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 14:24:33 +0000",
-      "summary": "Chinese President Xi Jinping and other top leaders sent condolences from Beijing as Hong Kong bade farewell to the city’s first postcolonial leader, Tung Chee-hwa, at a sombre yet poignant state funeral on Sunday.\nA report by the official Xinhua News Agency praised Tung, who died on September 8 at the age of 89, as “an outstanding contributor to ‘one country, two systems’, a renowned patriot, an outstanding social activist and a close friend of” the Communist Party of China.\n“While Tung was...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Rare earth exposure can triple low birthweight risk: Chinese study",
-      "link": "https://www.scmp.com/news/china/science/article/3367984/rare-earth-exposure-causes-3-fold-increase-health-risk-chinas-newborns-study?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 14:00:06 +0000",
-      "summary": "A new study finds that prenatal exposure to rare earth elements can raise the risk of low birthweight, with some substances increasing the danger by more than three times.\nResearchers tracked 4,891 pregnant women who gave birth at Wuhan Maternal and Child Health Hospital between 2012 and 2014.\nThey measured the concentration of 13 rare earth elements including cerium, ytterbium, and lanthanum in urine samples collected from the mothers.\nAfter adjusting for confounding factors such as maternal...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Trump’s arch would be a ‘military complex’ hosting drones, snipers",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3368169/trumps-arch-would-be-military-complex-hosting-drones-snipers?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 13:59:48 +0000",
-      "summary": "President Donald Trump said on Sunday that the massive arch he wants to build between the Lincoln Memorial and Arlington National Cemetery would become a “top grade military complex” able to host drones and snipers while storing ammunition.\nIt is one more example of how Trump is insisting that his initiatives to beautify the White House and the city are also serving a defensive purpose. Trump has been calling the new White House ballroom a “military complex” and arguing it is necessary for...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "New North Korea-Russia bridge delivers a powerful message to China",
-      "link": "https://www.scmp.com/opinion/asia-opinion/article/3367489/new-north-korea-russia-bridge-delivers-powerful-message-china?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 12:30:04 +0000",
-      "summary": "The recent opening of a new road bridge between North Korea and Russia may look like a modest infrastructure project. In reality, the 1km stretch across the Tumen River carries implications far beyond the movement of vehicles between two border towns.\nFor China, it is a reminder that its influence over North Korea is no longer as secure as it once appeared and that Russia may be increasingly capable of challenging Beijing’s interests on its northeastern periphery.\nThe bridge, inaugurated on...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Gasgoo Daily: GAC Cambodia KD Plant Begins Production; Zelos Gets Europe's 1st Y Test Plate for RoboVan; DENZA Z9GT Debuts in Thailand - Gasgoo",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPaVpoUHZqNVRJV3g0cDQ3dVY2ZEpDdVVudlJkMFB4Z3dSbVZtblJKU3p4d3NpM3F3Q0xrNE1aQ2EyalJlblVPdmQyR29DZGdhTGJpemdFVmhWM1B5MDJVc3g5QmdBd0I0SWYyd3FKRkhnSkJFc3k4dFUzSG1haVdfV1VOd2V4MDVlMlNseXl6U0VmM3VOUFFSN2JPeE50TndrRk9qSTZnLVBLQzBFTnZFMVlnMVl3aXRmOFNYZVpIbDExc0MwQmRYdVctX3pLMGFyTjR4OWNjZExXNVJiSEV4WVdNbVJ2Z05OWHhBY0lHMVVieXZlUmxTSVJ5Y2JnOVZ2eTBUb0pVUENqSWhBdkVkWG9QVGZQQjVjX0ZHSw?oc=5",
-      "published": "Sun, 20 Sep 2026 12:20:32 GMT",
-      "summary": "Gasgoo Daily: GAC Cambodia KD Plant Begins Production; Zelos Gets Europe's 1st Y Test Plate for RoboVan; DENZA Z9GT Debuts in Thailand&nbsp;&nbsp;Gasgoo",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Trump’s softer China strategy puts markets on alert before Xi visit - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTViYnZjeGVZOTVwVjV5NmNqSmhrNU9HaGRkaDhkMS00REx0dXdta2p4d0Itd2VZTVE1bFhmc1dDWG9scEMyRnFVandkZURKdExvbi14cmwxUVRzY08tNks2WFVYUENZY0RPSm00dWE0ZW14TThGcnpDQnhNVmg3QnUzZV85V3F2YVN0T19jUllMVjk1VUZmbVFqcGZQYWZxQTVpQ05YQnpIaXJzMVVXc0VxZnROUWRfNTFOY0w3SE1XVHRhd1NYTElB?oc=5",
-      "published": "Sun, 20 Sep 2026 12:18:52 GMT",
-      "summary": "Trump’s softer China strategy puts markets on alert before Xi visit&nbsp;&nbsp;TradingView",
-      "source": "Google News | Vietnam Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Hong Kong secures expanded equal treatment and investment guarantees across Asean",
-      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368163/hong-kong-secures-expanded-equal-treatment-and-investment-guarantees-across-asean?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 12:09:59 +0000",
-      "summary": "Hong Kong firms will benefit from expanded non-discriminatory treatment and investment guarantees in 10 Asean states after a protocol amending an investment agreement with the bloc was signed on Sunday.\nThe protocol was signed in Manila – where Asean economic ministers are meeting – ahead of dedicated trade consultations between Hong Kong and the bloc.\nUndersecretary for Commerce and Economic Development Bernard Chan Pak-li signed the protocol for Hong Kong, alongside Philippine Trade Secretary....",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS2FiYVR1SGlMdFRKZ1h1UlNXQ0FsRFF4Y0RXSDFPSkluOFk2OU1yMVpmenZZdlZRVmlaSEFfLXd6QUVseEpwb3VJNlBLLXBuVmpsOHM2Z1pIN2ZldUJpb1FFb0kxbWlIY28zbzF1dWlxeWhxZWFxeDdJX0ZyY1o4STFiQUJlQdIBiwFBVV95cUxPZFB0RUtHNmdBbEZDUzNyVGtLc2NrcEEtaWk0UnVkbHdMRjItdnJ0RHBpdFhJZ25mSUhtYVliY0taNVlsZThHTE84bnA3a09BYVB6UU5tTkJpQk1TeEFneldMMzRmSEJvd285dlhReWdwQm5FSnNpNjBzUkZ1M2s3R3lFclVsbnVMZXA4?oc=5",
-      "published": "Sun, 20 Sep 2026 12:00:01 GMT",
-      "summary": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street&nbsp;&nbsp;CNBC",
-      "source": "CNBC | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Hong Kong customs seizes 13kg of suspected ketamine at airport, man arrested",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368161/hong-kong-customs-seizes-13kg-suspected-ketamine-airport-man-arrested?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 11:25:37 +0000",
-      "summary": "Hong Kong customs has seized about 13kg of suspected ketamine, worth an estimated HK$4.7 million (US$599,067), at the city’s airport and arrested a passenger arriving from Germany for alleged drug trafficking.\nAccording to the Customs and Excise Department, officers found the suspected ketamine in the checked luggage of a 22-year-old Japanese man who arrived in Hong Kong from Frankfurt on Sunday.\n“During customs clearance, customs officers found about 13kg of suspected ketamine inside his...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "North Korea fires 2 missiles in 3 hours amid tensions over US drills",
-      "link": "https://www.scmp.com/news/asia/east-asia/article/3368160/north-korea-fires-two-missiles-three-hours-amid-tensions-over-us-drills?utm_source=rss_feed",
-      "published": "Sun, 20 Sep 2026 11:25:27 +0000",
-      "summary": "North Korea fired two missiles off its eastern coast on Sunday, its second set of tests in roughly a week and days after Pyongyang accused the US of driving tensions on the Korean peninsula through a series of military drills.\nNearly three ‌hours after launching a short-range ballistic missile (SRBM) towards the East Sea, or Sea of Japan, on Sunday afternoon, North Korea ‌fired a similar missile, according to South Korea’s defence ministry.\nIf the subsequent launch is confirmed to be a ballistic...",
-      "source": "SCMP | China Economy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "eBay is allowing Sellers to directly drop ship items from Amazon. - eBay Community",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYWtqYTZtT25INlRPQzFjc0VnN0xxZFlxZ3lQS2NhcERUZFA5cVZFbGhrYkdJS0dhSHE2RXYtUGhWYWhhYTVzNk1KQkZiOUpBblhzNkdWSWNjME5Td29CSWx1Qk5EbzQyaUVMYlg0MkQ3cXVORExBQmpSWkFMZjByRnNuTjUwRFp5SEZQY3U0MERSa0trNExGeG16TlhkRjdpVklTak1tWDAxSDAyTE5vR05vZTFRRmxfNnh2cGJKblFyZjJ1TlA3X1RkdHFRN1N3d2ttd2o3Q1p5bmY0SE1lSjY5bw?oc=5",
-      "published": "Sun, 20 Sep 2026 11:23:36 GMT",
-      "summary": "eBay is allowing Sellers to directly drop ship items from Amazon.&nbsp;&nbsp;eBay Community",
-      "source": "eBay | Seller Policy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "China Names Li Chenggang Its Top International Trade Negotiator - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNENiVXFFUjdkU3BvQWc4US0xMV83cERtRjRTYzd3SVhLZXZlWXpPNXdnMFpWVVowQU02bTBCYUs2Q3VxM0RtbXZZT05Sbk1OY1hRTHlwZkVPNjlEMFZvM0N2NWFhTG1rSkdnTU1vcnFvRl9aUVUtWHU1cWc4eTE1c1JzV0RaTUZnaGhoZVJMcFpBeXJncFB2TVdIUXVwdkhFLWFlMThYdUQ1TUhyaDFCeVJUd1I?oc=5",
-      "published": "Sun, 20 Sep 2026 11:15:10 GMT",
-      "summary": "China Names Li Chenggang Its Top International Trade Negotiator&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Agricultural exports' role in balancing the country's trade account - Vietnam Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYm1xb19hczJNV2hucmF3eURxTEl5YnlFeDFtcmd1OGpXZEIwdGFmTXdJSDdZR1dZdVlvQXZYaXpKTWZ6T1YwVUdoM19wT19vWkFrOWtGeWNMRVBGbDhpNXBYV1hzemM1Xzl1NWlGY2JZbV9nSXFORXhXeHk2U0FKZlNheElhVFluMjdCUzM4WFdMbEFmLURPMQ?oc=5",
-      "published": "Sun, 20 Sep 2026 09:30:00 GMT",
-      "summary": "Agricultural exports' role in balancing the country's trade account&nbsp;&nbsp;Vietnam Economic Times",
-      "source": "Google News | Vietnam Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Copper Wire Rod Exports Remain Weak in August, High Copper Prices and Premiums Suppress Overseas Demand [SMM Analysis] - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdmtpQTY1WUZVcUhtX0VuTWpaNDRld2N5QTh0dHhXdy1qN2xtUmVSVnBkR2ZHdVgwOTBITU05NElPRkZZVEoxcVctRFJlZmVCYlVodDgyZ2VBXzlReDlBbXNzVE5UZlFYX3ExLTYwRkY5TzJHOWZqSWhKTF9fYzg3bm04NVkza0Q2TnVkalptSmdyRFlCcUJadGV1MERpZ1BwM0dGMVpHZGk5RFluNVFKeWtmN05VR1dXMk1KRTk1WUFneHFvZmFINmRJZG5LRS1IQVhRRnR6dTk5ZTVCbkhIX2x6Vlo3MWlLNTFER25mT0VXdw?oc=5",
-      "published": "Sun, 20 Sep 2026 08:51:14 GMT",
-      "summary": "Copper Wire Rod Exports Remain Weak in August, High Copper Prices and Premiums Suppress Overseas Demand [SMM Analysis]&nbsp;&nbsp;Shanghai Metals Market",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US, China to discuss AI, trade, and rare earths ahead of Trump-Xi summit - The News International",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGVweG5ITGdtX0p4NzJoYnl1Q2pRZWJfcDFSN1VYajFSbS14bk1hbUEyUVNsNk9lNEdWM2hIZ21jUGpXRjkxQlJmcFJYOW5kQnNPTTV4T1A2VnZfaHBRVnhSRVF5Rng2TEJIY0RMR0s3SW51R3cxUWxZNmpOUGNBaHNYakIxUGYtdHVrTUhiTkMtWkt5c1VrVVNBb2pCQUdpMEtUeXJYZjUxVkhUSEZsONIBrAFBVV95cUxNdmVNU2ZyZnhxUmQ5STU5VVNoUXBNSXNaUHU0NGlxLU80cnJQZkFrRWRXZEVrcy00U2JqdGtSUnhyRmI0RDdHZW9zWlBaVldGMmJhRzF5dzdodVp5SUhyNVl5U1l1c0hJWS0zTzduUWRRTW41WHBHNUdDalhPRDVnbE9oSkpHS1QtVEdyV21kcGpyQnhkQ093UjR3Qm5pbTAyOVVySUc1bHBkYW9k?oc=5",
-      "published": "Sun, 20 Sep 2026 08:49:00 GMT",
-      "summary": "US, China to discuss AI, trade, and rare earths ahead of Trump-Xi summit&nbsp;&nbsp;The News International",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "PANAMA NEWS - CMA CGM",
-      "link": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNNWZZZGxxdnBIYV9qNEdGZFE1MnRZakhzR3Q1YXFVM2RfRDVfTHBxX2NZS291bmEyZnVzT3U5VzZoU1ZWcXpkeGdmV0lwZWppOERCUFZ1NjJldGxPYkRacm4ya094S0pXQjR4czRvdlRfaGY2WUVLRFR4M0VfM05ZYkNVZ2I3MHdjcHg2dDBtS3g1S3NHTTNzZWpPb0N3ZDE5aWZjNEcxbmtUdlhOVXVwSHl4UVowTkJiTWRMNDByaDhoZjdRbjJIck11WmNheTdSOXVFem5HZmpVLTNYcDlXLWptbzVLTmd3YUdTQTFOVGc1R2pLWGRQMU51cnI4eWt0NjNvdW1MWk9VaTV4amN0YkZCdDllU0pEZXIxcmg5TmVhbXlKOTE1WFNNSllVV014aHFWQm9MZWxvVUszeWNuVzJtUkp4eEFaNzRCQzl1UmpfSXgweDNSdDlLYjNCUkNKZ0tmMHcwU2tYdVVFbWNvbzJNMUlqWUtLcmc1NC1jNnllSWtIWHhsWGVvQnNMa0RMak9qaDVpVXNKVUVkM1FBQ2xaV3ZqZEdwYk1TZGoyTW5SNkNjU2g2RlhfVVYwUGNZcnhpT0tMaW55QWJNVFo5V09iY0lMMGlfTWhwaXpSMHNyVmthaG0tR0NmR012Yk1zaFE1OVJmakhKOHVSNkZLRUNjaEE5dU1VRHRPeGhtLWQxdWlUZ0doS3psY2N5aEhyckRPZW85TkZzRGpSVVZpS3I0UjQyYVdr?oc=5",
-      "published": "Sun, 20 Sep 2026 08:27:34 GMT",
-      "summary": "PANAMA NEWS&nbsp;&nbsp;CMA CGM",
-      "source": "CMA CGM | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "China's trade surplus driven by structural factors, not subsidies or undervalued exchange rate, economists say - usa.chinadaily.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPZC1pN0pJM0VVSHZXRFR0aGcxRE1mMWU2a1RrMmViRmNPTTRqT0NfMVJPOV9na2lselh6VEotemtuWFhlZUlUaDJ6RUZqSHJhZGhjb2ZBZVJobzhnaDJkRmVIRnVGNDhRS1JZX1I4QmVXdnN4ZkV3QnVpcnc?oc=5",
-      "published": "Sun, 20 Sep 2026 07:02:33 GMT",
-      "summary": "China's trade surplus driven by structural factors, not subsidies or undervalued exchange rate, economists say&nbsp;&nbsp;usa.chinadaily.com.cn",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Bangladesh Export Decline | Why exporters are losing their competitive edge - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUxWN1J4Y2QtQTUzbTZ2MFR1VFFORFVQbEJ5aGxhcHpicHBlZEpETTBBUXdTY2xlcVpSaV9QOXB6Z0J3ZEFITG5UX2tIOXAtcTN2c05haHlWTG1ibkNDTGRiNHJBUng4SEx1N3NGT01mMTFScXF5ckNjbmtHT2NZTnRYQVFzQXpEZWJqUDYzQ1dhcEtWMHRqektMY2ZqdzBJUXVkRTVUTUN1dw?oc=5",
-      "published": "Sun, 20 Sep 2026 07:02:02 GMT",
-      "summary": "Bangladesh Export Decline | Why exporters are losing their competitive edge&nbsp;&nbsp;The Daily Star",
-      "source": "Google News | Vietnam Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "How China's manufacturing upgrade can expand global demand - news.cgtn.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS25waG1mM1lHdmZVZURXSDY5cjJEUUJUekNNZ3ZMUlpBT0FRRVRHWUNhVjU1WWUyY0JRUmthN3A5dnpYQTNYc1RLOVFKTVlkNGtyZmtsTUFYX29saENwaGN3ZjIyaFpENWNRZGk1RlZqX0s5bmVlc2tpaHJPUlVSdmFwWFBfTENLSTF4cElUeElWZVNLOTY2TmJfdm1aNVhPRHE3SktZWWRKZTN0ZVU3eFJrZ1pPMk9ENlhhWWZlcmU?oc=5",
-      "published": "Sun, 20 Sep 2026 05:56:39 GMT",
-      "summary": "How China's manufacturing upgrade can expand global demand&nbsp;&nbsp;news.cgtn.com",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US, China Trade Teams Set to Huddle in New York on AI, Iran - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTUxdmFkX1BreWRBbXV5MlhmbkMtYVJxZmNhbHBFUUpHWG1ndFo3QWZrb0h6RzJFRHJoVl9TZUNMUkMwTE5rZnl0MzJaeVhrakNndFZHaGpLOTlick5GS2tBdEFYSGZLMlB6aUNuNXBUbjA5T2VIdVhpUDF2UFFrZmpFZnp6UGhSdnpwOVl5aVlQemJ3cGdfSTJkeVRfa2ZjemVUdWQ2a2Y0Tzh5?oc=5",
-      "published": "Sun, 20 Sep 2026 03:00:00 GMT",
-      "summary": "US, China Trade Teams Set to Huddle in New York on AI, Iran&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Malawi Rice exports by country - World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUswZmhMMjY4b2stMWlld0FodW1JSnBHWVRHRVZXS0dHTlNZSy0yV2lidTRrOFJpUXBRVmJqeGUtb3hGMTQ4TThqU2NuLThPSlhQbU1wU0J0YW10MW1RV0JQUDM2a3dyREotMFV1VVd4VnRmRG80WDE4eTJhVHMyaVRBTldDZ3hjVVVRZ2RSUlBWZ2VGZE55WmJLd1lHVnFyNGIxVmM5eHYxekctUmc?oc=5",
-      "published": "Sun, 20 Sep 2026 00:52:05 GMT",
-      "summary": "Malawi Rice exports by country&nbsp;&nbsp;World Bank Group",
-      "source": "World Bank",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Guadeloupe News Release - CMA CGM",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSllRbEo5SG1EX0YyUmNCMm02NDdUTm02OWJtVDdoc0tBVFFZQl9qQUpodmliQWlKMGNYbmtCcE04bHU3RkJVMEpZWmY4cEQzanMzd3lkQVFqd3pyM1hELTNSajVXSTdlUGQ3V3hQY0VBSGNqSTM0MWYxZzFOLTBJMHd1N0F2bGk4d3lGNDQ3NTBjeHFnUG52cEYxOUktRms?oc=5",
-      "published": "Sun, 20 Sep 2026 00:11:46 GMT",
-      "summary": "Guadeloupe News Release&nbsp;&nbsp;CMA CGM",
-      "source": "CMA CGM | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Kintsugi AI Expands VAT Automation Coverage to Spain - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaW1JSVczb0JLVFFNa1JaV2RxSFlIYnhFTDdrWXEtODBhLWx1ZjNYUG1TUml2STl6N2lOQ19WUDR1ZmhDT04yRENRbDlGbnB3bHMtU242NzBfSXp3eDJwRjBOV2h5Zlk2TTJkZWhOZFZDcmthU2VsNzBhOGhuYlN2d0QzQ0ZaeVVTOEwxTDNEY2tacmtlckxJUFpzYnNaa3FEa2c?oc=5",
-      "published": "Sun, 20 Sep 2026 00:11:08 GMT",
-      "summary": "Kintsugi AI Expands VAT Automation Coverage to Spain&nbsp;&nbsp;TipRanks",
-      "source": "Ecom VAT/Tax",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "UPS Locations in MYRTLE POINT, OR - UPS",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RbmpNTUhIMXdPWmpvS0dLMDJXUGUtXzlhZDh6VGM1NWtQaGJlS1ZUQzNNTEx2TGxjR0E4cWtuZjFzVTJMdFYyMnMxcVRDdWo0VnduVWJicHU4OFE?oc=5",
-      "published": "Sat, 19 Sep 2026 23:29:26 GMT",
-      "summary": "UPS Locations in MYRTLE POINT, OR&nbsp;&nbsp;UPS",
-      "source": "UPS | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Official Effective Dates - MSC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OU191MVRlUjFOc0ExZ2NtMkJ2Y2dMSjMteDltQmZrVUVOcE52NmR2cExscTUxTnNvbnVSUTFBeVVDQWJaU0VsX25RZU5ndW5lRzNRbGRBMU4tMWpIS3NGb2Rla0dXd2EwY3g4?oc=5",
-      "published": "Sat, 19 Sep 2026 23:27:48 GMT",
-      "summary": "Official Effective Dates&nbsp;&nbsp;MSC",
-      "source": "MSC | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Republic of Korea: Powering Viet Nam’s green trade future through renewable energy certificates - World Trade Organization",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1l1QlRrRU5pMnlsY3VJeXBhMUJWWDhjMm9UaU9yU2ZQSHd3bURRNjB0SFlRT2NWQ19qM19UUVBBTGx3VHpQbUpvVUNpVmFwRzd3S25Vb2YtSGVoOUdHLWdHbEhycE1nMmFtZHpCOW5MSlhqMkxwSmZYU3hIVVB0OEwyOTM1YlF2?oc=5",
-      "published": "Sat, 19 Sep 2026 22:22:07 GMT",
-      "summary": "Republic of Korea: Powering Viet Nam’s green trade future through renewable energy certificates&nbsp;&nbsp;World Trade Organization",
-      "source": "WTO",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Rwanda Product Exports to Sierra Leone US$000 1997 - 2001 - World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbTB6dmhYWmxycld2Y3BjSzZNQmdUdzZkWFVPcXZ0V1RfbjkzZnYtY1IzR2pRTmpkdjBVem9lMjNmQ280X093SnJMZHgzQy1IQkp0OWdXWlc2bThJd2o2N1N2aWpHNDE1Nk02VVRmZldXVFowZ3F0N05BelBQNEp2WnBOZjhabDdBcFdXMGZFckJsMGVEZzNHVnZ6bHJFTmQyOU5qd0VUbmhPLUc4UHhha01QdFd4V2ZGV1pOUlVDRWNZeG0ydFl5VEIySFkwclpsZk9NeEtHOERfZURpaWJqb3BqRVItOEFuNFE?oc=5",
-      "published": "Sat, 19 Sep 2026 19:55:31 GMT",
-      "summary": "Rwanda Product Exports to Sierra Leone US$000 1997 - 2001&nbsp;&nbsp;World Bank Group",
-      "source": "World Bank",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "News - CMA CGM",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWlA0SlE0aUhhTkd1X251eU1MRWMxcWJNWUdubUZQTDBBZ04wdHp4Mk9FRV84TzhXeWFkdXpLYzk0Rl9lMGVYU3Iwcl82dFQybFVDWHg0T3NVWFJCSVFDZHBSaEwtbElwS2JuaHBwV3lzZFNzRlExTnRER3N6cDZxdzRuVjZHQTBKdEo3ajNsbkYzSTVxN2xzVVIwOV82TkVPMTRaS2hCUmlLTkItYnZWc1Q3Y1NaNXpGaDJZODc1SHNHVEE?oc=5",
-      "published": "Sat, 19 Sep 2026 19:08:52 GMT",
-      "summary": "News&nbsp;&nbsp;CMA CGM",
-      "source": "CMA CGM | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "UPS Customer Center in QUERETARO - UPS",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPREZ4bE1Nc2YyVkdPd2dPVUxUSzhYZUExQzVkSVdWdFI0SnJGc1ZsQnlzR0QwanF5UHpZTEhuNVBXNFdiR09mLTB2M0JwY0VaVWIzRlJxempMZmhySDEzUmU3N1VMdlRaX2lnMGUzdVl6Smx2MkZNV3FDai1sMUduWjdR?oc=5",
-      "published": "Sat, 19 Sep 2026 17:50:38 GMT",
-      "summary": "UPS Customer Center in QUERETARO&nbsp;&nbsp;UPS",
-      "source": "UPS | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "News - CMA CGM",
-      "link": "https://news.google.com/rss/articles/CBMivwVBVV95cUxQOHQtSFdrNUpKMTVzTFl0RXpXNzdHUm9JT1pIdmFOSHMtdzdVNWs2S0V2YklGbDZ0T3VDNzlLSXlNT2RLR2JjZWR5RUpRZkdVSUlGRVBtWVdPM1pWTXBFWDRfNjlXS2tTdnFZWTV4dVo2c2pfY3ZlbFRBbENhWGc5Z0s5STdMMERzNHBkdHNOOUZ5VkdDcVVJbGNNOUpJRlFoaVp5ck5PeUwtblROc0RDaUdmT1R5X3NsR2g4blRfOFNGSlFOV3BINFpaNWw0eXk2WVgwLXEyU3lWT3lneDZ2YW5nNEJIdnltd1U5MUEyOWhEMWhZOU9uMTg0dVZKNngtcE5nbGJkZ3l2VjFQWjl5OWZpcmdfeFpDVHRrWEg2bEdDbm12QjB5U2hvZVJ0MlhEMTRMbHNsVnhBZTN4amhmTlhwY1VyaEhmWGh5WC0xeDFmdDBkb19Da0Z2bjNZTGdqN0RnRWpLSFRmQk05SmNkWDgwMXVwT3VIeWs2MFBWU1gzcDNPdUdCNjZqeTRhUGd3aEVLNC1PSUN3cVg5d0Y2YVNxYWJoTmxaYnlaWG5xQUxGU3RLYTFYWmJIWG56aXpTemEwaTNZLU04bGE4VXgtaEtaMEt2aTdoZFlXQlhZeTlCelB4dUxYMjhoLUtsbkZOcTRBMlFYbFZDd1hFTkgxN3lCejRpZTYyUnFQcTVkMEp2WVpxY0xHSUMtQ3pCSU1LN3k2VGliYm02R1BIZ0NPVnoydnFqSTRTUnU1N0Z3aDlCaEtVSWZpOHVxaWtOWXUwTGh5RGJZSjJieHdBN0hxb2JKUUhkZDFzc3JrSzlBcmJmU2FDNlc3Zm5MLTZMdElZU1hHVVNXX3NIQ2Y4QXlSYVFxNHNob0NYN1F6VnNBU1FhWFJvdFhfTGhJZm1iQjlSZF94VTFyOXdnb3pmWUJ3?oc=5",
-      "published": "Sat, 19 Sep 2026 17:28:16 GMT",
-      "summary": "News&nbsp;&nbsp;CMA CGM",
-      "source": "CMA CGM | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "News - CMA CGM",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOTnFISjduNGVwdHJQaTdHV0xBUFhGSl9uaklDbmpwZThXWldsa0pJNWJVSHNFLU9jc2hSTXFkckRsa0hITk9qVVJYRE9SRl9MRzlGNUkzWTRYLVUzUkJsOHJFWDJIY1U0bi1reEZ3RUdTZlZNU1NHMlVyTnRLM1NPTFo2MXFUU0hIRHlrMVVRZDRWUTZ4QkdLWUh4eTA5WU9CRFVtWW1VZ0VfTmtWQkphclV2YUhPVFNlMlhSdnFYZ2EwdjNLMmNneHFZMzdyb0ZDeXVUMGp6ZktrVEZxWVhyejlvcUhnLTNRd2Nxc1dVYUVZYmF4X1JBNWdkdVUxYW9qRU1POTFXMmltWDdLbkZvdFF5NlVfd282ejk1YWhRMGxBOWJDcEgzaW1R?oc=5",
-      "published": "Sat, 19 Sep 2026 16:46:36 GMT",
-      "summary": "News&nbsp;&nbsp;CMA CGM",
-      "source": "CMA CGM | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Air Freight Transport Specialist job | jobs at DHL - DHL",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVVBSUjFkZ09nYjJnRXBrWFVCRzJxdldIdUtxdlhyU0Fmdm85bXROcU1Zc0w4eWlkeEZiTzlBdU83WTgxZlJrbWJkanBSbnpUZUh1ZHFGVGhrdDlCY3NzZFJCaGZXRnlSTVY5NjBLa0NNY2VDZ3dtNUY5UjQtQ3lRUzQtZU5xRWNLQVgzTlRybExTWGlnR3pDUUk5dFZBUGlFUnhN?oc=5",
-      "published": "Sat, 19 Sep 2026 14:09:50 GMT",
-      "summary": "Air Freight Transport Specialist job | jobs at DHL&nbsp;&nbsp;DHL",
-      "source": "DHL | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "When you \"sell similar\"...delete old? - eBay Community",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaUdpX3Y1TVhObUxweWJwVDlaRDZURmJQc3JFbXFNOVlvZ3huWEd0OTdKRF9XeGpGUUluSGZBTUg4U0k3NU5YbkI4clJrdzZfc0dLcnRJb2NUejhEWTJwcERaV2VYV085QnlFXzJRSGpnUi1hUG90SkVxQzI5bXpYVnhLeHpJTHphaGtLUkl4dzZlVTM0MmVkT3ljLTJNaWhDVVNXVmZfWk5RT2FfcXJGVkVzMlU3bUYwRzJ5QlZqU2Y2YmpR?oc=5",
-      "published": "Sat, 19 Sep 2026 13:58:39 GMT",
-      "summary": "When you \"sell similar\"...delete old?&nbsp;&nbsp;eBay Community",
-      "source": "eBay | Seller Policy",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "News - CMA CGM",
-      "link": "https://news.google.com/rss/articles/CBMihwtBVV95cUxQTWhtN2lqMko4bm51dzZKM0VVM0EtWm43MW5iTGQ5dzdBWk1hSFp2VE1wVTkycURxQkxIVmJycm5naTFtLWRzMXY5U2xGN1RKUGlEQk8wVGF3WmNqM1ZOUVo0a2FMTktFNDhvREd0S1FGUElzY1FiM2VGRWRBM2NzTTZTNUFUNGlIS01DMzJyVHkzQ2JjRTNVQ2ZjWi1oblBta3F3VTlKeDZtSE93engxcDBmSmJwbEcwMGdaYmJPUXh2SlM4dXJuUHJPLWY1X2lYRjFwNHNRQklOOEZqX1hvLUs0X09Ccm5NcThyeTR2Q3Z0VjE4NXR2d3F0QlBVT1owbVRXRU5HeFliWUdvMFVVLTRzaHh4MEN0TXNsaG81VUhCR3lSWUE5bjFtTnQ1aEF2eDg5dXFqZkVyZF9MNDB6MEJENi1hRUdkNTN0bFRGXzcyVmtVdnhsVWUwbGlxQS1kXzVMWFRFUEdDdmZzVXh1b3ZxZjBOTkFWMjVOeVZheS05WnpsNlRzU3ZVVGlyWUxjTDgyM3JVV0xJYlI2Q3hJdHVwVkRvNUFqT0sxY3l2eUxpSk43bGtFVHhmdGtmeDl6S3UzMERUOFU1QlBrenhOa2xuSEFkOUVySVB5RGtoWWVJYWtTcDNIVUhMd3VjQ0pPRmR5LUpqbWQzLVVxd0h1dFVNMjZ0d0ZiYjAtTUxaUm44NHktVzNEM0JHY1E2c05Zb1J5UXprWnZWOFZEc0FFOGJxTTl0Mk9ZbGlsQ2V2REdHUkdPZmtjZE5EN0pKMUpNRmg2eThyX2RqZXhISVVtWGVFaER6MGJDTVVTelFZbng2Rld4ck9qQ3NQUnlmRWQ4NUhNejlBVTkxeFdvYWJ5b21NandsWDNGT1V0VGhXbkRzdzFBNG0zeUNkejl1UXd2WmhVVGt3WGo5d1I3djYyUkhzT0l3eHRFT1YxblQ5YXJRYi1aYnRBc0dfamo4cTA5OFhpOEgzX04yTi1wajhMcHNUSk9Gd0dwZHFwcUhqQlhXeXk1bGtUV0N3eVlVNER5SjZHMnl5WWI3ZFFDZ2s2aTN1U0dOZDRLQmdnUzJkU3dReC05QkVYS3phNGdka1lSSVB4UzFtc2pGbFA3ck1UY0M4b2Jab3o1SWVZOGo3QTJFVWhQeHAyWVFkZFZVSTZ3cWh5cW52b09WNGRPdzNOalVuOE1jTzBSblRHYXdFQXQ3Zno0VzFTMVpaZVdQM2UxcnFSd0FIODRjczM0clM4VzJWRHVNWnZCX3dkOFJ1VlR0UlpPTUlHLWliaFRLZEVpWUF6NE9fN2dFU3BaSDlWSmhvT1JFbmdpQUs4ZkswWGF1WkdLbHZmdzljUlVTdkFwQzBKMVY3ODVRWElTQ1JXWVV4dlpnTVhGb1JzRWJ6VDlsT2M0SFZlNjMzLVdPSERMTUdmSm05TkUwTklRdDJ3d1VlZlpCSldacENheHhCREx2MVBUMHBqaW54azRMS0l6RldpV2NheGMyM28zUXZ5aUwxU0FEUE9QcTg0REVGa0RSNDVGd25Sa0tlckE0RmhVWENnQTJQbUFrTXJrUGdidG1tNTcwSVBScG5TZ0pickVQQTFPUEVXVGxTbjBTT1F5N0JGRUdHNFBQOHVxLUhvaHJFOWV6endTUDE5LWpEdDh2Nm9tRTNxYjNkdUJlZ3VXcWFZNWU5NlByVUdnbEtDVGlGNEhwam9idjhyRnpJelBwaEhOYzJwN01HS3RhXzNjSXFOc1VfWVF5NC1fME5qLUNIS2E1NWE0WXlXd0dYOU5BOUFoRG80RXlRaThLY2ZubmNyTzJQWkpnY2RLZVhKX0pVWVM4bEYtM2EyUDA5THZORVQ0aVNVZDFzZFI0RUdWaUs1YURfTQ?oc=5",
-      "published": "Sat, 19 Sep 2026 13:49:21 GMT",
-      "summary": "News&nbsp;&nbsp;CMA CGM",
-      "source": "CMA CGM | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Ghana Mace exports by country - World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUU8yY21LZ0Q1TmRndndJR1VNTTFoMmtEdXNOWDVhS0xCTFZBSlNfZjM4Y1BfYmVHR1hDTlFLTWxwQlZJVE1nVXFiZzBiQUttLTJ4Nlo0amZ4T2l0eW12TGVOQWpROU1vcTRYbGtvZUxmRGFsYWpXcFdzcjNMX3N1RW1fTnFtWm1qUGQxSVRiTlpXOEtnWTJKWHl1aE85V18yLWJlM1JyOUNQY3ZXVU1Gag?oc=5",
-      "published": "Sat, 19 Sep 2026 13:34:44 GMT",
-      "summary": "Ghana Mace exports by country&nbsp;&nbsp;World Bank Group",
-      "source": "World Bank",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "China Starts Campaign to Combat Environmental Monitoring Fraud - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOVRMekhSd19RNFhKc0dIYVFPTjluUkhMTkRzaVZBWTYxUjUwWFVMS01SY1JjZ0RpUUwyWGtVYk5wNlVMekFtVS1RYTdzWjQ5cWxPNUp6eWtWUXBNcEFEbU9sejVDRW1ON1ZOYzJ1UTdNeDVKS1piRDdYTUR5SlBaR05kSlFQMWlLX1kxUFRpSU1ZdnhQY0hwNW00UG9uT1cwRUxUWEVjLUE4MVBjWnNfWVk3dw?oc=5",
-      "published": "Sat, 19 Sep 2026 12:07:58 GMT",
-      "summary": "China Starts Campaign to Combat Environmental Monitoring Fraud&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Operations Assistant job | Operations jobs at DHL Group - DHL",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGlJSElwM3k2WHpJQm1hbW1mNXlvQXg4bG0zYzBBcWYwLU9TaTZTLTBHNU9ad09fdUlLV1FZVV82SUNQdkZYMTl1T1BGTDBIRDVFYTJYZ0V6dVk4SDJSYTBsNklhQS12bWw2dEU2a2dad1R4cFBsZjdxVFpKQ2JfVUlyZWRPTF9RamtfNkZuNTRrVENfc09aR3RuMEt3M19BbEM3VE9n?oc=5",
-      "published": "Sat, 19 Sep 2026 10:44:41 GMT",
-      "summary": "Operations Assistant job | Operations jobs at DHL Group&nbsp;&nbsp;DHL",
-      "source": "DHL | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Vietnam targets $48 billion in textile-garment exports - Apparel Views",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV3lZOTN2RE9sYXNENmt4VUs0VEhXcWRwUVF5YzhfUVU2VnVwY1d1OUVBSmUzcnExUXQ5a2FSRVZWQnZvdW1xb05oZ0VFQW5HQjlJWkQ4bDZMRE55WFh6c1hZanBKR3Q5Si1UZ0ZhWXVlQWFfclJZNkk0aXFxbHlyYXFhamZXM3VOTXY4?oc=5",
-      "published": "Sat, 19 Sep 2026 10:03:18 GMT",
-      "summary": "Vietnam targets $48 billion in textile-garment exports&nbsp;&nbsp;Apparel Views",
-      "source": "Google News | Vietnam Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "AEP014: AOG Desk Front Officer in Dubai, Dubai - careers.fedex.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0ZpUnd4b282RVd3TFp5UTB5YkRMU2owSkJPcGFIakg4aDRDRUhCakVaSi1JZEFMaGYwQXI5OXhqMVY3NnFIRWxVYlFfVXFjLTl3emd1ZmZhZktadTJQU3FqeUJvMGZWLXhGSTYydGU0ZXJuTEdCNEYxVkZpRy1oaHMxMUE1cktsQ2NvNWFZWFppbWpDZ2lF?oc=5",
-      "published": "Sat, 19 Sep 2026 09:40:57 GMT",
-      "summary": "AEP014: AOG Desk Front Officer in Dubai, Dubai&nbsp;&nbsp;careers.fedex.com",
-      "source": "FedEx | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "CPSC Quick Reference Guide - fedex.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0w5Ymw0amgySUpFY1ZlWEwyUXpNZzVoemJoRTRIWXFqYWNHajJ5MG9QTFdwZTBKcDAtTlZ4UU1zSmhfOGVCZjlhSm5rWGNaTmlReUhDRzZiN2pORW1tcFRZaFJtTXoxTHBLM0ZXcEZ5eHpEQlR0bjRYNFBqQ1h1eG9QX29zenVfNUZsNVlqaDQ1Z0xCd2o0dTFrUmR2NXF6dm1n?oc=5",
-      "published": "Sat, 19 Sep 2026 08:27:43 GMT",
-      "summary": "CPSC Quick Reference Guide&nbsp;&nbsp;fedex.com",
-      "source": "FedEx | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "videos - New Zealand - UPS",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKZGhuNVF2SVZLWS1qZVVXVUN1bnEybGhvaXJMXy1xbHlZSnkyRndKMGdUWVRxQ1ZlMVNzWkxidWw3cFI2UlVzdkEwRkJOQTRvX0dPMGFpU2hXYUVJdzVBMGVXM1pIdmE0Unpv?oc=5",
-      "published": "Sat, 19 Sep 2026 07:41:33 GMT",
-      "summary": "videos - New Zealand&nbsp;&nbsp;UPS",
-      "source": "UPS | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Optics Valley Launches Corporate International Communication Alliance to Empower Tech Companies’ High-Quality Global Expansion - Asia News Network",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWERnZUdIQ0t4clI2SGtsekVEVDY3MkpnYkdVc285TGhMTTJhOG1RZFdPOGV4NjVIMElDYTYxcnp0cFZWelV0TlFPY0xBTUZObVEyX19KNkRscUxfY1BJXzRrSUFfX0o1NjVaSXd1VjRDbU10clVyMFVnQ0RQX0hHSndkYzY1RzNmWmxmRFhZUDZINml5R3BDNl9xd0VoemlHaDhqU3gtR3Z5Vmk2N1EzMTl2YXFlRFppTmZYSF9SNzB4alNIS1VhOWtIVmw3QldTd2JHYXFnR00wQzlfd3lTXzZCa2NHUQ?oc=5",
-      "published": "Sat, 19 Sep 2026 07:02:29 GMT",
-      "summary": "Optics Valley Launches Corporate International Communication Alliance to Empower Tech Companies’ High-Quality Global Expansion&nbsp;&nbsp;Asia News Network",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "September 19, 2026 Update - assets.ups.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUmx1WWZNWVludmxibHdnOVV2M0dRY2l6ZmFDZUlta3AtdHRIWVRhTmt2V3NSLTgwMmNYcVdVSGpraW5aQzJwR1J4NnZQVG1KTVJ4THRIUEZMRE1DMVpYOFh3NEhLUlQzMVpQZ3IzY3UzeW5RMDR4TlF4VEotLW51RS0xT1I0TDg5bW5pZkV0RTRtaTNQdG11eWxoS0VISnowenhlNVYteTRCaHRfMlpnZVV3TTFXVXdROFFlM0t5azJZdTh3NHI3Tg?oc=5",
-      "published": "Sat, 19 Sep 2026 07:00:00 GMT",
-      "summary": "September 19, 2026 Update&nbsp;&nbsp;assets.ups.com",
-      "source": "UPS | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Ms. Dream Meng Liu - World Investment Forum",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMVGpOTHlkUW1kQmJTU1pYV19pYW5mN3J5STZpWThQWHdTLUtFeVkxVFFCcC1vLThIMHk4Ny1kZmtfUW16cGxsZk1CU3c4SXA1azZXZ2ZEUjNUU3pITkZzeEZDUkMxQlFGR1hYOTJrR1I5cVV4b1dSQlF2LVZJN28?oc=5",
-      "published": "Sat, 19 Sep 2026 06:47:48 GMT",
-      "summary": "Ms. Dream Meng Liu&nbsp;&nbsp;World Investment Forum",
-      "source": "UNCTAD",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "H.E. Mr. Abdulhamid Mohammed M A Al Dabiba - World Investment Forum",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVhHQlVuenF6V2M2dF9rWVV1OXc2Y1NmVkJKWUIxQ1NaLTA5OUtHZnRJY2gyLTVvUzZyUk1YVjkxWXN6NlNQdTlXVmVlWmdoUGdBbHlDNFpXRUJ0Z1RRa3lsUXNtVlJ1a3M0aFVFODRfT2IzaC1PbzcyTVJyVFJzYW56Yi1WeVVPMGhfNmpB?oc=5",
-      "published": "Sat, 19 Sep 2026 06:45:52 GMT",
-      "summary": "H.E. Mr. Abdulhamid Mohammed M A Al Dabiba&nbsp;&nbsp;World Investment Forum",
-      "source": "UNCTAD",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "H.E. Mr. Abdullah bin Hamad bin Abdullah Al-Attiya - World Investment Forum",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRVZWWVFIOGFIV09jQXcybHBrcU1vNTE1Q2xpZWxKajZDY01FdDVpb1lYaUlucnNXRk9QM25sM2RDelRreHBPRGd6VDIwbU9OWmVsRTNUOTRyd19FUUhYTkltbjNlejROX2l3RERDUDhJQWxhTUJqYzV0c29RV2RHUE8yNHZRYnRBMkNoanVTOENBcHVMdkh2Z2FGbw?oc=5",
-      "published": "Sat, 19 Sep 2026 06:45:52 GMT",
-      "summary": "H.E. Mr. Abdullah bin Hamad bin Abdullah Al-Attiya&nbsp;&nbsp;World Investment Forum",
-      "source": "UNCTAD",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Mr. Mohammed Saif Al-Sowaidi - World Investment Forum",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1o4dk1ISlFPM0s5UHZJNGNEVUpMeW9jaHZTZlItM0djRTRNTUFTQ1RTUXBNV2VpYWZoUnVaLXk5eFVUZnRKc0pLLWZNbTVpb3UteUJVZEE0dUlwU0xYT2pFSDItTFFVYkNIMFpoM2R6U21LeXlNbmJiLWl6WGJBMQ?oc=5",
-      "published": "Sat, 19 Sep 2026 06:45:19 GMT",
-      "summary": "Mr. Mohammed Saif Al-Sowaidi&nbsp;&nbsp;World Investment Forum",
-      "source": "UNCTAD",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "How to Pack Large and Heavy Shipments - DHL",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbTNuNWllcGxiVmMwQmdyREROVzl2aVBQSG1SbmhYaWtZZENRNDhpbXhpeFMybHo0NkRIYW5QV183WGlmZWpkcF9UbUc0U2dHQloyVy1CeW5uT3NPQ0VBYVBiM09YeEQ1bUFKLTVINFlTWFh2WTkwdkZBcF9IdHlBdkt0cGVvVWY4VUhjc0N3MUZSc1ZFZXkwTE13VlY?oc=5",
-      "published": "Sat, 19 Sep 2026 06:14:55 GMT",
-      "summary": "How to Pack Large and Heavy Shipments&nbsp;&nbsp;DHL",
-      "source": "DHL | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Parts Suppliers Flock to Go Global: Is Money Really Easier to Make Overseas? - Gasgoo",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWGIxQk5vdF9wcDkyTjdFbW9zeXNmaW1QZ0Z2OFpRRnNSdUF1SUY5SEdCYUN6Q01WLWpoX081VDFaY0xFZnZyLTRKMmVtSG1WTFY0TG8wY1RjQ2hzclgyWkFGeGdtZDNkRnNpeW1wVXpOcFNqb1hOaVU1YmJza0NVR1k4bkRiR0tQMVRfbWFGYXljMFZ1Y19LWkN6WXl4dTFGb0VZSEZUeGlPX1lwdUZlOGFSbTUycjVTWWZwdGFuTndSSnJISU5ud1VudGpULTFGTWc?oc=5",
-      "published": "Sat, 19 Sep 2026 05:33:24 GMT",
-      "summary": "Parts Suppliers Flock to Go Global: Is Money Really Easier to Make Overseas?&nbsp;&nbsp;Gasgoo",
-      "source": "Google News | SE Asia Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Ms. Larissa Barhebréus - World Investment Forum",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQenlMYnBrTkRiNHJ2bFRDcmx3amtYOHE0aTFoQmdvUl83dEJnRUpsdDBZaGxoekJPVUl6aXU4OTlGclJzYldtcW12RWRuWm5yVVdlU2t3UlZQOFdTMzc5Zjl2RWdRc1ZmV2x2dEx6MVo5cWNyam16SENOZmI2cEc3MjBlVXBoVnRoNGU2WG4zTkRhT01wRVJ3?oc=5",
-      "published": "Sat, 19 Sep 2026 05:31:53 GMT",
-      "summary": "Ms. Larissa Barhebréus&nbsp;&nbsp;World Investment Forum",
-      "source": "UNCTAD",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "OMC | General Administration of Customs of the People’s Republic of China - World Trade Organization",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qcTRETTZYU2hqeVI5MmdoSVlnOVRlU0ZidWdXSU5HVng4X2ppUlFQMkJuSXUwbTZXeXdDbWREdG9KaDhLMk5sXzhSVEx5NlJGUWg5ZnBGQmRnakdMOVFybGVpbF9kejMxc3lzaExJRkx3ZDYtRjlYRE9KOEFoQQ?oc=5",
-      "published": "Sat, 19 Sep 2026 05:11:52 GMT",
-      "summary": "OMC | General Administration of Customs of the People’s Republic of China&nbsp;&nbsp;World Trade Organization",
-      "source": "WTO",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "CMA CGM NIGERIA SHIPPING LTD ROTATION NUMBER 18 September 2026 - CMA CGM",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRUx1VUNVZkZRMzJONU02Q0loWl9yRGV4SUQ0am5VZEdyS1NRM29iS29VYzBWSDc0NnN1OU9rZ213bEVQbkp1di1nZVdDdU1ZNG1DQlZzN0RxVS1ra2Vfdi1JN1hxdVdxMEs1Qld6cTJWYzhfbkdGbzlWWEJVeng2bi03SlVmb3dqN1M5NmJOaHZhQQ?oc=5",
-      "published": "Sat, 19 Sep 2026 04:49:08 GMT",
-      "summary": "CMA CGM NIGERIA SHIPPING LTD ROTATION NUMBER 18 September 2026&nbsp;&nbsp;CMA CGM",
-      "source": "CMA CGM | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Thailand Flux Coated Preforms for Semiconductor - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3JfckxPRlpIaXA4VkJkVjlISjNaanpIZUk5X2FFUEMtbGFsNjZrRVlLcHJXcDQ4ZVB4eVoycWNvYW45dm52UjhMdEpXWl94Zm9MUDJWOWpHMlM3WnFrNk5EZl9XbEdnOElWRGQxdXVoT2IyZy1wR1BTY1NxdEo2OTZMSTVnanNOQzNHb1NGWk5Ka2xGTTFTbDJPbUtmTkFJWUczRkhKdUxDQVdCVHdnd0J4ZlhCUFVBaFlTSEk4cW1ucVdSR2l3?oc=5",
-      "published": "Sat, 19 Sep 2026 03:02:29 GMT",
-      "summary": "Thailand Flux Coated Preforms for Semiconductor - Market Analysis, Forecast, Size, Trends and Insights&nbsp;&nbsp;IndexBox",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "- UN Trade and Development (UNCTAD)",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ITGRtMnB4WnVKOXp4SHJoazlFWE9rTmNKRGkxaUEyRUZtR0Q3djRBZ29PTlV5LVJWSjdSQW4tMVFxSUkySGRYaWZKWDgwU0VLOWhZN0pncmZtcnhRT2ZXeGdxRkw?oc=5",
-      "published": "Sat, 19 Sep 2026 02:54:02 GMT",
-      "summary": "&nbsp;&nbsp;UN Trade and Development (UNCTAD)",
-      "source": "UNCTAD",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Kim Long Motor exports first batch of electric buses to Thailand - vietnam.vnanet.vn",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWdabnB0Zmt4Q3BZdlFYZlJ4aUZfWHoyc04tbFRBbGFpVTN1aUZ2V0szTWhPVHhacWR1SFYzWXV5MXVWeDdoc3dCX2ZpMkNlLS1vQzQwMGdNdW84TUdFbjZ3bkprWVNwMmlxOHRzb2hoQThNcFM5SENReXZTOGpaaDNaaTREb0pzZG1RTVQxWlhRd0c0U1FPQ2xncENOZEM0bGpGYldpYllpYmxRWjFseTNkcl81TFY5QVE?oc=5",
-      "published": "Sat, 19 Sep 2026 02:42:39 GMT",
-      "summary": "Kim Long Motor exports first batch of electric buses to Thailand&nbsp;&nbsp;vietnam.vnanet.vn",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "H.E. Ms. Jacqueline Lydia Mikolo - World Investment Forum",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEZKODJHTEYyNnViMjh5R3JDRzQwTld4eVdUV3RmbjNZaDRRa2x1cllTcVAyLXJLZVE5cGdpSU9zUm03dEIxWHVPbDB5R1Z1VXhaWDE3S0ZoRVVHelRkSFZ5bVhmdkI3dTFINlVEX2FpTk5UOWxNT0dTUWhJb3VoYzFXbFhQUDNTQ084d3J0cw?oc=5",
-      "published": "Sat, 19 Sep 2026 02:19:51 GMT",
-      "summary": "H.E. Ms. Jacqueline Lydia Mikolo&nbsp;&nbsp;World Investment Forum",
-      "source": "UNCTAD",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Sales Manager - Johannesburg job | jobs at DHL Group - DHL",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTldNanBuMTZGN2MxekhxTkU5VmpOTVg3MTFXNFBaSFJHUlNocTUwbWZFTlY5Zy1lMTBoSVlRUUVqY2tPaGJCRzN5Uno4bGcwR2tWazFqVjRYZ2dpTHJyTkhvbGZpZEZWTE5ZUFVPdzBDTlZPSXptanNPc3VjdkZPQTBjUm9rRXJqd0tBTjFvelJLZHBjM3hILUk1Y3UzYUJk?oc=5",
-      "published": "Sat, 19 Sep 2026 01:54:36 GMT",
-      "summary": "Sales Manager - Johannesburg job | jobs at DHL Group&nbsp;&nbsp;DHL",
-      "source": "DHL | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Station Manager job | jobs at DHL Group - DHL",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUG5VYTdUamd0cy1uNWJCX3o4S0E0bURVQWhIdkY3Q1VOWm9ydDZ1N2pSWUU4UTdyVUJVOU5FcFpkWWs4TVJtazZNbVFFdXVNSFV1bnd5aTBxdnJYT2pXd0FCT0Rnb0hISFRQRk50bjFmdGkzVkdCZG1rdWZBQkoxU2VmUERkZDc3TmpneGFtc3pVZw?oc=5",
-      "published": "Sat, 19 Sep 2026 01:54:36 GMT",
-      "summary": "Station Manager job | jobs at DHL Group&nbsp;&nbsp;DHL",
-      "source": "DHL | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Thin-Film/ALD Engineer - Jobs - Careers at Apple - Apple",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmR3NkFrRG5lLXB6QXpYWlFhVkdCS0VzZl81Y2t4R0J6OWtLbW9CUDQyTUlVbERXVUNGMTU2RDdUOUVWR1NpSXVueGxIMDl4VVN3NFpZUWhUdDZDNHZEbEkxUVFIb2Nwa1FNa1VqVUhfNmNsbUhBTVdzVzIySTlZa2t4UGUzaFdqeVpXR2Nn?oc=5",
-      "published": "Sat, 19 Sep 2026 01:42:58 GMT",
-      "summary": "Thin-Film/ALD Engineer - Jobs - Careers at Apple&nbsp;&nbsp;Apple",
-      "source": "Apple | Supply Chain",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Volkswagen crisis worsens with $11.5 billion profit warning, largely due to Porsche struggles - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOE5LV2xQSHM0XzdrcDdhVGVXVkcwRkRGYno2YllaUlg0T0Y2Z3BDSHpheGhPSS1RcnJqOWN1YWpwbUljYWZqX1Q2RHoya1RJNEc3Yko0QTlsUUZsdXQ1ZUR0RlNudUllVi1SMTF0WXNyVWtuX3Fkb3ZvYzdYczBZX1hGdEg3WlZlck1RejlZWQ?oc=5",
-      "published": "Sat, 19 Sep 2026 00:50:24 GMT",
-      "summary": "Volkswagen crisis worsens with $11.5 billion profit warning, largely due to Porsche struggles&nbsp;&nbsp;Reuters",
-      "source": "Reuters | Trade/Tariff",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "AI growth with guardrails",
-      "link": "https://www.bangkokpost.com/business/general/3323354/ai-growth-with-guardrails",
-      "published": "Mon, 21 Sep 2026 04:53:00 +0700",
-      "summary": "The growing global debate about whether to slow artificial intelligence (AI) development to address its potential dangers should be a wake-up call for Thailand to step up its cyberdefence and human oversight as the country pursues AI-driven growth.",
-      "source": "Bangkok Post | Breaking",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Greer to Join Bessent in Talks With Chinese Officials on Sunday - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakx1TmcxTjhvNmlTZ0s5cFlJejZKYlh4LUEyWi1oTjJTN2o0MGZwYi1JQlhOaGdHUUNIeWFaam1mUnhzZ3d4RTB4Skwxa04wZFM5SXVLNHFFRjZyYXVWb2lrSzQwejNESnp6SVBjTmUtUXpCYWZFczRwWnRROE1IYmxsSEotSGtFdkdMajBBb01sUzJpWlB0bHh5VGFXSmVNTU1STFZHRTRTYTM1b3EtQ1M1ZHQ?oc=5",
-      "published": "Fri, 18 Sep 2026 23:55:27 GMT",
-      "summary": "Greer to Join Bessent in Talks With Chinese Officials on Sunday&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Watch Wall Street Week | India’s Growth Test, Bangalore’s Infrastructure Problem, Cricket Attracts Capital - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZDNtTjZoLWJfMjU1b1JDZkQxYmtPd0FlaU5lOEhhbThGdkd5WGxvTjNsODNjUnY0OXBlbVBhN2UybVlXM2tHMExHaU1DUThfNXlzNUVJMllUd1lqSkM5U051MzJVRTdyX19KQS1nQUJ4ZXZzZ191ZVNza29MN0pBbC1jRER1ZmZSclVLV0c2TjJ0VVF2U3c?oc=5",
-      "published": "Fri, 18 Sep 2026 23:41:33 GMT",
-      "summary": "Watch Wall Street Week | India’s Growth Test, Bangalore’s Infrastructure Problem, Cricket Attracts Capital&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Finance - Detention & Demurrage Invoice Request User Guide - hapag-lloyd.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcUJFM2VBM2tDeWd5b3RnYmR0SHg3dXFnX2Ixc2pvV0l2Y3g3NDVES21XSERaWW8xeFItSUFTNXdPdUF2ZVA2d0RFdHdaSDlSY2tSaXhhVkxhZC02Z1o2SzhyVFFBNm1maFBrTUxpaFpSQk9lajA1TjN4MWNXcXZ3ZGtCcUN4MGFza3l1MXRFT2VTc3YxSHdTWE1uOThTTTF5RDYyNTZsWDBPemc?oc=5",
-      "published": "Fri, 18 Sep 2026 22:35:04 GMT",
-      "summary": "Finance - Detention & Demurrage Invoice Request User Guide&nbsp;&nbsp;hapag-lloyd.com",
-      "source": "Hapag-Lloyd | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "APICS CPIM Exam 2026 Prep - Apple",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JR3dfU09TbFVDdHJhaDJhODItM0xSRUlLeWFncTNkLVFPWklkN0xNS1lIV3lHR2tqZXFiSUZhQkhBekZFeEVLUzF1N2o0MU5lUldqYnVHbWdfR2szVTZtNnFWS3FjRmx2NnhwQ3lPRmJQd2pDMmM0?oc=5",
-      "published": "Fri, 18 Sep 2026 21:27:20 GMT",
-      "summary": "APICS CPIM Exam 2026 Prep&nbsp;&nbsp;Apple",
-      "source": "Apple | Supply Chain",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Northern Trojan Horse: Identifying Threats from Closer China-Canada Trade – AFPI - americafirstpolicy.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamMzMXgzbVBqWEtLOTl3VU1KZC1PMTVCdUFRdUctZS1Sb051LTdULUt0SG9rY1drRWVhSWphMFNlc280dS1JYm1QNUhnaDM5d3l3UXJON1ZYSFI2dVNCNXA5S01mTU83Nm5lUVh1X1hwYWd0WlNQYmpCYmxodmdNcnQ5OWJqNmotRGZONFhWRWE2aDQ2c0ZJOWhCc1h1OTVpN0x4ZVBVUUlzSFBySUUxNg?oc=5",
-      "published": "Fri, 18 Sep 2026 20:40:56 GMT",
-      "summary": "Northern Trojan Horse: Identifying Threats from Closer China-Canada Trade – AFPI&nbsp;&nbsp;americafirstpolicy.com",
-      "source": "Google News | USTR 301",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Program Manager (Solutions Architect), BPR Solutions - Apple",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVpxUmh3R1RyekZjTDktemV6alk5TzFjRGlub0pIZU5LLXdnSlo5RENtcnI2eUZiZGZRMkY0czQ0R3V5Z2lVQ0JMQVhSOWtDNWx2Z25IbEVlNG5ncWVmSEN0X0hvY0hSYk9nVU5BMnBDQ1pWWXpwOEtObTF5QnprRlN5d3VNVTM2TnNoVjE4eGhpVXNMeHdEVklmWjc0MjhDU2JKNmlCQWdFODJSRktabWtR?oc=5",
-      "published": "Fri, 18 Sep 2026 19:40:59 GMT",
-      "summary": "Program Manager (Solutions Architect), BPR Solutions&nbsp;&nbsp;Apple",
-      "source": "Apple | Supply Chain",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Business Development Manager, Customer Value Management - Apple",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWlVHa0txVmVrZlpYZ1lWbHlkRzB4aGhmODVSTTFHVjJGTzNIQW81NUx0LWVCbFlMYVJnMGdUVE5JcERHbkpoa2pncVdkXzd2WVlETTY1cXRLcGV2RHB3NGlxY2thVTVrTHcwSm5oVHBFVVhDY2JfT015RVV3cDk5MC1YYnl4TkQ3Skw1c3ZqTTg5S3pBMFNwOTAtUnY2dndiVk1CMjlLTUMzY1VCNUZZd3hZMFNILUdn?oc=5",
-      "published": "Fri, 18 Sep 2026 19:36:50 GMT",
-      "summary": "Business Development Manager, Customer Value Management&nbsp;&nbsp;Apple",
-      "source": "Apple | Supply Chain",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "PSS - From South America East Coast to Europe - CMA CGM",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xd1ZUQnFZcF95N2pUM29UdGwwWDRVSllMcEZUQTVrbjBkTERKYU1mbmlaTGRuUEV5RWxqX2ZBR2hpd1Nla080NkpFak5rRUk1QW5fZXVxSnFJTkx3aHVUZ2JHS3Rodw?oc=5",
-      "published": "Fri, 18 Sep 2026 19:18:01 GMT",
-      "summary": "PSS - From South America East Coast to Europe&nbsp;&nbsp;CMA CGM",
-      "source": "CMA CGM | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESBIO ESF E 208011 X-PRESS GODAVARI 48116501920 GIBRALTA - hapag-lloyd.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkZOWTFWdHRTT2ptN2lOaWppcUdteDRrYmZoNk1pTzN4eERKVUhhbHhydHV0eExhbXQyRlR2c0dFV0FqY2pyb1JDWEJjM2JvZGJBV3lIYWlxR0gzU0FxRFhBTWY2aGNfSkNZUVZscnIwUUc3YkRpeDl1MGZFQklfVGlQcUkxejZmQVNrV2xtbXBmTmpmR0E?oc=5",
-      "published": "Fri, 18 Sep 2026 19:15:57 GMT",
-      "summary": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESBIO ESF E 208011 X-PRESS GODAVARI 48116501920 GIBRALTA&nbsp;&nbsp;hapag-lloyd.com",
-      "source": "Hapag-Lloyd | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESVLC AL7 W 688525 ZIM VIRGINIA 1202604477 ISRAEL VLC011 - hapag-lloyd.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTkydGRwSFdWS3I5ZXByM0tHU3ZVcXlUYXBocy03TlBZcWNaT1otbHlvdFRJYjFuV3ptcTEzUUp6bmplcGVGR29lT1ZBS3lCOGlQQU1zNmZpSWJvRkltUnFwajRYMEFpeFV6X0QwOFhBbE1FaGZzSmZvY1ZxX1pwSktJbjFocHlpa1VBQWxiZVhwdUphTWhfSA?oc=5",
-      "published": "Fri, 18 Sep 2026 19:03:13 GMT",
-      "summary": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESVLC AL7 W 688525 ZIM VIRGINIA 1202604477 ISRAEL VLC011&nbsp;&nbsp;hapag-lloyd.com",
-      "source": "Hapag-Lloyd | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Customs Clearance Registration - hapag-lloyd.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWNvRjJ5cXB0M0hCU3dFbjdCS3FtZXcwbzdiTHJZaEhNQmhveV9ndTUyb19meDIwSWdGVHJrMTNSRmNlbmUzbmdWRU1GSDJLeEtOc2lZQmFxVVBrYnZPZVl1b1RRZGZ5NFJMN2FWaEJwWjh6NmxvTDFGd3EtNjBKV2pVQXNCMFNPUFNzZlczUGJVZlZqdXRaY2l1LU1FVnZiV0E?oc=5",
-      "published": "Fri, 18 Sep 2026 19:01:41 GMT",
-      "summary": "Customs Clearance Registration&nbsp;&nbsp;hapag-lloyd.com",
-      "source": "Hapag-Lloyd | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESAGP MSW S 207450 MERSIN EXPRESS MALTA 2911NTMADT Sun, - hapag-lloyd.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeEphSWIxTDJkZ3BIYWRCSU5yUU1MSnZUNmxQVjczZzlENXJpWVlqUk05aVJlSnE0emc2RzdqTG1sZTJRU1dmbGNjLXgzWGh1QUxqMGMwUU5jaGhUQXlLV01rbFdndTlRU2NENV90c1VkUU9SM0lIT0ZreDhpSTRYYUlkS3NhTEZiaVNtZkRESFB4YnRUMFE?oc=5",
-      "published": "Fri, 18 Sep 2026 18:58:52 GMT",
-      "summary": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESAGP MSW S 207450 MERSIN EXPRESS MALTA 2911NTMADT Sun,&nbsp;&nbsp;hapag-lloyd.com",
-      "source": "Hapag-Lloyd | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Software Engineer (AML), AI & Data Platforms (AiDP) - Apple",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWJaaDNmV040Z2N6RGdEZ0V1RDhzTGxleHZ1UHFKRVR2RkNsbllWMTFjZTdTamlKUWFLdlQ2RDVzd1phVFprWk1tTk9ydzhFOXBqSWVjdzlTaWtfVEdWSzBhZ3pHVGhiYkRacERpTnpSS2NUMktmS3RyLWZjMmFfQTdJdUQyYjI1N1Q3eXhfc1lzU0lVZGxRRWp0Yjg?oc=5",
-      "published": "Fri, 18 Sep 2026 18:53:13 GMT",
-      "summary": "Software Engineer (AML), AI & Data Platforms (AiDP)&nbsp;&nbsp;Apple",
-      "source": "Apple | Supply Chain",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Project Management Senior - careers.fedex.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55TEJ2Q0Jibm9rNS1jOXprakoyQ3ZtUGlOa2FwUGhITFhITXU0QWthQnBsUVplRmdQdVhiUE84QVE2U2xuTzZRXzU0RlV0THM1RkxwR05LbGVsTHMzRVJIekRvdXlQNVMya3JSOTI0dk9NSnVxTlpZ?oc=5",
-      "published": "Fri, 18 Sep 2026 18:30:33 GMT",
-      "summary": "Project Management Senior&nbsp;&nbsp;careers.fedex.com",
-      "source": "FedEx | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Investors Pull $1.8 Billion From Muni Market as Return Slump Extends - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzBkaW5TUWNpQnZvWGFHeEVyZkh4SkxYSXZKWE5VNmxWZ2RIMmd6NkJKQ1NSNFdUSEJXSk5acThmUVdydjlBTklrZkNGOTFTTEhNWFpaQUc4Q2JHcVRrR3VEdnI3LTFzZEJULVU3V253NFZ5SDhHeGxIYU5BbzRzVDlySzRzbTBleVVZNHdJSjN5MWRmM1ZEcjV5MWpoRndrTmxKWVFOaUJRNUIyREplUUl6TThCWHotd3c?oc=5",
-      "published": "Fri, 18 Sep 2026 17:55:17 GMT",
-      "summary": "Investors Pull $1.8 Billion From Muni Market as Return Slump Extends&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide - Apple",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUjRHeTZUSnUyXzZYN3VDYW9LNWZsTU8xOUdkeGVRU3A5NUxjb1h1bWJlWTBVaUhDREhtUzI5MTBubWVZbUtzZ1ZXVUZkVUFrM3RkVFp3dFh3UWhmWC1sc1JsbUg4STgzRlcwMXRZUGR5TVN5bkt3RFdsX3FGZ3g1NDNRTlFRVlFEbG9ac1hFWUNlTXhXd1Nud3duRFBFd2RMU3VQNlNKWjZyRlBsUlJsUHNqYWZ1ZEE?oc=5",
-      "published": "Fri, 18 Sep 2026 17:43:08 GMT",
-      "summary": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide&nbsp;&nbsp;Apple",
-      "source": "Apple | Supply Chain",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Customs Trade Agent in Memphis, Tennessee - careers.fedex.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03Y1RxWGdES2QwSUF3UHNTMjVvcko5VXhRbDItazNqQ1lsOS1reWpfd0Yyd3dNUkYtYjdaTTlMN2ktTVNSeE5PTmVtSnRvWUpJS29XNDJqLUpZNkpyZjhVQ3VQcGNsb3pqdXFyakxraw?oc=5",
-      "published": "Fri, 18 Sep 2026 17:28:07 GMT",
-      "summary": "Customs Trade Agent in Memphis, Tennessee&nbsp;&nbsp;careers.fedex.com",
-      "source": "FedEx | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "PSS - From China, North East Asia & South East Asia to Port Louis, Mauritius - CMA CGM",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY3Fueno3aDF1QmFoT2Q3a1J6WWZZNlN2bVhsT1J0bWdIWWozUUpweGpxdkp3b3YyVW5zV0IxeUxvcXhXM0JtVTRId28wU2VtWl84ejBUOUdZMUZzS3AzbjE2M2hjT3VXNjhnY2duZy15Vm1femZMR2dQWEllMlVfR3V6bDVSRV9SVzlaVFJqMmRONjl4T2VvaTlmbmJrVDdmOEFpeFU0aEF4cTVDSmZoTWVCUk51UjhEMXRLTkZR?oc=5",
-      "published": "Fri, 18 Sep 2026 16:58:26 GMT",
-      "summary": "PSS - From China, North East Asia & South East Asia to Port Louis, Mauritius&nbsp;&nbsp;CMA CGM",
-      "source": "CMA CGM | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "UPS Authorized Shipping Outlet in DROPZONE SHIPPING INC. at 199 CANAL ST - UPS",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOHZncVYzYTdacTVqazNiZmVvcUpJX0V4NUt6NHVlTEVTNTFSeDBlV3RLdVlTSERKOGI3UFJNc1lEM3hhcWloUFI5dlNaMGJCTWpWdDR6czJ1aXZud3Z6dTgzMndlOV9leW5GNUhyZ2V4ZHNoMnRhRnlHT2FpV0FKUGxQeDZDLW1jS1ZrV3RHSQ?oc=5",
-      "published": "Fri, 18 Sep 2026 16:37:06 GMT",
-      "summary": "UPS Authorized Shipping Outlet in DROPZONE SHIPPING INC. at 199 CANAL ST&nbsp;&nbsp;UPS",
-      "source": "UPS | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "US factory production falls in August; outlook clouded by rising costs - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekwzelo0S3RpaVZiQXFlQmZPSDVVSXNUMXo2N1JjTW1oTHUzbU1FZVljOHlZZ0R1WlRUdUVnWkFaTUJlTFZUQ3FaYVlxbHR0UEVQTXVlUk8wU05MSEtQbDFKbEVxY1lXUGZxR3VoVFkyTFNqZU93MUViajNyZm5sbDNUQVlBRHVMdzFncWJzcUI2Tkg4RFdHVUZsTlBwaXlQd0MtRHlvNy1PTkR0YmtBLTdCOUxIUmM?oc=5",
-      "published": "Fri, 18 Sep 2026 16:05:12 GMT",
-      "summary": "US factory production falls in August; outlook clouded by rising costs&nbsp;&nbsp;Reuters",
-      "source": "Reuters | Trade/Tariff",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Situation in the Middle East - Emergency Fuel Surcharge Update - CMA CGM",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWFDQkdBMFpaLUdMeUJhVTQ0WHZvWHhYUEVpc2ZIdDJqUnd5a2xtbWZ4OWIxR0w0MFlIUlVMNGF4RHhzX0FGQzluY0V2NnBpRG1VREplRlJOMkliMTdNVkpmN3lnd0xubzBzOFFCNWF5eFVGV0ptTkxia3NycWQxdjVwY21YM1RDaTBXQUVTSG9DLWx1dmJPSmp3?oc=5",
-      "published": "Fri, 18 Sep 2026 15:47:55 GMT",
-      "summary": "Situation in the Middle East - Emergency Fuel Surcharge Update&nbsp;&nbsp;CMA CGM",
-      "source": "CMA CGM | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "The other side of China’s TNE story: China’s universities go overseas - The PIE News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3lXaEEwZEM4VERuVFluMWlZT0dNUXRpVlQ2S01SREh1ZS02bS1GSGtXc3czaWxpck1MQzVOQkpVbWVXQ0JmS0R6LW9hbThIM3VIU2wwd19jTlZWUldfR3QtRUo0akVQaHktRUNyU01MWHZLQ3k2cmF0MUpvb2I0dzRhUXlzakY3YzZMYkFKbDhybDZK?oc=5",
-      "published": "Fri, 18 Sep 2026 15:35:21 GMT",
-      "summary": "The other side of China’s TNE story: China’s universities go overseas&nbsp;&nbsp;The PIE News",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Subject: Rate Increase for Red Sea Cargo – Effective 25 September 2026 - CMA CGM",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3pfamtlVVFGYmFSanBRZ2NSeWpfMlNwaEV4ck9Remt2VGxSYkxhZTNRNzMyYWx4VWhfeTRjdEgxV1BPWVJWZVdyUjc3bTZGT0NwZy1WWGxpRGM5eDYyQ1hObkIwS0UwQWRQaGVaQ0FjUGotcWRVa1YxMkJNbkZxUlBjWnFsbDYzbWV3RUtSNGNnWjlWcXJGYklIRU13aEtpR0ZIYjRUVGpyUTg4MWR2bHhNdnhhUQ?oc=5",
-      "published": "Fri, 18 Sep 2026 15:27:59 GMT",
-      "summary": "Subject: Rate Increase for Red Sea Cargo – Effective 25 September 2026&nbsp;&nbsp;CMA CGM",
-      "source": "CMA CGM | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "China says it will monitor EU moves on Chinese hybrid cars, opposes 'voluntary limit' on exports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT09Jd0tFOEZkOFllMmVadUwtWDY0RDctRzU2VXNiYUszaHRydVhSNEUwUXBpRFp6OERaOTR2dk5SY3lsNExxUnMyYWZNdHc5bG1YcjJrVWVCWmpIZFhXYk9QcXh4NllJN1pOdlFiUk11cllCWFdWMVkwS3dwR1NYeHluOERMbUFWbzI0ZmpBVF9Lb1Yya1FwYl9zd3RSZklOTkphM0w5RklEa1VPUUFNajlRSEFDZFFyNGxxTS15Vk5KQnVIU0E?oc=5",
-      "published": "Fri, 18 Sep 2026 15:09:43 GMT",
-      "summary": "China says it will monitor EU moves on Chinese hybrid cars, opposes 'voluntary limit' on exports&nbsp;&nbsp;Reuters",
-      "source": "Reuters | Trade/Tariff",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Warehouse Manager in Elk Grove Village, Illinois - careers.fedex.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tcEliVXY4MW1QMGxYWk1sSXNtUGYtal9HNk0wUDRsZnpQc2J3YVhfQzlDOFJsUVdHM2lST3ZtdlNxYTJadjEwNzF5U3lTdUpVSHlNVlk2YnZTU2ZRMG9ZRDNpRVVFRzdVVGJXcQ?oc=5",
-      "published": "Fri, 18 Sep 2026 14:53:44 GMT",
-      "summary": "Warehouse Manager in Elk Grove Village, Illinois&nbsp;&nbsp;careers.fedex.com",
-      "source": "FedEx | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Kim Long Motor exports first batch of electric buses to Thailand - Vietnam+ (VietnamPlus)",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFNrTG1YSV9hdDhOM25idWxfcmdMY2dVRGpZSEtoU2k2X2F0QUJiSmpvWU1yQVF6aG03ajU2UXBxaE1tSjVET3gtNVotVkZSZVlCQ19vZkpZNmlET3M5VFlwNWMxNUptTXhkbGRFeng1bGhjbGpLdXU1blF2dS1FNUdGMUFHbUhhaE1jNEROeG1PRmdpcER5akJuSk9LUnRfOEhkNWx1X3o?oc=5",
-      "published": "Fri, 18 Sep 2026 13:00:39 GMT",
-      "summary": "Kim Long Motor exports first batch of electric buses to Thailand&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWVORmo3eC1SRjlfVnVWMWw5aXlPb01wMk5vSlI2NU1ZenFHdHRRXzhQQTJ2T2RhQkV4QlZQOGc0ajRhLXctMDNaRWZfaEk4bmhzSG9kdXpKcmR2NGI5M2Z1Wnl5alNjUnA0Ym1ZSlhxMU51alhzcGdaUS1fV3FZT1FDb1MxYlJtUWU5VnZ2S0FNU25WRzRlLWtlMlBCaEZVRHhZN0NqdzNGUUxKdTJIOVNmUFhMNlg0SC1sOW12eFNfakFl?oc=5",
-      "published": "Fri, 18 Sep 2026 11:40:42 GMT",
-      "summary": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say&nbsp;&nbsp;Reuters",
-      "source": "Reuters | Trade/Tariff",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Retention and Customer Care Advisor job | jobs at DHL Group - DHL",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeURLdGlhLXZYMWl0TzIxcXBjanF1ZjhLN05ZUUFLTnprSkFmUmxNUG9qNVYyQkZuY0RmSzgtYzZGVTQzZzhHYXRsVzJWcjA5Y1NHYzh1a0tFRV9wa2dScnc2VEM1eTFqc0tid1I3YTlaQ25iV1B3WXp2d0ZWX1AtNE1jSmI0NUFkS29hdWFVZmVkbTA5d2xwUTZVX1NIN21mbFNZUHQzRDVwQk1r?oc=5",
-      "published": "Fri, 18 Sep 2026 10:10:55 GMT",
-      "summary": "Retention and Customer Care Advisor job | jobs at DHL Group&nbsp;&nbsp;DHL",
-      "source": "DHL | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "‘Basic’ Chinese Knowledge Sharing Dims Thai Rail Job Prospects - The China-Global South Project",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVlRKbjRTMUxvcXg3OGx5TzZybjJSaGJmeWJGNW9vb1Q3dUNNN3l6NmFJVEhPUkltUnJlckhHbVVqYUE0QjM0MDZWSzNRRExZZF9pQ2RWRlhxYXR3YWd4eGM3MlhDZDQ5QlJlck1KSjB1dkNDQ2FfeWFiUjVSQzUtd0tvb0h6b1NXZFpPZXJOVjRKZDQ?oc=5",
-      "published": "Fri, 18 Sep 2026 09:40:18 GMT",
-      "summary": "‘Basic’ Chinese Knowledge Sharing Dims Thai Rail Job Prospects&nbsp;&nbsp;The China-Global South Project",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "TotalEnergies and BlackRock Agree on $1.8 Billion Africa Asset Financing - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUVFJQmJMQndDNGVDRHp6SWhwbk40bThXZXpTVkZVZUR5SlF1aUMzMG5USF95SWtYUGhVc1dkQkV0QjloUFo2NXh3N1pTOVZ6YmlYb3cxVDF3UnhXSjBwSmozZnZRdDhpMnczWW45MUtsQ0p3ZW9oalFsZGJacDJOdjNZc1VuMEpIVkpNcVV5aDdHWV9xbXd1S2U2S2ZDX0xxVEtjYkFadkg4V1RoVEVZ?oc=5",
-      "published": "Fri, 18 Sep 2026 08:41:41 GMT",
-      "summary": "TotalEnergies and BlackRock Agree on $1.8 Billion Africa Asset Financing&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "OMC | Cook Islands: From paper to progress: Digitizing plant trade - World Trade Organization",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQamhYTDBxY0w4N3NERUFmTGZ6UWhVTmtrc2ZxTEh0YzI2eUlLbDdtNEduczlIS3U1UE1RR0RpbEJONWxHYUJzYmlsdjgxQzNlTlI1V0ZsdVgwcXRGSlh0UHQ5SHVqbU1BVGhiT3FINjhfaXo0V2xpZmdfNmNYQ2FmZkItYw?oc=5",
-      "published": "Fri, 18 Sep 2026 08:32:39 GMT",
-      "summary": "OMC | Cook Islands: From paper to progress: Digitizing plant trade&nbsp;&nbsp;World Trade Organization",
-      "source": "WTO",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Warehouse Manager job | jobs at DHL Group - DHL",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaFVkSE5YZTVsUHFZM2U3Wm1ScVRKdHNsMUxKQ2xsT2I4ZkNRWlZha3RFdzVhRWFOaTdIcGhEbXhhU1AzVkxBTHdQdGh5czFTVXA0WEFhOFhya3hvdUpxYU92SmZEYkFNT3JBd0dQZ0wyTDhIOGpOZVFNMVpMNjlvTklEUmNmX3FvZWYySnBBUVdEWExK?oc=5",
-      "published": "Fri, 18 Sep 2026 07:58:57 GMT",
-      "summary": "Warehouse Manager job | jobs at DHL Group&nbsp;&nbsp;DHL",
-      "source": "DHL | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Ocean Operations Specialist job | jobs at DHL Group - DHL",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUkMwTzFSc3c2RmFXTzRXWFZzTVdybTJHQTl5X3ZfcTVYdEc4dm5LcVVNeU1HMGRHQWRnWVptazdlaVdfNlFhZWpzV1FoOTVGVGp5ajJ2YXBLaWFCUy1GT3pKUkFvbzNUSFhkNThpOFRseE1odWZLWUFUdGtOT09Pb0JQeTJXSUxodXFUblVFLXNWay1uZUFudEEzZjRaQi1QcVE?oc=5",
-      "published": "Fri, 18 Sep 2026 07:51:57 GMT",
-      "summary": "Ocean Operations Specialist job | jobs at DHL Group&nbsp;&nbsp;DHL",
-      "source": "DHL | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Phoenix Financial Forum for GBA calls for sustainable development outcomes - chinadailyasia.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YZTR2eS1idVVJQllVYW9ETnJHeG5pN1hEc2NnRmdFUzduc2hFS08taEE1Z0RrR1E2WkZEdm5HckxlMWZYdmVTRGlaWV9ac2l2Yy1VdC1lSkY?oc=5",
-      "published": "Fri, 18 Sep 2026 07:45:20 GMT",
-      "summary": "Phoenix Financial Forum for GBA calls for sustainable development outcomes&nbsp;&nbsp;chinadailyasia.com",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "When technology meets culture: BOE helps showcase Chinese intangible cultural heritage in London - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY0RwLXZIOTVYT0hmU0hhM2t5U21jNzBmRmNGc2puaTJWcHMzTUdTWGZlSzRCNU5oV3dPTkVMQUZ4eDlVYkhnZ2dCTGZmTFB0dDd5UkdTd0dUWE15NUlZcTlDcGxyMDJxWmI5NkVkekt5OHBmU2t0clNleHVmZlZ0ZWFWYjVuZ3FDOVlZVlB0UDZWODhuT1RTUXM1RUw0d1BiM2tWSl93aUlheFFPZWZTVGk3WE5wVS1MMXVZcm42QW5kY043ZE1icjkzUEJzenNBcDQzeXRXSk45S0JScE5mVnYzeV9sOW13WDR3Uw?oc=5",
-      "published": "Fri, 18 Sep 2026 07:41:00 GMT",
-      "summary": "When technology meets culture: BOE helps showcase Chinese intangible cultural heritage in London&nbsp;&nbsp;Morningstar",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Head of Customs and Trade Compliance job | jobs at DHL - DHL",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTXFXR1cxTlVyNFVIVVFfaVZVdWJvSjg1YjhGRnljSWVhZHN0RlRZRXNwWFpvVTNGOHVSejR3TF8yRDNMQVNlcEJXNkRJWlJhMm5URDlPUy1nZDNZbUxjaEtscTRUNHF0Vk5NUFFGQ3A1RDJaa0U3T0czVVFKcGJrUVVyODVlRlJyZDVMUEZVRHFVS3drSXRqX3dnR05MOE8tMVVERUZ6ZGR2YUowOWc?oc=5",
-      "published": "Fri, 18 Sep 2026 07:39:36 GMT",
-      "summary": "Head of Customs and Trade Compliance job | jobs at DHL&nbsp;&nbsp;DHL",
-      "source": "DHL | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Tender Management Specialistin Rozenburg, Noord-Holland - careers.fedex.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMWd5UXJjUEQ0bS1fdXpIXzFHcjZnS3N2Ulcycl94VVNSd2k0MS1ROXlVcGhhSzRCME9fT0pZV3VNNHRnUDRJTWNsUXlwOUgxOTljeExFV3pxSGRpUVlsN0wwTnVsQVZEWXRDM1MyWTVkZ0ZyYW1GcGxITDZvU2dzWmxlVGRidlhkYnU1ZXozZjlIVFMwN1pmTFlDWThCd04teFpzQVdFYw?oc=5",
-      "published": "Fri, 18 Sep 2026 07:30:53 GMT",
-      "summary": "Tender Management Specialistin Rozenburg, Noord-Holland&nbsp;&nbsp;careers.fedex.com",
-      "source": "FedEx | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "10 Best 3PL Fulfillment Companies in 2026 - Global Guide - ClickPost",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kamZwN3JIZzVhTldHY0VFT0s3cDhjRHpsejhSUURocW90R3E2bTRBM1Zwd1B1MUp3bml3NGVDQ1RRMWxkWUYtdi1WY1VxTk1vdFBBcmRpQXpaWDhXM3NMeTZMSm1LUQ?oc=5",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "summary": "10 Best 3PL Fulfillment Companies in 2026 - Global Guide&nbsp;&nbsp;ClickPost",
-      "source": "Ecom VAT/Tax",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "FedEx Office Hotel & Convention Center - Orlando, FL - 8701 World Center Dr 32821 | Kinkos - local.fedex.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9heEpGOUozd2ZMcWMxWmZYTG5xTmZTMjh4djRhV1ROUTQ2OVBhUGhad0JIWFladHN2bTk2RDVEVlZFN3p5RkkxSTJJdjhwVExjQnpRZkpXRXVXQVpoYTZUS09B?oc=5",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "summary": "FedEx Office Hotel & Convention Center - Orlando, FL - 8701 World Center Dr 32821 | Kinkos&nbsp;&nbsp;local.fedex.com",
-      "source": "FedEx | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "FedEx Air Freight Center - Elizabeth, NJ - 630 Dowd Ave 07201 - local.fedex.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mQVVzeWItZVRKT096b1VhTHBJUHp1RndzWUdoQ3poUGllTXUzcFl1R2lmcmJtMEtOT1ctbjhKSmxjVGhSQ0QzM2xLc1pqRFhQMWRIRkRmTUozUVU?oc=5",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "summary": "FedEx Air Freight Center - Elizabeth, NJ - 630 Dowd Ave 07201&nbsp;&nbsp;local.fedex.com",
-      "source": "FedEx | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "FedEx Office - Las Vegas, NV | Print, Ship, Pack & Return - local.fedex.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUbFRmR2xOWG9reGlYRmFLNWxYeWpncWtwNG1BejRWZUFlS0lHVlNXT0JaLW9BWU1OQkl0QzZlUVlDaUVRemVSRERkLW1EX1JxaENsR19qaUVOR3QwN1g5RUxCang?oc=5",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "summary": "FedEx Office - Las Vegas, NV | Print, Ship, Pack & Return&nbsp;&nbsp;local.fedex.com",
-      "source": "FedEx | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Weekend Long Read: Why emerging economies in Asia face a tougher road to growth - Thailand Business News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWxWeVdQUHNmOEFiV1hIV0plc1ptM3BTczAtcDN6WFVUdFJyTzJLV3pDNjRhV3UzSTN3UHRkQ0tjMkJVdTJ0dzVxc3BEMWNTckxsb0pSR2ZJT0k4OGJTQksyX1M2Z2RrcU9rQnoyXzJmVzI0ZUFPek5DVDRrc3FEZUVWTjNOdzFUa3FpWXFLaC1wTXl2VmxWT0JfQktHa2Z1cWc5YkF2OE13bE12S1dNYnE1Ti1OZTBwWGdIOXIwMXgtUjlnX3MzWGJ6bVJ3NjA?oc=5",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "summary": "Weekend Long Read: Why emerging economies in Asia face a tougher road to growth&nbsp;&nbsp;Thailand Business News",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "FedEx Ship Center - Medellin - Carrera 52 # 43-56 050015 - local.fedex.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RYnhTMmdyYThTd3RoNXhsQm1TUGRRaTFPNE9JSkhnU1dfRnc2cDhsX2VJWDUyNUFKazJwdGk5SF9tZEFFUDZWMEI0NDkxRVdHaWpnQWhR?oc=5",
-      "published": "Fri, 18 Sep 2026 06:51:59 GMT",
-      "summary": "FedEx Ship Center - Medellin - Carrera 52 # 43-56 050015&nbsp;&nbsp;local.fedex.com",
-      "source": "FedEx | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "CNBC Daily Open: Hike, hold, hike - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84dF84UkwwT1NVUG8wUXdVVG5zRnE0dDRBMFYybnZIU2stMWhOREdrcFc5TEcwQWZqb285c0VTNzJYWEo3dHViZTlPMmFaQlUxak80RnRiQnNSX3Qwdjh2VTRCUzZLSlJCdUJYS2hBQ0NCVXZaS2l5ZUxB0gF_QVVfeXFMTUJLSjFCY01OZkJRVzhSNm1UQ1VVT3k2Q1hpWWJwZmg1aWVwOWc4Vnh1MGZrWGoxaHBYRjFvcjJxRjRCZC13c0Z2X3plVUJDd0ZGSG9jMWNQMUhjNUlvUHpscGRLM3NNRk8tbFlTNUlZRXFjSThCLXRjQVRlaHU0MA?oc=5",
-      "published": "Fri, 18 Sep 2026 06:20:51 GMT",
-      "summary": "CNBC Daily Open: Hike, hold, hike&nbsp;&nbsp;CNBC",
-      "source": "CNBC | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Transatlantic services from Canada to Europe - MSC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTGZZdGIweE5GSElXMUNuSlJVVEwtQlRVaWRXU2FNT0EzMmRFa0tBcXJodWZyZ2tpeEx5ZDZpUGFXNkp2QVEzMzFMRzdXdktTcmpUNWsxQnY0dTh1dEExUFEzUlVMeXl1VHYzTDd3eXpESGJ2WXVOY09CbXpXN3Zib2JPTVZySjZlX0QxVEI1NnZvNzYxTnFSNC0ta1Axang5c1ZJcVRCVWQ?oc=5",
-      "published": "Fri, 18 Sep 2026 05:55:44 GMT",
-      "summary": "Transatlantic services from Canada to Europe&nbsp;&nbsp;MSC",
-      "source": "MSC | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Peat Moss Shipping Solutions - MSC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Yb1FkMDBJS2J3YS1DalhpeERkRDVIWWxSYWhQM1M3Rkh4RTBuRlFpSEFBVWNpMk5TR3RnOGJIVTJvZG1JMElHOGpuZ2FkOVkwYzgyVlB2cFpZQ2c3R1FuVWM0N1ZsUjdKWFpvNmxnMENGTlliX3M5VjU5Mk5EQQ?oc=5",
-      "published": "Fri, 18 Sep 2026 05:55:04 GMT",
-      "summary": "Peat Moss Shipping Solutions&nbsp;&nbsp;MSC",
-      "source": "MSC | Shipping",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Tamil Nadu textile sector eyes Europe, UK for growth as trade deals open new export opportunities - DD News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQnprSngzc05rYUdVVUszRlp1SklWcU9jZko3VmpwdGhncWhZdEZDZ2pHZW5BbnFDM2pvYTJtX1BEM2d4RVNZR1d4aE9qTjE3QVRQQjVVbEtKSWkzSjBaSEk2SEpQSEhrcUtJLTAweXFKdndRU3k0Y0loS0tKV0R3X05BejZFYlFLcW9PbTJnanpENnBnemJPTGZlUUtncjNXVWpDbl9IcGRnLVlGOFRKSW14U1htLWJDSVNKRkpXcw?oc=5",
-      "published": "Fri, 18 Sep 2026 05:47:08 GMT",
-      "summary": "Tamil Nadu textile sector eyes Europe, UK for growth as trade deals open new export opportunities&nbsp;&nbsp;DD News",
-      "source": "Google News | Vietnam Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "What commodity markets can expect from the Trump-Xi summit - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDNPTlJIZWVlTFducVh6VkxZa2YwUDJqWTVxdjBKeEtUbEFIenpWUVkyS3Q3UUhuaUF6NUZwMHh3am9SdWZnZnQyTU83WWQ0U01FRmNJOENlM1BobjlsSkJJVm9ZNl85TmZEYlcyRndWYkVWOG1fbDhuYk1nMUFEaU9uVWx1eE9fcFFmSVpReTNiaXc1MEpaNXVENkVZZw?oc=5",
-      "published": "Fri, 18 Sep 2026 05:45:20 GMT",
-      "summary": "What commodity markets can expect from the Trump-Xi summit&nbsp;&nbsp;Reuters",
-      "source": "Reuters | Trade/Tariff",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Malaysia - Trade, Manufacturing, Services - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sTVdHbUlkX0MzMndNMHg0SUI4OFdrQUlHVzM4NWxGblJ0QUl4aWFqNXYzSG0zaXlZSVFUX0hWb0hDeE9GZFh0LXNZT0FINHk5bmRCcXlyLVpieEJ3YXc?oc=5",
-      "published": "Fri, 18 Sep 2026 05:00:00 GMT",
-      "summary": "Malaysia - Trade, Manufacturing, Services&nbsp;&nbsp;Britannica",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "36Kr Officially Unveils the East Forward 2026 Global Expansion Series Roster - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TRGFsQ1pobEFKUGxwV0gzR2dwS0FKQWZzR05TSlJ5T3haa05zaFltaU5wcEJISTNMdE5Lc1dvUlAzV25OaFhLcUs5dWdycUtEdDZn?oc=5",
-      "published": "Fri, 18 Sep 2026 04:54:14 GMT",
-      "summary": "36Kr Officially Unveils the East Forward 2026 Global Expansion Series Roster&nbsp;&nbsp;36Kr",
-      "source": "Google News | China Going Global",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "NYK Car Carrier Makes First Call at Chan May Port in Central Vietnam - nyk.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBODVzUENibTBNQlFrUW1TQ09mNzlPVFNOQUUzTC1heTVLZFRMNXJTMDVlMmlqZTdSSThaaXNFVmxCYzB0QVBtSVFuYjQzbTNRVk9nVmtYMllOQkJraVhYYTF2YTU?oc=5",
-      "published": "Fri, 18 Sep 2026 04:53:59 GMT",
-      "summary": "NYK Car Carrier Makes First Call at Chan May Port in Central Vietnam&nbsp;&nbsp;nyk.com",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Hyundai Motor CEO warns of Chinese vehicle surge in the US without guardrails - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWgwcVM3TzEwVUtCNnhCZGpnYXV4WkdQdDFuMUZ0eUlpTERHQnotU05FYWpDS1FGRFpOWk1zdkdSVy1UYTktclE3bzdQN1d0WWZXTHVkejZoU2F5V2FQZ0ZmVVdKVV9DN3d3eVlPX0JteXE4VjJSd0E3cVdiWHIwTEtYRzZfS1R5LVQxTm1NUkg0dzFQMlFtWExEb0oxNUFvT0lJY0U4S1FFY2pSNFdVUFZmZHlJR3NYWVlaQ1RZLTVKOXZlVFZkNHZFOXB3dw?oc=5",
-      "published": "Fri, 18 Sep 2026 04:12:09 GMT",
-      "summary": "Hyundai Motor CEO warns of Chinese vehicle surge in the US without guardrails&nbsp;&nbsp;Reuters",
-      "source": "Reuters | Trade/Tariff",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Homeland Security Acquisition Regulation, Make Personal Protective Equipment in America Act Restrictions on Foreign Acquisition (HSAR Case 2024-003)",
-      "link": "https://www.federalregister.gov/documents/2026/09/18/2026-19207/homeland-security-acquisition-regulation-make-personal-protective-equipment-in-america-act",
-      "published": "Fri, 18 Sep 2026 04:00:00 GMT",
-      "summary": "DHS is issuing a final rule to amend the Homeland Security Acquisition Regulation (HSAR) codifying how DHS complies with the requirements of the Make Personal Protective Equipment (PPE) in America Act. These changes are intended to ensure the sustainment and expansion of domestic manufacturing for certain types of PPE critical to the United States' national response to a public health crisis.",
-      "source": "Federal Register | BIS Rules",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "China Urges Stable Coal Output as Prices Rise to Three-Year High - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWm5oR0thNXB4WDA3bVBZazV5UWt2YW45eFhLUlZtLUJVNUQzd2hUb0ZOZ1ZLN3RhZXNfQ0p1Yk5YTWsyTzdELU5Hc2cyLXhBNzRRdWxMTU1PYzZ3UEZYa2kxREloV01ZQ3hRaG5SN3JsdjJZbWdCZXNvTW5LSG1HMkRRSmdvNkhKQTdZWHRtZzlWTnp1STZSZTdPNTFaTTNnM1N1czVRUTFkdWxrc1N2TzY0VlB0UQ?oc=5",
-      "published": "Fri, 18 Sep 2026 03:45:00 GMT",
-      "summary": "China Urges Stable Coal Output as Prices Rise to Three-Year High&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Product Launch Analyst, Worldwide Readiness - Apple",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzQ2Nk4zNWlnS0dqeENwZVRIMnE5ay1QcExYLTZ0bkJ1ZGluQ0gycjl6c1hEdTFSODh6MFJjWEtBY0d0ekR6N3dOeWhrWlJPZWU0UklrZVQtZnFLcWRURnRRWFN5MlpiZVhVUE5ZMU1feTNBanlKdEVxdVpWOVlJdUlnLWwwWXdoeUhaTXBmUHVEbHZsZnRXWHlSeGgzVTFCWGpKa2p0NFE?oc=5",
-      "published": "Fri, 18 Sep 2026 03:42:40 GMT",
-      "summary": "Product Launch Analyst, Worldwide Readiness&nbsp;&nbsp;Apple",
-      "source": "Apple | Supply Chain",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Can Thailand Turn Its Manufacturing Powerhouse Into a Global Technology and Innovation Leader? - Devdiscourse",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV1VBX09iLW4tU0ROeWlmT09XX2cxd0ozSTAxeEZXYnlfc1JMTEVYSGNpTzRvUmdpM3lkYVRhYV8tb2dHODdSSWpsMk9IZFlkemVGWnVVLW52SFlxZWNLRm1fWTMwSzQyd0FsNkU2Ry1Lb1cxbWZNUWtFejRDaktuWkU1ME9nSWY5Z1RmNHF2NGdnSllMYTlPOG5YbXROZUxrQ3lUZHo0WU5ZTTBwZkZva2w4RThFc0VIZEhFRG5UcHR3dWg4Smg0am93b3VfZGF4NENDQ2RDeDdMOE100gHiAUFVX3lxTFBQNXFXbTVHNnhpZzdyQzdvdlFXSURPWHp4bmdnRFduNVdQQkxlLWdPUGNQUzZYM0ZtZ1llMlhpZVp2NFRQbWJNOHo5VHJQYm54SEdxUnJ2cTVQSDc5QTRSRURFUEttaGc4RHpfcWtfN19kM0hJNHpLb0c4SjF1QXBNblZfQ3RnenBxYkhmUFhPZVlHUWVqMmVnZm5jclpOVHJpcktORkdqV2ZHYVU0ZEtKYTVhdDVvTkVOYjI1NzJnT1BQSXlMU2x3b3RJbGJ5TXZaanJHT3JDRzdFQlZQdmhUTVE?oc=5",
-      "published": "Fri, 18 Sep 2026 03:42:12 GMT",
-      "summary": "Can Thailand Turn Its Manufacturing Powerhouse Into a Global Technology and Innovation Leader?&nbsp;&nbsp;Devdiscourse",
-      "source": "Google News | Thailand Trade",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Lower Your Freight Costs: Cargo Consolidation Solutions for Kenyan Traders - DHL",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVUt2NEVqeW5Bb0t4UG5wTGJCcG1EQlA1V2tKcTVGRkJjUVhqa1Z5UnQ4dVkwYWdvcDFrVl8xcFNFb1lCRUFkSngtOGJsWDBQSlB3VllDeER6WjlGYUFnTDJaaTEzY3FtR082YTBKNlpfNEg5Z2hVTzNNbnk3WjVoVzBETlZYRkVqSVZuaHV2eVIzdTQ2R2I3dHh2OA?oc=5",
-      "published": "Fri, 18 Sep 2026 03:25:25 GMT",
-      "summary": "Lower Your Freight Costs: Cargo Consolidation Solutions for Kenyan Traders&nbsp;&nbsp;DHL",
-      "source": "DHL | Logistics",
-      "priority": 0,
-      "relevance": "low"
-    },
-    {
-      "title": "Bangladesh To Face New US Tariffs | Bangladesh may face more tariffs from USTR: ADB - thedailystar.net",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDVzZ3p2ek41MDBmSWxoU3VFcS1ucFhDSzhSUWtTOVN3NHNjOHczRGR3bFBMSDlCTkxkNHgwQlFNTjl5TXhZMVJRNGJLR3VaNmFnNTFYRG1qRHBQT3BMTHM3Z0M0TDhYSkNDVDB6Y21yTXB2RF9xaW5qWnVQeHEybkRFOGNkM2JLZnBJUzJxNy11SmRpRm0zRUNvZ3NPRWY4Umc?oc=5",
-      "published": "Thu, 17 Sep 2026 22:57:18 GMT",
-      "summary": "Bangladesh To Face New US Tariffs | Bangladesh may face more tariffs from USTR: ADB&nbsp;&nbsp;thedailystar.net",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "high"
-    },
-    {
-      "title": "How to reduce import duties, tariffs, and fees: 6 strategies - DHL",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXpENEVfNURBOE1UaEJZb3UzSWdtcmlIZzVkdkFaQ2lBWDllOFl5RU1lQ2NXdmZoZTdMdzdpdnFQdXk3TnJOajBHSnRzX1Q2WTRvNzhQZmhIeHNxX3JHYkJoSVNzQWtHZC1FdUMwVTlFRVR3RG5DQWdaX3dPOXdFMlIzcW1GejdFcWlnYjlhTVYtOWJqcl9PTUpDTEg4TFFaQVljY1J3QnlESUUxMTA2R3FWVEh4cWdlaGJqNENvRWVJY29DWGc?oc=5",
-      "published": "Thu, 17 Sep 2026 20:43:24 GMT",
-      "summary": "How to reduce import duties, tariffs, and fees: 6 strategies&nbsp;&nbsp;DHL",
-      "source": "DHL | Logistics",
-      "priority": 2,
-      "relevance": "high"
-    },
-    {
-      "title": "Jacob Sullum: Why Section 301 tariffs are illegal - The Daily Times",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORExvQ3Racnk4dlcxVEZfSWlBTWhQOW9RdzFKd192em40V01pQjZZM0FySmhBeHUzbzdJT2tQUWgzQUFnVUo5QmtWZ01PV205WlF1SS1sVmJtMTg1TWpJYkZNMm1icDZ5TTUyb3czX3FJYjNWWXdtT0RMbnJrTVoxcU9DUlU3U1dPU2xhNW41cWJSZTlqelYtczVXMnFEQTZIdmJtVXdHd0tLVTRxWi1ZRy15eU5EaWFldXk1RVlBX043YV9hd3JYSzdwZlJlVVRZ?oc=5",
-      "published": "Sun, 20 Sep 2026 03:30:00 GMT",
-      "summary": "Jacob Sullum: Why Section 301 tariffs are illegal&nbsp;&nbsp;The Daily Times",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "high"
-    },
-    {
-      "title": "China’s Global Technology Supply Chains: State-Backed Resource, Manufacturing and Logistics Networks Behind Strategic Industrial Expansion - debuglies.com",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcE5WX2dwRFM0aDJ4Q2k2WU9jaEpVeG1faXFDdUM3d3ZMeW9FTzhXd19Wc0tjSG5qc09sSjdhck1fVEhJem5pVE5Pa3UycGI3UmNieTVncEtBNDhKZEZ2RlBfaXZ4Wk1kcTlrb0QxUlZQQ2Jod2F0dEMxN0V2bjVnZnZkM1hWSzNjVUVJVXFyN0JnUFpCTExsbWRMa1g4OTFUMUFyLWNReHdxbWp3MGhiSTdEVEZBQzlrbjlCYmt4REZNbXpLVlhiZlRwckgtQzFZZTRTaEQxTlE3SXpvYXFBMG9weVRDQXgxbFRBQ1ZlbDc2UlBQakppN3ozalYwZw?oc=5",
-      "published": "Sat, 19 Sep 2026 16:48:39 GMT",
-      "summary": "China’s Global Technology Supply Chains: State-Backed Resource, Manufacturing and Logistics Networks Behind Strategic Industrial Expansion&nbsp;&nbsp;debuglies.com",
-      "source": "Google News | 1260H Sanctions",
-      "priority": 2,
-      "relevance": "high"
-    },
-    {
-      "title": "Second Tranche of Section 301 Tariffs May Be Delayed by Trump-Xi Summit - WWD",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaTZrWDZsMTdVUU9ISWxnbUxMcWVNOF8zdmp4Tk1FQml2SUNCbFlYcVlhUWdXd19SZGRWOUxVYktzMHdqUEJXeE0yQzZiYWlRT2pva0M5QXJZcEZrdlNaNWF6bzRxRHhudDk3YXZYaTJRMXlkOF8zT041bmJhQ01tbWNLN1Q0akJucjdRdUE5NlRsRGFOZTcyWGVMcUZiSF9OWXh2OHJSNkhGQ3ds?oc=5",
-      "published": "Fri, 18 Sep 2026 23:04:30 GMT",
-      "summary": "Second Tranche of Section 301 Tariffs May Be Delayed by Trump-Xi Summit&nbsp;&nbsp;WWD",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 2,
-      "relevance": "high"
-    },
-    {
-      "title": "Trump Signs Russia Sanctions Bill Granting New Tariff Powers - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSU1vZElIbm1VNGoyUGlvYXRqVWhCYkhpUmx1S19LUkdKYzJKRzQwYmZmYUpwMWlrYzdBLWJCcEN2YmJVMFNmR3ZBaXcyLXY2TU1Ma3Q2ckdsTC1ocGs1cTdvZmtUay1DRmNoeFJIV2VWN29aSXhmLWRiVWVOb2VjM25LNldnV045bXV6SnNydFpUM1pBTTNSX0lsLWFOcElrQUdNZ3d5VFd5c0RKNk1IWA?oc=5",
-      "published": "Fri, 18 Sep 2026 21:58:17 GMT",
-      "summary": "Trump Signs Russia Sanctions Bill Granting New Tariff Powers&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 2,
-      "relevance": "high"
-    },
-    {
-      "title": "Russia sanctions bill gives Trump sweeping new tariff powers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5",
-      "published": "Fri, 18 Sep 2026 20:24:00 GMT",
-      "summary": "Russia sanctions bill gives Trump sweeping new tariff powers&nbsp;&nbsp;Reuters",
-      "source": "Reuters | Trade/Tariff",
-      "priority": 2,
-      "relevance": "high"
-    },
-    {
-      "title": "US confirms 12.5% tariff on South African imports - Freight News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRl9YLTdlS2pYVS1HWEJtejg0dWZ5b1cxQ0xqVFBieDJ5SEpfSkJRUVpiNFlTZ1J1ZUJRSnhLMVd0N3NseWNabXBJRjJ6YVZzSXhDQVp5cnk1NkZnNTBnLUF5UE9lNzhmMU9fdDB1eW1JRGt5SE9UWmZ3c3Rma21nSXRhMm9TUXkzNzlGTjRn?oc=5",
-      "published": "Fri, 18 Sep 2026 14:10:00 GMT",
-      "summary": "US confirms 12.5% tariff on South African imports&nbsp;&nbsp;Freight News",
-      "source": "Google News | USTR 301",
-      "priority": 2,
-      "relevance": "high"
-    },
-    {
-      "title": "Vietnam's To Lam heads to UN week and Canada as U.S. tariff threat hangs over talks - Briefs Finance",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYWJJYWlYbkEzajVmMVFnUXpPWnEwaEU0d0llZGtXd2JYQTMyWW80cUhTdUhJeGV1aWlCNm12LXl4UldqZTdwSkZWYW9NRFJPS0kwc0tJTnBKNURPRXRPcGF0X2czMzB5MkZmMlloSmZENWQ3NFdvb3lkTzNpZ3htd0V0QUhoa0lidG15eTlrOEliZw?oc=5",
-      "published": "Thu, 17 Sep 2026 23:31:41 GMT",
-      "summary": "Vietnam's To Lam heads to UN week and Canada as U.S. tariff threat hangs over talks&nbsp;&nbsp;Briefs Finance",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "A Guide to Trump’s Section 232 Tariffs, in Maps - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwMWQtRkNnYlhHOGZVQ3BmSzI2VmJJYWd2V3NqZUx1MmdYOUtWdXJCQmN3ZmlkUWlTamxzYjFPQjJ4SWJoZXJMNmhpUlJEUmJuNVE1czlhX2lYcGw0U2tuY3RXYkdZTWVDR3dRN0tZb28zZk5jblZmMWltMA?oc=5",
-      "published": "Thu, 17 Sep 2026 21:50:00 GMT",
-      "summary": "A Guide to Trump’s Section 232 Tariffs, in Maps&nbsp;&nbsp;Council on Foreign Relations",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Import/Export Forwarding Associate in Laredo, Texas - FedEx Careers",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeVFidEhzVzd5ZXlkZ1pIczZOSUFTVDNSMkI3TXZFdklTQjNzekswUHl0X2o1aVRndF8xdENqR1ctV3dJdGl3djdSd1hib3lkNDNMamE4QmxpdmdwaU5zMlRtN3JOZXdOb2lVMFNFNFpMdXZMTGtPMmI5cjRwWlQ5TnFwdzBaQUdDSW8wTkZKaVdDLXFHTVI3MWI4VTBDRDFuX2xBVzRnWldwSlREOXJVV3ZZaVMtRzhEWi1IMzVVOUJSc2lQZVZiS3JMbEY5Ui02X0t1WGs2Vno1dUwxa0N4emlDMHp2My1BS2hsSFRxblB6RHU0OTRSZk9jXzBxZVhhcVdzeGVaeU9JUQ?oc=5",
-      "published": "Thu, 17 Sep 2026 21:32:17 GMT",
-      "summary": "Import/Export Forwarding Associate in Laredo, Texas&nbsp;&nbsp;FedEx Careers",
-      "source": "FedEx | Logistics",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Trump holds back 7.5% tariff report ahead of Xi summit - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yV01LSWpyYmJrbFRmRDdwVDRha0VodDVhQzJGUEVodXFtTUZYTGJjTG1uZnRFY1ZvVU1yUDNma2M5WXlzcHNSN19OdUt2QTd4TjQtTjFpYw?oc=5",
-      "published": "Thu, 17 Sep 2026 20:58:29 GMT",
-      "summary": "Trump holds back 7.5% tariff report ahead of Xi summit&nbsp;&nbsp;헤럴드경제",
-      "source": "Google News | USTR 301",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Keynote Speech: From \"Going Global\" to \"Surviving\" | 36Kr 2026 East Forward Global Expansion Summit - 36氪",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05SllQVm5aLWN5ck83VkQwc2ZwVm9xNzBZbkpEdkU5aXN5UkVoUTEyc3pBRmJrNjNrSHdBV0hFNWdFU0x0bjl2cm5MT0ZqS3VGN2hB?oc=5",
-      "published": "Sun, 20 Sep 2026 04:23:16 GMT",
-      "summary": "Keynote Speech: From \"Going Global\" to \"Surviving\" | 36Kr 2026 East Forward Global Expansion Summit&nbsp;&nbsp;36氪",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Opening Speech: Going Global, Then What? | 36Kr 2026 East Forward Global Expansion Summit - 36氪",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qSFFwOGtQd2xRbUFQQjMySlptOE9WcmFNZml5LUs3OW15VEd5YUpzdkp3YjVOc21HNGowSnpaSEM5UjV1c0IyX2wzRFBFc3VFeFhz?oc=5",
-      "published": "Sun, 20 Sep 2026 04:23:16 GMT",
-      "summary": "Opening Speech: Going Global, Then What? | 36Kr 2026 East Forward Global Expansion Summit&nbsp;&nbsp;36氪",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Keynote Speech: iReader · AI Short Drama Going Global | 36Kr 2026 East Forward Globalization Summit - 36氪",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WSWlFYi11aGJFYlBoTlhXNGJCdjFCLVpYNFA5a1BQRVdsVk5PdzIxQVVuTW11Q3FIbzAzREx1MkY4X2xISFhrUzI2VE5ubHZ1R1hv?oc=5",
-      "published": "Sun, 20 Sep 2026 03:23:09 GMT",
-      "summary": "Keynote Speech: iReader · AI Short Drama Going Global | 36Kr 2026 East Forward Globalization Summit&nbsp;&nbsp;36氪",
-      "source": "Google News | China Going Global",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Zambia Plasters imports by country - World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzJNM1Ztc1Q5R1d4VVUxX2FJQVZVWll0ZmZUQXJsNzQ2Z2FpU0pmZVNBMDNnUGFRdTkwZ3Fnck1yWHBQaHFuVWV0UlVETHBUelowM2tYRlI2WVllOVNlOFJ1ck5WRm5icm9ybG02bENyNHFWcWs1S2hGVUhiTkNMdFJGY3dDajlKQUwyTUFBVlBsRm1PN1BOODdNU2tpWmQ5TXRqMF9uQ1U1djhjQTlORQ?oc=5",
-      "published": "Sat, 19 Sep 2026 18:54:22 GMT",
-      "summary": "Zambia Plasters imports by country&nbsp;&nbsp;World Bank Group",
-      "source": "World Bank",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "New US Tariffs Send Pakistan Bond Prices Tumbling - TechJuice",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTTZHeFFjcTRzaHZiT2xKRkxRQVBudGlqaXVteWJvSDhzUnFCYmF0ckVaYlZ3aEZyOFNEZVFPdXBWSlRhLVVPc1dHRjc5LUxIelB2WFg5RC1MalZwNUQ0X2dsdUUzNkV2WnN4aVpXdnNLaGhzXzdfd2J0OGlBU0VJTQ?oc=5",
-      "published": "Sat, 19 Sep 2026 17:36:07 GMT",
-      "summary": "New US Tariffs Send Pakistan Bond Prices Tumbling&nbsp;&nbsp;TechJuice",
-      "source": "Google News | Indonesia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US, China trade teams set to huddle in New York on tariffs, AI and Iran - The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHhVNXZDb3E2V2dvNjVVa1BmcFRERHN4c19CT1djSFZOZ2Izam5vMXBXNzNORXFyS1NTcTlJM0VIQVUtalE0eDlqV3dnbC1WWEhDM2RYLW51ZHZtLXJzaTdwRkR4X3M2V0Njdks5VlpVYVVnMVJheVkxUXlWY1VURDRPZV9Mb0JtS2FPeFRxeWRwMzYweGRvNGljbFZrRy1GVWRFWlR2Qy1SaGQ5elZHMEdpTkQ4NXY0R0E?oc=5",
-      "published": "Sat, 19 Sep 2026 13:51:00 GMT",
-      "summary": "US, China trade teams set to huddle in New York on tariffs, AI and Iran&nbsp;&nbsp;The Straits Times",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Great Lakes Bind US, Canada Trade Imperiled by Trump Tariffs - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb01JWTBKcW8xdk5Sb25JRGUxMkkzaGtWTnhSVGVaWnJrVEFjOGpMWUNKczBWTDFhRVQteGFjUkktNWktM2NxU0FZOHUwcFZ1OHpET1ZoNE1UQUNMejhWWEt2OEt5LWZhUmItSTlIcjEyTUFCUXJIUExqdm1OcXF5MC1JZ1lfb3JBQkx1N25vekZWWjJUVmxiaWtCZnJYZWlGZjgwRVpGdzdTRXd1S053?oc=5",
-      "published": "Sat, 19 Sep 2026 13:30:00 GMT",
-      "summary": "Great Lakes Bind US, Canada Trade Imperiled by Trump Tariffs&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "China Slams US Law Tightening Sanctions on Russia and Iran - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzBLUDV6NHM2Q3NkaUpNWno0ZXZlZjA5WEFOX0ZpYU9qbVZfdVEySm9scjZwSzN2RnlBZURRcHRvWGhQNXpJS1NFcEVsV1ZtWjZpczZNN2lkMHZCa1ItbWtydklKRnRKNTRHT1hnWkpRUUxkSkllYWFqVHIwbWppMU93NHZVNDdMV3F4SVZGTWtRZ2szNkU0WFVLOVltT1dOamQwdzhBZDBrR0FtWVE?oc=5",
-      "published": "Sat, 19 Sep 2026 12:46:49 GMT",
-      "summary": "China Slams US Law Tightening Sanctions on Russia and Iran&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Unlocking global supply chains for domestic enterprises - Vietnam Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHM0SkIyc0U2U2NTMDFDYV9mNUFvUDRmeXh4UHoyc05ZZHhwVEo3bUlNMlFwOHdrOTVQU1dzbjdockMwZkhYSnVDREZlV283R2QyeE4wZnFvQjlnQkVwcFYzcWdVSThwRTlBR3Z2ZWFVWmRSdVZvY1NxNFBZX3d2ZHZINUZtZ2plUlNV?oc=5",
-      "published": "Sat, 19 Sep 2026 07:00:00 GMT",
-      "summary": "Unlocking global supply chains for domestic enterprises&nbsp;&nbsp;Vietnam Economic Times",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Thailand Industrial Control Transformer - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMXIxbzNfNkVnLUlNakpSWkxYZjdPRlpiYWpzZDVlUjRhYkIxTzgweUdqV2FlWTljTHZCNF9mX3BHV1ZuYVNWa0MwQVV5S3V6OTdMMEtqcy0ta1lmbUMtTE8tZzVKd2FDZ3M2TUtJd2h1MzU1WHktczg1Yjdnbm5HeGJ1cWc3OTNEODdSbU5GQ185U3lKclZLcGNKeHJXX3BoeUlkenRzZXViR2NWQWVhVkFWZ3gydzBjVHdnVA?oc=5",
-      "published": "Sat, 19 Sep 2026 03:02:29 GMT",
-      "summary": "Thailand Industrial Control Transformer - Market Analysis, Forecast, Size, Trends and Insights&nbsp;&nbsp;IndexBox",
-      "source": "Google News | Thailand Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Trump approves law imposing 100% tariffs on India: Move against countries buying oil from Russia; trouble m... - Bhaskar English",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTdIdGFTV1BSd3VSbjVKNDFrVmN3S0tEYmk0a2pTTWZHa19uWUQ1N1N3RDJaR0FJZXhBeTNNSzA1VTJzWjJhVi11RUJwYjk4TklnYWlWcXhIbU5oMGhRWHNmd1FSMGM2RmVJS09ETC1nTEllQzNLb3M3N25UUGV2dFlReGQ0dWNacG9WVEN4X1VRZDJtSU9uLUp0VzFuQTVoclctQ0cxUV92SzkxaklOUjdFRkNQeFViRkdCUDRrVEfSAcYBQVVfeXFMTWhMX3pyZm1EemFBeTRKazBRX0tNS1VWYktLUjlHNExJbXR0M3Y5WVFDMmk2TENwWXUyQ2RGOG5QLWZnV3U4LWNKWGNOMFNneW9SRHFtaFE0UlZYbC1kSnkzUlVDRVVCQzIzamJQaWlWMEo0bWZXV3BwYVEydDVmeGEtSl9icGlxTVBLWl84ZU51SjNrclFCRVR0aXYxYzFSY3hSb29ZUnBtX3pQWmJIdVM4ekotR1JDVmx1UjE0ckJvNWhfVTl3?oc=5",
-      "published": "Sat, 19 Sep 2026 02:20:56 GMT",
-      "summary": "Trump approves law imposing 100% tariffs on India: Move against countries buying oil from Russia; trouble m...&nbsp;&nbsp;Bhaskar English",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US, China discuss cutting tariffs on US LNG ahead of Xi visit - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHd3M3c3TzBSSEFYVUtqd1dwYVE2MHNkYzh2NlBzZkZCTzkyM0FaMTFobVo4Q19HSldIeGREU3BWSmNlTFJfLVNObVdYbFN3bFZrd2o0cl95WkZFM25lY1otSVB5Zl9YcVRCMDdaeE8zbUoxTWVrTU9pVnlZTWR3b1czakd1ZUFqM0RscUxta1ZrbkwwY0FUYUg4NFluNEtzclRBbzdITE15dw?oc=5",
-      "published": "Fri, 18 Sep 2026 22:51:03 GMT",
-      "summary": "US, China discuss cutting tariffs on US LNG ahead of Xi visit&nbsp;&nbsp;Reuters",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Trump signs bill targeting China’s Russia energy imports days before Xi’s US visit - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzJKUGVCTW9DdGh0dURkZnMxYlY1dGNnX0wtMzZxd3RBbFFkT1dhSXhPckJQaEIyMjl3R0tqdndma2pUcmNzeXd5ZUpQc20tck9USlBRT1VtUGhjemhqblF2RXU5eGFaVGdWLUE0SXpRR2lsUGtUMDR3SkI1bF9mX2xiNmNQMnJ5OUZDYmI0LVRJY2Q3c3h6OGxNTGMtd2E3TVl1SHhpTjRORVFSRlFvNXB4T3BrN09xenpxTng3dTBYOFAyNVcwUmpnckF4TG1zY092WkxEeVHSAdgBQVVfeXFMTUxVOC1KRnhheTR2WlE4TjJva0VuX3JqMjY5aVFHSEV0cGd6M3ZhdDJZVzF5RU5XTzBOaVJQZEVFZXJ2NEQ1RHp0RW5vWHdKblIyQWFXQzMzbEthOGwtY0NESmc1LWN3NHNHckdaSUpkMFFHWTNLdUcxVEktUjhsSUVRQ3hDX2p6LUZQb0dneVh6eHdVT293N3pqN1lNY3JtblZXTGpEbTc3ZzFNaHdfeWEzYlhONDU1NnZNNzg4ZjhjTUtnNEJLRUZTSVpwcWp6WHFKSGZLc0R0?oc=5",
-      "published": "Fri, 18 Sep 2026 22:50:05 GMT",
-      "summary": "Trump signs bill targeting China’s Russia energy imports days before Xi’s US visit&nbsp;&nbsp;South China Morning Post",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "U.S.-China LNG Tariff Talks Could Open Door to Broader Farm Trade Deal - AgroLatam",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVW1kTU5WYnN4bDJkV2JuMFFvMFQwbDYtUVVWOWdzYjVBY2R2WUR5QVJUbG8tb1NtVk56eVU4TUdEbWg1ekhJcVRyZFdaMzJjNGtybXNORFd0c0luNHZlN004TnlKNHBmYTQ4ZkNGN0U0U2ljQlUwN3FtMDRaNXM5SGEzR29jcExoQ2c?oc=5",
-      "published": "Fri, 18 Sep 2026 22:10:22 GMT",
-      "summary": "U.S.-China LNG Tariff Talks Could Open Door to Broader Farm Trade Deal&nbsp;&nbsp;AgroLatam",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Belize Pharmaceutical products imports by country - World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3ZtRGRfZHhONWNIeVgtZ1c0cGVhSExiQl9NMENkaUdoV0M4ckNWemRUSUNRX3dHTHBZdFhjdnBYTnk2TmFueWVCUkFwN0ZEaWNjaFo5b0dnSG9IdHFJVUgyYkZKWS0tNWNqMFVEdjlhdkYwSk5ONlY5TUtPSm9RcjNJdUIxWl9lQkJRWnMxUVNrLXJ0dzhiTjhkc09MWkNNQWI4YTNaN3IxSTA?oc=5",
-      "published": "Fri, 18 Sep 2026 22:02:08 GMT",
-      "summary": "Belize Pharmaceutical products imports by country&nbsp;&nbsp;World Bank Group",
-      "source": "World Bank",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US holds off tariffs until Xi summit - Taipei Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTR3RkMnFLcnc5djdJd3VvN1Y4Sk5ZVDNYdnRQNlRuS21uLVZSN0toQllXUmF2cUR1NWlpSm41ekV6by1RdDZnMjJlLXhrNVZRbUVJZVdqT3N0UGtKekxPNEZueGhma09Bc3E0NEN2eHBZWFY2WlE?oc=5",
-      "published": "Fri, 18 Sep 2026 16:00:00 GMT",
-      "summary": "US holds off tariffs until Xi summit&nbsp;&nbsp;Taipei Times",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Thailand Industrial Coatings Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXU3LUZMbTh1MWl1RGJRcEJ1VzF4a2JFVkJ1dkNHbW44WHdKLXU0MlhLOEc1YTdtMjdQcWdVX3BBbGxnc3p2ZWJCakp5cU93d1U3Wmh2alB3cTFsMFF2VEY5YllGbnJ0V2lSZWJPa3llaGJTaXZWNTBibG9RUlhfNXpBdmE5VmM2VHRTZkhsNUpNaTlKRkJNUFpR?oc=5",
-      "published": "Fri, 18 Sep 2026 15:50:07 GMT",
-      "summary": "Thailand Industrial Coatings Market Size, Share,Trends, Growth Analysis Report, 2031&nbsp;&nbsp;MarketsandMarkets",
-      "source": "Google News | Thailand Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "New US sanctions bill on Russia puts India's Modi in a bind - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjJCNkhGN0UzLTdmV0g4RzdmUmdLZ254c2JTWjB5cXRRZXZfYTZ0eW5YZ0ZyU1oteVIwdjV6V3VENE5VOGdfVnFHSTVBMnlCU3R0VkVWeWxMSnI5eVlvUTFRQmdVdWhISEpMVlFXa0UwNU1mTnVqV1ZoanVEQXoxOXBWZW5qUld0bE9QWUl1NkVTMHZ3VUZwTUItNTdpLWtrSmJJMA?oc=5",
-      "published": "Fri, 18 Sep 2026 14:50:57 GMT",
-      "summary": "New US sanctions bill on Russia puts India's Modi in a bind&nbsp;&nbsp;Reuters",
-      "source": "Reuters | Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US tariff finding still open to challenge - Freight News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVJzUFU4a2RYc3lfT0hXQzNKM3d6Z0l3clhvOGotSXAwYzI5akxkTVZFWkVxVDNTTDdra0xNdlYteG1LUXYxV3dONnhmTGFCd1RqZi1WSjh6QmpzZF9JWVhsT1RoMVRYWHA0bnF6dW9KYUoxRzRVSlFhdFFKMmpWd1FHWVM0dw?oc=5",
-      "published": "Fri, 18 Sep 2026 14:10:00 GMT",
-      "summary": "US tariff finding still open to challenge&nbsp;&nbsp;Freight News",
-      "source": "Google News | USTR 301",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Peru-Indonesia trade deal opens duty-free access for agricultural exports - FreshPlaza",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObWk2b2NGRFluOWY1VkpFOGxpTHhXU2YzRnVoQlVZbVRlSUlDYjNRU0FydFJMTGlxY3didVlpeEVPVkJoSG1nWXh5NUVwWTJ4ZnFMYnFSNGVQT0xLZUhMMzlraEVFLXMydGpGQ3NvM3d5SldWUkNRYXBFak05MFM5WmpWS0tjRDU5ZVc5d2FQbGJ6YlJjczlVb2wwZVdENEVScnpXSzFoYjlHSlhVb2pwRjdKMk9lY2JDZk9yb1B1bmoyMndva2syVW5yZw?oc=5",
-      "published": "Fri, 18 Sep 2026 13:50:05 GMT",
-      "summary": "Peru-Indonesia trade deal opens duty-free access for agricultural exports&nbsp;&nbsp;FreshPlaza",
-      "source": "Google News | Indonesia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Thai poultry audit sparks call for tougher UK import standards - FarmingUK",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzZYS3RZVy03YWdRMnAwWXlyY0JPSnQ2NEh3bFhscXpoM1lUNHlEd3N2MVV5bFNTY1BSM1Nobm5ZN3g1VTVzeUJUQjMwWlRMV2FYZFFhUkdEYUxWWlFLYU9NQXZoQWxROUpUOGJjMllLOUtpVlp2SGhrYS14a0NocV91ZWNvU1FNVktvcnFNZ2JWVVBTdVR2WmJPb3A0clhBSmY0NXVMVWEyS2tZ?oc=5",
-      "published": "Fri, 18 Sep 2026 13:44:27 GMT",
-      "summary": "Thai poultry audit sparks call for tougher UK import standards&nbsp;&nbsp;FarmingUK",
-      "source": "Google News | Thailand Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Trump's new tariff threat risks cutting off Asia’s Russian oil lifeline as Gulf supply falls - thenationalnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHVGTXRLcWItcU92cVZHYU5wcmF3cnNsbmFaWDJMNDBSWGFLMHExWGt5NXNsTVh5U1FHdTN2b3VVbVR1SXQ5ZDRMVVFTVGZXcnlCa2FFM04yeXNfVnRUX0Y2VEhxMkhhNHRqempVWlFGM2lPdXh2ZUtQT2pKNzRIRWp0RkZPUkxfS2pJM2htLVZHcmpQdm9HdXlIZTRpald0Z2ZkT0hSMkh3d0RRM3FvOUxpaw?oc=5",
-      "published": "Fri, 18 Sep 2026 13:22:56 GMT",
-      "summary": "Trump's new tariff threat risks cutting off Asia’s Russian oil lifeline as Gulf supply falls&nbsp;&nbsp;thenationalnews.com",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Commission imposes provisional safeguard measures on imports of grain-oriented electrical steel - policy.trade.ec.europa.eu",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObC1qakJ1UXNGLVhpNW1lTlFXLWc2d2thdFltZUFsdFFnSzNJbkI5enNsRzQ0M0R1SThMZjhzR2pBUzFwdGFuZnVZV1ZFdzYyWGE0allVYzFFYXB4NHZnRVhiSjI2VmlteC1xNXBNZ3d0eUJLUHFPdmQwdk1odmQtZHlkRDJHbm5DU2xzdXotLTBKSE4zNk45US1GSGVLRTNVc0djM2hrM1ZqSHJ4Q0szVnNteEl0cHVjM1RvOUZYMWtlcE1ja1UyeDJJeUxDOTFmeUtiWlhhcm9uZw?oc=5",
-      "published": "Fri, 18 Sep 2026 12:00:00 GMT",
-      "summary": "Commission imposes provisional safeguard measures on imports of grain-oriented electrical steel&nbsp;&nbsp;policy.trade.ec.europa.eu",
-      "source": "EU DG Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Vietnam urged to deepen FDI linkages with domestic businesses - Vietnam Investment Review - VIR",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3o5UHdxOFI4SFN2Z1BaZkdYLUpCZ3RYazU4b25CcVNGaHZvbFNSYzFQdFBncnI5YlVsVXJVRzZnUkpvekJWVVR4QmhsRHdsLUJfTGMzT1BEc281X2dHYVY2cHl2R0ZVQmR6MUgwVjhaOExaN1hOeU96TzdHd1F5VjdMV2h3V2E3UGRONk00NFFOSE9YRWdr?oc=5",
-      "published": "Fri, 18 Sep 2026 10:45:53 GMT",
-      "summary": "Vietnam urged to deepen FDI linkages with domestic businesses&nbsp;&nbsp;Vietnam Investment Review - VIR",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "The Ministry of Industry and Trade is implementing the Resolution of the regular Government meeting in August 2026. - vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUxCdlhTM2tZZm4wQ2ozVy1PLWNPdktZUndLZ3c5eWJFTVdROXFjUFctWER2ZnJGeHlzMkJUQ2tCNExvalpZY0ZwQkpzSWd0c0FBSUdaY0Q0V3k2VzNuNWlaR3cycjN6anlhdkVhUVR2eTI5XzhuOWwwRS1uNzBHb2dvMTBISjUySE1jbEJ6QW9LWFBOejZTYVAtSm9FNHRIYjNNSlhkU0FaX01qUkxLMHI3ZEtmZw?oc=5",
-      "published": "Fri, 18 Sep 2026 08:17:08 GMT",
-      "summary": "The Ministry of Industry and Trade is implementing the Resolution of the regular Government meeting in August 2026.&nbsp;&nbsp;vietnam.vn",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Irish Finance Chief Shrugs Off US Tariff Threats Over Canada - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTW55TnRReGJnWEJBb2RCS3QwU1pWNm80X2I3dkJTYmhOYjhBUnh1ZEt6a3RnbEtBc3JXWlhOanRoUWlBS3JRQnhVQkl5WXRkaXp6dTV3aG92WXFJLXM1T09SUTFBS09xMTVoTUJhUDVqRzB2U2JTUEJ4TjE1T2pWbXpyc1JzQ3FKZ2dpcG9jRTlTY1FUMjNBVU1tVzhtWExLTXBUVWZMNHdzX0Zhc19qSHFjbFk?oc=5",
-      "published": "Fri, 18 Sep 2026 08:02:08 GMT",
-      "summary": "Irish Finance Chief Shrugs Off US Tariff Threats Over Canada&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg | Tariff/Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Trump's Tariff Offensive Has Backfired, Leaving Beijing With More Leverage Ahead of Washington Summit - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ydXl4S0R4a0hwVUhsYWUzekZ5YVJNalhObkVTYlI1OHBWaFpITlFQRko1S25BRlpEWjd2RkhrWHBTVUF4RW9uNlNKd3VFek51U3MtOWhrR0J5TmFQbEFaNjZDby1jSFF2ZlphcURBLXVZdUlVbkE?oc=5",
-      "published": "Fri, 18 Sep 2026 07:05:00 GMT",
-      "summary": "Trump's Tariff Offensive Has Backfired, Leaving Beijing With More Leverage Ahead of Washington Summit&nbsp;&nbsp;finance.biggo.com",
-      "source": "Google News | Vietnam Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US Tariff Threat Puts Indian Exporters on Alert - Siliconindia",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXd0SG1XVURDX2thQjVrV2ZsTlRzajZrWFpBTTJpOVVwd2dlOVFhV2ZQRU5ZWEJzbjRBN3R3Nndxb1pHd2NNWTgzN2s2TWcyQUl1YzZ1Y2lpRlhtRDdjUVNIV1ZiSmg0a0dIeUJKaGdBbVNYUTFpUGxYV29FWl9rN0NYaDQ4cWhUMDY5S3lJR0EzMHdsSUZTTkJ3SGwxZEw3X1ZOMk44cF9ZaFh2bV9OZA?oc=5",
-      "published": "Fri, 18 Sep 2026 06:50:58 GMT",
-      "summary": "US Tariff Threat Puts Indian Exporters on Alert&nbsp;&nbsp;Siliconindia",
-      "source": "Google News | Indonesia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US Said to Hold Off on Tariffs Until After Xi-Trump Summit - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDRDNGN4djFpRnhUdUFXVWQycFc2Vlh0MFZNTWo3TUYwYXVlTkQ1bzZ6ZXpvX1R6YU5ya0l5MHVGMEVyTHBiU0FRXzN6ZXlpUGVTM2FNMlVJWUJjX2QyU3BBcTVrRUlvdGdPYXg0LVIzUXpVREFXTzlSTjVWNHhJaTFhM2pseHAxQmo4UC0ydTAzSzg?oc=5",
-      "published": "Fri, 18 Sep 2026 06:23:00 GMT",
-      "summary": "US Said to Hold Off on Tariffs Until After Xi-Trump Summit&nbsp;&nbsp;Yahoo Finance",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US Said to Delay Excess Capacity Tariffs Until After Xi Summit - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFhuSWpjeFhHdU1FYXZpM2dWalBWQW1BcGtxd0RLcEtKVmE1bVhnYTZGdnB2U2prMWttbTlTYzJXRmdZWG56c1MzU3BLWTl3Q1hleFVxSTZFMnpXZ2lESWo0S3lwY296ejMtd2gzd0pDdE5pSnBWZFdUMHRqbVRCYTBYMG1rNXlybTc1YzRvWnotMTZIWlRhN1RlckR5QWFMd2FTcTFVU2hJdGdSQlVwdjJRTQ?oc=5",
-      "published": "Fri, 18 Sep 2026 06:23:00 GMT",
-      "summary": "US Said to Delay Excess Capacity Tariffs Until After Xi Summit&nbsp;&nbsp;Bloomberg.com",
-      "source": "Google News | China Trade/Tariff",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Deputy Prime Minister and Minister For Trade and Industry (Trade) Gan Kim Yong to attend the 58th Asean Economic Ministers’ Meeting and Related Meetings in The Philippines - Ministry of Trade and Industry",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQTTJ1VzFQMVBPbnBnaXpBTm1BMDl0cnJQbDYydVhvUEEwTTVCRWs4djIxUXdzMWJmZHVTNDdNWUFUV3VvUmdqUE5mUGlfLUI1QmN5RHBqUHhDYXpMMmdORjNCYjJiZzAzZXRPVDBUR1ZXM0VuSUFkLTVlVG5zVUgzcWo1cHRGVi1IcFhjZllLdTNLZmVXa201ZllkNUZSeTRVT2JxTTV2QnRPSzJfaEtkYncxZHFFVGkzOFBINF8xRXNPQ0hlWUV4XzFlWXpiSnptaWc1dzhWNnNPdlFFWWQyZTg2ZlMzaWstNG1SNGRJZ21xWEpoYWpQTVJoa0Vwb25uaVRsV0xXdFVVVDhZYVdIUXRDY29veUZJMmMyZ2Z5WktZZWs3Mnk4S0t3QQ?oc=5",
-      "published": "Fri, 18 Sep 2026 03:42:05 GMT",
-      "summary": "Deputy Prime Minister and Minister For Trade and Industry (Trade) Gan Kim Yong to attend the 58th Asean Economic Ministers’ Meeting and Related Meetings in The Philippines&nbsp;&nbsp;Ministry of Trade and Industry",
-      "source": "Singapore MTI",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "How Paraguay’s textile, family-owned businesses are going global - World Trade Organization",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93WWQ5eDJEejRxdXlIQ3Nob1RtUC1oN1dBMGgxc3pSakE3d1g5V2g1OFJ2WUdNZzh5b1Y2QzdDX0YyWUtLZzJuUjUwS25hdVdvVG5BOUlCN2xaYnhybFVKdlFZMzVkLWI0SFZlX1ExTWVEZGJEWGFmb3FpRHNCQQ?oc=5",
-      "published": "Fri, 18 Sep 2026 03:20:33 GMT",
-      "summary": "How Paraguay’s textile, family-owned businesses are going global&nbsp;&nbsp;World Trade Organization",
-      "source": "WTO",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "US Likely To Delay Tariffs On Excess Capacity Until Trump-Xi Meet; Is India At Risk Of New Levies? - The Daily Jagran",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeVdURDM2d1lobGEzSnJGSXA4V2ZjRUZydjlVdUk1Q2ZvYktsdmp2eE9LVHBzamYxQ2J0aGk1V3ZyaGdYTFVWVW1RM2NKUXZPRzJ3bzMwc3ZDRmF3ZXRLcElMc21hNnBTb294Z0NRUkIySkxnS2pGa2xQOVVSTy1nVmxyNHVwRUw5cmNUbUhBd3BxZTVLZ1hDdzZ4OFJxdVBwaWh1cE80Q3RHZjBKbEJVUXJiLV9JRUFYUjFXVkxCeXdmTVFsYldUenlkLXlGanZ2Z1NUZ1ZWYm8ybk9ZN3pqNFNLQ0xKaGlqLTFzM1Z6SHl5Sm45dEUwZjhn0gH6AUFVX3lxTE55V1REMzZ3WWhsYTNKckZJcDhXZmNFRnJ2OVV1STVDZm9iS2x2anZ4T0tUcHNqZjFDYnRoaTVXdnJoZ1hMVVZVbVEzY0pRdk9HMndvMzBzdkNGYXdldEtwSUxzbWE2cFNvb3hnQ1FSQjJKTGdLakZrbFA5VVJPLWdWbHI0dXBFTDlyY1RtSEF3cHFlNUtnWEN3Nng4UnF1UHBpaHVwTzRDdEdmMEpsQlVRcmItX0lFQVhSMVdWTEJ5d2ZNUWxiV1R6eWQteUZqdnZnU1RnVlZibzJuT1k3emo0U0tDTEpoaWotMXMzVnpIeXlKbjl0RTBmOGc?oc=5",
-      "published": "Fri, 18 Sep 2026 02:40:00 GMT",
-      "summary": "US Likely To Delay Tariffs On Excess Capacity Until Trump-Xi Meet; Is India At Risk Of New Levies?&nbsp;&nbsp;The Daily Jagran",
-      "source": "Google News | USTR 301",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "The Return of the Trump Tariffs: How Will Southeast Asian Firms Respond? - fulcrum.sg",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUhrV0dmY2NwUWRTcXhYTTUxTXp6MzVtYXJxTTBqeEFmNWhCQXozNWo5dkRHcVNPNEIwQzA1cUhFeDNkYnZIMVdYNFdDZ25PNnFoSGtCLVZUUWZzYjc1UzBjbkNkZkdjSmxqcndMUmRYbFpjRU0xd1pabm96aWVKRlVHb2drRXF6VndnbXhDeHVFTmZwdVRWTzdXNG1objlfSlFvWDBQOVdZOUJINDNxaw?oc=5",
-      "published": "Fri, 18 Sep 2026 02:00:00 GMT",
-      "summary": "The Return of the Trump Tariffs: How Will Southeast Asian Firms Respond?&nbsp;&nbsp;fulcrum.sg",
-      "source": "Google News | SE Asia Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "CNBC Daily Open: Trump's tariff leverage, EU warning and Iran hopes - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMDgwNUt1Z2dTRWc2V1dBbWdEUGFOOUFKejlHX3VtTjl2VFlqeTEzZklid0lkRUROWGw4WllKdnR6d0NKQ3BHcTFiSmVWaUo4ZjRvVW1wcW9leFBPSHZCNXVua0d1d0xSamx6allOV1BRZk5aZEZYeEJkU2otYUtIOFoyYkdqem0zNkxFR3pvYlJkQdIBlwFBVV95cUxOM2hFSm9RSk1mekhvWkEwb1F5a1F0Qjg4bUw0cDR4bWZhOHhvX19VeEY5eXVwRUxMYTJGRE10ekFGbWkzaUd3MUd1RnozcUlHaE82Q3NtNzUySlU4bXdXM3ZLSmRXcHRGeTFudllDX3VsSVlFekx6UWVKODEwaTZoM0o3cHllbV9Td1F0R1VsMlRlekxuT1hj?oc=5",
-      "published": "Fri, 18 Sep 2026 01:40:00 GMT",
-      "summary": "CNBC Daily Open: Trump's tariff leverage, EU warning and Iran hopes&nbsp;&nbsp;CNBC",
-      "source": "CNBC | Tariff/Trade",
-      "priority": 1,
-      "relevance": "medium"
-    },
-    {
-      "title": "Thailand must invest in front-end chip production, industry body says - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEtLcU1xTk1sWU1RbVhoc3F1cEU1SFVkeTdnQlJUTnBLaEtXN3hTdHRzWkNadlktMG0wZDMtYTZHMklJUENDTGNaaFdjRTJFcVlZZjBpLVJ1NEU4bndFV3AybDdqQ0dBTENndUU4TlRGU01MNVJzU3ZzNjRhZW9YQ053M08xOTFYOG1zWmItWkRHZTBOQU55S0k5X3JHV1QzQzQzT2NVZUdISWdVU3RuYjhfNUNLMGVxbllFS1p3?oc=5",
-      "published": "Fri, 18 Sep 2026 01:39:00 GMT",
-      "summary": "Thailand must invest in front-end chip production, industry body says&nbsp;&nbsp;Nikkei Asia",
-      "source": "Google News | Thailand Trade",
-      "priority": 1,
-      "relevance": "medium"
-    }
-  ]
+  {
+   "title": "FTI advisor urges balanced use of AI",
+   "link": "https://www.bangkokpost.com/business/general/3323289/fti-advisor-urges-balanced-use-of-ai",
+   "published": "Mon, 21 Sep 2026 04:26:00 +0700",
+   "summary": "People should make smart and balanced use of artificial intelligence (AI) to avoid becoming overly dependent on the technology and developing a \"rusty brain\", despite its growing importance in manufacturing and business operations, according to Supant Mongkolsuthree, honorary chairman of the Federation of Thai Industries.",
+   "source": "Bangkok Post | Breaking",
+   "priority": 2,
+   "relevance": "high"
+  },
+  {
+   "title": "US, China open final trade talks in New York to keep tariff truce alive ahead of Trump-Xi summit - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0Q1ZlhrWGxNT0xKV0V6RVVaLUNSZDNQN3BKNkd0SVhpTjhSdlhNaUhSMUcwQ1lUQkg0Mk1HeFFrRnlxVG1PMEJLRTJhbDhmVTMyeDZTTm9ZczY2Y3FZM29VMGJ2VF9aMEp3YnFPTWFoM3psRGZwTGxGajRuV0JXcy1NMjRLbVQzSndSUUNwb21QMEtTRUVuZV9hc2ZuQXRqeU9vbnRCV0tZa0pmTWJSOFJhdTFlQ2NNb1JnSzNnVU55LThwdVhFQkxkSl_SAdIBQVVfeXFMTWhKWHUyT1VtX05lM3R3U1lERmZ6T0NkNzNQTWRldTNjUUw0dFJqRlM1S240ZTIycDJEUHdraVd2Xy04QWZISG9TT3pjM1BVVTFfQ2xkNXoxZTl5Z085NXZHZHdDTmFxVE9yemQ4Y2VOSjJUWUtsUGtUa1RfN2VGQURmemtpSUdXUHZmbEllYXJLWDE4NUpfd2N3N3VxTnNUdDhPM000QkF5SnY0clNTTW5ibG83VVNrZnNpWEtseVhWR3VOMVd0b1FLSl9PZWRhNjFn?oc=5",
+   "published": "Sun, 20 Sep 2026 19:00:49 GMT",
+   "summary": "US, China open final trade talks in New York to keep tariff truce alive ahead of Trump-Xi summit&nbsp;&nbsp;The Economic Times",
+   "source": "Google News | China Trade/Tariff",
+   "priority": 1,
+   "relevance": "medium"
+  },
+  {
+   "title": "Reimagining industrial dynamics of Global South - China Daily",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BWEJyRndteWtMLWFpeTV3cTVhcGVwejhycWpUSEtRdUVHNVJGTkZCNV95U0dHSmVKb19jamFWRk1OX0hXbFhISnpGVE1yWDNvaUVYSFpjdW00eXpqbG1tU1otajJJVS1uQ0ZlUHJ1a2drbzVfT0p4ckxQMmZMdw?oc=5",
+   "published": "Sun, 20 Sep 2026 14:20:48 GMT",
+   "summary": "Reimagining industrial dynamics of Global South&nbsp;&nbsp;China Daily",
+   "source": "Google News | Thailand Trade",
+   "priority": 1,
+   "relevance": "medium"
+  },
+  {
+   "title": "Guyana Minerals Imports by country & region 2013 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRzY3MkdNdWlUUVl4NVUxcUJ1MU9ZTWZPRzNWY1NpcWVCMTJ5WDZsa0c1bGdfMFNramg4NE11VUNmakx6M0puZkxfbHhSNkdDMU1CZnRzYThQdTNwaEpxbXpUQWkwMEFsNE4yTXhhdTFiUmRadlNsZ0pHNzJXNVk0S1pmbGxiVy0xanlQcnhYbjMwQ0dVc0RwUEdOMzFhV0dlQmFTLXFXS0swSjdTQ1huRlhmQlhtZWZsVVE?oc=5",
+   "published": "Sun, 20 Sep 2026 08:52:09 GMT",
+   "summary": "Guyana Minerals Imports by country & region 2013&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "priority": 1,
+   "relevance": "medium"
+  },
+  {
+   "title": "Keynote Speech: From \"Going Global\" to \"Surviving\" | 36Kr 2026 East Forward Global Expansion Summit - 36氪",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05SllQVm5aLWN5ck83VkQwc2ZwVm9xNzBZbkpEdkU5aXN5UkVoUTEyc3pBRmJrNjNrSHdBV0hFNWdFU0x0bjl2cm5MT0ZqS3VGN2hB?oc=5",
+   "published": "Sun, 20 Sep 2026 04:23:16 GMT",
+   "summary": "Keynote Speech: From \"Going Global\" to \"Surviving\" | 36Kr 2026 East Forward Global Expansion Summit&nbsp;&nbsp;36氪",
+   "source": "Google News | China Going Global",
+   "priority": 1,
+   "relevance": "medium"
+  },
+  {
+   "title": "Opening Speech: Going Global, Then What? | 36Kr 2026 East Forward Global Expansion Summit - 36氪",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qSFFwOGtQd2xRbUFQQjMySlptOE9WcmFNZml5LUs3OW15VEd5YUpzdkp3YjVOc21HNGowSnpaSEM5UjV1c0IyX2wzRFBFc3VFeFhz?oc=5",
+   "published": "Sun, 20 Sep 2026 04:23:16 GMT",
+   "summary": "Opening Speech: Going Global, Then What? | 36Kr 2026 East Forward Global Expansion Summit&nbsp;&nbsp;36氪",
+   "source": "Google News | China Going Global",
+   "priority": 1,
+   "relevance": "medium"
+  },
+  {
+   "title": "Keynote Speech: iReader · AI Short Drama Going Global | 36Kr 2026 East Forward Globalization Summit - 36氪",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WSWlFYi11aGJFYlBoTlhXNGJCdjFCLVpYNFA5a1BQRVdsVk5PdzIxQVVuTW11Q3FIbzAzREx1MkY4X2xISFhrUzI2VE5ubHZ1R1hv?oc=5",
+   "published": "Sun, 20 Sep 2026 03:23:09 GMT",
+   "summary": "Keynote Speech: iReader · AI Short Drama Going Global | 36Kr 2026 East Forward Globalization Summit&nbsp;&nbsp;36氪",
+   "source": "Google News | China Going Global",
+   "priority": 1,
+   "relevance": "medium"
+  },
+  {
+   "title": "Former WTO head Pascal Lamy on the EU’s China choice: get a rebalance, or go protectionist",
+   "link": "https://www.scmp.com/economy/global-economy/article/3367981/former-wto-head-pascal-lamy-eus-china-choice-get-rebalance-or-go-protectionist?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 22:00:11 +0000",
+   "summary": "Pascal Lamy served two consecutive terms as director general of the World Trade Organization from 2005 to 2013. Before that, he spent decades in various French government roles, contributing to the building of the European Union. He was chief of staff to European Commission president Jacques Delors from 1985 to 1994, and European trade commissioner from 1999 to 2004.\nHere, he discusses Europe’s trade tensions with China, the continent’s growth potential problem and the WTO’s need for stronger...",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "China, US find new trade ties in services - tribune.com.pk",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeWpFRzZVaER2aWEzTDdzNHpsRVZ2dXlvVEFQem4wR1hKOWlVVm5mRnhwUjZKZmp6VldOc0gyZGJNMjd0aVYtOFVUS2k4Y3RaZ1J3bW1yZEt4OHg1aTQtMmVyM0s2Q0lfLXhZUnpxbDM3aVZmUkxrcjRudU1iMEc5U3BNONIBiwFBVV95cUxOTnF2UzJBMFFZWUE4RUFDV201V3dJY2xHRDVSNmVxUmtXZm5UNXpMR3BhZDZPYUV1YzRjd2NLeWhkWFRTY00yQ1VpRVVpZURhUVVDa3hoRU9RN3V6cGFyak1HR2JsbjRORG1seTRPNXBEbWNMTE1tcmNHaFUyMnRzQnZUVkVtb0FoNzg0?oc=5",
+   "published": "Sun, 20 Sep 2026 21:51:27 GMT",
+   "summary": "China, US find new trade ties in services&nbsp;&nbsp;tribune.com.pk",
+   "source": "Google News | China Going Global",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Pacific island states are trapped in Cold War 2.0",
+   "link": "https://www.scmp.com/opinion/asia-opinion/article/3367734/pacific-island-states-are-trapped-cold-war-20?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 21:30:06 +0000",
+   "summary": "In early July, China fired a test missile from a nuclear submarine into the South Pacific for the first time, a weapon capable of carrying nuclear warheads. Washington and Canberra were livid. The Pacific has long been the exclusive testing ground for such long-range missiles from the United States. How dare China!\nThe reaction from Pacific island states was more measured. While leaders from Tuvalu, Palau and the Solomon Islands strongly criticised the test, the 18-member Pacific Islands Forum.....",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Golden triple as Thais rule the table in Japan",
+   "link": "https://www.bangkokpost.com/sports/3323023/golden-triple-as-thais-rule-the-table-in-japan",
+   "published": "Sun, 20 Sep 2026 20:25:00 +0700",
+   "summary": "Thailand&rsquo;s teqball stars struck gold three times over in Nagoya on Sunday, sweeping the mixed, women&rsquo;s and men&rsquo;s doubles titles to announce themselves as the team to beat on the sport&rsquo;s Asian Games debut.",
+   "source": "Bangkok Post | Breaking",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Guyana Coconuts, fresh or dried exports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjFhUUhuelMxNG9UaldVLWV3Z1Z5cWJkYUt3Q3gtV0RrVFdZV3lMaEJpUVR3d05FZVhGdkxEQ25JLTFSZ1QteHZxalRkYnFnV3dPV2dodm0yVE85Z2Z5TC1Jd1N1WjY4OGo5eDliNVh4NDdpQ3FweVZuWFlTc0xmc0ppSXRrZUFMZGtpTjlvX2o4VDZnUHpzT2k0enNWWjhoeU9BU2lGT3pibXFlYTlLTQ?oc=5",
+   "published": "Sun, 20 Sep 2026 20:15:01 GMT",
+   "summary": "Guyana Coconuts, fresh or dried exports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Trump and Mamdani plan to meet in New York during US president’s UN visit",
+   "link": "https://www.scmp.com/news/world/united-states-canada/article/3368179/trump-and-mamdani-plan-meet-new-york-during-us-presidents-un-visit?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 20:13:06 +0000",
+   "summary": "US President Donald Trump will meet New York City Mayor Zohran Mamdani when Trump travels to the city for the UN General Assembly.\nThe meeting is scheduled for Monday at Gracie Mansion, the official mayoral residence, according to Anna Bahr, Mamdani’s communications director.\nBahr said the two will discuss issues affecting the city and New Yorkers. The White House confirmed the meeting will take place but did not offer more details.\nMamdani, a democratic socialist who upset former Governor...",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Five-goal blitz secures Thailand's place in football quarters",
+   "link": "https://www.bangkokpost.com/sports/3323019/fivegoal-blitz-secures-thailands-place-in-football-quarters",
+   "published": "Sun, 20 Sep 2026 19:53:00 +0700",
+   "summary": "Thailand put on a five-star show in Nagoya on Sunday, thrashing Hong Kong 5-1 to sail into the quarter-finals of the men's football event at the 20th Asian Games, with a second-half goal blitz putting the tie beyond doubt.",
+   "source": "Bangkok Post | Breaking",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Zelensky and Trump have agreed to meet in New York, Ukrainian president says",
+   "link": "https://www.scmp.com/news/world/united-states-canada/article/3368178/zelensky-and-trump-have-agreed-meet-new-york-ukrainian-president-says?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 19:46:11 +0000",
+   "summary": "Ukrainian ⁠President Volodymyr Zelensky said ⁠on Sunday he had spoken to US President Donald Trump and the two agreed to meet in New York for ‌talks that “could change a lot” in terms of finding a resolution to the war with Russia that began in February 2022.\nThe two leaders will be in New York in the coming week for the UN ⁠General Assembly.\n“We agreed to meet in New York, ‌and this meeting could change a lot. There is diplomatic momentum,” Zelensky wrote ‌on social media.\nZelensky said he...",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "The Lever Is Price: China’s New Leverage Play in Thailand - orfonline.org",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYVcyN3ltVHRXVlBOR3FnUXpOWWdHR19adkpJR0NGWHRYWmJxM1ZseVRmMDBrcTBHeXQwLVBrVTZTLS1Nd0JzRGFVUjI0N053YXdZbHNBRmZheTJJUG1Ibjlwb3ZoN3lnWXZCMHFEUEY5SXNEdU5VQWRsdS1lMGVIajBaRjRob1Z0aXhiNFd6OGpsa3E4Tmc?oc=5",
+   "published": "Sun, 20 Sep 2026 19:45:43 GMT",
+   "summary": "The Lever Is Price: China’s New Leverage Play in Thailand&nbsp;&nbsp;orfonline.org",
+   "source": "Google News | Thailand Trade",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "How can I resolve an issue through eBay messages - eBay Community",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1ZndEI0WlNycFN4N2tXVC1OSGRMRTgxR2liQ2JNVlBMMHNkN3pDRWdZUjBMa0dlcVlxTHZXZS1TQjJXS2VyWWtySUozWlJ1WlN5TzVrWUhWWVpvejZSNWpUQm9pZzdGdm5sT0dTSFFuMkhaN2xfc2p3Qm5Ia0NiYmtoaGwtSE9fenRSQzlvQ0RTYVRTcEJhT29Mbi1oRUJ0Wk9hSDdRTWF2U3U4SU56VlkzRVVSRVRMWFEta0stZVgzMHlNTWFIZFJ5ZXhCUQ?oc=5",
+   "published": "Sun, 20 Sep 2026 19:45:19 GMT",
+   "summary": "How can I resolve an issue through eBay messages&nbsp;&nbsp;eBay Community",
+   "source": "eBay | Seller Policy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "US warns of rapid escalation in Mideast war",
+   "link": "https://www.bangkokpost.com/world/3323015/us-warns-of-rapid-escalation-in-mideast-war",
+   "published": "Sun, 20 Sep 2026 19:45:00 +0700",
+   "summary": "RIYADH (SAUDI ARABIA) - The United States warned that fighting between Saudi Arabia and Iran-backed Houthis could \"escalate rapidly\" after a missile attack targeted Riyadh for the first time since the Yemen conflict resumed.",
+   "source": "Bangkok Post | Breaking",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Russia vows revenge for Ukraine’s election-day attacks as poll shows win for ruling party",
+   "link": "https://www.scmp.com/news/world/russia-central-asia/article/3368177/russia-vows-revenge-ukraines-election-day-attacks-poll-shows-win-ruling-party?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 19:23:35 +0000",
+   "summary": "Russia vowed on Sunday to “intensify” its strikes on Kyiv in response to Ukrainian drone attacks on Moscow, as an exit poll showed the ruling United Russia party on course to win tightly controlled parliamentary elections.\nUkraine fired waves of drones at Moscow and the surrounding region on the final day of voting, killing two people and setting an oil refinery ablaze, officials said.\nRussia’s defence ministry accused Ukraine of attempting to “disrupt the democratic will of Russian citizens”...",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "- Mercado Libre",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50WUVhb1hfNXVvY3luZXlScFgwWTcxeHdMNzRiendXSnc2MDVLWm5pWk1abTRxb3VNMkVTelZaUXZrRUEzazNzMENwQ0FlYWlYLTNFVHpWZHV5Zw?oc=5",
+   "published": "Sun, 20 Sep 2026 19:07:32 GMT",
+   "summary": "&nbsp;&nbsp;Mercado Libre",
+   "source": "Mercado Libre | Seller",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "PSG president Nasser al-Khelaifi under investigation in France for conflict of interest",
+   "link": "https://www.bangkokpost.com/sports/3323010/psg-president-nasser-alkhelaifi-under-investigation-in-france-for-conflict-of-interest",
+   "published": "Sun, 20 Sep 2026 18:45:00 +0700",
+   "summary": "PARIS (FRANCE) - Nasser al-Khelaifi, the Qatari president of French football club Paris Saint-Germain (PSG), is under investigation in France on suspicion of an illegal conflict of interest, prosecutors in Paris said on Sunday.",
+   "source": "Bangkok Post | Breaking",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "AppLovin Fell 38% — Broken Thesis or Buying Opportunity? (APP Stock Deep Dive) - Apple Podcasts",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDROdGpxTFE5T2pxU2tTdHB5Y1J0Zm5Dcm5WdmJ0a2dTaGR5b0JSN1JKMkhrT1FsaTJKM1JENGRVc2xmcFR5ak9IZjdvWmRxbEwzWjVjVzRmbkh5U0c3czNkUWIwRkpScW9FMW1rMDVSb2QxUlp4eERBZXc1eUotbGd6M1I2OHl3YzIyVUVwcmVsbC1fX3NUYjdCMzBUZTU4d01BZmduX1RIQ0UzZ291WGpHUWxjM254dklYalhNQWRMZw?oc=5",
+   "published": "Sun, 20 Sep 2026 18:40:27 GMT",
+   "summary": "AppLovin Fell 38% — Broken Thesis or Buying Opportunity? (APP Stock Deep Dive)&nbsp;&nbsp;Apple Podcasts",
+   "source": "Apple | Supply Chain",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Uganda Measuring or checking instruments, appliances a exports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXU1MUpnSHRGajJ2TmlzcGdMZHB3U0FmNTAxNFVVVzVja3NCNk1oTV96VWVjcHJiOUQwRnFOVnlfdUtDc1htQWlveHlzaTRlNm90WDV4Ymo3dFFYdlNsdTB2Y19jVk1sQWc3UUdhWWxKYWpyTzI2aVRaZDR1c3ZXWDNsYXpnWEtWaldUOTBBZnRxTVA0X2hHWHdGanV5M3JySVU5UllEMUVteHJpSldpbg?oc=5",
+   "published": "Sun, 20 Sep 2026 18:02:42 GMT",
+   "summary": "Uganda Measuring or checking instruments, appliances a exports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Repair crews battle to reopen Blue Line for Monday rush hours",
+   "link": "https://www.bangkokpost.com/thailand/general/3323008/repair-crews-battle-to-reopen-blue-line-for-monday-rush-hours",
+   "published": "Sun, 20 Sep 2026 17:59:00 +0700",
+   "summary": "Trains running on the Blue Line of Bangkok's fire-damaged Mass Rapid Transit system would resume full services on Monday morning if overnight repairs were complete and guaranteed safe,&nbsp; Deputy Transport Minister Phattrapong Phattraprasit said on Sunday.",
+   "source": "Bangkok Post | Breaking",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Thai Airways flies higher in global rankings",
+   "link": "https://www.bangkokpost.com/business/general/3322999/thai-airways-flies-higher-in-global-rankings",
+   "published": "Sun, 20 Sep 2026 16:03:00 +0700",
+   "summary": "Thai Airways International has promised the best has yet to come after climbing up the global rankings and entering the top 20 best airlines list.",
+   "source": "Bangkok Post | Breaking",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Heavy rain forecast for North, Northeast, Central Plains, East, South",
+   "link": "https://www.bangkokpost.com/thailand/general/3323004/heavy-rain-forecast-for-north-northeast-central-plains-east-south",
+   "published": "Sun, 20 Sep 2026 15:55:00 +0700",
+   "summary": "The Meteorological Department forecast is for heavy rain in the lower North, lower Northeast, Central Plains including Greater Bangkok, the East and the South from Monday to Saturday.",
+   "source": "Bangkok Post | Breaking",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "US, China Begin Trade Talks in New York Ahead of Trump-Xi Summit - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWVmRU80NEg0T0lDVEtveTZ6SkN6cXlFdHgzWVB0RkszbzZibklldWRLMFhrV2o4T3YwNW5rQ001bFJRbG9CdkZ2LWVQRmFoS3Mwb3MwYl9jOXBlcWpBQlY5ODRhWWdOeDZIcHl1cm15czBuQ2dZdUdoNHBoZjM5WmJoVklULTQyREhxdE5pSFE0bVVpbFZqbUU3MUxpNldqakhZdlFqRG0yS0QwVEptb1FPMXE?oc=5",
+   "published": "Sun, 20 Sep 2026 14:49:39 GMT",
+   "summary": "US, China Begin Trade Talks in New York Ahead of Trump-Xi Summit&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "US, China seek Xi-Trump summit deliverables in New York talks",
+   "link": "https://www.scmp.com/news/china/diplomacy/article/3368171/us-china-seek-xi-trump-summit-deliverables-new-york-talks?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 14:34:25 +0000",
+   "summary": "US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer held their final preparatory talks with Chinese Vice Premier He Lifeng in New York on Sunday to work out deliverables for next week’s summit between Chinese President Xi Jinping and US President Donald Trump in Washington.\nThe leaders are meeting at JP Morgan’s headquarters in the city to discuss possible economic outcomes for the summit and begin their long-awaited dialogue on artificial intelligence safety and...",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "‘His love for Hong Kong was profound’: Tung Chee-hwa honoured at state funeral",
+   "link": "https://www.scmp.com/news/hong-kong/politics/article/3368170/his-love-hong-kong-was-profound-tung-chee-hwa-honoured-state-funeral?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 14:24:33 +0000",
+   "summary": "Chinese President Xi Jinping and other top leaders sent condolences from Beijing as Hong Kong bade farewell to the city’s first postcolonial leader, Tung Chee-hwa, at a sombre yet poignant state funeral on Sunday.\nA report by the official Xinhua News Agency praised Tung, who died on September 8 at the age of 89, as “an outstanding contributor to ‘one country, two systems’, a renowned patriot, an outstanding social activist and a close friend of” the Communist Party of China.\n“While Tung was...",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Rare earth exposure can triple low birthweight risk: Chinese study",
+   "link": "https://www.scmp.com/news/china/science/article/3367984/rare-earth-exposure-causes-3-fold-increase-health-risk-chinas-newborns-study?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 14:00:06 +0000",
+   "summary": "A new study finds that prenatal exposure to rare earth elements can raise the risk of low birthweight, with some substances increasing the danger by more than three times.\nResearchers tracked 4,891 pregnant women who gave birth at Wuhan Maternal and Child Health Hospital between 2012 and 2014.\nThey measured the concentration of 13 rare earth elements including cerium, ytterbium, and lanthanum in urine samples collected from the mothers.\nAfter adjusting for confounding factors such as maternal...",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Trump’s arch would be a ‘military complex’ hosting drones, snipers",
+   "link": "https://www.scmp.com/news/world/united-states-canada/article/3368169/trumps-arch-would-be-military-complex-hosting-drones-snipers?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 13:59:48 +0000",
+   "summary": "President Donald Trump said on Sunday that the massive arch he wants to build between the Lincoln Memorial and Arlington National Cemetery would become a “top grade military complex” able to host drones and snipers while storing ammunition.\nIt is one more example of how Trump is insisting that his initiatives to beautify the White House and the city are also serving a defensive purpose. Trump has been calling the new White House ballroom a “military complex” and arguing it is necessary for...",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "New North Korea-Russia bridge delivers a powerful message to China",
+   "link": "https://www.scmp.com/opinion/asia-opinion/article/3367489/new-north-korea-russia-bridge-delivers-powerful-message-china?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 12:30:04 +0000",
+   "summary": "The recent opening of a new road bridge between North Korea and Russia may look like a modest infrastructure project. In reality, the 1km stretch across the Tumen River carries implications far beyond the movement of vehicles between two border towns.\nFor China, it is a reminder that its influence over North Korea is no longer as secure as it once appeared and that Russia may be increasingly capable of challenging Beijing’s interests on its northeastern periphery.\nThe bridge, inaugurated on...",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Gasgoo Daily: GAC Cambodia KD Plant Begins Production; Zelos Gets Europe's 1st Y Test Plate for RoboVan; DENZA Z9GT Debuts in Thailand - Gasgoo",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPaVpoUHZqNVRJV3g0cDQ3dVY2ZEpDdVVudlJkMFB4Z3dSbVZtblJKU3p4d3NpM3F3Q0xrNE1aQ2EyalJlblVPdmQyR29DZGdhTGJpemdFVmhWM1B5MDJVc3g5QmdBd0I0SWYyd3FKRkhnSkJFc3k4dFUzSG1haVdfV1VOd2V4MDVlMlNseXl6U0VmM3VOUFFSN2JPeE50TndrRk9qSTZnLVBLQzBFTnZFMVlnMVl3aXRmOFNYZVpIbDExc0MwQmRYdVctX3pLMGFyTjR4OWNjZExXNVJiSEV4WVdNbVJ2Z05OWHhBY0lHMVVieXZlUmxTSVJ5Y2JnOVZ2eTBUb0pVUENqSWhBdkVkWG9QVGZQQjVjX0ZHSw?oc=5",
+   "published": "Sun, 20 Sep 2026 12:20:32 GMT",
+   "summary": "Gasgoo Daily: GAC Cambodia KD Plant Begins Production; Zelos Gets Europe's 1st Y Test Plate for RoboVan; DENZA Z9GT Debuts in Thailand&nbsp;&nbsp;Gasgoo",
+   "source": "Google News | Thailand Trade",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Trump’s softer China strategy puts markets on alert before Xi visit - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTViYnZjeGVZOTVwVjV5NmNqSmhrNU9HaGRkaDhkMS00REx0dXdta2p4d0Itd2VZTVE1bFhmc1dDWG9scEMyRnFVandkZURKdExvbi14cmwxUVRzY08tNks2WFVYUENZY0RPSm00dWE0ZW14TThGcnpDQnhNVmg3QnUzZV85V3F2YVN0T19jUllMVjk1VUZmbVFqcGZQYWZxQTVpQ05YQnpIaXJzMVVXc0VxZnROUWRfNTFOY0w3SE1XVHRhd1NYTElB?oc=5",
+   "published": "Sun, 20 Sep 2026 12:18:52 GMT",
+   "summary": "Trump’s softer China strategy puts markets on alert before Xi visit&nbsp;&nbsp;TradingView",
+   "source": "Google News | Vietnam Trade",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Hong Kong secures expanded equal treatment and investment guarantees across Asean",
+   "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368163/hong-kong-secures-expanded-equal-treatment-and-investment-guarantees-across-asean?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 12:09:59 +0000",
+   "summary": "Hong Kong firms will benefit from expanded non-discriminatory treatment and investment guarantees in 10 Asean states after a protocol amending an investment agreement with the bloc was signed on Sunday.\nThe protocol was signed in Manila – where Asean economic ministers are meeting – ahead of dedicated trade consultations between Hong Kong and the bloc.\nUndersecretary for Commerce and Economic Development Bernard Chan Pak-li signed the protocol for Hong Kong, alongside Philippine Trade Secretary....",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS2FiYVR1SGlMdFRKZ1h1UlNXQ0FsRFF4Y0RXSDFPSkluOFk2OU1yMVpmenZZdlZRVmlaSEFfLXd6QUVseEpwb3VJNlBLLXBuVmpsOHM2Z1pIN2ZldUJpb1FFb0kxbWlIY28zbzF1dWlxeWhxZWFxeDdJX0ZyY1o4STFiQUJlQdIBiwFBVV95cUxPZFB0RUtHNmdBbEZDUzNyVGtLc2NrcEEtaWk0UnVkbHdMRjItdnJ0RHBpdFhJZ25mSUhtYVliY0taNVlsZThHTE84bnA3a09BYVB6UU5tTkJpQk1TeEFneldMMzRmSEJvd285dlhReWdwQm5FSnNpNjBzUkZ1M2s3R3lFclVsbnVMZXA4?oc=5",
+   "published": "Sun, 20 Sep 2026 12:00:01 GMT",
+   "summary": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street&nbsp;&nbsp;CNBC",
+   "source": "CNBC | Tariff/Trade",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Hong Kong customs seizes 13kg of suspected ketamine at airport, man arrested",
+   "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368161/hong-kong-customs-seizes-13kg-suspected-ketamine-airport-man-arrested?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 11:25:37 +0000",
+   "summary": "Hong Kong customs has seized about 13kg of suspected ketamine, worth an estimated HK$4.7 million (US$599,067), at the city’s airport and arrested a passenger arriving from Germany for alleged drug trafficking.\nAccording to the Customs and Excise Department, officers found the suspected ketamine in the checked luggage of a 22-year-old Japanese man who arrived in Hong Kong from Frankfurt on Sunday.\n“During customs clearance, customs officers found about 13kg of suspected ketamine inside his...",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "North Korea fires 2 missiles in 3 hours amid tensions over US drills",
+   "link": "https://www.scmp.com/news/asia/east-asia/article/3368160/north-korea-fires-two-missiles-three-hours-amid-tensions-over-us-drills?utm_source=rss_feed",
+   "published": "Sun, 20 Sep 2026 11:25:27 +0000",
+   "summary": "North Korea fired two missiles off its eastern coast on Sunday, its second set of tests in roughly a week and days after Pyongyang accused the US of driving tensions on the Korean peninsula through a series of military drills.\nNearly three ‌hours after launching a short-range ballistic missile (SRBM) towards the East Sea, or Sea of Japan, on Sunday afternoon, North Korea ‌fired a similar missile, according to South Korea’s defence ministry.\nIf the subsequent launch is confirmed to be a ballistic...",
+   "source": "SCMP | China Economy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "eBay is allowing Sellers to directly drop ship items from Amazon. - eBay Community",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYWtqYTZtT25INlRPQzFjc0VnN0xxZFlxZ3lQS2NhcERUZFA5cVZFbGhrYkdJS0dhSHE2RXYtUGhWYWhhYTVzNk1KQkZiOUpBblhzNkdWSWNjME5Td29CSWx1Qk5EbzQyaUVMYlg0MkQ3cXVORExBQmpSWkFMZjByRnNuTjUwRFp5SEZQY3U0MERSa0trNExGeG16TlhkRjdpVklTak1tWDAxSDAyTE5vR05vZTFRRmxfNnh2cGJKblFyZjJ1TlA3X1RkdHFRN1N3d2ttd2o3Q1p5bmY0SE1lSjY5bw?oc=5",
+   "published": "Sun, 20 Sep 2026 11:23:36 GMT",
+   "summary": "eBay is allowing Sellers to directly drop ship items from Amazon.&nbsp;&nbsp;eBay Community",
+   "source": "eBay | Seller Policy",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "China Names Li Chenggang Its Top International Trade Negotiator - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNENiVXFFUjdkU3BvQWc4US0xMV83cERtRjRTYzd3SVhLZXZlWXpPNXdnMFpWVVowQU02bTBCYUs2Q3VxM0RtbXZZT05Sbk1OY1hRTHlwZkVPNjlEMFZvM0N2NWFhTG1rSkdnTU1vcnFvRl9aUVUtWHU1cWc4eTE1c1JzV0RaTUZnaGhoZVJMcFpBeXJncFB2TVdIUXVwdkhFLWFlMThYdUQ1TUhyaDFCeVJUd1I?oc=5",
+   "published": "Sun, 20 Sep 2026 11:15:10 GMT",
+   "summary": "China Names Li Chenggang Its Top International Trade Negotiator&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Agricultural exports' role in balancing the country's trade account - Vietnam Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYm1xb19hczJNV2hucmF3eURxTEl5YnlFeDFtcmd1OGpXZEIwdGFmTXdJSDdZR1dZdVlvQXZYaXpKTWZ6T1YwVUdoM19wT19vWkFrOWtGeWNMRVBGbDhpNXBYV1hzemM1Xzl1NWlGY2JZbV9nSXFORXhXeHk2U0FKZlNheElhVFluMjdCUzM4WFdMbEFmLURPMQ?oc=5",
+   "published": "Sun, 20 Sep 2026 09:30:00 GMT",
+   "summary": "Agricultural exports' role in balancing the country's trade account&nbsp;&nbsp;Vietnam Economic Times",
+   "source": "Google News | Vietnam Trade",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Copper Wire Rod Exports Remain Weak in August, High Copper Prices and Premiums Suppress Overseas Demand [SMM Analysis] - Shanghai Metals Market",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdmtpQTY1WUZVcUhtX0VuTWpaNDRld2N5QTh0dHhXdy1qN2xtUmVSVnBkR2ZHdVgwOTBITU05NElPRkZZVEoxcVctRFJlZmVCYlVodDgyZ2VBXzlReDlBbXNzVE5UZlFYX3ExLTYwRkY5TzJHOWZqSWhKTF9fYzg3bm04NVkza0Q2TnVkalptSmdyRFlCcUJadGV1MERpZ1BwM0dGMVpHZGk5RFluNVFKeWtmN05VR1dXMk1KRTk1WUFneHFvZmFINmRJZG5LRS1IQVhRRnR6dTk5ZTVCbkhIX2x6Vlo3MWlLNTFER25mT0VXdw?oc=5",
+   "published": "Sun, 20 Sep 2026 08:51:14 GMT",
+   "summary": "Copper Wire Rod Exports Remain Weak in August, High Copper Prices and Premiums Suppress Overseas Demand [SMM Analysis]&nbsp;&nbsp;Shanghai Metals Market",
+   "source": "Google News | Thailand Trade",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "US, China to discuss AI, trade, and rare earths ahead of Trump-Xi summit - The News International",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGVweG5ITGdtX0p4NzJoYnl1Q2pRZWJfcDFSN1VYajFSbS14bk1hbUEyUVNsNk9lNEdWM2hIZ21jUGpXRjkxQlJmcFJYOW5kQnNPTTV4T1A2VnZfaHBRVnhSRVF5Rng2TEJIY0RMR0s3SW51R3cxUWxZNmpOUGNBaHNYakIxUGYtdHVrTUhiTkMtWkt5c1VrVVNBb2pCQUdpMEtUeXJYZjUxVkhUSEZsONIBrAFBVV95cUxNdmVNU2ZyZnhxUmQ5STU5VVNoUXBNSXNaUHU0NGlxLU80cnJQZkFrRWRXZEVrcy00U2JqdGtSUnhyRmI0RDdHZW9zWlBaVldGMmJhRzF5dzdodVp5SUhyNVl5U1l1c0hJWS0zTzduUWRRTW41WHBHNUdDalhPRDVnbE9oSkpHS1QtVEdyV21kcGpyQnhkQ093UjR3Qm5pbTAyOVVySUc1bHBkYW9k?oc=5",
+   "published": "Sun, 20 Sep 2026 08:49:00 GMT",
+   "summary": "US, China to discuss AI, trade, and rare earths ahead of Trump-Xi summit&nbsp;&nbsp;The News International",
+   "source": "Google News | China Trade/Tariff",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "PANAMA NEWS - CMA CGM",
+   "link": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNNWZZZGxxdnBIYV9qNEdGZFE1MnRZakhzR3Q1YXFVM2RfRDVfTHBxX2NZS291bmEyZnVzT3U5VzZoU1ZWcXpkeGdmV0lwZWppOERCUFZ1NjJldGxPYkRacm4ya094S0pXQjR4czRvdlRfaGY2WUVLRFR4M0VfM05ZYkNVZ2I3MHdjcHg2dDBtS3g1S3NHTTNzZWpPb0N3ZDE5aWZjNEcxbmtUdlhOVXVwSHl4UVowTkJiTWRMNDByaDhoZjdRbjJIck11WmNheTdSOXVFem5HZmpVLTNYcDlXLWptbzVLTmd3YUdTQTFOVGc1R2pLWGRQMU51cnI4eWt0NjNvdW1MWk9VaTV4amN0YkZCdDllU0pEZXIxcmg5TmVhbXlKOTE1WFNNSllVV014aHFWQm9MZWxvVUszeWNuVzJtUkp4eEFaNzRCQzl1UmpfSXgweDNSdDlLYjNCUkNKZ0tmMHcwU2tYdVVFbWNvbzJNMUlqWUtLcmc1NC1jNnllSWtIWHhsWGVvQnNMa0RMak9qaDVpVXNKVUVkM1FBQ2xaV3ZqZEdwYk1TZGoyTW5SNkNjU2g2RlhfVVYwUGNZcnhpT0tMaW55QWJNVFo5V09iY0lMMGlfTWhwaXpSMHNyVmthaG0tR0NmR012Yk1zaFE1OVJmakhKOHVSNkZLRUNjaEE5dU1VRHRPeGhtLWQxdWlUZ0doS3psY2N5aEhyckRPZW85TkZzRGpSVVZpS3I0UjQyYVdr?oc=5",
+   "published": "Sun, 20 Sep 2026 08:27:34 GMT",
+   "summary": "PANAMA NEWS&nbsp;&nbsp;CMA CGM",
+   "source": "CMA CGM | Shipping",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "China's trade surplus driven by structural factors, not subsidies or undervalued exchange rate, economists say - usa.chinadaily.com.cn",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPZC1pN0pJM0VVSHZXRFR0aGcxRE1mMWU2a1RrMmViRmNPTTRqT0NfMVJPOV9na2lselh6VEotemtuWFhlZUlUaDJ6RUZqSHJhZGhjb2ZBZVJobzhnaDJkRmVIRnVGNDhRS1JZX1I4QmVXdnN4ZkV3QnVpcnc?oc=5",
+   "published": "Sun, 20 Sep 2026 07:02:33 GMT",
+   "summary": "China's trade surplus driven by structural factors, not subsidies or undervalued exchange rate, economists say&nbsp;&nbsp;usa.chinadaily.com.cn",
+   "source": "Google News | China Going Global",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "Bangladesh Export Decline | Why exporters are losing their competitive edge - The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUxWN1J4Y2QtQTUzbTZ2MFR1VFFORFVQbEJ5aGxhcHpicHBlZEpETTBBUXdTY2xlcVpSaV9QOXB6Z0J3ZEFITG5UX2tIOXAtcTN2c05haHlWTG1ibkNDTGRiNHJBUng4SEx1N3NGT01mMTFScXF5ckNjbmtHT2NZTnRYQVFzQXpEZWJqUDYzQ1dhcEtWMHRqektMY2ZqdzBJUXVkRTVUTUN1dw?oc=5",
+   "published": "Sun, 20 Sep 2026 07:02:02 GMT",
+   "summary": "Bangladesh Export Decline | Why exporters are losing their competitive edge&nbsp;&nbsp;The Daily Star",
+   "source": "Google News | Vietnam Trade",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "How China's manufacturing upgrade can expand global demand - news.cgtn.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS25waG1mM1lHdmZVZURXSDY5cjJEUUJUekNNZ3ZMUlpBT0FRRVRHWUNhVjU1WWUyY0JRUmthN3A5dnpYQTNYc1RLOVFKTVlkNGtyZmtsTUFYX29saENwaGN3ZjIyaFpENWNRZGk1RlZqX0s5bmVlc2tpaHJPUlVSdmFwWFBfTENLSTF4cElUeElWZVNLOTY2TmJfdm1aNVhPRHE3SktZWWRKZTN0ZVU3eFJrZ1pPMk9ENlhhWWZlcmU?oc=5",
+   "published": "Sun, 20 Sep 2026 05:56:39 GMT",
+   "summary": "How China's manufacturing upgrade can expand global demand&nbsp;&nbsp;news.cgtn.com",
+   "source": "Google News | China Going Global",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "US, China Trade Teams Set to Huddle in New York on AI, Iran - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTUxdmFkX1BreWRBbXV5MlhmbkMtYVJxZmNhbHBFUUpHWG1ndFo3QWZrb0h6RzJFRHJoVl9TZUNMUkMwTE5rZnl0MzJaeVhrakNndFZHaGpLOTlick5GS2tBdEFYSGZLMlB6aUNuNXBUbjA5T2VIdVhpUDF2UFFrZmpFZnp6UGhSdnpwOVl5aVlQemJ3cGdfSTJkeVRfa2ZjemVUdWQ2a2Y0Tzh5?oc=5",
+   "published": "Sun, 20 Sep 2026 03:00:00 GMT",
+   "summary": "US, China Trade Teams Set to Huddle in New York on AI, Iran&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "priority": 0,
+   "relevance": "low"
+  },
+  {
+   "title": "AI growth with guardrails",
+   "link": "https://www.bangkokpost.com/business/general/3323354/ai-growth-with-guardrails",
+   "published": "Mon, 21 Sep 2026 04:53:00 +0700",
+   "summary": "The growing global debate about whether to slow artificial intelligence (AI) development to address its potential dangers should be a wake-up call for Thailand to step up its cyberdefence and human oversight as the country pursues AI-driven growth.",
+   "source": "Bangkok Post | Breaking",
+   "priority": 0,
+   "relevance": "low"
+  }
+ ]
 }
