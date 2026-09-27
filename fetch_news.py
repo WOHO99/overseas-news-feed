@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Overseas News Feed Fetcher v6
+Overseas News Feed Fetcher v6.1
 海外一手信源优先的新闻聚合管道，输出 news.json 供日报/商业分析取用。
 
+v6.1 修复（2026-09-27）：
+- 修复 v6 全部源失败问题：feedparser 版本差异导致 parse(timeout=) 不被支持，
+  改用 urllib.request 自管超时 + bytes 解析，兼容所有 feedparser 版本
 v6 重构（2026-09-26）：
-1. 修复 v5 事故：恢复完整执行逻辑（抓取→过滤→去重→打分→输出）
-2. 信源结构海外化：政府/国际组织/企业官方的原生 RSS 优先，
-   Google News site: 包装仅用于无原生 RSS 的官方源
+1. 恢复完整执行逻辑（抓取→过滤→去重→打分→输出）
+2. 信源结构海外化：政府/国际组织/企业官方的原生 RSS 优先
 3. 移除死源：Google News 不收录的政府站包装（site:gov 类）
 4. 去重：以仓库内旧 news.json 的 link 集合为 SeenIndex，天然增量
 5. 优先级：标题关键词打分（tariff/301/制裁等→高优先）
@@ -17,6 +19,7 @@ import json
 import re
 import sys
 import hashlib
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
@@ -249,6 +252,17 @@ def parse_date(s):
         return None
 
 
+def fetch_rss(url, timeout=20):
+    """用 urllib 下载 RSS（自管超时），返回 bytes 供 feedparser 解析。
+    兼容所有 feedparser 版本（部分版本不支持 parse(timeout=)）。"""
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": "Mozilla/5.0 (compatible; NewsFeed/1.0; +https://github.com/WOHO99)"},
+    )
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return resp.read()
+
+
 def score_article(title, summary, source):
     text = (title + " " + (summary or "")).lower()
     pri = 0
@@ -298,7 +312,8 @@ def main():
         for src in sources:
             url = src["url"]
             try:
-                feed = feedparser.parse(url, timeout=20)
+                data = fetch_rss(url, timeout=20)
+                feed = feedparser.parse(data)
                 if feed.bozo and not feed.entries:
                     raise ValueError(f"RSS 解析失败: {feed.bozo_exception}")
                 got = 0
