@@ -1,18 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Overseas News Feed Fetcher v6.1
+Overseas News Feed Fetcher v6.2
 海外一手信源优先的新闻聚合管道，输出 news.json 供日报/商业分析取用。
 
-v6.1 修复（2026-09-27）：
-- 修复 v6 全部源失败问题：feedparser 版本差异导致 parse(timeout=) 不被支持，
-  改用 urllib.request 自管超时 + bytes 解析，兼容所有 feedparser 版本
-v6 重构（2026-09-26）：
-1. 恢复完整执行逻辑（抓取→过滤→去重→打分→输出）
-2. 信源结构海外化：政府/国际组织/企业官方的原生 RSS 优先
-3. 移除死源：Google News 不收录的政府站包装（site:gov 类）
-4. 去重：以仓库内旧 news.json 的 link 集合为 SeenIndex，天然增量
-5. 优先级：标题关键词打分（tariff/301/制裁等→高优先）
+v6.2 修复（2026-09-27）：
+1. 贸易相关性过滤：只保留标题含贸易关键词的文章（Federal Register 噪音过滤）
+2. 未来日期拒绝：发布时间晚于当前时间+24h 的文章丢弃（联邦公报的时区/预发布问题）
+3. 清理失效源：USITC/EU DG Trade/World Bank/Straits Times/Vietnam Plus 原生RSS
+   404 或解析失败 → 改为 Google News site: 包装
+4. IMF/OECD/IEA 403 反爬 → 移除原生RSS，改 Google News site: 包装
+5. Google News 查询合并减少（降 503 限流概率）
+6. 来源分级 base 分提升官方权重
 """
 import feedparser
 import json
@@ -43,43 +42,33 @@ FEEDS = {
             "tag": "Federal Register | BIS",
             "base": 3,
         },
-        {
-            "url": "https://www.usitc.gov/rss.xml",
-            "tag": "USITC | Trade",
-            "base": 3,
-        },
     ],
     "欧盟官方": [
         {
-            "url": "https://policy.trade.ec.europa.eu/news/rss",
-            "tag": "EU DG Trade | News",
+            "url": "https://news.google.com/rss/search?q=site:policy.trade.ec.europa.eu+OR+site:ec.europa.eu+trade+safeguard+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "EU DG Trade",
             "base": 3,
         },
     ],
     "国际组织": [
         {
-            "url": "https://www.wto.org/english/news_e/rss_e.xml",
-            "tag": "WTO | News",
+            "url": "https://news.google.com/rss/search?q=site:wto.org+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "WTO",
             "base": 3,
         },
         {
-            "url": "https://www.imf.org/en/News/RSS",
-            "tag": "IMF | News",
+            "url": "https://news.google.com/rss/search?q=site:imf.org+trade+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "IMF",
             "base": 2,
         },
         {
-            "url": "https://www.worldbank.org/en/news/rss",
-            "tag": "World Bank | News",
+            "url": "https://news.google.com/rss/search?q=site:worldbank.org+trade+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "World Bank",
             "base": 2,
         },
         {
-            "url": "https://www.oecd.org/general/rss.xml",
-            "tag": "OECD | News",
-            "base": 2,
-        },
-        {
-            "url": "https://www.iea.org/rss",
-            "tag": "IEA | Energy",
+            "url": "https://news.google.com/rss/search?q=site:oecd.org+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "OECD",
             "base": 2,
         },
     ],
@@ -90,26 +79,19 @@ FEEDS = {
             "base": 2,
         },
         {
-            "url": "https://www.straitstimes.com/rss/breaking-news",
-            "tag": "Straits Times | Breaking",
-            "base": 1,
-        },
-        {
             "url": "https://www.bangkokpost.com/rss/data/breakingnews.xml",
             "tag": "Bangkok Post | Breaking",
             "base": 1,
         },
         {
-            "url": "https://en.vietnamplus.vn/rss/home.rss",
-            "tag": "Vietnam Plus | News",
+            "url": "https://news.google.com/rss/search?q=site:straitstimes.com+trade+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Straits Times",
             "base": 1,
         },
-    ],
-    "Google News 精选": [
         {
-            "url": "https://news.google.com/rss/search?q=China+trade+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
-            "tag": "Google News | China Trade/Tariff",
-            "base": 2,
+            "url": "https://news.google.com/rss/search?q=site:vietnamplus.vn+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Vietnam Plus",
+            "base": 1,
         },
         {
             "url": "https://news.google.com/rss/search?q=site:reuters.com+trade+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
@@ -127,19 +109,14 @@ FEEDS = {
             "base": 2,
         },
         {
-            "url": "https://news.google.com/rss/search?q=USTR+301+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
-            "tag": "Google News | USTR 301",
+            "url": "https://news.google.com/rss/search?q=China+trade+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Google News | China Trade",
             "base": 2,
         },
         {
-            "url": "https://news.google.com/rss/search?q=EU+trade+safeguard+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
-            "tag": "Google News | EU Trade",
+            "url": "https://news.google.com/rss/search?q=US+trade+tariff+sanction+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Google News | US Trade",
             "base": 2,
-        },
-        {
-            "url": "https://news.google.com/rss/search?q=Southeast+Asia+tariff+export+when:3d&hl=en-US&gl=US&ceid=US:en",
-            "tag": "Google News | SE Asia Trade",
-            "base": 1,
         },
     ],
     "企业官方": [
@@ -206,21 +183,35 @@ FEEDS = {
             "base": 2,
         },
         {
-            "url": "https://www.dfat.gov.au/news/media-releases/rss",
+            "url": "https://news.google.com/rss/search?q=site:dfat.gov.au+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
             "tag": "Australia DFAT | Trade",
             "base": 2,
         },
         {
-            "url": "https://news.google.com/rss/search?q=site:dfat.gov.au+trade+when:3d&hl=en-US&gl=US&ceid=US:en",
-            "tag": "Australia DFAT | Google",
-            "base": 2,
+            "url": "https://news.google.com/rss/search?q=Southeast+Asia+tariff+export+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Google News | SE Asia",
+            "base": 1,
+        },
+        {
+            "url": "https://news.google.com/rss/search?q=Indonesia+Vietnam+Thailand+export+tariff+when:3d&hl=en-US&gl=US&ceid=US:en",
+            "tag": "Google News | ASEAN Trade",
+            "base": 1,
         },
     ],
 }
 
 # ============================================================
-# 优先级打分关键词
+# 贸易相关性关键词（用于过滤 Federal Register 等官方源的噪音）
 # ============================================================
+TRADE_KW = [
+    "tariff", "trade", "import", "export", "duty", "dumping", "antidumping",
+    "anti-dumping", "countervailing", "subsidy", "china", "301", "232",
+    "safeguard", "steel", "aluminum", "ev", "electric vehicle", "semiconductor",
+    "chip", "battery", "customs", "free trade", "fta", "solar", "rare earth",
+    "section 301", "quota", "embargo", "sanction", "supply chain",
+]
+
+# 优先级打分关键词
 HIGH_KW = [
     "tariff", "301", "232", "sanction", "embargo", "export control",
     "safeguard", "antidumping", "anti-dumping", "countervailing",
@@ -253,14 +244,18 @@ def parse_date(s):
 
 
 def fetch_rss(url, timeout=20):
-    """用 urllib 下载 RSS（自管超时），返回 bytes 供 feedparser 解析。
-    兼容所有 feedparser 版本（部分版本不支持 parse(timeout=)）。"""
     req = urllib.request.Request(
         url,
         headers={"User-Agent": "Mozilla/5.0 (compatible; NewsFeed/1.0; +https://github.com/WOHO99)"},
     )
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read()
+
+
+def is_trade_relevant(title):
+    """官方源噪音过滤：标题需含贸易相关词才保留"""
+    t = title.lower()
+    return any(k in t for k in TRADE_KW)
 
 
 def score_article(title, summary, source):
@@ -272,7 +267,6 @@ def score_article(title, summary, source):
     for kw in MED_KW:
         if kw in text and pri < 1:
             pri = 1
-    # 来源基础分
     base = source.get("base", 0)
     pri = max(pri, base)
     return pri
@@ -287,7 +281,6 @@ def categorize(title, summary):
 
 
 def main():
-    # 1. 读取旧 news.json 作为 SeenIndex
     seen = set()
     old_articles = []
     try:
@@ -302,11 +295,11 @@ def main():
 
     now = datetime.now(timezone.utc)
     cut = now - timedelta(hours=72)
+    future_limit = now + timedelta(hours=24)
     articles = []
     fail_counts = {}
     stats = {}
 
-    # 2. 抓取所有源
     for module, sources in FEEDS.items():
         stats[module] = 0
         for src in sources:
@@ -322,15 +315,20 @@ def main():
                     link = entry.get("link", "").strip()
                     if not title or not link:
                         continue
+                    # 官方源噪音过滤
+                    if src.get("filter", True) and not is_trade_relevant(title):
+                        continue
                     pub = parse_date(entry.get("published", "") or entry.get("updated", ""))
                     if pub is None or pub < cut:
+                        continue
+                    # 未来日期拒绝（时区/预发布问题）
+                    if pub > future_limit:
                         continue
                     # 去重
                     link_hash = hashlib.md5((src["tag"] + "|" + title).encode()).hexdigest()
                     if link in seen or link_hash in seen:
                         continue
                     summary = entry.get("summary", "") or ""
-                    # 清理摘要 HTML
                     summary = re.sub(r"<[^>]+>", "", summary)[:500]
                     pri = score_article(title, summary, src)
                     art = {
@@ -354,7 +352,6 @@ def main():
                 fail_counts[src["tag"]] = 1
                 print(f"[fail] {src['tag']}: {e}")
 
-    # 3. 合并旧文章（保留7天内），排序
     keep_old = []
     for a in old_articles:
         pd = parse_date(a.get("published", ""))
@@ -362,7 +359,6 @@ def main():
             keep_old.append(a)
     all_articles = keep_old + articles
 
-    # 去重（按 source+title）
     dedup = {}
     for a in all_articles:
         key = a["source"] + "|" + a["title"]
@@ -374,7 +370,6 @@ def main():
     high = sum(1 for a in all_articles if a.get("priority", 0) >= 2)
     total = len(all_articles)
 
-    # 4. 写入 news.json
     out = {
         "updated": now.strftime("%Y-%m-%dT%H:%M:%S.%f+00:00"),
         "total": total,
