@@ -352,11 +352,17 @@ def main():
                 fail_counts[src["tag"]] = 1
                 print(f"[fail] {src['tag']}: {e}")
 
+    # 3. 合并旧文章（保留7天内），同样做贸易过滤+未来日期拒绝
     keep_old = []
     for a in old_articles:
         pd = parse_date(a.get("published", ""))
-        if pd and pd >= now - timedelta(days=7):
-            keep_old.append(a)
+        if pd is None or pd < now - timedelta(days=7):
+            continue
+        if pd > future_limit:
+            continue
+        if not is_trade_relevant(a.get("title", "")):
+            continue
+        keep_old.append(a)
     all_articles = keep_old + articles
 
     dedup = {}
