@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-27T01:57:26.618648+00:00",
- "total": 397,
- "high_priority": 323,
+ "updated": "2026-09-27T02:49:47.537977+00:00",
+ "total": 412,
+ "high_priority": 331,
  "stats_by_category": {
-  "美国官方": 0,
+  "美国官方": 1,
   "欧盟官方": 0,
-  "国际组织": 0,
-  "海外媒体": 3,
-  "企业官方": 0,
+  "国际组织": 2,
+  "海外媒体": 8,
+  "企业官方": 4,
   "亚太官方": 0
  },
  "fail_counts": {
@@ -466,6 +466,16 @@
    "priority": 3
   },
   {
+   "title": "Submission for OMB Review; Comment Request",
+   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19629/submission-for-omb-review-comment-request",
+   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
+   "summary": "",
+   "source": "Federal Register | USTR",
+   "module": "美国官方",
+   "category": "其他",
+   "priority": 3
+  },
+  {
    "title": "Documents - World Trade Organization",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeFlQeGdUdngtT3VoMGtvMVRxM0tFdHZwWUJvcEk5eTA1WlVuT3hCN3dWbmI1X1VnTk9vcHBQYzF6eHA4dndBMmNtSGxTZDN4QXJhSGJPT1RTQ2lHTE03VF9mcXFkd3VrcnN0M2x1LVpQUVF1SEJCaThmZkktUmxPMmRmWmM5SDc1OU9PdHM3Mkc2OUNoN1dETGhJTGpuT05hZi1ublBQcWdHQVRSQVh5d0xYdERjNndFSmNXUWF2TG14WGNSYWl4YXpSOENBc2ZtT0F6YVZ4T2RfbF9QeWV3czduZERKUnFkM0ZXZnA3SGpxZkJRYUUteTZYWTY?oc=5",
    "published": "Fri, 25 Sep 2026 01:22:05 GMT",
@@ -786,6 +796,16 @@
    "priority": 2
   },
   {
+   "title": "Watch Global Bond Selloff Deepens; US, China Extend Trade Truce; Trump-Xi Summit - bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRVo1Q2tqQW53bXJoaVhDU1AtOUNEMl8wOGJjSmhvZlpEWUFOdW5ZTzYwQ1NuTlhoODZUUDQ5OEpPVmtXcmVvUTBsQVcwQTFCMldSZllyMWZydlN6eENIYWdWbDNOekk1RW56aDhKYkdiQmlHMTRPSkZmUDdnTXUyYmhuQUVVSFIy?oc=5",
+   "published": "Thu, 24 Sep 2026 12:52:49 GMT",
+   "summary": "Watch Global Bond Selloff Deepens; US, China Extend Trade Truce; Trump-Xi Summit&nbsp;&nbsp;bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "US, Japanese officials discussed China's yttrium curbs ahead of Trump-Xi meeting, document shows - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1hVbnl6bFJES19xdzFIaFgxQ1ZkTnY5dFlxaDVKUUpFNWNVczRUa0hZZEItbk9TOTU4aEZQNDhIeVJvMTZOZzhMbFRvSlpMNV91Y1FEVEJKbmV4WElzb2U5V3ZNcERzQ3dmbXEtUXkxMGlneWRkNExobmplTU9RRUQwUWxNT19PODY4LTN2WkdxUDFGbE1WeV91SXFGUEhuT1U3VnloX1RfTjVTY0V5emdFNkFlWUFGZy1qSFBQalg?oc=5",
    "published": "Thu, 24 Sep 2026 12:30:33 GMT",
@@ -893,6 +913,16 @@
    "source": "Google News | SE Asia",
    "module": "亚太官方",
    "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "Opinion: The U.S.-Canada trade war is really about what alignment means – and about China, too - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HblBTdDk1bGJiZjE2Ty1jWlhTS0FRdEtkUldkdU9GSDIwOHVsYTJqcHlMUjlPcllDVHVFOEo4M2dxZWF5c0FuS29KRXhwTGVsYjFwc093YVRVc21ydUktVzkxT1NPcHhDUTRicUQtSkM3N0Voam5uRDQ2NzcxNEE?oc=5",
+   "published": "Thu, 24 Sep 2026 10:00:00 GMT",
+   "summary": "Opinion: The U.S.-Canada trade war is really about what alignment means – and about China, too&nbsp;&nbsp;The Globe and Mail",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
    "priority": 2
   },
   {
@@ -1356,12 +1386,32 @@
    "priority": 2
   },
   {
+   "title": "Indonesia eyes China for massive 2,772km railway project – with caution",
+   "link": "https://www.scmp.com/economy/global-economy/article/3368818/indonesia-eyes-china-massive-2772km-railway-project-caution?utm_source=rss_feed",
+   "published": "Sun, 27 Sep 2026 02:00:07 GMT",
+   "summary": "Indonesia is considering Chinese investment to help build a massive 2,772km (1,722 mile) railway network through the vast, resource-rich region of Kalimantan, following the completion of Southeast Asia’s first high-speed line between Jakarta and Bandung, state media and analysts said.\nHowever, analysts noted that any future commercial agreements were likely to be negotiated cautiously, given the financial strains that dogged the high-speed line and the challenges that stalled a proposed...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "China, US agree to AI dialogue, tariff cuts on US$30 billion in goods during Xi visit - The Business Times",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmJ6UFdpeUlSSGJoQjVPaDYzWUY0UE54YTNYd19VTUdyeXF5N0VjQ2JfcXdTQ0k0aWF4WDJ2cW9jU0FIUHVvRk4zd3JmUE16NEduVDc5dXVrZl9UY05SdDJRcFl0WHc4aVMtRnR2V1drUENLdEdIX094OU12MXlDcElZc0ZsUF9sRXBscV9BbXVuNGpMbTk3UTFfSG0xZW84SG0zRjQtbVBaMF9RN0otd1Z4TWpNX1dRLTBOSXRqY1puVi0zMkE?oc=5",
    "published": "Sun, 27 Sep 2026 01:17:00 GMT",
    "summary": "China, US agree to AI dialogue, tariff cuts on US$30 billion in goods during Xi visit&nbsp;&nbsp;The Business Times",
    "source": "Google News | SE Asia",
    "module": "亚太官方",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "US, China agree to $30 billion tariff cuts, launch AI dialogue after Xi-Trump meet - financialexpress.com",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSjZ1M1NBc2JFSDY2TTdmUy1oTDQxcnFubTVLSmJEYVl0R21jRzV4aVlmREVwZzhaWjB6Z1hHTlBfTW1mZ0hUZFB1ZUdqc2VHRmVLQ3JQY2tHYjhmRzlRblpnOGNiTF92cUloSjMxMjB6aFAxYk1vT0pFODRLZVJ5dVVVVW96Rkh4ZjJOaG1ObkpUODNWTGkyTGpnb085Q3F0RTh0aVBqVDYyN0tTUThIZXphWUJRajJNb3AxZkVzM1BITC1BSnVkNV95TG3SAdMBQVVfeXFMTXMzdVV1ODBhYkVGM3FxRmJJTzlySjJHd19RdmVEc1FQdlROMHBjcm8xbldacFN4RlpkQ2hmMFhuUWV1OUlkaTByaC02NWpCaFRKeFVSeTJVUFhSdXBfQ2pEYWc5LVAyZnVhTENBMGpPbWRzSTBSTzJMaXUwUHMyeDlNZ1EtXzdGYzN5YmNOZUxGSFVkMnFTblhQdmR2NGs5bmlIMFRLTDQxcjhWbFVpQk4tMTU0WFplTzQza2F1a2JFLUhHZlExSjdtRDVNT3JGNnBaYw?oc=5",
+   "published": "Sun, 27 Sep 2026 01:00:40 GMT",
+   "summary": "US, China agree to $30 billion tariff cuts, launch AI dialogue after Xi-Trump meet&nbsp;&nbsp;financialexpress.com",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
   },
@@ -1705,6 +1755,16 @@
    "priority": 2
   },
   {
+   "title": "Malawi Chemical contraceptive preparations based on ho imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHVHOEhoblRyazhBQ0tUcUQ2XzNEWnlDNElneWFzTWdTN2c3YTNWdXlVS0t1bktjcmJnM011QkdsNlExdURkZUtIOEp4SVJkbVFITG1waGF4SE9FV0s0YzV5VU9BQ01TMk55eVd6TDREMDh5eXg2LURESE84NDhLSXFmNlR2OUd3MzRVM21aMFpCRkFhRkJoNWJoNHp4eVE5WUotc0gzeXl6N29MQkhaeQ?oc=5",
+   "published": "Sat, 26 Sep 2026 14:22:30 GMT",
+   "summary": "Malawi Chemical contraceptive preparations based on ho imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "China-US Trade Deal: US-China Trade Deal: $30 Billion In Goods Get Tariff Relief; New AI Dialogue Agreed - Goodreturns",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNkQzMDNoQl9kTDRncGRpTml0aGRSM3o1ZWNMampKZzFzS3FOWVFLODZsUGVjRTFVckRvZXdpc1BXRkV5dkpVdDZnaHlneGFhWW9PUlltR09naFF6R0tENGVmZDhqM0o0ak1oWVBjRXhQdUJ0cmtmQVlEZUdBcWFiWEJLZFlGbGxqUEdqeDkzVlZUY1dXZklndlZYREl5ME40QWhfdEtDNllVY25ZMFhuUlhQd2hvSlBSTVF5T2VZcmd1MEE0eUpzc2pQY29WQXpqUmlwZjgxRjc?oc=5",
    "published": "Sat, 26 Sep 2026 14:18:37 GMT",
@@ -1809,6 +1869,16 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOHE4UE5SRm9rLTZ0VHdrbmNxMG04dThfTlJ4Zm9uLUJEY1kzbmNHT214aXBwOFc3Q3M0Y3BtNm9lay1tWGtpZXV2Z0E1RjhNX1BpUm1mNDAzbnlIY1kzbFd3eFhlZjZHR192VklTQndDYk1OQTF5ckoyQUVyM0ZtWkl6MVpGQ01FLVFRMzhqeVFHRzNhSTNDVldCVHFycU9HUEx6X2lOMllMSjZ0eEh4NFpVS0ZBd3ktbVZqaQ?oc=5",
    "published": "Sat, 26 Sep 2026 12:54:58 GMT",
    "summary": "Zambia Ultrasound machines (901812) exports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "Malawi Table,kitchen or oth household art&parts thereo imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNFctWWYyc0xVSGg0YnZoSVdNZ2tMUk1hWGZZWGFuUGE4ampKQV9CYVd2d1E3MWdHclhPb2c2bXJuTFVSdkJ4alhlb0w2QlBuajBpYi0wSm1XR3FjLTJkazBfTWtVRVNNckJhcDc2QTJKWmIwNUQ5WlRrT2ZRcVo0bWhZbWpBSDhvNWE0OF9vR2V6Sk1Da0NYc19xMlJVcDV1b0d4WllrQVM4M1NObkNBag?oc=5",
+   "published": "Sat, 26 Sep 2026 12:49:56 GMT",
+   "summary": "Malawi Table,kitchen or oth household art&amp;parts thereo imports by country&nbsp;&nbsp;World Bank Group",
    "source": "World Bank",
    "module": "国际组织",
    "category": "航运物流",
@@ -3025,6 +3095,16 @@
    "priority": 2
   },
   {
+   "title": "US Trade With Cuba: Container Shipping Surges Despite Trump Sanctions - bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0pyV3U5YnhLZm14SkpyV3RFWldCblFrcTFsNTFGbTBUN18yb0p6N0hUNktXUVlfVEJMYkFIR253eXdQM2cxRGV3RERHVWVlSE1ETm9zRF9HNUp0R3VkZGFDZ2pTbVZLUVJkV0RBZFVTaXNOeko3bk1CRFIyUXNiY3lxS25tY0U?oc=5",
+   "published": "Fri, 25 Sep 2026 09:00:00 GMT",
+   "summary": "US Trade With Cuba: Container Shipping Surges Despite Trump Sanctions&nbsp;&nbsp;bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Mountings, fittings and similar articles of bas exports to Liberia |2024 - World Bank Group",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGlEMFA2UjNwUjRha0pITDVZaDliaDg1Ynd6MTdYY3VwcUt5YTB4WnpSQllnZUNoYnVCOFNXYzFJR2V5LU1RX0c0VWRmYTE0UktVeHMxdlRjNUVtTWhpOF9IZHlISTFHTENONDJucDV4LW5oT2tfZy1sUjJQTHlkeVQ2eUR2VVRGV3VQRVBNVjJFQXlNRDFYaXp1eHhKQXlIMzlIbGFwT0g1aEhXTVRvcw?oc=5",
    "published": "Fri, 25 Sep 2026 08:57:41 GMT",
@@ -3345,6 +3425,16 @@
    "priority": 1
   },
   {
+   "title": "Trump, Xi kick off state visit amid tensions over AI, trade - straitstimes.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMndXaDVRcGFFUzJaZHpzLXB1UUdON1EydTgyWm80ZEZ2NGZJV2hBTVZWMVJXTmlXVkI4eDQ3U19oZ1FmbmxXMThwRGRyM0Q0WXVQcFJRZm1NUDhDR29UOVlRN2NpX1RxZ19KUU0yNnUtVmhfM0luSEJvMi15SHgtUlVnT0ZvQ2xJc001OU1ERER6RXRGTkdSLWpNUXh6UG5SRm5HTFFiZkNTYkV0dXZLQVZTbzZNWkZZ?oc=5",
+   "published": "Thu, 24 Sep 2026 15:12:00 GMT",
+   "summary": "Trump, Xi kick off state visit amid tensions over AI, trade&nbsp;&nbsp;straitstimes.com",
+   "source": "Straits Times",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
    "title": "EU Customs Reform Explained: What Businesses Need to Know - DHL",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMG1GaDJJNUZKUlZzcHZwS1ZFWEVrUE02Y21PMklIWThyWno3UHVuYWRJWTRzU2p4T3oxWTdSQ05yMlpVZFNoZS1WVXp5b1dJVlBIb0JfeXNCNF9UZ3o4WFRCbWtTcFY2TEt2Ni02ZGw4bFl2RnpoX2FiOTJGM3FVRVF4YXdMa1pWQ2NFZ3MwZ2IzV2FtOWRwMmJOVmgxbUotc0FpSTlyWDEzYVJuV2gxcmE4NWNCblpCOFNEaTBkN3dUNlpEcnNj?oc=5",
    "published": "Thu, 24 Sep 2026 12:57:34 GMT",
@@ -3452,6 +3542,16 @@
    "source": "FedEx | Logistics",
    "module": "企业官方",
    "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Several die after gas-linked explosion collapses a building in Athens",
+   "link": "https://www.bangkokpost.com/video/world/3326968/several-die-after-gaslinked-explosion-collapses-a-building-in-athens",
+   "published": "Sun, 27 Sep 2026 09:15:00 GMT",
+   "summary": "Six people have died, the Greek fire brigade said on Saturday (September 26), after a two-storey residential building in a tourist area of central Athens collapsed following an explosion which the capital's mayor said was likely linked to gas infrastructure. - REUTERS",
+   "source": "Bangkok Post | Breaking",
+   "module": "海外媒体",
+   "category": "其他",
    "priority": 1
   },
   {
@@ -3596,6 +3696,46 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFlwZWxFU3dHS1p4Y1B6dkpYeUk0b0tFVjBZOF9FMEdqc2hrUGwzTXk2NjVNY2MydG9Tc2doSlZxOHE4c2psRHV0bFI3SE9IM3BDeEJoWE54eFo5QTVlaW1vZGkyc2d5Znp5dTNUaFNzOUxLNHBOTGMzbWlfZ0plVTZTTDVFanZjc0JEaThGVW81RG5XYXdrYW5RR21PeWs0YmlIZUZSY05DZ3Mxb3J6ZE5OX1ZLNFp0YWllMnFvb2ZDWlRvNHFaUWxZU2U?oc=5",
    "published": "Sat, 26 Sep 2026 00:17:56 GMT",
    "summary": "FRONT Brake Caliper piston and seal kit FORD F250, F350 Super Duty 2005-2010&nbsp;&nbsp;eBay",
+   "source": "eBay | Seller",
+   "module": "企业官方",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "eBay rejected to refund an item never received - eBay Community",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0hGSldIMVdzemZkbXpFUXhEOURMZTMtbHpJd1RGSVBmWkxBTFBLS0pIMEhHSjVoMEMzaHdUOHF5T3ZZbjFqaDJ0YU5KendYQzh5Z2Q5YTRkNzdDRkVpeXh6TXhNY2hFWHZrUTZTdE5KQjdQTlRibzlDTjNxSjNKd3lfY1BZZ3A0ZFRMN3RRMXFvQ2dhT09xemZ1Sm95LWFJU2p5NXhKNGRlS3VTYVl3TUl3?oc=5",
+   "published": "Sat, 26 Sep 2026 00:15:38 GMT",
+   "summary": "eBay rejected to refund an item never received&nbsp;&nbsp;eBay Community",
+   "source": "eBay | Seller",
+   "module": "企业官方",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "NEVER HAD THIS HAPPEN BEFORE - eBay Community",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUVQSnl0aWZIM1U2VlhnbC1kRmhWTklWZjVObnk4ZkpmSlc4LUhtemNBSk95ZFpUdVlORHN6TF9mcE1wc1FzUnY2elJoTUhpZ0FfVS1zUlVqQXFCaVJJQVR1S0M1WTExd3FHb2JBaFRiOXplUUREcmNTdkVzUzY5QlM1dW1QTkdsNGRxNVBEV2xOT3ZNenRtMllB?oc=5",
+   "published": "Sat, 26 Sep 2026 00:15:38 GMT",
+   "summary": "NEVER HAD THIS HAPPEN BEFORE&nbsp;&nbsp;eBay Community",
+   "source": "eBay | Seller",
+   "module": "企业官方",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Package Never Received - eBay Community",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFF6XzB3RkF6TDE1VEpCZmRGd3JzclZ6M2VHOVpxeDhvbVMyT1BLZEZSa3ZSWlNld3A0SFBxQWItU2RqZmNpdXZMcmFBVTZFQW1TV3kwbDZuVmVock84ZkFNejlLeXdIWjgtR2xwcE1xcHAyM1RHSWJMVVQ5OVdXcVhRbldjcHlZZlpjYVJTWlhtdV9HRUhVYUc2NGdBVDI2enFacmowT3c3VkU?oc=5",
+   "published": "Fri, 25 Sep 2026 21:16:56 GMT",
+   "summary": "Package Never Received&nbsp;&nbsp;eBay Community",
+   "source": "eBay | Seller",
+   "module": "企业官方",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Developer account activated, but verification email never arrives - eBay Community",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZHZmSVFSSE9ndkh0bUllcHAwbWZxbzRHSkF0Qk5pZmhIZFE5dTgtR0JWemhxZ2kwQmRUUG1jUkszbS1jRE5LQUI2QUV2NlN6YUpZQzZ0eGcxUXZuWTdxMjlxd0VnSklxbGlNUHFlbkpfejh4UjVhWjZyVzJGN3R5VlczVnl4b2pGZ3hySHczLUo5YkRoZ1ByUm5fZmlHdjNsVUE0dzAySGhFR0U1U1RkcUxObkoxWTgyYlFRai1wbk5pRFBTRFN6bDhMZDFBMnRvNUprSmZxNzk?oc=5",
+   "published": "Fri, 25 Sep 2026 20:42:04 GMT",
+   "summary": "Developer account activated, but verification email never arrives&nbsp;&nbsp;eBay Community",
    "source": "eBay | Seller",
    "module": "企业官方",
    "category": "其他",
@@ -3766,6 +3906,16 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTRRaVVxa2ZaTXNjdHpoaUFaY2xLQk9Ka19TQm1BaGZwU1JTVS00YV8yYkhRakgxUUJJamktUmROaEsyVlFpVFhrV1RNUmxicVV0MFAtQ25qdHpmUFo0d0dvSHd4emluRTE1TTAxSTBrUllZTkRBTjVVT204ak1GYWNOdXA3MDR2RnBvak5Kbkh5MjBvc0c4cm5Xc3pzRGFRZUN3THFkVjRwRGRLb3lGbng1VldpdTlPTFZGY00zSjZNOWp2MDRBS2xrX0U0Zw?oc=5",
    "published": "Fri, 25 Sep 2026 06:15:00 GMT",
    "summary": "Singapore chip industry gets ‘SG Semiconductor’ as a national brand identity&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 1
+  },
+  {
+   "title": "Singapore chip industry gets ‘SG Semiconductor’ as a national brand identity - straitstimes.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONTk0X0MzVkhLaVNJdzVMV2xmbjdpXzJsWV9PLTg4ZDlBRmhsOVVOd0lZb09MbV9jQU9SdUlhbUsyOG8xaUFVNXRYUHFKU2RTUjdCMDB1NnR4UjlrZ0ZBMlcySzZlTnVPSEItb1JyRVpSR01HZWEyazQzRU5SRzl5V1pCeVhHQkdJZW85MnoxN0hTdmRMa3BUMjA5cFU1N1hjbE44SHlUSXlRNVE5akkxNHlB?oc=5",
+   "published": "Fri, 25 Sep 2026 06:15:00 GMT",
+   "summary": "Singapore chip industry gets ‘SG Semiconductor’ as a national brand identity&nbsp;&nbsp;straitstimes.com",
    "source": "Straits Times",
    "module": "海外媒体",
    "category": "美国关税",
