@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-27T22:43:02.788961+00:00",
- "total": 514,
- "high_priority": 446,
+ "updated": "2026-09-28T02:50:18.060084+00:00",
+ "total": 545,
+ "high_priority": 471,
  "stats_by_category": {
   "美国官方": 0,
-  "欧盟官方": 0,
-  "国际组织": 8,
-  "海外媒体": 13,
-  "企业官方": 3,
+  "欧盟官方": 1,
+  "国际组织": 9,
+  "海外媒体": 18,
+  "企业官方": 2,
   "亚太官方": 1
  },
  "fail_counts": {
@@ -400,6 +400,16 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Tc0hfaXBVb05TNEJsX0c0aVJNVHpNajE5LUpmVjlBLTZLd1F5YzhfSVlPSENFQkRiNU1ieEpuOEstMjlCWU1nV2h4ZUZOd0tJUmFtUA?oc=5",
    "published": "Fri, 25 Sep 2026 12:00:00 GMT",
    "summary": "EU Trade - The EU's single voice in International Trade and Economic Security&nbsp;&nbsp;policy.trade.ec.europa.eu",
+   "source": "EU DG Trade",
+   "module": "欧盟官方",
+   "category": "欧盟贸易",
+   "priority": 3
+  },
+  {
+   "title": "Protecting EU steelmaking - policy.trade.ec.europa.eu",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2tvR2NiWU9VMWtCcUR6dXVqYzdFeFN6azkyQjEzRHVnd3luYVdMb044OURQUmVDTllQTzRMZWJURVJUUWE4Ui1xNlBsLTRrYk1SUWxob1EzQWh5bmE4RzhkN19PQjliOHRiRGhTSHdsUmpjcnhrbWJuS2pMT1VlQlRaa0Z6RHRvWXp6UWNYZnExRE0?oc=5",
+   "published": "Fri, 25 Sep 2026 12:00:00 GMT",
+   "summary": "Protecting EU steelmaking&nbsp;&nbsp;policy.trade.ec.europa.eu",
    "source": "EU DG Trade",
    "module": "欧盟官方",
    "category": "欧盟贸易",
@@ -1726,6 +1736,16 @@
    "priority": 2
   },
   {
+   "title": "Malawi Cases and containers, nes, with outer surface o imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW5JOEJhZG9zcUZ0dG85QXhXWmVKTzY1dS12cEF0SGZ3SXRNUjZHamZpVUQ2X0hKb1ctc0hMeXhtTTFZZjZhU2lNaENiZjhDRGNJTk1nOWl0Qzk4QnlmR2ZsRjM1RkE3OG9LVkhaX2JxVTVHMHFsZ3BxYzM1UjJsY20yZFNlWFhxaXNNSnM0d2swVVNkV0JPSTZtbk05c0x4Y2x4VjItbXFsQ0Y1c001bA?oc=5",
+   "published": "Sun, 27 Sep 2026 21:24:20 GMT",
+   "summary": "Malawi Cases and containers, nes, with outer surface o imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "Scott Kennedy on the Xi-Trump summit and US-China instability",
    "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3368961/scott-kennedy-xi-trump-summit-and-us-china-instability?utm_source=rss_feed",
    "published": "Sun, 27 Sep 2026 21:00:13 GMT",
@@ -1796,6 +1816,16 @@
    "priority": 2
   },
   {
+   "title": "Malawi Cans, iron or steel, capacity - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0xlSHRudldjcVRPRS1wMkJJOGNPZTlGOXNxUHVlR05QZGFLMHNoRm9NRXZWTUpLUUYyTFVSdEhSdG1VbDFDeGkxWWlXTUl3ODZkaVpsRm5heXFtNVdjSFBrRFVFODh2cUxGcjNJWDVBZTZTZzZ6ZFh1bWlLZks3YkRhUEJhM1ZsY3ZIRVZXeXVWYUNIR09aOU45YTk1SHdvdWJmWU1BeldYTWd5QjM2OA?oc=5",
+   "published": "Sun, 27 Sep 2026 14:54:44 GMT",
+   "summary": "Malawi Cans, iron or steel, capacity&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "其他",
+   "priority": 2
+  },
+  {
    "title": "White House Unveils U.S.-China Trade Deal Covering $30 Billion in Goods Each Way - Hokanews",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRS1KZGFKd3F2TXppbmtXc1h4Ym0wWV9FQTZoM3BOQ1hfN2JLajV4b0RWclNtMTl5MmxNbWEwR0dxVWprZlVaTlJuMC1mNC1FVFNKbk5aTFU5aEZENG9RRUxRTlAycTRWTGJOd2R1bWVIOXNXOUFyWGpieHJTMGFZYVp3Zw?oc=5",
    "published": "Sun, 27 Sep 2026 14:45:00 GMT",
@@ -1803,6 +1833,16 @@
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Malawi Plastic hazardous waste disposal bags (392329) imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDdXVTRPbTRIbVpkUXM0N0czNWMyb29zUm9jODZRNGpXUG5EZnY5ajdQMzZjR0trLVY4ZmUzSkY1d2NyVnBwX0pZWHhpR1ZXMEU3LWhnVmN3WFZ5M0Q2eGhlei04MEtlSVhyQ3RPenZsNmNqOHJjMmYyeTJ2NTN3TEg5NjJVTHl5cEM5WE5oN1pEeE1xQlEzcXR3c3VyUk1PM2NzclFKNks4THEybUlBNWlrcEc3MXUyNjNpRQ?oc=5",
+   "published": "Sun, 27 Sep 2026 14:29:12 GMT",
+   "summary": "Malawi Plastic hazardous waste disposal bags (392329) imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "美国关税",
    "priority": 2
   },
   {
@@ -1816,6 +1856,16 @@
    "priority": 2
   },
   {
+   "title": "Seychelles Plastic hazardous waste disposal bags (392329) imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWo0MHdrTURCMXc3QnU5cll1amJJaGRrTkFKZTVrUU5NOV9VRUt5SkszXzdEOHVsQzJPcm12anRZdExKZmJ2ZHZBSkk2NXNYbVRjWm1WWmRWTnV0U05TUDRVaVZwQzlIRng0MURHVF9JR1FFX1Q1LUYyRDJ2NHFUNHJyRjdLbDIzcklWTFMwNmRMZHY1cTRBckdqUmk4T0E0a2VEZkdzb1Iwd1FxcU1VWWNKZGxmcmxzcm5lTA?oc=5",
+   "published": "Sun, 27 Sep 2026 14:21:01 GMT",
+   "summary": "Seychelles Plastic hazardous waste disposal bags (392329) imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
    "title": "Foreign Secy Vikram Misri meets US Congressional delegation, discusses Russia Sanctions Bill and strategic ties - Big News Network.com",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaVY5Slp6ZDVvQzZCT01MRWFhMk04S2Zrckt5blJRbmw3Z2k5bU9rR19VRHRZZGpRTGdTZUJPRnVLZlA2TWNWUFhBSGg2bGNtY1YwN0UwRXFPbHRXV3YtQzRlajBqczNZM0swX1duLUw0eEszdGxlSUotV2R5aHZDaXUwYjZzazFxMURKZEE3Tk1UQ28xXzA1MnpXSXk5bXI3NXdnM2g2TWhuQzc1SkFKTnBGakJoM2xxalNZMmZ6SzF1UDRyMEJnTzRfLUNHUUlVSlY2amZlRV91MGxvUE4zeENEeFEyZ3ZvZHlJTA?oc=5",
    "published": "Sun, 27 Sep 2026 14:01:00 GMT",
@@ -1823,6 +1873,26 @@
    "source": "Google News | US Trade",
    "module": "海外媒体",
    "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "Malawi Generators and alternators imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVVHQkJTMjVSU291WkhmbFBjWjNwV3IwaGkta2JWdk9YREpJRjdGSktETlI2c01VNW9nN0tDbjd3R1Nkd01UZ284dzR5ZXVTVG5ZTDRWdWRQR1M4THBjLXBqOFdjalFXSTBRNUtwQUpoNWh6c24ycExJTkhNOUpWVllCdms0b0wxblhJT3NfTlFRLXNhdGVrQnVIVGdub0draFdmRlludWFMdGdTQ0t6bQ?oc=5",
+   "published": "Sun, 27 Sep 2026 13:56:57 GMT",
+   "summary": "Malawi Generators and alternators imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "Malawi Garlic, fresh or chilled imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHVFc0dZWTUybV9LRzBMN1VkMjA0eG1oUk9TcG44LU9CVHMwMkhtWUFqSFB1dzlZQlBRRzgweGNMb2ROdzJycnlYclBHWkYzWkwtTEx4cHNJNkZxWnBBSWZmcVZVbElTTVJ1RWFjcURVN1EzYzJKQ2RnYzRBaDlobGpvX01TSlVBR0F2XzRVS3pTRl9tM29qNWZoOHEyOWh3TElSMUxhalFHOG5DLTBOcg?oc=5",
+   "published": "Sun, 27 Sep 2026 13:50:06 GMT",
+   "summary": "Malawi Garlic, fresh or chilled imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
    "priority": 2
   },
   {
@@ -1853,6 +1923,16 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Namibia Builders' ware of plastics, nes imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzJPanRLdzA5ZDJjUkdpc0tUM002NDhxaG04NGZ5T2RDWnZRdnVobVJwQnV6WExrQU1CSkIwWGIxTUpfSWphOEtQZEVvNmx2amZPTzJLS1R5ZHJITWo5UE9YT0RKSTZuVVZqYzBlaUxsRnAzdmJSZnRYZzlMZzMwR05YcFJxejhDTXFiMGdTb0luQjR4dzVNZEdSUTE0T2N5U3BtVlc4bG9Ecms5dTBNcQ?oc=5",
+   "published": "Sun, 27 Sep 2026 11:57:13 GMT",
+   "summary": "Namibia Builders' ware of plastics, nes imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
    "priority": 2
   },
   {
@@ -1972,6 +2052,16 @@
    "summary": "Trump, Xi Jinping Agree to $30 Billion Tariff Deal, Back ‘More Favorable Tariff Treatment’ for US-China Goods&nbsp;&nbsp;TradingView",
    "source": "Google News | China Trade",
    "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "His baby business was hit by China and Canada tariffs. It taught him perseverance. - Bundle",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdkhQV0lYMlR4dG5NZG96aGVoZS1uRkRBWWpuR3lhMC1oWXpCU3FIX04xTnJCYUh4RzQyUFhCTk80Vm8wajltYTBHY0NQNHBHRmpTU1Q2cFpfSHZtcGtCNWwtWWo4NGc4VHZEUWtoZWs1VF9ueS1fRzI1dl95dGRVa1hqeXY2NkEwYmhIQzUxbnF0SFZQWTRCdGczZnQ3ZC1CbVQ4cGxqOUxSWGJ3VTdYNXdZVndoa1BFM1JMdVllaDBvUzMtN2RlUk9EMUVBTktWVDVCbUJKcGd5bmN0Yk1jOUszdWpCdHdXTWM2c1hB?oc=5",
+   "published": "Sun, 27 Sep 2026 05:12:44 GMT",
+   "summary": "His baby business was hit by China and Canada tariffs. It taught him perseverance.&nbsp;&nbsp;Bundle",
+   "source": "Google News | ASEAN Trade",
+   "module": "亚太官方",
    "category": "中美经贸",
    "priority": 2
   },
@@ -2096,6 +2186,16 @@
    "priority": 2
   },
   {
+   "title": "Other self-adhesive plates, tape, strip, foil.. imports from Zambia |2024 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFQ3RTJwT3RSUEFBWnJFUHFFanNJZ2wyeFdlZGJESEVZalYtRUlUM1I1YmFsTE9RSUluYXJvV0pwdFd1NzVrTzhYT3QtTklMUDZzR3VReE1tLVhXTUt4UmdFVEtYMUtoVTl5SDF4VmpvRnNZaFM5ci1xUFgyLWwxbVhpRlFsN0pyQzlwOTV5ZXpxN2VLQ2V0WktjSHF6SW5PUk1yT1BMSmtlX2dwckhDMA?oc=5",
+   "published": "Sun, 27 Sep 2026 01:34:28 GMT",
+   "summary": "Other self-adhesive plates, tape, strip, foil.. imports from Zambia |2024&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "China, US agree to AI dialogue, tariff cuts on US$30 billion in goods during Xi visit - The Business Times",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmJ6UFdpeUlSSGJoQjVPaDYzWUY0UE54YTNYd19VTUdyeXF5N0VjQ2JfcXdTQ0k0aWF4WDJ2cW9jU0FIUHVvRk4zd3JmUE16NEduVDc5dXVrZl9UY05SdDJRcFl0WHc4aVMtRnR2V1drUENLdEdIX094OU12MXlDcElZc0ZsUF9sRXBscV9BbXVuNGpMbTk3UTFfSG0xZW84SG0zRjQtbVBaMF9RN0otd1Z4TWpNX1dRLTBOSXRqY1puVi0zMkE?oc=5",
    "published": "Sun, 27 Sep 2026 01:17:00 GMT",
@@ -2190,6 +2290,16 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUNaNHpFNUtuZ0FZUmRvUVY3WW9LTUIxbm5UNWFCR3BuR294dDh1QWUwbEZaM2tuZWFZVDdobU1wUTJNaU8zOEFBcHg4NVZ6a1RLQkZtOGQ2ZWVQQV9iTmhtbGw5TUwtRUZENjJLRGxVM2xIRVZsRXBfTDlFMXpxaHAtRGZvQkxvU2Y2QUhYVm5Yd3ItWWpuSGxTckdVaHJiTmRvQ1VubVVPZE9Eb1pjMw?oc=5",
    "published": "Sat, 26 Sep 2026 23:34:11 GMT",
    "summary": "Namibia Coloured denim, with 200g/m2 imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "Lesotho Cellular plates, strips... of polymers of vinyl imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGo4QmlYRGZPVVFyZWdwd2FQUG1jYm1KaFBXVEFHZWQ5TWlNVUplLTYyRXg4VG56dTJkUGtUbG5jMDlSZko1aW83eEh4Tm03WmFxNmJ1M2xuYnA5dHlDVnF4Mms0SnJvYld1Z3RIR0J6aGtOX0J1QWZTTEo3a24ydDJpTXlsMy1mZ0k4Ni01TkVva19HdHFjdUlKS3ozWjlZeW5SUnZfaGpJUUllMlAteQ?oc=5",
+   "published": "Sat, 26 Sep 2026 23:14:16 GMT",
+   "summary": "Lesotho Cellular plates, strips... of polymers of vinyl imports by country&nbsp;&nbsp;World Bank Group",
    "source": "World Bank",
    "module": "国际组织",
    "category": "航运物流",
@@ -3546,6 +3656,126 @@
    "priority": 2
   },
   {
+   "title": "Oil Rises on Iran Tensions, US-China Tariffs Cut List, More - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWhzdHpWRVFLano3a25mbWNHTDB2MlZtc2xTMjBINWI4aEN5SlU5NzY3cFhfMGtmS2dZSFhJTi1sVGRLTUhjM1ZwWEdTRWtURjVKZThWeXYwbHFqU2docWhuUWVuXzczR2NzdXRmejVTM3FWUTFNQUZtMjBpTG90N2Z2SnA3cXZJYW16RlNhYUdibHlSbzhJeHdFZlFDSWIxODVlQXYzMHM?oc=5",
+   "published": "Mon, 28 Sep 2026 02:38:39 GMT",
+   "summary": "Oil Rises on Iran Tensions, US-China Tariffs Cut List, More&nbsp;&nbsp;Bloomberg",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "$30 Billion in Tariff Cuts Is the Small Part. The New Trade Machinery Matters More - Vocal",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVdVRUhZUnlCcE5sakJneUdoVWRRYm9RMk1fSWw5WjZsUUstMjNnT24wbUNHTXE0amI3ZFo4VnoydXgwU1dmb2FoekVPbmtjdjQzZ2o5bC1TekJvQVRrV3gxajFZRkFSNUtRMTNGc3ZNcXZWQzRtUTVkUTNfdE9yZW1xanlnMVpDV2FzN3FGdnVVczlJd0hSTTVpbTJ3QVNha3hTVGRJdjh2TGF2d3c?oc=5",
+   "published": "Mon, 28 Sep 2026 02:31:16 GMT",
+   "summary": "$30 Billion in Tariff Cuts Is the Small Part. The New Trade Machinery Matters More&nbsp;&nbsp;Vocal",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "CDL’s Kwek clan looks to invest US$3.9b in Singapore, China, Japan to raise confidence",
+   "link": "https://www.scmp.com/news/asia/southeast-asia/article/3368989/cdls-kwek-clan-looks-invest-us39b-singapore-china-japan-raise-confidence?utm_source=rss_feed",
+   "published": "Mon, 28 Sep 2026 02:27:04 GMT",
+   "summary": "City Developments (CDL), the Singapore property group controlled by one of the country’s wealthiest families, said it wants to invest S$5 billion (US$3.9 billion) in Singapore, China and Japan by 2029 as part of measures to regain investor confidence after a feud within the clan.\nThe firm also aims to sell S$6 billion of assets within the same period either via outright divestments or seeding suitable assets into managed vehicles, according to an exchange filing on Monday.\nIt wants to set up a..",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Hormuz Stalemate, US-China Agree to Reciprocal Tariff Cuts, More - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkZGd1ZuVC1oNTd2UDVTVl9BcGQ5OG1HVWJ5TmQ4eHBNMmN6Slo0aWZSQVNpb1Y2QVlaSzZZM2tpUFBrd3JUSldiLUZkTG9yUG5yUTRua0pSOUZzb1RNbVVQeFBwbjVkb0wweEVFNDBIT2ZWWjBoSS1LdG9DcC1XMHRUN3hsOE5MQkpKNmFVOVdueGRqbUdUaTZXYm5pb084bzk2Wmw0NkpPZ1ZRdERJ?oc=5",
+   "published": "Mon, 28 Sep 2026 02:08:26 GMT",
+   "summary": "Hormuz Stalemate, US-China Agree to Reciprocal Tariff Cuts, More&nbsp;&nbsp;Bloomberg",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "‘Everyone can attend university’: China unveils sweeping higher education reform",
+   "link": "https://www.scmp.com/news/china/science/article/3368952/everyone-can-attend-university-china-unveils-sweeping-higher-education-reform?utm_source=rss_feed",
+   "published": "Mon, 28 Sep 2026 02:00:22 GMT",
+   "summary": "China has unveiled an overhaul of its university system, urging institutions to develop distinct roles as demographic change, a tighter job market and industrial upgrading alter the country’s skills needs.\nThe general offices of the ruling Communist Party’s Central Committee as well as the State Council, China’s cabinet, jointly issued guidelines for higher education reform, state news agency Xinhua reported on September 20.\nThe document said universities must adapt to “changing trends in the...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Elderly resident sparks fury in China after cutting worker’s safety rope to hang laundry",
+   "link": "https://www.scmp.com/news/people-culture/trending-china/article/3368945/elderly-resident-sparks-fury-china-after-cutting-workers-safety-rope-hang-laundry?utm_source=rss_feed",
+   "published": "Mon, 28 Sep 2026 02:00:19 GMT",
+   "summary": "An elderly resident in southern China sparked online outrage after cutting a high-altitude worker’s safety rope to use it as a washing line.\nThe incident occurred when Liu, a worker from Foshan, Guangdong province, was repairing the exterior wall of a high-rise building on September 17.\nAfter descending from the 30th floor to a platform on the second floor, he discovered that one of his safety ropes had been cut, with part of the rope left on the platform.\nFortunately, no workers were using the.",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "US and China Extend Tariff Ceasefire Through January 2027 - SuaraGarut.ID",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtTmpyY3JHc0l1eG8tYTloX1hvNkw4blRSMnVaVm1hOU1kNHhlcmlCSG5GUDdKU2tfVEV6c2JDaXNBUUEtOHRBcGxSb2N1eFZnTDJIR1dqY2g2Q2U0UjNlQzd6Y1NzUjlq?oc=5",
+   "published": "Mon, 28 Sep 2026 01:58:22 GMT",
+   "summary": "US and China Extend Tariff Ceasefire Through January 2027&nbsp;&nbsp;SuaraGarut.ID",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "US Releases Details on $30 Billion of Goods With Tariff Cuts - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejAwODBlZm1pdk5leVFwbHA2cnRWRkZXT2R2ejVDNjhtV01qb3ZFQ0hoMW9pWTVHN3dqOXBramZyY0RDdDJkMEQyUGRaVHh5QUFnak1SQ0c4dkp6aE5QYjdEd25ZMXFheXhRcmVXLXZJV1ZLNmk1MndtZ3FaNmNPcDNXSkxkV1Rvb2x6MmZBWVBvOV9rTmZMS0ljRENGWGY3d0ZFbFpTajZGVW1PZGdz?oc=5",
+   "published": "Mon, 28 Sep 2026 01:46:00 GMT",
+   "summary": "US Releases Details on $30 Billion of Goods With Tariff Cuts&nbsp;&nbsp;Bloomberg",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "China’s US Coal Buying Pledge Looks Like an Easy Promise to Keep - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXpzR1ZrMkZNUDFRU3I0Tk40akg4M3Z4NHpzX0hkVzZHaGZEUkpGRFBCYVlKRlJCQU9fY2t0YjAwZTJGTXlHRjkwNlkzRWVsdnlFN3Z4encxR1pvbUN2T1hicXRtUFBHbnVUUERVSnBrc1I4cllGNHR6R1UzVFlOY1dEOWhrRVBoU3JyeEZNUGxpakg1a1dOMTl6WnUtVjIyUjQyaWYzODZ0cWdRWlU0NU96cXRHdw?oc=5",
+   "published": "Mon, 28 Sep 2026 01:44:00 GMT",
+   "summary": "China’s US Coal Buying Pledge Looks Like an Easy Promise to Keep&nbsp;&nbsp;Bloomberg",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Foreign Secretary Vikram Misri Engages with US Lawmakers to Discuss Russia Sanctions Bill and Strengthening India-US Relations - Observer Voice",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVUloNnZhYTVTeGpmNGhnc3RvSlRIdlBMVGZDSy1rbGR6MnBQSkxEMEhpVHZrNFE2Y255MThmWUduU0pJMmoyUmNmYTkwZzNha2J1VkV5a01MM2VMM0hiZTVfeFBZcWxWOEY0a3NJbi1XVERtb1VhRzY2NjFxcDZkSm5EQjRJVHRSNWlJd2lfbnd2ODE5TndkNVdaQWk2cXgyaUJydlNjbktNSWxuaE5RdVVYeHlCLWpCV1VsNS1TUTdFci1KeUNJcmdFcGt3Yk8yUVc4OWhZYVh6dmMzYnNZU1BZLS1NZnVTcjlldEk1YXNNUQ?oc=5",
+   "published": "Mon, 28 Sep 2026 01:41:34 GMT",
+   "summary": "Foreign Secretary Vikram Misri Engages with US Lawmakers to Discuss Russia Sanctions Bill and Strengthening India-US Relations&nbsp;&nbsp;Observer Voice",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "In talks with US Congress delegation, Vikram Misri raises Russia, Iran sanctions Act - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOThpRDQxbFBsMlZXZWU5R0JkLW5yTHV2cWhsRVNVNl9zTlg2VHNTazRONjBaT0ZFSUotdXNzV2c2cl9NNnJyY3NsZ1RSSEp3QU9UTjVWeFNJZ1MtVUszYmZhRElTdVgyYjBrNklQbDRELWljRWtRV1diOFlPZGdXc0dvVS1BbWMxM1loaVhsU2g5bGNFZThibGFyakZkYVJqX3prQmhVeGJQUHVvY1lWQmI2cHcxOFZON2ZadldFYW9UTm5NaDQwWWh6ZErSAdMBQVVfeXFMUGlIUnlaZ3ZDSm5hcm8xUGF6WWZ6SXRjT0FlTFZudzl2SFRJRl9YNzd3QkVDNm5zanJoeGFmVmtKYjR5NGNDSkN0UG9NamYxSUpRS2xkYjQxMC15VWcwWnotQ3ZqWTZKcUFWYlBMOXR2SENGZVFKWHg3OWkwSTVxQWJXSDJVckV0QXRfRVlMZ251WE9NajJsNDU2Q2FNQWdFdXdnZThFVXJOT1BRTXZXNXRGM1dHVWtqVU9TQU1zSkdDYXFSbnhiZzQtcUpXUzhUMWFwTQ?oc=5",
+   "published": "Mon, 28 Sep 2026 01:10:38 GMT",
+   "summary": "In talks with US Congress delegation, Vikram Misri raises Russia, Iran sanctions Act&nbsp;&nbsp;The Indian Express",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "China-US dialogue will ease concerns, but competition will remain, Paul Chan says",
+   "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368975/china-us-dialogue-will-ease-concerns-competition-will-remain-paul-chan-says?utm_source=rss_feed",
+   "published": "Mon, 28 Sep 2026 00:30:14 GMT",
+   "summary": "Competition between China and the US will persist, but increased dialogue between the two economic superpowers will provide greater global certainty and ease geopolitical concerns, with Hong Kong positioned to play a unique role, the city’s financial secretary has told the South China Morning Post.\nIn a wide-ranging interview, Paul Chan Mo-po said more communication and dialogue between the two nations would be “good for everyone”, as Chinese President Xi Jinping and his US counterpart, Donald..",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Trump-Xi visit wraps up with few achievements announced - CBS News",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
    "published": "Fri, 25 Sep 2026 23:47:35 GMT",
@@ -3876,6 +4106,16 @@
    "priority": 2
   },
   {
+   "title": "US, China agree to cut tariffs on $30B worth of goods, set up channel for AI incidents - The Hill",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21ZZWtfTDZVTkpVNFE4VWJiTy1RbmtNX2l6RVN1Ui1ZaVpuQ2p6eE1CcDZYNDJsU3dpbjJhZzVvWVJCZEtrbjA0bTBVQnFiYVNYa1BMaVRUcHpRY2t2dXN3c1NiS3NSYmJ5N2NkSGdVbUNDSk5LT2ZuSVJlb255T0JoR1BPQVVpSEZTNNIBkgFBVV95cUxOOFh1NnNUUDFudzZweFdaNEpfX0pKMGdvYWJBZUJuSWY5NkliYlN3ZDRYOGJsSExjZjdYYXRNWXFzS0hrR241am1aRDVPS3M3SDVZbEtXd05ENDc5M05FZjZFdWdTWE5pR0dlY0IyNkowVkZaMmkydU9fM2dlYnVQUnRqeWlqWUtQbFV6TGFWaUVXdw?oc=5",
+   "published": "Fri, 25 Sep 2026 15:57:00 GMT",
+   "summary": "US, China agree to cut tariffs on $30B worth of goods, set up channel for AI incidents&nbsp;&nbsp;The Hill",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "New Russia Sanctions Law Enacted - jdsupra.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFdwYzBOVmdJa0lYR2dQYWMxYkF2aG1JWE5PXzdzbkV4OVRLaTZUczlzUVFaX0s4SFN6bDFCUWtKa3lZdHBGZDdPa1I1c3dGc2U3SFVaRmt5Vmpub2M4MnZxU1FSeklHVTFHSVFmSktfaWZqS05MN3ZkdzAtY0pZNw?oc=5",
    "published": "Fri, 25 Sep 2026 15:52:33 GMT",
@@ -4101,6 +4341,16 @@
    "published": "Fri, 25 Sep 2026 12:55:16 GMT",
    "summary": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says&nbsp;&nbsp;CNBC",
    "source": "CNBC | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92YUg4RTRCc3prWFk2WUtmZ09pc2lrM3BsRlhhZ2lpYlVuaGVUb0lMMEVOMThLNUlfS2hsWWMzQTFBUk55YmRteTdlYmNqc1RSWkxkUFk5Q2pzN21LZFZ1V1RxdVJrQnY2VlVBYUV1Wko?oc=5",
+   "published": "Fri, 25 Sep 2026 12:55:16 GMT",
+   "summary": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says&nbsp;&nbsp;CNBC",
+   "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
@@ -4726,6 +4976,16 @@
    "priority": 1
   },
   {
+   "title": "EIS Package - Courier to a PO Box and charging me customs fees - eBay Community",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ2JRQndvTzBZNjBSdGxqd2FWXzBxY0xfMlA5eGZmY3RHTXNLRUxIN29Db0xod2tUbElNSW5nMl9LTC1fcGV3S2ZMUGlCNGgwNGdLQjdxTEhLakQ5Tm8yNXlsWlg5dF93enFibmttdTdkUWFzR0NPaXN2Yk1vazdkSGthOG45bmpwUDFaeWFKTGEyRG9jNnpnX2tQbDZOVUcta0ZFRTdOU25QV3lILTVURFlIcU5BUjRsdDE4T0JLYnkzYjZDMEx1cmRIandQZy1NUzhmSTRR?oc=5",
+   "published": "Sun, 27 Sep 2026 10:39:51 GMT",
+   "summary": "EIS Package - Courier to a PO Box and charging me customs fees&nbsp;&nbsp;eBay Community",
+   "source": "eBay | Seller",
+   "module": "企业官方",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Several die after gas-linked explosion collapses a building in Athens",
    "link": "https://www.bangkokpost.com/video/world/3326968/several-die-after-gaslinked-explosion-collapses-a-building-in-athens",
    "published": "Sun, 27 Sep 2026 09:15:00 GMT",
@@ -4733,6 +4993,16 @@
    "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
    "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Export Operations Agent job | jobs at DHL Group - DHL",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlBCbWt5XzZ0TEtwZVZOb0ZQWjZHX0swZ0daM1pnQ1FzS1QtR2diRXpNM3ltdXBOTXl4bGxFRmdJdE1jLWVRa3Exa3FGdlN5OGgzZTV2TnNZY3VtcmNGVnl4bTBaTHRCQ2lCX1phTGJ0Y2FEWlFoMUxHZGdKQk1Hbzl1ZWh2b3I1UUZiVktPOXFRWS1Ld285RVM5a0k?oc=5",
+   "published": "Sun, 27 Sep 2026 08:50:37 GMT",
+   "summary": "Export Operations Agent job | jobs at DHL Group&nbsp;&nbsp;DHL",
+   "source": "DHL | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
    "priority": 1
   },
   {
@@ -4926,11 +5196,51 @@
    "priority": 1
   },
   {
+   "title": "City Hall reports flooding on several streets",
+   "link": "https://www.bangkokpost.com/thailand/general/3327405/city-hall-reports-flooding-on-several-streets",
+   "published": "Mon, 28 Sep 2026 06:58:00 GMT",
+   "summary": "The Bangkok Metropolitan Administration reported flood levels from 16 centimetres to 47cm deep on several streets on Monday morning.",
+   "source": "Bangkok Post | Breaking",
+   "module": "海外媒体",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Cautious banks hold back green revolution",
+   "link": "https://www.bangkokpost.com/sustainability/3327370/cautious-banks-hold-back-green-revolution",
+   "published": "Mon, 28 Sep 2026 06:08:00 GMT",
+   "summary": "Southeast Asia is rushing towards an electric future as foreign investments arrive.",
+   "source": "Bangkok Post | Breaking",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "TAT partnership seeks  to revive Japanese market",
+   "link": "https://www.bangkokpost.com/business/general/3327260/tat-partnership-seeks-to-revive-japanese-market",
+   "published": "Mon, 28 Sep 2026 05:58:00 GMT",
+   "summary": "The Tourism Authority of Thailand (TAT) has renewed its collaboration with Sendai city and the Tohoku region of Japan for the fifth time, while also launching a co-tourism campaign with Bhutan for the first time ahead of the latter's expansion into the European market next year.",
+   "source": "Bangkok Post | Breaking",
+   "module": "海外媒体",
+   "category": "欧盟贸易",
+   "priority": 1
+  },
+  {
    "title": "Aleksandar Vucic: from Milosevic minister to long-serving Serbian statesman",
    "link": "https://www.bangkokpost.com/world/3327389/aleksandar-vucic-from-milosevic-minister-to-longserving-serbian-statesman",
    "published": "Mon, 28 Sep 2026 02:45:00 GMT",
    "summary": "BELGRADE - The dominant force in Serbian politics for over 14 years, Aleksandar Vucic climbed from the wreckage of strongman Slobodan Milosevic's cabinet to the centre of power using his brand of populist nationalism.",
    "source": "Bangkok Post | Breaking",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Xsight Group Featured in Harvard Business Review on AI Agent Orchestration Across Silos - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSzEwM3U2VDZCUnJzaVJ5amNDblFPeVhFRnpja21vM28wUkxlc1lxODA2RGgtblgyRzI5RWg1dDZhVERpT1JmQTlFV0l2OFJJZmZZLXN5WElQWnVPcVVkOS0zbUd6RGkzNlFuTzd1QlZEdnRlU2VIYmtFckhkVDMtd0VYSXIwcU9DOVM5Nm1GYlpRZDZxZ3k2Nl9CTE9IVnEzSzFBSVVvVmROY1FhOVVINWZabU5Tb2dtc3BHMUVjVWZmQTZpbU9HU3dFbjZZODgwQmt3cmt0WUFkNk83S1E?oc=5",
+   "published": "Mon, 28 Sep 2026 00:00:00 GMT",
+   "summary": "Xsight Group Featured in Harvard Business Review on AI Agent Orchestration Across Silos&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
    "module": "海外媒体",
    "category": "其他",
    "priority": 1
