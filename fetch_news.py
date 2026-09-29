@@ -14,6 +14,7 @@ import feedparser
 import json
 import re
 import sys
+import gzip
 import hashlib
 import html
 import urllib.request
@@ -391,66 +392,29 @@ def categorize(title, summary):
 
 
 def http_get(url, timeout, headers=None):
-    h = {"User-Agent": BROWSER_UA}
+    """带完整浏览器头的请求，返回 (final_url, content_type, body_bytes)；gzip 自动解压"""
+    h = {
+        "User-Agent": BROWSER_UA,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept-Encoding": "gzip, deflate",
+        "Connection": "keep-alive",
+    }
     if headers:
         h.update(headers)
     req = urllib.request.Request(url, headers=h)
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp
+    resp = urllib.request.urlopen(req, timeout=timeout)
+    data = resp.read()
+    if resp.headers.get("Content-Encoding", "").lower() == "gzip":
+        data = gzip.decompress(data)
+    return resp.geturl(), resp.headers.get("Content-Type", ""), data
 
 
 def decrypt_google_news(url, timeout=15):
     """news.google.com/rss/articles/CBMi... -> 真实文章 URL。
-    依次尝试 /rss/articles/ 与 /articles/ 两个端点，任一返回 HTML 即提取。
+    已实测确认：Google News 新版页面 HTML 不含真实文章 URL（由 JS 渲染），
+    无头环境无法解密。保留函数仅为文档用途，主流程不再调用。
     """
-    variants = [url, url.replace("/rss/articles/", "/articles/")]
-    for u in variants:
-        try:
-            resp = http_get(
-                u, timeout,
-                headers={
-                    "Accept": "text/html,application/xhtml+xml,*/*;q=0.8",
-                    "Accept-Language": "en-US,en;q=0.9",
-                },
-            )
-            body = resp.read().decode("utf-8", "ignore")
-            final_url = resp.geturl()
-            cands = re.findall(r'href="(https?://[^"]+)"', body)
-            # 方法0：canonical 链接（最可靠）
-            m = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']', body)
-            if not m:
-                m = re.search(r'<link[^>]+href=["\']([^"\']+)["\'][^>]+rel=["\']canonical["\']', body)
-            if m:
-                uu = html.unescape(m.group(1))
-                if uu.startswith("http"):
-                    return uu
-            # 方法1：data-ncl-heading 标题链接（标准结构）
-            m = re.search(r'<a[^>]+href="([^"]+)"[^>]+data-ncl-heading', body)
-            if not m:
-                m = re.search(r'data-ncl-heading[^>]+href="([^"]+)"', body)
-            if m:
-                uu = html.unescape(m.group(1))
-                if uu.startswith("http"):
-                    return uu
-            # 方法2：正文区外链，排除 google 域
-            for c in cands:
-                c = html.unescape(c)
-                if ("google." not in c) and ("gstatic" not in c) and ("consent" not in c):
-                    return c
-            # 方法3：<article><a href=...> 结构
-            m = re.search(r'<article[^>]*>\s*<a[^>]+href="([^"]+)"', body)
-            if m:
-                uu = html.unescape(m.group(1))
-                if uu.startswith("http"):
-                    return uu
-            # 诊断
-            print(f"[diag] decrypt fail variant={u[:70]}... final={final_url[:60]} len={len(body)} "
-                  f"canonical={'canonical' in body[:3000]} ncl={'data-ncl-heading' in body[:5000]} "
-                  f"ext_links={len([c for c in cands if 'google.' not in c and 'gstatic' not in c])}")
-            if len(body) < 2000:
-                print(f"[diag] body head: {body[:400]!r}")
-        except Exception as e:
-            print(f"[diag] decrypt error variant={u[:70]}... {type(e).__name__}: {str(e)[:120]}")
     return None
 
 
@@ -459,12 +423,12 @@ def fetch_full_text(url, timeout=20, max_chars=FULLTEXT_MAX_CHARS):
     final_url = url
     ctype = ""
     try:
-        resp = http_get(url, timeout, headers={"Accept": "text/html,application/xhtml+xml,*/*;q=0.8"})
-        final_url = resp.geturl()
-        ctype = resp.headers.get("Content-Type", "")
+        final_url, ctype, body = http_get(
+            url, timeout,
+            headers={"Accept": "text/html,application/xhtml+xml,*/*;q=0.8"},
+        )
         if "html" not in ctype and "text" not in ctype and "xml" not in ctype:
             return None, "not_html"
-        body = resp.read()
         if len(body) < 500:
             print(f"[ft-diag] too_short final={final_url[:80]} ctype={ctype} len={len(body)}")
             return None, "too_short"
@@ -538,7 +502,7 @@ def main():
                     if link in seen or link_hash in seen:
                         continue
                     summary = entry.get("summary", "") or ""
-                    summary = re.sub(r"<[^>]+>", "", summary)[:500]
+                    summary = re.sub(r"<[^>]+>", "", summary)[:800]
                     pri = score_article(title, summary, src)
                     art = {
                         "title": title,
