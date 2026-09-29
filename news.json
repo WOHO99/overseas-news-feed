@@ -1,8 +1,8 @@
 {
- "updated": "2026-09-29T02:06:40.511822+00:00",
- "total": 935,
- "high_priority": 806,
- "fulltext_count": 0,
+ "updated": "2026-09-29T02:11:28.974855+00:00",
+ "total": 936,
+ "high_priority": 807,
+ "fulltext_count": 2,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
@@ -809,7 +809,8 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_status": "too_short"
+   "content_status": "bot_wall",
+   "content_attempts": 1
   },
   {
    "title": "Supply chain relief - Panama Canal to increase in draught and daily transits",
@@ -820,7 +821,8 @@
    "module": "航运物流行业",
    "category": "航运物流",
    "priority": 2,
-   "content_status": "error"
+   "content_status": "error",
+   "content_attempts": 1
   },
   {
    "title": "COSCO SHIPPING delivers China’s first domestically built 88,000-cbm VLGC",
@@ -831,7 +833,8 @@
    "module": "航运物流行业",
    "category": "中美经贸",
    "priority": 2,
-   "content_status": "too_short"
+   "content_status": "bot_wall",
+   "content_attempts": 1
   },
   {
    "title": "Japan enlists royal visit, subsidies to revive tourism in quake-hit Kyushu",
@@ -842,7 +845,8 @@
    "module": "海外媒体",
    "category": "亚太动态",
    "priority": 2,
-   "content_status": "too_short"
+   "content_status": "bot_wall",
+   "content_attempts": 1
   },
   {
    "title": "Hong Kong mustn’t miss the boat on the Pinglu Canal and Asean trade",
@@ -853,7 +857,8 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_status": "too_short"
+   "content_status": "bot_wall",
+   "content_attempts": 1
   },
   {
    "title": "South Korean exports seen rising for 16th month on solid AI chip demand - Reuters",
@@ -1987,7 +1992,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Malawi Natural sands, (excl. metal-bearing sands of Ch imports by country - World Bank Group",
@@ -2007,7 +2014,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Malawi Cases and containers, nes, with outer surface o imports by country - World Bank Group",
@@ -2037,7 +2046,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "China’s Tax Grab Squeezes Rich Elite Harder Than Ever - Bloomberg.com",
@@ -2317,7 +2328,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Keep out: why Greenland is the US military’s new eyes in the Arctic on China",
@@ -2327,7 +2340,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Namibia Builders' ware of plastics, nes imports by country - World Bank Group",
@@ -2368,7 +2383,9 @@
    "module": "航运物流行业",
    "category": "中美经贸",
    "priority": 2,
-   "content_status": "too_short"
+   "content_status": "full",
+   "content_attempts": 1,
+   "content": "Borderlands Mexico: Customs proposal raises concerns over border delays, cargo seizures - FreightWaves Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade. This week in Borderlands Mexico: Customs proposal raises concerns over border delays, cargo seizures; and OmniTRAX expands rail-served capacity in Phoenix market. Customs proposal raises concerns over border delays, cargo seizures Mexican President Claudia Sheinbaum is pushing another overhaul of the country’s customs rules that could significantly increase scrutiny of imported goods. While the initiative aims to protect domestic manufacturers from imports that may be entering the country at artificially low values, critics say the proposal could potentially expose cross-border shipments to more inspections, documentation requirements and precautionary seizures. Sheinbaum submitted the proposed amendments to Mexico’s Customs Law, or Ley Aduanera, to the Chamber of Deputies earlier this month as part of the government’s economic package for 2027. The legislation is aimed primarily at combating undervaluation — the practice of declaring imported merchandise below its actual value to reduce duties and taxes. The proposal comes as Mexico continues tightening enforcement across its ports and land-border gateways while seeking to protect domestic manufacturers from imports the government says may be entering the country at artificially low values. The initia"
   },
   {
    "title": "Foreign Secy Vikram Misri meets US Congressional delegation, discusses Russia Sanctions Bill and strategic ties - irishsun.com",
@@ -2398,7 +2415,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Remote section of China’s Great Wall damaged by 20 years of mine waste dumping",
@@ -2408,7 +2427,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "US and China Finalise $30 Billion Tariff Deal, Launch \"Super Intelligence\" Dialogue After Xi-Trump Summit - Pragativadi",
@@ -2458,7 +2479,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "航运物流",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "US China Trade Deal | $30 Billion Tariff Cuts Agreed | Major Development | 10AM HEADLINES - Aaj English TV",
@@ -2518,7 +2541,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Zambia Other organo-inorganic compounds imports by country - wits.worldbank.org",
@@ -2598,7 +2623,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Malawi Sleeping bags imports by country - World Bank Group",
@@ -2708,7 +2735,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "欧盟贸易",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Namibia Coloured denim, with 200g/m2 imports by country - World Bank Group",
@@ -2778,7 +2807,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Zimbabwe Buoys, beacons, coffer-dams, pontoons and other imports by country - wits.worldbank.org",
@@ -2808,7 +2839,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "How China is seeking to transform the meaning of great power",
@@ -2818,7 +2851,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "China, US agree to AI dialogue, $42b in tariff cuts during state visit - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -2859,7 +2894,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "其他",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Tariffs, Russian oil and the uneasy India-US relationship - Deccan Herald",
@@ -2950,7 +2987,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Why US chip controls took a back seat at the Xi-Trump summit",
@@ -2960,7 +2999,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Malawi Golf equipment nes imports by country - World Bank Group",
@@ -3320,7 +3361,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Several die after gas-linked explosion collapses a building in Athens - Reuters",
@@ -3400,7 +3443,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Zimbabwe Multimeters imports by country - World Bank Group",
@@ -3441,7 +3486,8 @@
    "module": "海外媒体RSS",
    "category": "其他",
    "priority": 2,
-   "content_status": "too_short"
+   "content_status": "bot_wall",
+   "content_attempts": 1
   },
   {
    "title": "Ultrasound machines(901812) exports to Rwanda - World Bank Group",
@@ -3531,7 +3577,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Watch The China Trade Problem That Tariffs Alone Can't Fix - Bloomberg",
@@ -3551,7 +3599,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Why US deal on Greenland could narrow China’s Arctic engagement",
@@ -3561,7 +3611,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "China wants in on U.S. AI data center boom. Here's why - CNBC",
@@ -3582,7 +3634,9 @@
    "module": "航运物流行业",
    "category": "欧盟贸易",
    "priority": 2,
-   "content_status": "too_short"
+   "content_status": "full",
+   "content_attempts": 1,
+   "content": "Clarios takes its battery subscription to European fleets - FreightWaves HANNOVER, Germany — Clarios is taking Battery Manager, its monthly-fee battery-monitoring service for commercial fleets, to Europe. The company announced the expansion Sept. 14, timed to the IAA Transportation show in Hanover, Germany. The service was running on about 1,100 connected vehicles across last-mile, long-haul and day cab operations in early September, Cagatay Topcu, vice president of Connected Services at Clarios, said during a Sept. 8 media briefing. The company is working with 20 fleets and expects to pass 2,000 vehicles in October, he said. Clarios introduced the service as Battery Manager Pro in March at the Technology & Maintenance Council’s 2026 exhibition in Nashville, Tenn. At the time, it expected to sign its first customer that month, FreightWaves reported. Junior Barrett, global director of business development, said Clarios will reach about 2,000 paying installs by the end of September. Some fleets overspend on batteries, Topcu said, running eight on a truck or replacing them every year. Others end up with trucks stranded by a dead battery. Clarios estimates the service saves a typical fleet about $500 per truck per year. What the sensor tracks The hardware is an aftermarket sensor on the battery’s negative post, a wire harness and a Clarios gateway that sends the data to the cloud. Heavy-duty trucks generally don’t have a battery sensor, Barrett said, and Clarios’ analytics run on"
   },
   {
    "title": "India Needs Strategic Hedging Amid US Trade Challenges, AI Headwinds: CEA V Anantha Nageswaran - Free Press Journal",
@@ -4270,6 +4324,16 @@
    "published": "Mon, 28 Sep 2026 23:04:30 GMT",
    "summary": "US, China ease tariffs on US$60bil in trade&nbsp;&nbsp;The Star",
    "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "China’s Bad Consumer Debt Cleanup Falters, Spooking Investors - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWhOM0FYU1BvNElJQjBVOVVvSW5yUWtVb25mU0otbjQ1a1lnOXVKSW1EWmlEdFdUTVNveUJYNkdHUWtGY01MekM1NmRLSTFCSTA0dUIyMUI5bWdRYU41TTVkaTZoTmpkR2dpcTBRSE5JX05oT0Z3N29NYTdweDNhY2VGaVdtTjdWdGN0ZldZdmdrem1xQlp5d2ZZTnFXMGROSEVPVEhsYU1mUFFXMzJzXw?oc=5",
+   "published": "Mon, 28 Sep 2026 23:00:19 GMT",
+   "summary": "China’s Bad Consumer Debt Cleanup Falters, Spooking Investors&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
