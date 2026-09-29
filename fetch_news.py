@@ -546,19 +546,35 @@ def main():
     all_articles = list(dedup.values())
     all_articles.sort(key=lambda x: (x.get("priority", 0), x.get("published", "")), reverse=True)
 
-    # 4. 全文抓取：只对本次新增、priority 达标、非跳过源的文章。
-    #    Google News 包装源（link 为 CBMi 加密链接）在无头环境无法解密（已实测确认
-    #    HTML 不含真实 URL），直接标记 title_only 不请求，避免限流与无效请求；
-    #    原生 RSS 源（link 为真实 URL）直接抓取全文。
+    # 4. 全文抓取：本轮新增 + 存量补抓。
+    #    - 只抓原生 RSS 源（link 为真实 URL）；Google News 包装源（CBMi 加密）在
+    #      无头环境无法解密（已实测确认），直接标记 title_only 不请求。
+    #    - 存量文章 content 缺失（error/too_short/无字段）且尝试 <2 次的原生源
+    #      高优先文章补抓，逐步补全正文。
     ft_ok = 0
     ft_fail = 0
     ft_title_only = 0
-    candidates = [
-        a for a in articles
-        if a.get("priority", 0) >= FULLTEXT_MIN_PRI
-        and a.get("source") not in FULLTEXT_SKIP_TAGS
-        and not a.get("content_status")
-    ]
+    candidates = []
+    for a in articles:
+        if (a.get("priority", 0) >= FULLTEXT_MIN_PRI
+                and a.get("source") not in FULLTEXT_SKIP_TAGS
+                and "news.google.com" not in a.get("link", "")):
+            candidates.append(a)
+    for a in keep_old:
+        if (a.get("priority", 0) >= FULLTEXT_MIN_PRI
+                and a.get("source") not in FULLTEXT_SKIP_TAGS
+                and "news.google.com" not in a.get("link", "")
+                and a.get("content_status") not in ("full", "title_only")
+                and a.get("content_attempts", 0) < 2):
+            candidates.append(a)
+    seen_c = set()
+    uniq_c = []
+    for a in candidates:
+        k = a.get("source") + "|" + a.get("title")
+        if k not in seen_c:
+            seen_c.add(k)
+            uniq_c.append(a)
+    candidates = uniq_c
     candidates.sort(key=lambda x: (x.get("priority", 0), x.get("published", "")), reverse=True)
     for art in candidates[:FULLTEXT_LIMIT]:
         link = art["link"]
@@ -566,6 +582,7 @@ def main():
             art["content_status"] = "title_only"
             ft_title_only += 1
             continue
+        art["content_attempts"] = art.get("content_attempts", 0) + 1
         content, status = fetch_full_text(link)
         if content:
             art["content"] = content
@@ -575,6 +592,8 @@ def main():
             art["content_status"] = status
             ft_fail += 1
             print(f"[ft] {status} | {art.get('source')} | {link[:80]}")
+    print(f"\n# 全文抓取: 候选 {len(candidates)}，尝试 {min(len(candidates), FULLTEXT_LIMIT)}，"
+          f"成功 {ft_ok}，失败 {ft_fail}，GoogleNews标题级 {ft_title_only}")
     print(f"\n# 全文抓取: 候选 {len(candidates)}，尝试 {min(len(candidates), FULLTEXT_LIMIT)}，"
           f"成功 {ft_ok}，失败 {ft_fail}，GoogleNews标题级 {ft_title_only}")
 
