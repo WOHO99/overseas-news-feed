@@ -1,15 +1,15 @@
 {
- "updated": "2026-09-29T01:36:47.575644+00:00",
- "total": 871,
- "high_priority": 764,
+ "updated": "2026-09-29T01:39:49.888256+00:00",
+ "total": 876,
+ "high_priority": 769,
  "fulltext_count": 0,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
-  "国际组织": 5,
-  "海外媒体": 18,
-  "企业官方": 1,
-  "亚太官方": 1
+  "国际组织": 1,
+  "海外媒体": 2,
+  "企业官方": 2,
+  "亚太官方": 0
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -2853,6 +2853,17 @@
    "priority": 2
   },
   {
+   "title": "China pushes back against US on Iran and Cuba in UN speech - reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5",
+   "published": "Sat, 26 Sep 2026 19:14:37 GMT",
+   "summary": "China pushes back against US on Iran and Cuba in UN speech&nbsp;&nbsp;reuters.com",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "Coffee husks and skins imports from Rwanda |2024 - World Bank Group",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUJsbDJYQWNOcUtCOEdMZGN6QnhiWXdTd29HMzlPbEpXd2pROXR1a3B2V09xTVpJaUV4aUR2OWF6Q2I1MHBsTDNjVjZRMWlNeUpBMm9YVjhrT2p2UHJLQnhVOE5iNERYRmVsRGlyb0dQN21Rc2JvaXhhcVItV3g4eVhqS3psY2FCNzN0dmdBOWlmcENzcU01M0ttMzhnbUNDRGlic3Y0NlM2SnVOb3BnbA?oc=5",
    "published": "Sat, 26 Sep 2026 19:10:44 GMT",
@@ -4386,6 +4397,28 @@
    "content_status": "title_only"
   },
   {
+   "title": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESSAG MCA W 206409 JAKARTA EXPRESS 3202601002 LIBERIA SA - Hapag-Lloyd",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSlB1Uk56WWp1blNoczktTHhfZDg4YXBmaXl4QlR0aVQ5d0N4UmF0NXZWcFBkUnBsQUZDNmJxNzFhdHZXZDkySVZZZS16aFlwZ0RoSWtwbjdvZ2s4RnlISmlwNG9kQk1BVWxlTHZNUy1BaG83QmoxYlZ2dDdZbEVTQUJRT1hBOGZnNENUMGV4MlhremdLVkRlSkE0Zm9CYklJ?oc=5",
+   "published": "Mon, 28 Sep 2026 19:06:56 GMT",
+   "summary": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESSAG MCA W 206409 JAKARTA EXPRESS 3202601002 LIBERIA SA&nbsp;&nbsp;Hapag-Lloyd",
+   "source": "Hapag-Lloyd | Shipping",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
+   "title": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESVGO ESF E 688790 ECO MAESTRO 3611 6 502080 MALTA ADTTM - Hapag-Lloyd",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWh6ZEFkR1hiaTJvMmJvMUxEUm4yZjcxTXoyWk9nQnBDQkJnUGNzZ3RYbDBQRlVCU0dhYWRuUS03aXRONDBJZVR0Z2VaQk5rcmgydlJsbkNsSU9Ndk9QQUhETmF5WmRoTnlNMGNETGctMGd6Y0t1NnhOVmlCbXVmdGtHdW9raUpNS2EzdFhncnQ5UUkwbVcxOWR4LVo?oc=5",
+   "published": "Mon, 28 Sep 2026 19:06:01 GMT",
+   "summary": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESVGO ESF E 688790 ECO MAESTRO 3611 6 502080 MALTA ADTTM&nbsp;&nbsp;Hapag-Lloyd",
+   "source": "Hapag-Lloyd | Shipping",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESAGP MSW S 207454 CAUCEDO EXPRESS ANTIGUA AND BARBUDA 2 - Hapag-Lloyd",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGlOMHd0RWFpRGZ2d0xVWUZxVHlIa0pHTzhtUHFVWVJ3TnlBVnR1VDZUblB1aDc0ZUhkcFFITUFxNEVzLVVFVGFrN3FLTjBjdkVMS1llVWV4WjJza19LeVpIMllLLWliRGlMbU1hSG83aEFYU3dvSXQwMGFXNTk5bnpDSjU0UTdVQW02cE5PREdsTFRkeDhVZF9zclR4MGs?oc=5",
    "published": "Mon, 28 Sep 2026 19:05:47 GMT",
@@ -4862,6 +4895,17 @@
    "priority": 2
   },
   {
+   "title": "Automakers seek lifeline from defense boom as China rivals thrive - reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9seUVieVhCMmUxWmtmOXNOdkNXU2ZDRVJ5dXNRaVlGNlQzYmtnUThMdTBkVjFWUWtTdWtRRVgxOGI3cEJtX0ltRnVPV2l6S3VpVThQbDFIWG5pNzUtU2QxUG13aTA1QQ?oc=5",
+   "published": "Mon, 28 Sep 2026 14:39:34 GMT",
+   "summary": "Automakers seek lifeline from defense boom as China rivals thrive&nbsp;&nbsp;reuters.com",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "U.S. & China Announce Tariff Cuts on $60 Billion Worth Of Goods - Floridian Press",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2dvTVNiTVh2NmRtMzhETkhkS21xZmx1akVsclZuaXFWM2JCWXMyb0F0aktEOXRUSXk5THNSZ3ZoNmk5UWpBeFpiWDlTUUIzNWVHTlBKLUdPYTJtWGZqS2dCSEQtd1JwZHlYdVNSREg0bGlCVXdLekxUOEUzVDB4cVRFMF9ObHlpY2czeXlyc1RCSG1NemthWGx4aw?oc=5",
    "published": "Mon, 28 Sep 2026 14:36:37 GMT",
@@ -4950,6 +4994,17 @@
    "module": "海外媒体",
    "category": "其他",
    "priority": 2
+  },
+  {
+   "title": "Other fixed vegetable fats and fractions, nes imports from Rwanda |2024 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGliUkowZDVDNWNEMmg0R0EzM0FXbWEzOW5QbTRoeXNmeEIxWThVclIycnpKZzZLaXFESG04RE9CWVVNY1E2MG9PUVROaXd2U0FWeUNqN0UwLUU2UE5IeWtjWkd3UUNYQjdnUkhQQWZvZ1dJY242dm5XX3dqaEpKSWJ6MXdjdjJxNDk4MVEtSHl1T1d6dlVUcDNlUzFZZXlSRDZhWmk5XzVwd2dvc2pMaQ?oc=5",
+   "published": "Mon, 28 Sep 2026 13:41:48 GMT",
+   "summary": "Other fixed vegetable fats and fractions, nes imports from Rwanda |2024&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "US and China Cut $60 Billion in Trade Tariffs on Goods - Aktualita.co",
