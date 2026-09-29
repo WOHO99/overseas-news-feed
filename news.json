@@ -1,17 +1,17 @@
 {
- "updated": "2026-09-29T01:56:03.956692+00:00",
- "total": 897,
- "high_priority": 785,
+ "updated": "2026-09-29T02:01:16.675930+00:00",
+ "total": 934,
+ "high_priority": 805,
  "fulltext_count": 0,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
-  "国际组织": 0,
-  "海外媒体": 1,
-  "企业官方": 0,
+  "国际组织": 5,
+  "海外媒体": 3,
+  "企业官方": 1,
   "亚太官方": 0,
-  "海外媒体RSS": 12,
-  "航运物流行业": 7
+  "海外媒体RSS": 20,
+  "航运物流行业": 8
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -48,14 +48,16 @@
   "Google News | ASEAN Trade": 0,
   "CNBC | RSS": 0,
   "CNA | RSS": 0,
-  "NHK World | RSS": 0,
-  "ANTARA | RSS": 1,
-  "Malay Mail | RSS": 1,
+  "Yonhap EN | RSS": 0,
   "Inquirer | RSS": 0,
-  "ABC AU | RSS": 1,
+  "Supply Chain Dive": 0,
+  "Ecommerce Dive": 1,
   "Container News": 0,
   "Splash 247": 0,
-  "Seatrade Maritime": 0
+  "Seatrade Maritime": 0,
+  "The Loadstar": 0,
+  "FreightWaves": 0,
+  "gCaptain": 0
  },
  "articles": [
   {
@@ -797,6 +799,17 @@
    "module": "国际组织",
    "category": "其他",
    "priority": 3
+  },
+  {
+   "title": "China wife donates kidney to husband, defying sub 10% match rate for non-blood relatives",
+   "link": "https://www.scmp.com/news/people-culture/trending-china/article/3368965/china-wife-donates-kidney-husband-defying-sub-10-match-rate-non-blood-relatives?utm_source=rss_feed",
+   "published": "Tue, 29 Sep 2026 02:00:12 GMT",
+   "summary": "A young Chinese wife selflessly donated her kidney to her husband suffering from uraemia because she “did not want to lose him,” despite the success rate being less than 10 per cent.\nIn September, Liang, 25, donated her left kidney to her husband, Chung, at the Third Affiliated Hospital of Guangzhou Medical University.\nChung, 33, has congenital megaureter, a condition present from birth that involves an abnormally enlarged ureter. He underwent regular treatment for his condition, which...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "too_short"
   },
   {
    "title": "Supply chain relief - Panama Canal to increase in draught and daily transits",
@@ -2347,6 +2360,17 @@
    "priority": 2
   },
   {
+   "title": "Borderlands Mexico: Customs proposal raises concerns over border delays, cargo seizures",
+   "link": "https://www.freightwaves.com/news/borderlands-mexico-customs-proposal-raises-concerns-over-border-delays-cargo-seizures",
+   "published": "Sun, 27 Sep 2026 11:00:00 GMT",
+   "summary": "This week in Borderlands Mexico: Customs proposal raises concerns over border delays, cargo seizures; and OmniTRAX expands rail-served capacity in Phoenix market.\nThe post Borderlands Mexico: Customs proposal raises concerns over border delays, cargo seizures appeared first on FreightWaves.",
+   "source": "FreightWaves",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "Foreign Secy Vikram Misri meets US Congressional delegation, discusses Russia Sanctions Bill and strategic ties - irishsun.com",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNmNxV243UW94S0phOVhFWmdmc2ticmFqVHhyLTRyeDViSUxUSjgzLUMydDVlX1BodTFzZW5mRUozcV9mclJvZW54MW9ERmFfUUVCLTMyMElTNUVtdnJmQ3VBWDVtTXo1WEwxM0ZJdGV4Ti11bzdhSmthQzBFMjN0ZXFBbEEzRDZMMDd6a1ZlZmc4Uk5LUjBCRkxpS2JmTkx0a0l4NmJGS3oyNTRQaXNzeUxYblViRnVkVTZUNjdIZkVVWnFzNjhiNHRIQkZtOU93M1d5VmtnbVV3M2hfNTFEUHQ0T2k?oc=5",
    "published": "Sun, 27 Sep 2026 10:31:00 GMT",
@@ -3550,6 +3574,17 @@
    "priority": 2
   },
   {
+   "title": "Clarios takes its battery subscription to European fleets",
+   "link": "https://www.freightwaves.com/news/clarios-battery-manager-europe-fleets",
+   "published": "Sat, 26 Sep 2026 12:00:00 GMT",
+   "summary": "Clarios is bringing Battery Manager to Europe after connecting about 1,100 vehicles, pitching fleets on a company-estimated $500 per truck per year in avoided battery costs.\nThe post Clarios takes its battery subscription to European fleets appeared first on FreightWaves.",
+   "source": "FreightWaves",
+   "module": "航运物流行业",
+   "category": "欧盟贸易",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "India Needs Strategic Hedging Amid US Trade Challenges, AI Headwinds: CEA V Anantha Nageswaran - Free Press Journal",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3JRbm5XMS13R0ZTR2xwOHdSZHFES1dRYzM3MDRMVDladk5fS204TEpWdXVVMTlxQmpscGNGUWNGSHcxd19SV2VLMkJnSmxqUG1oRElXZ0JZY19yX1puc1VqcFBiZ1JQYVFtVlBCdnBzS1MwRVBiMWMwdy14YnRQSE1OVFpsdE9uRW9tUURDSDFzNGtXZ2d2Z2VKZTJoYWliTU0wWl9PUzhkUUtwUlJYV0cxREJVbF85eTNhS2RheEVOUlNMdC1HOExDYjRCZ9IB0wFBVV95cUxQVjBtdGdGeHRnTlhwcFdGanZyS1FzS2V1aVdseWNrWXFCb2M2QkZ5VnNnVFA3THNQRERJa2VDX1BEbHdNbXptbl9FWmZ0WHk5MGt3aUczbUgyS1ZMVkdMaXN3N2djZFRXZkNhVmRGUzJJSVMzaERqVGJaOXhvWEVuNFVoWHJZZkVPb0ExcHppNUtzN3h5Ym1rSlBUT3RGU19CNHRGMVJ4WFBZSEFBY0RNcnhxQWJzMFl5TEJSTk44YnZQSFBObVh1QzVneC1mU1ZIX3RV?oc=5",
    "published": "Sat, 26 Sep 2026 11:49:00 GMT",
@@ -4476,6 +4511,17 @@
    "priority": 2
   },
   {
+   "title": "Syringes (901831) exports to Ethiopia(excludes Eritrea) - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWpFU1NJMXRuQldWWm1JZVlEY2h2X1NNOF9HQ0pvcEZXOG9fTW14WkRsRktaRlJweGh5UGJYLWRaZHVCVURTVU9tU0ZkbWU4VmV1X1VJUlRfdV9OTk5WZk81cklQRXo5VnFCTUk0Z1hCWGo0bjhPWnVzVERKdVNibU4wODAzbXhQUXlrNWdEUzNHeHdiUjY4VTJyNUE4aE1RTWVJc0kyUWQ5bEhPS2FuUXBYUzNqQjBPTGNzMw?oc=5",
+   "published": "Mon, 28 Sep 2026 19:20:36 GMT",
+   "summary": "Syringes (901831) exports to Ethiopia(excludes Eritrea)&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "Trump Denies Asking China’s Xi About Potential US Arms Sales - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2ZSSW50Smxib0E4czZDeU5Hb0hjOVFoQU1rZEhNdjJyUU11YXIzXzRCYmhyLUxSVVVxTDhpWU1Fd0lybHFJSlk2Mm9qZGI5YnIwWHg4TkI2NWpqMTRXVF85VXNIa0FTMkk2cUc2T2tBbmVxNE5vaGNmUFhGRnZIQmlpVXN0bEFaRlFXTzNmTEktaUJQWG9FaWYtcmxlN0d1ekZaaDZ0cXBBNjFWWmFiVA?oc=5",
    "published": "Mon, 28 Sep 2026 19:08:57 GMT",
@@ -4484,6 +4530,17 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
+  },
+  {
+   "title": "Other dried fruit, nes imports from Ghana |2024 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmhfLTl0WDc0Z1FLOWR1d2pIUXo5ZXN6ZGd1ZUZzWFY3ek5wQkJnOVpPcF9XbUd0OHdJSlU3Z1dkTGRWcV9CV0ZQdUFkX1pWMVprZkY1dzJUeUJBcWwwcHlRNDVGQkxMdG5TMGxTc1VTV2p4eWVDRnEzZ0xRQlVBQ3IyUHV2R2poNF83ZkpMU3pQdGJkaW9id01oRnl3ZkZOQTh0SXJQNTJJVmZnd202VA?oc=5",
+   "published": "Mon, 28 Sep 2026 19:08:28 GMT",
+   "summary": "Other dried fruit, nes imports from Ghana |2024&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESBIO ESF E 688790 ECO MAESTRO 48116501962 MALTA 4811CON - Hapag-Lloyd",
@@ -4670,6 +4727,17 @@
    "module": "海外媒体",
    "category": "美国关税",
    "priority": 2
+  },
+  {
+   "title": "Cliffs’ Stelco Set to Idle Some Steel Operations on Tariff Woes - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDQwMFRNMXAyUnRFVlRGUkduUjBKM2NiUmU3V2lCS09CbmJRVGdWVVg1Y2Q4clNELXVEZzhjZ3FUX3hIX2QxS0xLVkNCV2oyWmZHWEt6QjFkT3E5U2ZiN1Vka0l4dTJ2d2FsSG5WeWV5SDJORUtONzBRYVRyODZodFdwTUNpWTh4TG11WTdmLWkzeDVRVml5VDVjNUI3X0lkM0htUlJ2WlZFazdvRXg1Mk55ZlZoTjJnYUpKNU01WjIxUy1GVDZrbTRLUzlSZDc5MU9IcA?oc=5",
+   "published": "Mon, 28 Sep 2026 17:48:42 GMT",
+   "summary": "Cliffs’ Stelco Set to Idle Some Steel Operations on Tariff Woes&nbsp;&nbsp;Bloomberg",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "A key test looms for the AI trade this week. Here's how Mike Khouw is trading it",
@@ -4908,6 +4976,17 @@
    "priority": 2
   },
   {
+   "title": "Uganda Parts of lifts, skip hoist or escalators imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ3NRdXM3LTZKTEdhd19tQW0zRHdpemJGaUoyWWlOc0NpazlMQkRZdERUTFM1SXk2UkwwaW05WUJzTjhUU0tNTmN6ZkJfZjktdWgtb0ExRWdDbWY5V05ELUE3aDdqYlZrbzNOeWhZWjdnRDdDRUpPS05JX1otMjFScW9IX3I4Y21jOVJpNmM0V0Joa0w0bkJOOVlYVk5GY0pJOERIU2pPSTVpWmZrQ201OQ?oc=5",
+   "published": "Mon, 28 Sep 2026 15:53:09 GMT",
+   "summary": "Uganda Parts of lifts, skip hoist or escalators imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "Foie gras, live dolphins and toasters: China and US cut reciprocal tariffs on $30bn each of goods - The Guardian",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGlQcExwdWFMSUJMemJZVG9mUG9YYW9VZ2lPTTRFSzdsd1VUM2VhMzByYzV1d1lkOTRJV3JtUzhqSlVRczJrbjZjeHViX05LM2xROTAwUUZXODc5bFJISGJPZkt4WTNXcGdPdGFNcEotWFBxS1pnMnUxTkFaWVNwSnpPalFfOGI1Y2U4Ug?oc=5",
    "published": "Mon, 28 Sep 2026 15:40:00 GMT",
@@ -5007,6 +5086,17 @@
    "module": "企业官方",
    "category": "欧盟贸易",
    "priority": 2
+  },
+  {
+   "title": "Airlink founder Steve Smith named to lead Airforwarders Association",
+   "link": "https://www.freightwaves.com/news/airlink-founder-steve-smith-named-to-lead-airforwarders-association",
+   "published": "Mon, 28 Sep 2026 14:43:27 GMT",
+   "summary": " The Airforwarders Association has appointed Steve Smith, with a long record in disaster response logistics, as its new executive director in Washington.\nThe post Airlink founder Steve Smith named to lead Airforwarders Association appeared first on FreightWaves.",
+   "source": "FreightWaves",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "too_short"
   },
   {
    "title": "Russia Sanctions and Tariffs- What Businesses Need to Know About the Graham Act - The National Law Review",
@@ -5130,6 +5220,17 @@
    "priority": 2
   },
   {
+   "title": "Steve Smith takes helm at Airforwarders Association as Brandon Fried steps down",
+   "link": "https://theloadstar.com/steve-smith-takes-helm-at-airforwarders-association-as-brandon-fried-steps-down/",
+   "published": "Mon, 28 Sep 2026 13:57:29 GMT",
+   "summary": "The Airforwarders Association (AfA) has appointed former Airlink president and chief executive Steve Smith as its new chief executive. He succeeds Brandon Fried, who has led the association for 21 years and will stay on during the transition.\nMr Smith spent 13 years leading humanitarian logistics organisation Airlink, building its partnerships with airlines, logistics providers and aid groups. Before joining Airlink, he held a senior commercial role at Rolls-Royce Civil Aerospace.\n“The ...\nThe p",
+   "source": "The Loadstar",
+   "module": "航运物流行业",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "Thyssenkrupp steel unit aims to triple core profit in turnaround push - Reuters",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXVlUU1YblZwT0NMYXNYaEhodkJmTE1UT3ZTODY2SDlXZW9Hc2Z2dWsxTE1vcjh4UnNQazI0NWtqc1FGcFdYNVJVakljMENCUmliTkZCZ0otb1VmX3ZXaF9hS0FpWGswNWUzWU02c191XzJYN3ZwdUVBREVrRy1fRTZOaldUQzl5cmlab0FIRWpBX2NoMWxGa244ZDhVc1FNLTh2R21pRHNqZ2FB?oc=5",
    "published": "Mon, 28 Sep 2026 13:46:09 GMT",
@@ -5138,6 +5239,17 @@
    "module": "海外媒体",
    "category": "其他",
    "priority": 2
+  },
+  {
+   "title": "No mention of U.S.-China ship taxes in trade truce",
+   "link": "https://www.freightwaves.com/news/no-mention-of-u-s-china-ship-taxes-in-trade-truce",
+   "published": "Mon, 28 Sep 2026 13:45:27 GMT",
+   "summary": "U.S. port-entry fees on China-linked and China-built vessels could be delayed under the broader trade truce extension.\nThe post No mention of U.S.-China ship taxes in trade truce appeared first on FreightWaves.",
+   "source": "FreightWaves",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "too_short"
   },
   {
    "title": "Other fixed vegetable fats and fractions, nes imports from Rwanda |2024 - World Bank Group",
@@ -5220,6 +5332,17 @@
    "category": "中美经贸",
    "priority": 2,
    "content_status": "too_short"
+  },
+  {
+   "title": "Zambia Flanges, stainless steel imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaG5INWtEcXY5TFhya0ZSdFU0Z2hXem1RUzd0Q2cwUXRzQ2ZTSGxibkoxeXpvTDhKemRuZkxuVkFVTUotTTZHLWt1NjhrekRuM1NHZ1NtY0NlSkhQYkNHbXBDZVdqZlBCUzN5Qk85MjF3NnZTS205QUZjNG0zRTA3NWNpUFJ1UzhJRV82dmpKRXVKbHRsM0FGbUc1WTlVZ1NYSGxNVHZkREJTbm93VWdmWQ?oc=5",
+   "published": "Mon, 28 Sep 2026 13:08:16 GMT",
+   "summary": "Zambia Flanges, stainless steel imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "Barbados Shock absorbers for motor vehicles imports by country - World Bank Group",
@@ -5422,6 +5545,17 @@
    "priority": 2
   },
   {
+   "title": "Everything I Got Right and Wrong About the Tesla Semi After Finally Driving One",
+   "link": "https://www.freightwaves.com/news/everything-i-got-right-and-wrong-about-the-tesla-semi-after-finally-driving-one",
+   "published": "Mon, 28 Sep 2026 11:42:00 GMT",
+   "summary": "Back in May 2023 I called the Tesla Semi a glorified day cab with poor driver positioning and weak features. In July 2025 I said that outside of what it could do as an electric truck, it was never appealing from a driver&#8217;s standpoint, and that current cab configurations ran circles around it on comfort, [&#8230;]\nThe post Everything I Got Right and Wrong About the Tesla Semi After Finally Driving One appeared first on FreightWaves.",
+   "source": "FreightWaves",
+   "module": "航运物流行业",
+   "category": "其他",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "China, US Agree Tariff Cuts on $60bn of Goods as Trade Truce Extends - The Diplomatic Insight",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSjhDYW1fZWI3UUd3djBJQ3hfM2R3STlkU3VjVVNrQ25VNmV2VXRidlFRVGN5enV4UW0tVHJndjFvNlU1RDBPRzN6bWRkWWxEbGczVjlMemFyeFdhdUlFdHF6ZjRTNnh0M0NLaXNMYUlZRHRsQ2hSNHE5MUpWMTFOTmNQQQ?oc=5",
    "published": "Mon, 28 Sep 2026 11:33:22 GMT",
@@ -5492,6 +5626,17 @@
    "priority": 2
   },
   {
+   "title": "China-India box rates double as import demand strains vessel space",
+   "link": "https://theloadstar.com/china-india-box-rates-double-as-import-demand-strains-vessel-space/",
+   "published": "Mon, 28 Sep 2026 11:19:26 GMT",
+   "summary": "Vessel space demand from China to India continues to be strong, keeping container freight rates on the intra-Asia tradelane elevated.\nFor example, average spot rates from Shanghai to JNPA have climbed 20% since end-August, and currently stand at around $3,700 per teu and $3,850 per 40ft, according to new data from market sources.\nThe month-on-month rate increase on Shanghai-Chennai bookings has been even sharper, up 25% on average, now hovering at around ...\nThe post China-India box rates double",
+   "source": "The Loadstar",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "China cuts tariffs on US farm goods, but soybeans excluded - Minute Mirror",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjJPallua1JlYVZzMThlR2t1SDg2Qi1peTZlNHNFenVNMEVfQ0VnbmxDSkxCa1dzcHNVbnJxMmlCNnllcVV6dHhXb3BxcXJCdE5lczRtTW44SWc0U2dhTEpLdkhfemlHN3ExSk9wcFIzSUJ5OHZmQURUVHNIcGJoQVFrclg5a2pkMUp4V2g3WHRoUDBGa09naw?oc=5",
    "published": "Mon, 28 Sep 2026 11:11:29 GMT",
@@ -5533,6 +5678,17 @@
    "priority": 2
   },
   {
+   "title": "Malawi Flanges, stainless steel imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMktIcDR2OEIydG53NGpLRXVxRWVTak5GSjFBZVFsZXpFOUJPNXJIdTdsbnkzNV9LWkVmakVYeWY1QlRzbmpmaTVYWnpqQ0xfSFNIUmxqUFgxcGFfZGZ1UkxzbHNDREF5VnVwU191OTBCYTlzNTF3WkViWUw0TVFCOHROeVRobUpTRENOdERyRUk4cUFwVWVGWmVOeHlXWmRKX0tRYXJlTi1zcFdVNHltTA?oc=5",
+   "published": "Mon, 28 Sep 2026 10:51:18 GMT",
+   "summary": "Malawi Flanges, stainless steel imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "Namibia Electro-mechanical domestic appliances,with sel imports by country - World Bank Group",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkYzY0o0SWNzanZ0MEFoZFlQUGswbW83S1VZRjNoZ0xNMjdZZ2hMVGxFYWp6NjdiRmpabUptb0lhYXRubFlBY3hkTFUtZ0ZzSjN1XzV1akZBUWxOSDlxc3d4Wnd4QXEyLVFmUmExWVF5b2I2aGduX0tzQ295UEhsak9TSFJBR0ljSEVNa1hBUVpHQUdDbTF0bE13cWJ2Y1ZFX196ZHQwNHFmVlVDY1RtTQ?oc=5",
    "published": "Mon, 28 Sep 2026 10:46:48 GMT",
@@ -5543,6 +5699,28 @@
    "priority": 2
   },
   {
+   "title": "Gov't, ruling party vow harsher sanctions on companies over collusive practices",
+   "link": "https://en.yna.co.kr/view/AEN20260928003200315",
+   "published": "Mon, 28 Sep 2026 10:46:23 GMT",
+   "summary": "SEOUL, Sept. 28 (Yonhap) -- The government and the ruling Democratic Party (DP) ...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
+   "title": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESGIJ ESF E 688790 ECO MAESTRO 3311 6 500902 MALTA * TER - Hapag-Lloyd",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmpVMWUzV3FlWkEzZEI4V1o1VEZZaXppWHg1YWxLUE5SUTdZcXpNRGtGalFqVFJfWWF6WXN2QWV6aG9YZThNaGZxd1AyZU8tWFlXS1lERm95b3NMZDExX25fdnFqLVhUOUIzbVkyOE03YUFkekNUU2xKQ0tVbFF5ZUwxcFZJUXlKb1JDQUZ3QTk4Ri16eWg1Zzk5cnVPUQ?oc=5",
+   "published": "Mon, 28 Sep 2026 10:44:47 GMT",
+   "summary": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESGIJ ESF E 688790 ECO MAESTRO 3311 6 500902 MALTA * TER&nbsp;&nbsp;Hapag-Lloyd",
+   "source": "Hapag-Lloyd | Shipping",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "Tugboats and fuels - reducing emissions is everyone’s responsibility",
    "link": "https://www.seatrade-maritime.com/ports-logistics/tugboats-and-fuels-reducing-emissions-is-everyone-s-responsibility",
    "published": "Mon, 28 Sep 2026 10:44:11 GMT",
@@ -5550,6 +5728,17 @@
    "source": "Seatrade Maritime",
    "module": "航运物流行业",
    "category": "其他",
+   "priority": 2,
+   "content_status": "error"
+  },
+  {
+   "title": "Trade groups urge USTR to extend pause on China-linked ship fees",
+   "link": "https://www.supplychaindive.com/news/trade-groups-urge-ustr-to-extend-pause-on-china-linked-ship-fees/831387/",
+   "published": "Mon, 28 Sep 2026 10:42:50 GMT",
+   "summary": "The National Retail Federation and others said a continued halt to fees would help ease uncertainty as stakeholders face elevated transportation costs.",
+   "source": "Supply Chain Dive",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
    "priority": 2,
    "content_status": "error"
   },
@@ -5968,6 +6157,17 @@
    "priority": 2
   },
   {
+   "title": "US-China trade board carves path for tariff relief on $60B of goods",
+   "link": "https://www.supplychaindive.com/news/us-china-trade-board-carves-path-for-tariff-relief-on-60b-of-goods/831479/",
+   "published": "Mon, 28 Sep 2026 08:17:00 GMT",
+   "summary": "The board has proposed lower tariffs on U.S.-bound household goods and toys, but the White House did not specify reduction amounts or an implementation date.",
+   "source": "Supply Chain Dive",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "error"
+  },
+  {
    "title": "Remarks by Minister for Trade and Industry (Energy and Industry) Dr Tan See Leng at VSMC Grand Opening Ceremony - Ministry of Trade and Industry",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVUxJRDQ1ZFNiTGphUllyTXlnM0dEVUNDT2FTOERVN08xai1WRkFhMlUzWDdFdmgyVWpQRnVPb1JVaWlvWUdaUFFTa0I1Uldad2tqTV8zNWtITnBEYnZkZmJTRTVXRU1scVlnVmxPaGUxM1M2c00xQi1FQm1XLTFTMmFCUTJ1TG5zcVBSaWYtU2RhVHlobTRLWTVMUXRZVW5waTNRZUZSUkJSc0NJb2dFcWlCeTJQVVNxYXlvckNuY1hXUEd4SHVnbGZEdlVrUk02dE1LbWpxelk4ckJh?oc=5",
    "published": "Mon, 28 Sep 2026 08:11:31 GMT",
@@ -6056,6 +6256,17 @@
    "module": "海外媒体",
    "category": "航运物流",
    "priority": 2
+  },
+  {
+   "title": "World’s Top Coal Exporter Strains to Lift Output as Prices Soar - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjF1ZUVhVWthZW83R3BzLTFzeHJFUmxjcTFPcDdCOWNzN1RJR0owQm5DUVZsSENZVEF2cjA3aVVNZjV2Ym9veTV6dU42QkU4SnJJNnFianA4Xzk1OTE0dkFqdGxuMGRob3NtaVVlTUhyNlJpQVk2cUdpZGdnWmlSejQzR010a05Rc1h5TFY1TndkYlZKSjRONUM0cWhNV09Mamd4TGxXcllQdmhNMWExZU9peWs?oc=5",
+   "published": "Mon, 28 Sep 2026 07:24:44 GMT",
+   "summary": "World’s Top Coal Exporter Strains to Lift Output as Prices Soar&nbsp;&nbsp;Bloomberg",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "China, US Agree Tariff Cuts On US$60 Billion Of Goods - BusinessToday Malaysia",
@@ -6306,6 +6517,17 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
+  },
+  {
+   "title": "How supply chains can achieve resiliency with quantum optimization",
+   "link": "https://www.supplychaindive.com/spons/how-supply-chains-can-achieve-resiliency-with-quantum-optimization/831267/",
+   "published": "Mon, 28 Sep 2026 05:00:00 GMT",
+   "summary": "If your supply chain is drowning in variables, constraints and constant change, quantum optimization may offer a smarter way forward.",
+   "source": "Supply Chain Dive",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 2,
+   "content_status": "error"
   },
   {
    "title": "China says to cut tariffs on US farm goods, but soybeans excluded - The Standard (HK)",
@@ -7951,6 +8173,16 @@
    "priority": 2
   },
   {
+   "title": "Samsung SDI to showcase battery solutions for AI data centers in Singapore",
+   "link": "https://en.yna.co.kr/view/AEN20260929002500320",
+   "published": "Tue, 29 Sep 2026 09:45:23 GMT",
+   "summary": "SEOUL, Sept. 29 (Yonhap) -- Samsung SDI Co., a major South Korean battery maker,...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
    "title": "South Korean exports seen rising for 16th month on solid AI chip demand: Reuters poll",
    "link": "https://www.channelnewsasia.com/business/south-korean-exports-seen-rising-16th-month-solid-ai-chip-demand-reuters-poll-6417096",
    "published": "Tue, 29 Sep 2026 09:08:01 GMT",
@@ -7988,6 +8220,16 @@
    "source": "Inquirer | RSS",
    "module": "海外媒体RSS",
    "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Senior N.K. diplomat says Pyongyang's nuclear status can never be reversed 'in any circumstances'",
+   "link": "https://en.yna.co.kr/view/AEN20260929000200315",
+   "published": "Tue, 29 Sep 2026 03:56:35 GMT",
+   "summary": "WASHINGTON, Sept. 28 (Yonhap) -- A senior North Korean diplomat reiterated Monda...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
    "priority": 1
   },
   {
@@ -8541,6 +8783,36 @@
    "priority": 1
   },
   {
+   "title": "(URGENT) Antipersonnel mines similar to N. Korean wooden-box type believed to have caused DMZ mine blast: S. Korean military",
+   "link": "https://en.yna.co.kr/view/AEN20260928011800315",
+   "published": "Mon, 28 Sep 2026 20:44:17 GMT",
+   "summary": "(END)",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "(URGENT) DMZ blast highly believed to be caused by N. Korean mines: S. Korean military",
+   "link": "https://en.yna.co.kr/view/AEN20260928011600315",
+   "published": "Mon, 28 Sep 2026 20:41:25 GMT",
+   "summary": "(END)",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "(Asiad) Football forward guarding against complacency ahead of semifinal duel vs. China",
+   "link": "https://en.yna.co.kr/view/AEN20260928011500315",
+   "published": "Mon, 28 Sep 2026 20:38:24 GMT",
+   "summary": "NAGOYA, Japan, Sept. 28 (Yonhap) -- With South Korea about to take on China in t...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
    "title": "CPTPP offers opportunities for supply-chain diversification amid global trade shifts - Vietnam+ (VietnamPlus)",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1U2bmt4U1VXNVhFUXR3c01vRmppU0UydmR3eXlpUUJlR1ZqVnZSRVZPeC1SRUxQcDg3d3pKQ25MYUNwczRTT0NpV2d2SC1BdVFOZ1NNN0VlLV9HR0NpeWJGWDBOYUZuUkVZZ3NoeFVyOEhRWTdzdGVsTzh4N2tvWEVJNlZrLTZjV21wVnhJT3A2dXNVQml2U1pjUHhDM3lWQmhxNEt5UG1IZnYzbEJCUlU3bnlxM0NiQTFJWFpHVW9jVTQ?oc=5",
    "published": "Mon, 28 Sep 2026 20:21:16 GMT",
@@ -8548,6 +8820,16 @@
    "source": "Vietnam Plus",
    "module": "海外媒体",
    "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "(LEAD) Foreign ministry calls in Ukrainian envoy as Kyiv reveals transfer of N. Korean POWs",
+   "link": "https://en.yna.co.kr/view/AEN20260928011151315",
+   "published": "Mon, 28 Sep 2026 19:45:10 GMT",
+   "summary": "SEOUL, Sept. 28 (Yonhap) -- The foreign ministry on Monday called in Andrii Vies...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
    "priority": 1
   },
   {
@@ -8568,6 +8850,26 @@
    "source": "Inquirer | RSS",
    "module": "海外媒体RSS",
    "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Foreign ministry calls in Ukrainian envoy as Kyiv reveals transfer of N. Korean POWs",
+   "link": "https://en.yna.co.kr/view/AEN20260928011100315",
+   "published": "Mon, 28 Sep 2026 19:16:12 GMT",
+   "summary": "SEOUL, Sept. 28 (Yonhap) -- The foreign ministry on Monday called in Andrii Vies...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "(URGENT) Foreign ministry calls in Ukrainian envoy as Kyiv reveals transfer of N. Korean POWs",
+   "link": "https://en.yna.co.kr/view/AEN20260928011000315",
+   "published": "Mon, 28 Sep 2026 19:05:06 GMT",
+   "summary": "(END)",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
    "priority": 1
   },
   {
@@ -8601,12 +8903,62 @@
    "priority": 1
   },
   {
+   "title": "(2nd LD) Seoul stocks sink over 2.5 pct on chip losses",
+   "link": "https://en.yna.co.kr/view/AEN20260928007352320",
+   "published": "Mon, 28 Sep 2026 16:35:38 GMT",
+   "summary": "SEOUL, Sept. 28 (Yonhap) -- South Korean shares fell by more than 2 percent Mond...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "(LEAD) Seoul stocks sink over 2.5 pct on chip losses",
+   "link": "https://en.yna.co.kr/view/AEN20260928007351320",
+   "published": "Mon, 28 Sep 2026 15:58:41 GMT",
+   "summary": "SEOUL, Sept. 28 (Yonhap) -- South Korean shares fell by more than 2 percent Mond...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
    "title": "Indonesia eyes China for massive 2,772km railway project – with caution",
    "link": "https://www.bangkokpost.com/business/general/3327598/indonesia-eyes-china-for-massive-2772km-railway-project-with-caution",
    "published": "Mon, 28 Sep 2026 15:54:00 GMT",
    "summary": "Indonesia is considering Chinese investment to help build a massive 2,772 kilometre railway network through the vast, resource-rich region of Kalimantan, following the completion of Southeast Asia's first high-speed line between Jakarta and Bandung, state media and analysts said.",
    "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "Seoul stocks sink over 2 pct on chip losses",
+   "link": "https://en.yna.co.kr/view/AEN20260928007300320",
+   "published": "Mon, 28 Sep 2026 15:34:39 GMT",
+   "summary": "SEOUL, Sept. 28 (Yonhap) -- South Korean shares fell by more than 2 percent Mond...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "(URGENT) Seoul stocks sink over 2.5 pct on chip losses",
+   "link": "https://en.yna.co.kr/view/AEN20260928007000320",
+   "published": "Mon, 28 Sep 2026 15:33:09 GMT",
+   "summary": "(END)",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "(Asiad) Kim Yeong-nam wins diving silver, denies 1-2 finish by China",
+   "link": "https://en.yna.co.kr/view/AEN20260928007400315",
+   "published": "Mon, 28 Sep 2026 15:30:04 GMT",
+   "summary": "NAGOYA, Japan, Sept. 28 (Yonhap) -- Kim Yeong-nam claimed silver in the men&apos;s 1-...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
    "category": "中美经贸",
    "priority": 1
   },
@@ -8618,6 +8970,26 @@
    "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "NBC News: Eight Marines Injured in Previously Undisclosed Iranian Attack in Hormuz",
+   "link": "https://gcaptain.com/nbc-news-eight-marines-injured-in-previously-undisclosed-iranian-attack-in-hormuz/",
+   "published": "Mon, 28 Sep 2026 15:16:28 GMT",
+   "summary": "Eight U.S. Marines were injured when an Iranian cruise missile struck a vessel they were operating aboard in the Strait of Hormuz earlier this month, according to a previously unreported...",
+   "source": "gCaptain",
+   "module": "航运物流行业",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Chief regulator vows to elevate capital market's global status",
+   "link": "https://en.yna.co.kr/view/AEN20260928005700320",
+   "published": "Mon, 28 Sep 2026 13:28:38 GMT",
+   "summary": "SEOUL, Sept. 28 (Yonhap) -- The chief of the country&apos;s financial regulator said ...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
    "priority": 1
   },
   {
@@ -8641,6 +9013,16 @@
    "priority": 1
   },
   {
+   "title": "KOSPI sharply down late Mon. morning on chip profit-taking",
+   "link": "https://en.yna.co.kr/view/AEN20260928005100320",
+   "published": "Mon, 28 Sep 2026 11:31:59 GMT",
+   "summary": "SEOUL, Sept. 28 (Yonhap) -- South Korean shares extended losses late Monday morn...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
    "title": "PM chairs meeting on science, technology contributions to socio-economic development - Vietnam+ (VietnamPlus)",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa01KSFA5WkxIV1BrbEhDM201M3RHMno1ZWFMclRIbnVubGlQRFpsZFYxRDN0dVhWQ19mdFlyalllT2VVZ1M4N29wUkk2VlVEU0ltdThQN29xdnBYczl6Z3ExTzFLTk5KNk5GLVZNZkliRDI4aDZCWXlDWXVmUlYyb3RFeDFtVjBSSWZCVjdpRlQzNkdQTTBzbnRXc0tXdFhIUGkyYTczWE15MnMzRktPSnNhaGxUT09nYWtuSzBMLWFlUQ?oc=5",
    "published": "Mon, 28 Sep 2026 10:41:34 GMT",
@@ -8658,6 +9040,16 @@
    "source": "Google News | SE Asia",
    "module": "亚太官方",
    "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "LG Chem, Volkswagen to jointly develop sustainable mobility materials",
+   "link": "https://en.yna.co.kr/view/AEN20260928001900320",
+   "published": "Mon, 28 Sep 2026 09:50:28 GMT",
+   "summary": "SEOUL, Sept. 28 (Yonhap) -- LG Chem Ltd., South Korea&apos;s leading chemical company...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
    "priority": 1
   },
   {
