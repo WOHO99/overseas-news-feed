@@ -1,15 +1,17 @@
 {
- "updated": "2026-09-29T01:51:30.671075+00:00",
- "total": 877,
- "high_priority": 770,
+ "updated": "2026-09-29T01:56:03.956692+00:00",
+ "total": 897,
+ "high_priority": 785,
  "fulltext_count": 0,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
   "国际组织": 0,
-  "海外媒体": 0,
+  "海外媒体": 1,
   "企业官方": 0,
-  "亚太官方": 0
+  "亚太官方": 0,
+  "海外媒体RSS": 12,
+  "航运物流行业": 7
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -43,7 +45,17 @@
   "Singapore MTI | Trade": 0,
   "Australia DFAT | Trade": 0,
   "Google News | SE Asia": 0,
-  "Google News | ASEAN Trade": 0
+  "Google News | ASEAN Trade": 0,
+  "CNBC | RSS": 0,
+  "CNA | RSS": 0,
+  "NHK World | RSS": 0,
+  "ANTARA | RSS": 1,
+  "Malay Mail | RSS": 1,
+  "Inquirer | RSS": 0,
+  "ABC AU | RSS": 1,
+  "Container News": 0,
+  "Splash 247": 0,
+  "Seatrade Maritime": 0
  },
  "articles": [
   {
@@ -785,6 +797,28 @@
    "module": "国际组织",
    "category": "其他",
    "priority": 3
+  },
+  {
+   "title": "Supply chain relief - Panama Canal to increase in draught and daily transits",
+   "link": "https://www.seatrade-maritime.com/maritime-transportation/supply-chain-relief-panama-canal-to-increase-in-draught-and-daily-transits",
+   "published": "Tue, 29 Sep 2026 01:47:59 GMT",
+   "summary": "In some small relief to shipping and supply chains the Panama Canal is to increase draughts and daily transits following increased rainfall.",
+   "source": "Seatrade Maritime",
+   "module": "航运物流行业",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "error"
+  },
+  {
+   "title": "COSCO SHIPPING delivers China’s first domestically built 88,000-cbm VLGC",
+   "link": "https://container-news.com/cosco-shipping-delivers-chinas-first-domestically-built-88000-cbm-vlgc/",
+   "published": "Tue, 29 Sep 2026 01:30:31 GMT",
+   "summary": "COSCO SHIPPING (Qidong) Offshore has delivered the 88,000-cbm CHANG PING YUAN, which China Classification Society (CCS) describes as the first domestically designed and built VLGC under the Chinese flag. The new vessel combines LPG dual-fuel propulsion with energy-saving technologies and intelligent ship systems. It has also been designed to carry ammonia, giving it greater flexibility [&#8230;]\nThe post COSCO SHIPPING delivers China&#8217;s first domestically built 88,000-cbm VLGC appeared firs",
+   "source": "Container News",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "too_short"
   },
   {
    "title": "Japan enlists royal visit, subsidies to revive tourism in quake-hit Kyushu",
@@ -3375,6 +3409,17 @@
    "priority": 2
   },
   {
+   "title": "Many homeowners have a big insurance coverage gap — and don't even know it",
+   "link": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+   "published": "Sat, 26 Sep 2026 13:30:01 GMT",
+   "summary": "Many consumers have a gap in their homeowners insurance coverage. This puts them at financial risk, and they are likely unaware, experts said.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "Ultrasound machines(901812) exports to Rwanda - World Bank Group",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnZnYS1UZWZwbGlOR1FCdVQ3b1lVV3d0SnZRaXVXNk5BVmJiSGx0NVYzZ2syb2JKb1gtSW8tOEYtYzNoM0N3TjJVZ2ZXY0VNeU9Jb0s5LWhjTXRYWXdxSkZ0QUhudjJzUFdIZWhqYUo0aVlZR0VxRzVsQmN4V2hubElyLUc3X25meTktTVdXZUUzVmQyTkRibXUtZC1jUG9EMmVfUDRVZ2tzQUg3dnNkbFpKYy1IUzAweXJFSw?oc=5",
    "published": "Sat, 26 Sep 2026 13:23:37 GMT",
@@ -4205,6 +4250,17 @@
    "priority": 2
   },
   {
+   "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
+   "link": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
+   "published": "Mon, 28 Sep 2026 23:00:01 GMT",
+   "summary": "Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "US Import Ban On Canadian Alcohol, Motorcycles Set to Begin - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDVjX0dZVTRKOG1HQy1EMmNNRWcwSmlXN0xNRjhYbWRreHB1VV8wQ3FIZlctaHZ5ZDEyQ1NMdXR6ZHp0MzM0WkdpV1NZR25ZV3pGUmI0aHJvczRUM0tFY1RPSENJelAtUm9uTjlLYTZjSmQ0N2NHcnRpRGNRcUoxNXJpWXo0eEZTel84RjQ3VHByZE9EOFBNY21YTkdMcExTR05KNHlZX2RBVlRKc1E?oc=5",
    "published": "Mon, 28 Sep 2026 23:00:00 GMT",
@@ -4277,6 +4333,17 @@
    "content_status": "title_only"
   },
   {
+   "title": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist",
+   "link": "https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html",
+   "published": "Mon, 28 Sep 2026 21:43:40 GMT",
+   "summary": "The proposal joins a chorus of other measures being put forward in Congress as the body mulls how to regulate AI.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "In the US-China AI race, the real fight is keeping humans in control",
    "link": "https://www.scmp.com/opinion/china-opinion/article/3368932/us-china-ai-race-real-fight-keeping-humans-control?utm_source=rss_feed",
    "published": "Mon, 28 Sep 2026 21:30:12 GMT",
@@ -4297,6 +4364,17 @@
    "priority": 2
   },
   {
+   "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+   "link": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+   "published": "Mon, 28 Sep 2026 21:20:00 GMT",
+   "summary": "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "Cliffs’ Stelco Slashes Output at Hamilton Mill as US Tariffs Bite - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2dTbE5oMzVQcUZzTFdvbnpTWkhadnhGWnhHX09CbE9lUGNCVzJ5WVI0aHlQd1dOYTdEZFNjbTdKSEZyWTQ4T3BjUUtMek5BYU9oWndMQ245NVV3eElzempEb3VTbVVPemVqRVNLcU4xcklMNERxc0F1X2RTUTJXWXJ0dnhyYnlqdFFoQzMyRXN4cGM0alZJUFpObTVmbnJ2c1Y3WFJNWGhTYzRaZEtNN0pqWnlscXQ3NW9QaTh4Smd0VGtaWTFBQzN3?oc=5",
    "published": "Mon, 28 Sep 2026 21:06:13 GMT",
@@ -4315,6 +4393,17 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
+  },
+  {
+   "title": "Michael Burry believes the AI bubble 'may burst' sooner than he first believed",
+   "link": "https://www.cnbc.com/2026/09/28/michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed.html",
+   "published": "Mon, 28 Sep 2026 20:43:14 GMT",
+   "summary": "The famed short seller is switching to puts with expiries in June for his major tech short bets.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "跨境电商",
+   "priority": 2,
+   "content_status": "too_short"
   },
   {
    "title": "U.S.-China Tariff Deal Excludes Soybeans, Leaving Market Disappointed - AgWeb",
@@ -4450,6 +4539,17 @@
    "priority": 2
   },
   {
+   "title": "Maersk revises fuel surcharges in Greece, Cyprus and Skopje",
+   "link": "https://container-news.com/maersk-revises-fuel-surcharges-in-greece-cyprus-and-skopje/",
+   "published": "Mon, 28 Sep 2026 19:00:09 GMT",
+   "summary": "Maersk has revised its truck fuel surcharges in Greece, Cyprus and Skopje, effective 28 September 2026. The carrier attributed the adjustments to higher fuel costs linked to the current situation in the Middle East. The revised surcharge levels are: Location Truck fuel surcharge Greece 27.5% Skopje 27.5% Cyprus 17.5% The temporary measure will remain in [&#8230;]\nThe post Maersk revises fuel surcharges in Greece, Cyprus and Skopje appeared first on Container News.",
+   "source": "Container News",
+   "module": "航运物流行业",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "China is building a new rulebook for dealing with the US — tariffs are only the beginning of a much broade - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNdm9SQnVJZzlsbkZ0UlJkVzJnNVhmZWU3d1VXblJPUjZzZm1zdjhKX0NvbWc4aU5CTm45czJGVldaUGwtVW9CTzhQNVpPYjNvV0N3SURhWGJkc3YwTzczM05KZktPNmtOMXhERUpYV29Qb0NaeDNfbzY2RE1hU2kwNm9Wa3FfcmU0ZnFGdWJOWnRISDVwQ1BDbjhzNW9fUlBUcUl1YmJ0c1NIQ2pJNnMwd1dwTFV4ZnBUT3BDQWFodXhRLWU4T2lhbHVmSDRlWmxfbDljNm1hTGtJVXJLR1BrUmFfSnB1QmNuSmE1WFhkZjhFeks2eXhJQkpacVU1Sm1zLUlGa3R4eFgyaXBYamlHbkppR2xKRDdwdWpfTVRETTNncFdmZmEtU1dn0gGqAkFVX3lxTE12b1JCdUlnOWxuRnRSUmRXMmc1WGZlZTd3VVduUk9SNnNmbXN2OEpfQ29tZzhpTkJObjlzMkZWV1pQbC1Vb0JPOFA1Wk9iM29XQ3dJRGFYYmRzdjBPNzMzTkpmS082a04xeERFSlhXb1BvQ1p4M19vNjZETWFTaTA2b1ZrcV9yZTRmcUZ1Yk5adEhINXBDUENuOHM1b19SUFRxSXViYnRzU0hDakk2czB3V3BMVXhmcFRPcENBYWh1eFEtZThPaWFsdWZINGVabF9sOWM2bWFMa0lVcktHUGtSYV9KcHVCY25KYTVYWGRmOEV6SzZ5eElCSlpxVTVKbXMtSUZrdHh4WDJpcFhqaUduSmlHbEpEN3B1al9NVERNM2dwV2ZmYS1TV2c?oc=5",
    "published": "Mon, 28 Sep 2026 18:55:00 GMT",
@@ -4551,6 +4651,17 @@
    "priority": 2
   },
   {
+   "title": "Hapag-Lloyd revises Rhine low water surcharges",
+   "link": "https://container-news.com/hapag-lloyd-revises-rhine-low-water-surcharges/",
+   "published": "Mon, 28 Sep 2026 18:00:43 GMT",
+   "summary": "Hapag-Lloyd will introduce revised low water surcharge levels for barge transport on the Rhine River from 1 November 2026. The surcharges will apply to import and export cargo until further notice. Rates depend on water levels recorded at the Kaub, Cologne, Duisburg-Ruhrort and Emmerich gauges. Hapag-Lloyd warned that deteriorating conditions could make barge transport operationally [&#8230;]\nThe post Hapag-Lloyd revises Rhine low water surcharges appeared first on Container News.",
+   "source": "Container News",
+   "module": "航运物流行业",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "Cliffs’ Stelco Set to Idle Some Steel Operations on Tariff Woes - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNODNFeDNNbjI2b1NiZlZpaGQ4RHNxc2RjcGVQYzQtQ2hJZGVoRUZqMDVGVzVHbmNZV1prbHA5cHZpamJ6eXlTbVFzS0JWTFdTb1ZVQTJUUWJDS3o1bTM4eVBjcFIwdkdsbTlzaXFQTlYtQmNPWVd4RVZJRkhCbzdnN29fbWlEdE9RTU5wd2kwbGF5YjNDOGhBVzJvUUpyX0pDeklWQTUtdGFNdWFvTGhoQkJjRy00QQ?oc=5",
    "published": "Mon, 28 Sep 2026 17:48:42 GMT",
@@ -4559,6 +4670,17 @@
    "module": "海外媒体",
    "category": "美国关税",
    "priority": 2
+  },
+  {
+   "title": "A key test looms for the AI trade this week. Here's how Mike Khouw is trading it",
+   "link": "https://www.cnbc.com/2026/09/28/a-key-test-looms-for-the-ai-trade-this-week-heres-how-mike-khouw-is-trading-it.html",
+   "published": "Mon, 28 Sep 2026 17:48:15 GMT",
+   "summary": "Micron reports after the bell Wednesday.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "too_short"
   },
   {
    "title": "Big relief for India as US waives tariffs on certain specialty drugs from 20 countries, including India - India.com",
@@ -4721,6 +4843,17 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
+  },
+  {
+   "title": "Port Nelson reports revenue growth, but losses asset revaluation",
+   "link": "https://container-news.com/port-nelson-reports-revenue-growth-but-losses-asset-revaluation/",
+   "published": "Mon, 28 Sep 2026 16:00:06 GMT",
+   "summary": "Port Nelson has reported an underlying net profit after tax of NZ$ 12.7 million for the year ended June 30, 2026, supported by strong cargo throughput of 3.8 million tonnes and revenue of NZ$ 96.3 million, 15% ahead of the prior year. The board has declared a dividend of NZD 6.5 million to shareholder IHL, [&#8230;]\nThe post Port Nelson reports revenue growth, but losses asset revaluation appeared first on Container News.",
+   "source": "Container News",
+   "module": "航运物流行业",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "too_short"
   },
   {
    "title": "US and China release $60 billion nonsensitive product lists for tariff cuts after Trump-Xi meeting - Ottumwa Courier",
@@ -5078,6 +5211,17 @@
    "priority": 2
   },
   {
+   "title": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
+   "link": "https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html",
+   "published": "Mon, 28 Sep 2026 13:09:26 GMT",
+   "summary": "Analysts warn an export ban could backfire, pushing up global diesel prices and potentially triggering higher U.S. gasoline prices as refiners adjust.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
    "title": "Barbados Shock absorbers for motor vehicles imports by country - World Bank Group",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZm81UEJ5eThYTUlhZ3VvR2FUM0lkVl84V0l5NWtzalcyN3o3RXhTWkp6SVllMWFfSXl1NWVOSFJsSGt6Q1BVY2NJc0RPemVDUmQ3RmF3TjIwejVURVg3SVg3Q3BwZGJVSWZwb0pHS0JELVNaZEJrQ0FDZXB5SThWX1VmcWJ3cHJBNGh6OVZ2ZHdmby1BeXZ4eXRJRGV3RGIzdXM0SnE3ZHB4WkNRNFAtNg?oc=5",
    "published": "Mon, 28 Sep 2026 13:06:21 GMT",
@@ -5399,6 +5543,17 @@
    "priority": 2
   },
   {
+   "title": "Tugboats and fuels - reducing emissions is everyone’s responsibility",
+   "link": "https://www.seatrade-maritime.com/ports-logistics/tugboats-and-fuels-reducing-emissions-is-everyone-s-responsibility",
+   "published": "Mon, 28 Sep 2026 10:44:11 GMT",
+   "summary": "Carbon insetting, renewable diesel, and electric propulsion are all options to decarbonise tugboat operations in the US",
+   "source": "Seatrade Maritime",
+   "module": "航运物流行业",
+   "category": "其他",
+   "priority": 2,
+   "content_status": "error"
+  },
+  {
    "title": "China, US Agree Tariff Cuts On $60bn Of Goods In Trade Truce Extension - Arise News",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkdqR18xVTA3c2J0ak80ci1QQ0RjZmtGR1hnMVd5elJDRlp3U19NdU1KMXExQU1BWWdVS0hpNTBRU2l2Qk5nb0hZSFJ4czhubDkzZWtRN3pzYTRLTmtMbl96MEN6X205V3dzOGlRQS1VT0thM09SX3F2VDJRQV8zNHpNWkhUUFpBRmRhcEJpZG11Uk9s?oc=5",
    "published": "Mon, 28 Sep 2026 10:42:31 GMT",
@@ -5447,6 +5602,17 @@
    "module": "国际组织",
    "category": "航运物流",
    "priority": 2
+  },
+  {
+   "title": "Russian oil supply to India tightens on reduced exports, strong Chinese demand - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTlqcl9scHJnUzlYbUtkUnpIdDRZWUhiaUVRU0FTZ1hzTVNRVXZLRFZFUmdTc0s2LVNueDBpOHBVZTNIb2ZKei16c2c0VVhFMjd4UFdxclM0bjk0bGJWbHNrT2FpSlBZenVsanlUanZCVk05SHVsS0IyNU5FTno5aS1scFJKT3BUWnhBZjc4Rll2UUFTVEd4eWJRaEFUVzJMdDdMYkE1QVdKYXE4aUdWQ0ljRC14QTZDbURzSVJ4UzI?oc=5",
+   "published": "Mon, 28 Sep 2026 10:27:52 GMT",
+   "summary": "Russian oil supply to India tightens on reduced exports, strong Chinese demand&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "US, China to consider tariff cuts on $60 billion in goods - Qazinform",
@@ -5779,6 +5945,17 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
+  },
+  {
+   "title": "Höegh Autoliner contracts six car carriers at China Merchants",
+   "link": "https://www.seatrade-maritime.com/shipyards/h-egh-autoliner-contracts-six-car-carriers-at-china-merchants",
+   "published": "Mon, 28 Sep 2026 08:27:06 GMT",
+   "summary": "The latest order at the Chinese shipbuilder lifts Höegh Autoliners’ Aurora Class fleet to 18 vessels",
+   "source": "Seatrade Maritime",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "error"
   },
   {
    "title": "Foreign Secretary discusses Russia sanctions, India-US ties in meeting with US Congressional delegation - CNBC TV18",
@@ -7774,6 +7951,26 @@
    "priority": 2
   },
   {
+   "title": "South Korean exports seen rising for 16th month on solid AI chip demand: Reuters poll",
+   "link": "https://www.channelnewsasia.com/business/south-korean-exports-seen-rising-16th-month-solid-ai-chip-demand-reuters-poll-6417096",
+   "published": "Tue, 29 Sep 2026 09:08:01 GMT",
+   "summary": "",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Sold for S$5 per post: Inside the persistent scourge of fake positive reviews online",
+   "link": "https://www.channelnewsasia.com/singapore/fake-reviews-online-google-carousell-supplier-6415126",
+   "published": "Tue, 29 Sep 2026 06:00:00 GMT",
+   "summary": "CNA found six businesses that have commissioned two suppliers to solicit fake reviews to improve their online presence, including a law firm, funeral home and a private investigator.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Tourism trade seeks to restore confidence",
    "link": "https://www.bangkokpost.com/business/general/3327889/tourism-trade-seeks-to-restore-confidence",
    "published": "Tue, 29 Sep 2026 05:51:00 GMT",
@@ -7781,6 +7978,16 @@
    "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
    "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "Eggie Apostol: From People Power to education revolution",
+   "link": "https://newsinfo.inquirer.net/2313174/eggie-apostol-from-people-power-to-education-revolution",
+   "published": "Tue, 29 Sep 2026 05:00:00 GMT",
+   "summary": "MANILA, Philippines — Halfway through her five-minute acceptance speech as an awardee of the Ramon Magsaysay Award Foundation (RMAF) in 2006, Eugenia “Eggie” Duran Apostol revealed something with an impish, if not triumphant tone that earned rousing applause: “That I should be chosen as one of the men and women (awardees) was far from my",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
    "priority": 1
   },
   {
@@ -8314,6 +8521,16 @@
    "priority": 1
   },
   {
+   "title": "Claims of ex-cop vs the Dutertes may be elevated to Ombudsman",
+   "link": "https://newsinfo.inquirer.net/2313165/claims-of-ex-cop-vs-the-dutertes-may-be-elevated-to-ombudsman",
+   "published": "Mon, 28 Sep 2026 23:11:09 GMT",
+   "summary": "MANILA, Philippines — The claims of a dismissed cop Rodulfo Gracioso Jr. against Vice President Duterte and her other family members may reach the Office of the Ombudsman, its chief Jesus Crispin Remulla said on Monday. Last week, Gracioso surfaced and claimed that he allegedly delivered suitcases of cash to Vice President Sara Duterte, former",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Customs Trade Coordinator in Springfield, Missouri - FedEx Careers",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fV3l1RHJpTF9RWnpMSlkyWWR1YS1Cb1lwMEtjWmw3MFBWVjg3WDJST3I3dTk3eFBrRVdqdG10MVNtMVN3ZnR4Wlg1UzNabGpCekIwMFBtNkxtMm5zRFJxVlFlLTNlQjZDdE9KWGI2endKQTd3azR3?oc=5",
    "published": "Mon, 28 Sep 2026 20:48:50 GMT",
@@ -8341,6 +8558,16 @@
    "source": "Google News | SE Asia",
    "module": "亚太官方",
    "category": "欧盟贸易",
+   "priority": 1
+  },
+  {
+   "title": "Mark Villar backs Revised Cooperative Code bill",
+   "link": "https://newsinfo.inquirer.net/2312989/mark-villar-backs-revised-cooperative-code-bill",
+   "published": "Mon, 28 Sep 2026 19:30:18 GMT",
+   "summary": "MANILA, Philippines — Sen. Mark Villar expressed his support on Monday for Senate Bill No. 1431, or the proposed Revised Cooperative Code of the Philippines, which aims to strengthen cooperatives as instruments of social justice, livelihood generation, and economic development. Cooperatives have been making significant contributions to the economy, Villar explained in a statement, citing",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
    "priority": 1
   },
   {
