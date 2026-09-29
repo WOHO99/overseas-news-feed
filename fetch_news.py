@@ -227,11 +227,6 @@ FEEDS = {
             "tag": "Supply Chain Dive",
             "base": 2,
         },
-        {
-            "url": "https://ecommercedive.com/feeds/news/",
-            "tag": "Ecommerce Dive",
-            "base": 2,
-        },
     ],
     "航运物流行业": [
         {
