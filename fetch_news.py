@@ -199,6 +199,61 @@ FEEDS = {
             "base": 1,
         },
     ],
+    # v6.3 新增：海外原生 RSS 源（link 为真实 URL，可直抓全文）
+    "海外媒体RSS": [
+        {
+            "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+            "tag": "CNBC | RSS",
+            "base": 2,
+        },
+        {
+            "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+            "tag": "CNA | RSS",
+            "base": 1,
+        },
+        {
+            "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+            "tag": "NHK World | RSS",
+            "base": 1,
+        },
+        {
+            "url": "https://en.antaranews.com/rss",
+            "tag": "ANTARA | RSS",
+            "base": 1,
+        },
+        {
+            "url": "https://www.malaymail.com/feed",
+            "tag": "Malay Mail | RSS",
+            "base": 1,
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/feed",
+            "tag": "Inquirer | RSS",
+            "base": 1,
+        },
+        {
+            "url": "https://www.abc.net.au/news/rss/new/2942460.xml",
+            "tag": "ABC AU | RSS",
+            "base": 1,
+        },
+    ],
+    "航运物流行业": [
+        {
+            "url": "https://container-news.com/feed/",
+            "tag": "Container News",
+            "base": 2,
+        },
+        {
+            "url": "https://splash247.com/feed/",
+            "tag": "Splash 247",
+            "base": 2,
+        },
+        {
+            "url": "https://www.seatrade-maritime.com/rss.xml",
+            "tag": "Seatrade Maritime",
+            "base": 2,
+        },
+    ],
 }
 
 # ============================================================
@@ -511,10 +566,13 @@ def main():
     all_articles = list(dedup.values())
     all_articles.sort(key=lambda x: (x.get("priority", 0), x.get("published", "")), reverse=True)
 
-    # 4. 全文抓取：只对本次新增、priority 达标、非跳过源的文章
+    # 4. 全文抓取：只对本次新增、priority 达标、非跳过源的文章。
+    #    Google News 包装源（link 为 CBMi 加密链接）在无头环境无法解密（已实测确认
+    #    HTML 不含真实 URL），直接标记 title_only 不请求，避免限流与无效请求；
+    #    原生 RSS 源（link 为真实 URL）直接抓取全文。
     ft_ok = 0
     ft_fail = 0
-    ft_skip = 0
+    ft_title_only = 0
     candidates = [
         a for a in articles
         if a.get("priority", 0) >= FULLTEXT_MIN_PRI
@@ -524,15 +582,11 @@ def main():
     candidates.sort(key=lambda x: (x.get("priority", 0), x.get("published", "")), reverse=True)
     for art in candidates[:FULLTEXT_LIMIT]:
         link = art["link"]
-        real = link
         if "news.google.com" in link:
-            real = decrypt_google_news(link)
-            if not real:
-                art["content_status"] = "title_only"
-                ft_fail += 1
-                continue
-            art["real_link"] = real
-        content, status = fetch_full_text(real)
+            art["content_status"] = "title_only"
+            ft_title_only += 1
+            continue
+        content, status = fetch_full_text(link)
         if content:
             art["content"] = content
             art["content_status"] = "full"
@@ -540,7 +594,8 @@ def main():
         else:
             art["content_status"] = status
             ft_fail += 1
-    print(f"\n# 全文抓取: 候选 {len(candidates)}，尝试 {min(len(candidates), FULLTEXT_LIMIT)}，成功 {ft_ok}，失败/跳过 {ft_fail}")
+    print(f"\n# 全文抓取: 候选 {len(candidates)}，尝试 {min(len(candidates), FULLTEXT_LIMIT)}，"
+          f"成功 {ft_ok}，失败 {ft_fail}，GoogleNews标题级 {ft_title_only}")
 
     high = sum(1 for a in all_articles if a.get("priority", 0) >= 2)
     total = len(all_articles)
