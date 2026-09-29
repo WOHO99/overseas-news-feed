@@ -212,18 +212,8 @@ FEEDS = {
             "base": 1,
         },
         {
-            "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-            "tag": "NHK World | RSS",
-            "base": 1,
-        },
-        {
-            "url": "https://en.antaranews.com/rss",
-            "tag": "ANTARA | RSS",
-            "base": 1,
-        },
-        {
-            "url": "https://www.malaymail.com/feed",
-            "tag": "Malay Mail | RSS",
+            "url": "https://en.yna.co.kr/RSS/news.xml",
+            "tag": "Yonhap EN | RSS",
             "base": 1,
         },
         {
@@ -232,9 +222,14 @@ FEEDS = {
             "base": 1,
         },
         {
-            "url": "https://www.abc.net.au/news/rss/new/2942460.xml",
-            "tag": "ABC AU | RSS",
-            "base": 1,
+            "url": "https://www.supplychaindive.com/feeds/news/",
+            "tag": "Supply Chain Dive",
+            "base": 2,
+        },
+        {
+            "url": "https://www.ecommercedive.com/feeds/news/",
+            "tag": "Ecommerce Dive",
+            "base": 2,
         },
     ],
     "航运物流行业": [
@@ -252,6 +247,21 @@ FEEDS = {
             "url": "https://www.seatrade-maritime.com/rss.xml",
             "tag": "Seatrade Maritime",
             "base": 2,
+        },
+        {
+            "url": "https://theloadstar.com/feed/",
+            "tag": "The Loadstar",
+            "base": 2,
+        },
+        {
+            "url": "https://www.freightwaves.com/feed",
+            "tag": "FreightWaves",
+            "base": 2,
+        },
+        {
+            "url": "https://gcaptain.com/feed/",
+            "tag": "gCaptain",
+            "base": 1,
         },
     ],
 }
@@ -446,13 +456,17 @@ def decrypt_google_news(url, timeout=15):
 
 def fetch_full_text(url, timeout=20, max_chars=FULLTEXT_MAX_CHARS):
     """抓取文章 HTML 并提取正文前 max_chars 字符。返回 (content, status)"""
+    final_url = url
+    ctype = ""
     try:
         resp = http_get(url, timeout, headers={"Accept": "text/html,application/xhtml+xml,*/*;q=0.8"})
+        final_url = resp.geturl()
         ctype = resp.headers.get("Content-Type", "")
         if "html" not in ctype and "text" not in ctype and "xml" not in ctype:
             return None, "not_html"
         body = resp.read()
         if len(body) < 500:
+            print(f"[ft-diag] too_short final={final_url[:80]} ctype={ctype} len={len(body)}")
             return None, "too_short"
         html_text = body.decode("utf-8", "ignore")
         # 检测常见付费墙/验证页
@@ -467,9 +481,11 @@ def fetch_full_text(url, timeout=20, max_chars=FULLTEXT_MAX_CHARS):
         text = ex.text()
         text = re.sub(r"\s+", " ", text).strip()
         if len(text) < 120:
+            print(f"[ft-diag] no_text final={final_url[:80]} ctype={ctype} rawlen={len(html_text)}")
             return None, "no_text"
         return text[:max_chars], "ok"
     except Exception as e:
+        print(f"[ft-diag] error final={final_url[:80]} ctype={ctype} {type(e).__name__}: {str(e)[:100]}")
         return None, "error"
 
 
@@ -594,6 +610,7 @@ def main():
         else:
             art["content_status"] = status
             ft_fail += 1
+            print(f"[ft] {status} | {art.get('source')} | {link[:80]}")
     print(f"\n# 全文抓取: 候选 {len(candidates)}，尝试 {min(len(candidates), FULLTEXT_LIMIT)}，"
           f"成功 {ft_ok}，失败 {ft_fail}，GoogleNews标题级 {ft_title_only}")
 
