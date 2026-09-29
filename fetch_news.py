@@ -1,26 +1,27 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Overseas News Feed Fetcher v6.2
+Overseas News Feed Fetcher v6.3
 海外一手信源优先的新闻聚合管道，输出 news.json 供日报/商业分析取用。
 
-v6.2 修复（2026-09-27）：
-1. 贸易相关性过滤：只保留标题含贸易关键词的文章（Federal Register 噪音过滤）
-2. 未来日期拒绝：发布时间晚于当前时间+24h 的文章丢弃（联邦公报的时区/预发布问题）
-3. 清理失效源：USITC/EU DG Trade/World Bank/Straits Times/Vietnam Plus 原生RSS
-   404 或解析失败 → 改为 Google News site: 包装
-4. IMF/OECD/IEA 403 反爬 → 移除原生RSS，改 Google News site: 包装
-5. Google News 查询合并减少（降 503 限流概率）
-6. 来源分级 base 分提升官方权重
+v6.3 升级（2026-09-29）：高优先文章全文抓取
+1. Google News 加密链接（news.google.com/rss/articles/CBMi...）解密 -> 真实文章 URL
+2. 对本次新增的高优先文章抓取正文全文（前1500字符），写入 content 字段
+3. 抓取失败不阻塞：content_status 标记 title_only / error，保留标题级可用
+4. 每轮最多抓取 FULLTEXT_LIMIT 篇（默认30），按 priority 降序，控制请求量
 """
 import feedparser
 import json
 import re
 import sys
 import hashlib
+import html
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
+
+BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 
 # ============================================================
 # 信源定义 —— 海外一手优先，按模块分组
@@ -232,6 +233,50 @@ CAT_KEYWORDS = {
     "亚太动态": ["asean", "vietnam", "thailand", "indonesia", "singapore", "japan", "korea", "australia"],
 }
 
+# ============================================================
+# 全文抓取配置
+# ============================================================
+FULLTEXT_LIMIT = 30          # 每轮最多抓取全文的新增文章数
+FULLTEXT_MIN_PRI = 2         # 只抓 priority >= 2 的文章
+FULLTEXT_MAX_CHARS = 1500    # 正文截断长度
+FULLTEXT_SKIP_TAGS = [       # 这些源正文价值低或易反爬，跳过全文抓取
+    "Federal Register | USTR",
+    "Federal Register | BIS",
+    "Apple | Supply Chain",
+    "eBay | Seller",
+]
+
+
+class TextExtractor(HTMLParser):
+    """标准库实现的简易正文提取器：收集 <p> 等段落文本，跳过 script/style/nav"""
+
+    def __init__(self):
+        super().__init__()
+        self.skip = 0
+        self.parts = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag in ("script", "style", "noscript", "nav", "header", "footer", "form", "iframe", "svg"):
+            self.skip += 1
+        elif tag in ("p", "br", "div", "li", "h1", "h2", "h3", "h4", "tr", "blockquote"):
+            self.parts.append("\n")
+
+    def handle_endtag(self, tag):
+        if tag in ("script", "style", "noscript", "nav", "header", "footer", "form", "iframe", "svg"):
+            self.skip = max(0, self.skip - 1)
+        elif tag in ("p", "li", "h1", "h2", "h3", "h4", "blockquote"):
+            self.parts.append("\n")
+
+    def handle_data(self, data):
+        if self.skip == 0:
+            self.parts.append(data)
+
+    def text(self):
+        s = "".join(self.parts)
+        s = re.sub(r"[ \t\u3000]+", " ", s)
+        s = re.sub(r"\n\s*\n+", "\n", s)
+        return s.strip()
+
 
 def parse_date(s):
     try:
@@ -278,6 +323,82 @@ def categorize(title, summary):
         if any(k in text for k in kws):
             return cat
     return "其他"
+
+
+def http_get(url, timeout, headers=None):
+    h = {"User-Agent": BROWSER_UA}
+    if headers:
+        h.update(headers)
+    req = urllib.request.Request(url, headers=h)
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return resp
+
+
+def decrypt_google_news(url, timeout=15):
+    """news.google.com/rss/articles/CBMi... -> 真实文章 URL"""
+    try:
+        resp = http_get(url, timeout)
+        body = resp.read().decode("utf-8", "ignore")
+        # 方法0：canonical 链接（最可靠）
+        m = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']', body)
+        if not m:
+            m = re.search(r'<link[^>]+href=["\']([^"\']+)["\'][^>]+rel=["\']canonical["\']', body)
+        if m:
+            u = html.unescape(m.group(1))
+            if u.startswith("http"):
+                return u
+        # 方法1：data-ncl-heading 标题链接（标准结构）
+        m = re.search(r'<a[^>]+href="([^"]+)"[^>]+data-ncl-heading', body)
+        if not m:
+            m = re.search(r'data-ncl-heading[^>]+href="([^"]+)"', body)
+        if m:
+            u = html.unescape(m.group(1))
+            if u.startswith("http"):
+                return u
+        # 方法2：正文区外链，排除 google 域
+        cands = re.findall(r'href="(https?://[^"]+)"', body)
+        for c in cands:
+            c = html.unescape(c)
+            if ("google." not in c) and ("gstatic" not in c) and ("consent" not in c):
+                return c
+        # 方法3：<article><a href=...> 结构
+        m = re.search(r'<article[^>]*>\s*<a[^>]+href="([^"]+)"', body)
+        if m:
+            u = html.unescape(m.group(1))
+            if u.startswith("http"):
+                return u
+    except Exception:
+        return None
+    return None
+
+
+def fetch_full_text(url, timeout=20, max_chars=FULLTEXT_MAX_CHARS):
+    """抓取文章 HTML 并提取正文前 max_chars 字符。返回 (content, status)"""
+    try:
+        resp = http_get(url, timeout, headers={"Accept": "text/html,application/xhtml+xml,*/*;q=0.8"})
+        ctype = resp.headers.get("Content-Type", "")
+        if "html" not in ctype and "text" not in ctype and "xml" not in ctype:
+            return None, "not_html"
+        body = resp.read()
+        if len(body) < 500:
+            return None, "too_short"
+        html_text = body.decode("utf-8", "ignore")
+        # 检测常见付费墙/验证页
+        low = html_text.lower()
+        if "captcha" in low and "recaptcha" in low:
+            return None, "bot_wall"
+        ex = TextExtractor()
+        try:
+            ex.feed(html_text)
+        except Exception:
+            pass
+        text = ex.text()
+        text = re.sub(r"\s+", " ", text).strip()
+        if len(text) < 120:
+            return None, "no_text"
+        return text[:max_chars], "ok"
+    except Exception as e:
+        return None, "error"
 
 
 def main():
@@ -373,13 +494,46 @@ def main():
     all_articles = list(dedup.values())
     all_articles.sort(key=lambda x: (x.get("priority", 0), x.get("published", "")), reverse=True)
 
+    # 4. 全文抓取：只对本次新增、priority 达标、非跳过源的文章
+    ft_ok = 0
+    ft_fail = 0
+    ft_skip = 0
+    candidates = [
+        a for a in articles
+        if a.get("priority", 0) >= FULLTEXT_MIN_PRI
+        and a.get("source") not in FULLTEXT_SKIP_TAGS
+        and not a.get("content_status")
+    ]
+    candidates.sort(key=lambda x: (x.get("priority", 0), x.get("published", "")), reverse=True)
+    for art in candidates[:FULLTEXT_LIMIT]:
+        link = art["link"]
+        real = link
+        if "news.google.com" in link:
+            real = decrypt_google_news(link)
+            if not real:
+                art["content_status"] = "title_only"
+                ft_fail += 1
+                continue
+            art["real_link"] = real
+        content, status = fetch_full_text(real)
+        if content:
+            art["content"] = content
+            art["content_status"] = "full"
+            ft_ok += 1
+        else:
+            art["content_status"] = status
+            ft_fail += 1
+    print(f"\n# 全文抓取: 候选 {len(candidates)}，尝试 {min(len(candidates), FULLTEXT_LIMIT)}，成功 {ft_ok}，失败/跳过 {ft_fail}")
+
     high = sum(1 for a in all_articles if a.get("priority", 0) >= 2)
     total = len(all_articles)
+    full = sum(1 for a in all_articles if a.get("content_status") == "full")
 
     out = {
         "updated": now.strftime("%Y-%m-%dT%H:%M:%S.%f+00:00"),
         "total": total,
         "high_priority": high,
+        "fulltext_count": full,
         "stats_by_category": stats,
         "fail_counts": fail_counts,
         "articles": all_articles,
@@ -387,7 +541,7 @@ def main():
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
 
-    print(f"\n# 完成: updated={out['updated']} total={total} high={high} 新增={len(articles)}")
+    print(f"\n# 完成: updated={out['updated']} total={total} high={high} fulltext={full} 新增={len(articles)}")
     print(f"# 模块产出: {json.dumps(stats, ensure_ascii=False)}")
     fails = [k for k, v in fail_counts.items() if v]
     print(f"# 失败源: {len(fails)} 个 -> {fails}")
