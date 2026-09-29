@@ -339,6 +339,7 @@ def decrypt_google_news(url, timeout=15):
     try:
         resp = http_get(url, timeout)
         body = resp.read().decode("utf-8", "ignore")
+        final_url = resp.geturl()
         # 方法0：canonical 链接（最可靠）
         m = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']', body)
         if not m:
@@ -367,7 +368,15 @@ def decrypt_google_news(url, timeout=15):
             u = html.unescape(m.group(1))
             if u.startswith("http"):
                 return u
-    except Exception:
+        # 诊断：所有方法都失败时输出响应特征，便于定位（截断，防日志过大）
+        print(f"[diag] decrypt fail: {url[:70]}... final={final_url[:60]} len={len(body)} "
+              f"canonical={bool(re.search('rel=.(canonical|alternate).', body[:2000]))} "
+              f"ncl={'data-ncl-heading' in body[:5000]} "
+              f"ext_links={len([c for c in cands if 'google.' not in c and 'gstatic' not in c])}")
+        if len(body) < 2000:
+            print(f"[diag] body head: {body[:400]!r}")
+    except Exception as e:
+        print(f"[diag] decrypt error: {url[:70]}... {type(e).__name__}: {str(e)[:120]}")
         return None
     return None
 
