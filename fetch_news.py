@@ -335,49 +335,57 @@ def http_get(url, timeout, headers=None):
 
 
 def decrypt_google_news(url, timeout=15):
-    """news.google.com/rss/articles/CBMi... -> 真实文章 URL"""
-    try:
-        resp = http_get(url, timeout)
-        body = resp.read().decode("utf-8", "ignore")
-        final_url = resp.geturl()
-        # 方法0：canonical 链接（最可靠）
-        m = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']', body)
-        if not m:
-            m = re.search(r'<link[^>]+href=["\']([^"\']+)["\'][^>]+rel=["\']canonical["\']', body)
-        if m:
-            u = html.unescape(m.group(1))
-            if u.startswith("http"):
-                return u
-        # 方法1：data-ncl-heading 标题链接（标准结构）
-        m = re.search(r'<a[^>]+href="([^"]+)"[^>]+data-ncl-heading', body)
-        if not m:
-            m = re.search(r'data-ncl-heading[^>]+href="([^"]+)"', body)
-        if m:
-            u = html.unescape(m.group(1))
-            if u.startswith("http"):
-                return u
-        # 方法2：正文区外链，排除 google 域
-        cands = re.findall(r'href="(https?://[^"]+)"', body)
-        for c in cands:
-            c = html.unescape(c)
-            if ("google." not in c) and ("gstatic" not in c) and ("consent" not in c):
-                return c
-        # 方法3：<article><a href=...> 结构
-        m = re.search(r'<article[^>]*>\s*<a[^>]+href="([^"]+)"', body)
-        if m:
-            u = html.unescape(m.group(1))
-            if u.startswith("http"):
-                return u
-        # 诊断：所有方法都失败时输出响应特征，便于定位（截断，防日志过大）
-        print(f"[diag] decrypt fail: {url[:70]}... final={final_url[:60]} len={len(body)} "
-              f"canonical={bool(re.search('rel=.(canonical|alternate).', body[:2000]))} "
-              f"ncl={'data-ncl-heading' in body[:5000]} "
-              f"ext_links={len([c for c in cands if 'google.' not in c and 'gstatic' not in c])}")
-        if len(body) < 2000:
-            print(f"[diag] body head: {body[:400]!r}")
-    except Exception as e:
-        print(f"[diag] decrypt error: {url[:70]}... {type(e).__name__}: {str(e)[:120]}")
-        return None
+    """news.google.com/rss/articles/CBMi... -> 真实文章 URL。
+    依次尝试 /rss/articles/ 与 /articles/ 两个端点，任一返回 HTML 即提取。
+    """
+    variants = [url, url.replace("/rss/articles/", "/articles/")]
+    for u in variants:
+        try:
+            resp = http_get(
+                u, timeout,
+                headers={
+                    "Accept": "text/html,application/xhtml+xml,*/*;q=0.8",
+                    "Accept-Language": "en-US,en;q=0.9",
+                },
+            )
+            body = resp.read().decode("utf-8", "ignore")
+            final_url = resp.geturl()
+            cands = re.findall(r'href="(https?://[^"]+)"', body)
+            # 方法0：canonical 链接（最可靠）
+            m = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']', body)
+            if not m:
+                m = re.search(r'<link[^>]+href=["\']([^"\']+)["\'][^>]+rel=["\']canonical["\']', body)
+            if m:
+                uu = html.unescape(m.group(1))
+                if uu.startswith("http"):
+                    return uu
+            # 方法1：data-ncl-heading 标题链接（标准结构）
+            m = re.search(r'<a[^>]+href="([^"]+)"[^>]+data-ncl-heading', body)
+            if not m:
+                m = re.search(r'data-ncl-heading[^>]+href="([^"]+)"', body)
+            if m:
+                uu = html.unescape(m.group(1))
+                if uu.startswith("http"):
+                    return uu
+            # 方法2：正文区外链，排除 google 域
+            for c in cands:
+                c = html.unescape(c)
+                if ("google." not in c) and ("gstatic" not in c) and ("consent" not in c):
+                    return c
+            # 方法3：<article><a href=...> 结构
+            m = re.search(r'<article[^>]*>\s*<a[^>]+href="([^"]+)"', body)
+            if m:
+                uu = html.unescape(m.group(1))
+                if uu.startswith("http"):
+                    return uu
+            # 诊断
+            print(f"[diag] decrypt fail variant={u[:70]}... final={final_url[:60]} len={len(body)} "
+                  f"canonical={'canonical' in body[:3000]} ncl={'data-ncl-heading' in body[:5000]} "
+                  f"ext_links={len([c for c in cands if 'google.' not in c and 'gstatic' not in c])}")
+            if len(body) < 2000:
+                print(f"[diag] body head: {body[:400]!r}")
+        except Exception as e:
+            print(f"[diag] decrypt error variant={u[:70]}... {type(e).__name__}: {str(e)[:120]}")
     return None
 
 
