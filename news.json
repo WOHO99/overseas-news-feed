@@ -1,14 +1,15 @@
 {
- "updated": "2026-09-29T00:04:55.630435+00:00",
- "total": 846,
- "high_priority": 743,
+ "updated": "2026-09-29T01:36:47.575644+00:00",
+ "total": 871,
+ "high_priority": 764,
+ "fulltext_count": 0,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
   "国际组织": 5,
-  "海外媒体": 39,
-  "企业官方": 4,
-  "亚太官方": 2
+  "海外媒体": 18,
+  "企业官方": 1,
+  "亚太官方": 1
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -784,6 +785,61 @@
    "module": "国际组织",
    "category": "其他",
    "priority": 3
+  },
+  {
+   "title": "Japan enlists royal visit, subsidies to revive tourism in quake-hit Kyushu",
+   "link": "https://www.scmp.com/week-asia/economics/article/3369071/japan-enlists-royal-visit-subsidies-revive-tourism-quake-hit-kyushu?utm_source=rss_feed",
+   "published": "Tue, 29 Sep 2026 01:30:15 GMT",
+   "summary": "Travel companies in southern Japan are pinning their hopes on a business revival following a planned visit by Emperor Naruhito and Empress Masako to the areas hardest hit by a major earthquake this summer.\nThe imperial couple is scheduled to meet communities in Kumamoto prefecture on Tuesday, speaking with families who lost their homes and businesses and are currently living in temporary accommodation. The prefecture was at the epicentre of the magnitude 7.1 quake that struck Kyushu island on...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "亚太动态",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
+   "title": "Hong Kong mustn’t miss the boat on the Pinglu Canal and Asean trade",
+   "link": "https://www.scmp.com/opinion/china-opinion/article/3368947/hong-kong-mustnt-miss-boat-pinglu-canal-and-asean-trade?utm_source=rss_feed",
+   "published": "Tue, 29 Sep 2026 01:30:11 GMT",
+   "summary": "The official opening of the Pinglu Canal on September 16 is a milestone in modern Chinese history. More than an infrastructural feat, it signals a strategic recalibration of how China’s inland economies connect with the sea and Southeast Asia, and augurs the next phase of regional growth.\nDesigned for vessels of up to 5,000 tonnes, the 134.2km (83.4 mile) waterway stretches from the Xijin reservoir in Hengzhou, an emerging city in Guangxi, to the Gulf of Tonkin (known as the Beibu Gulf in...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "too_short"
+  },
+  {
+   "title": "South Korean exports seen rising for 16th month on solid AI chip demand - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPangxT3pzak9jS0tDVDNNYXJGMTZiZTdTM2p6WVNWWlhqRFpMeHFOcWR3SExFVWVJMU4tQWQ1WGx5M2xaamRsc3paWmFkVXJCNFhncGlwQkxMb2pZYmRYNG9faVcyYzZsUDJmLWN5OGF0SjBHM0VzSlRwSVBHZ1pYc2R6Z3hwbmV5cmZyb2FodEVkaGVCbEY2VURiNkp4RFdiQlVFRUpaR1BJOGRJQS1lTFZMekhxb2RVeE5j?oc=5",
+   "published": "Tue, 29 Sep 2026 01:08:00 GMT",
+   "summary": "South Korean exports seen rising for 16th month on solid AI chip demand&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
+   "title": "US, China Agree To Cut Tariffs On $60 Billion Of Goods After Trump-Xi Summit - ABP Live English",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeU5rYkJTemRfNTgwc19LeThwWk5ndTVfOHdXbWxlQkFwc1A1NWIzQUxJWFpldzhxWjFMeGtRYjdHWWxNZzRuRUsxTEVOVXJ6TW1PemVwblBnVlp0YTNhcEowaEVmT1VWMVZGWXM0TlBoU1g0ZnBRSmx2NnlPbjJxNzRrd0Z6ZXY1YzdzR0pkaWt1bFExb1l1Nl9tbVA0aWQzbXlTeVdSQ0M2dTBQeDdKeGdvdzg4N28wRTBodHhON1JlQnJKZkRfT1BEMGpIYTNfaWJrSTVTd9IB3AFBVV95cUxQTjI0ZXFYX2FHMmhjd1RBbDR1djRfaGZsaHNaWVJUS2pEd296amJ0RFlUTThvN0xWUzR5b0VaVl9XOUwzZldNOXcyd3VsTDA0ODFSeFJFX2lBRXVqVnVJd09JU2c1MHhNR2FjZ2dhaUpIZWdrWjczNmJ1X0hHMWIwM3k2XzJ0emJQeFYtYWlYWk5RZWhJVVFjRzRqQmFUdDBKekJZbmxTVmkwdnhQakRZanRYa2piQlkwWkJUQktXaXlzNkJiSC1taW9oQUNuX2wxOXhqa3hKNHpERG4t?oc=5",
+   "published": "Tue, 29 Sep 2026 01:01:13 GMT",
+   "summary": "US, China Agree To Cut Tariffs On $60 Billion Of Goods After Trump-Xi Summit&nbsp;&nbsp;ABP Live English",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
+   "title": "US, China to Lower Tariffs on $60 Billion Worth of Goods; Trump Not Serious About Arming China: Newsham - mb.ntd.com",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc24td0tSSFhDbW1jOUt5Vzh6RVRUMnVfUTFnTUtfQWcxdlhiRWJuYW9aTHhtZnBaSUxBTk0zdVB0NGdPZDdPZFVpbk9sV2lpV2lIcS1UQ2J2WTRTX21NRWRFdW01ZE51TEpYQkg5UlZRY1FkT250SVVGUnlxVUJPNFlwM1h2X1RnT3A0cmRsQ0t6VHRycWZDaUJFQ2twOWZzMl9TRDg4UXJIcnVIMWdlOUUtbDhsMXNTZk9vQzUyalVPbno1ajk1WmFBVTl1TkczZkY0OWNn?oc=5",
+   "published": "Tue, 29 Sep 2026 00:09:08 GMT",
+   "summary": "US, China to Lower Tariffs on $60 Billion Worth of Goods; Trump Not Serious About Arming China: Newsham&nbsp;&nbsp;mb.ntd.com",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "Trump’s China trade negotiations carry economic stakes for Black families and businesses - TheGrio",
@@ -2696,6 +2752,17 @@
    "priority": 2
   },
   {
+   "title": "China, US agree to AI dialogue, $42b in tariff cuts during state visit - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTV6azFsWm8tRW9Pd2VTekJUOE5XZGtxanE5OFJQcjBSRHJTTHo0Z0l6dXhqQi10V19CaVBSWnN0bWJpTUNFeDRLQjlfTHJOZUU3cjNIU1JscVRLUGw0eVpZcUZKaVRrU0JiNDFnUXpsdzRGdUZQMDA2eFZXbFZiVUJmSFFTbHJ0encxY3pYS2hWaEx6R0lES195SWk5czRDUkVNWTBRY0xiNnQ5XzA3Sw?oc=5",
+   "published": "Sat, 26 Sep 2026 20:33:49 GMT",
+   "summary": "China, US agree to AI dialogue, $42b in tariff cuts during state visit&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "Namibia Art.&equip for sports&outdoor games nes&swimmin imports by country - wits.worldbank.org",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnZmMzllWkNMSThUdWRHWjZ6ZHhxTGlfWTQxNzZfd1ZSbHUyT2ZabEY5cDVaYlZwMmV4NFhnMS1kcGRsMHBEQ1FBcnhFeTlWbWxoalgwS0tKdmtJWkc0c2NZQl9VWWtIN3Rxdkk1MjBFa2JxWWlUbTM4Q2oxakNnOFlpV1ZEbFNuTGdLbzU3RUl5ZlRWSHJza1VQQ3R3dHRBZGxnczFkNHJONTZyYXNfZg?oc=5",
    "published": "Sat, 26 Sep 2026 20:33:39 GMT",
@@ -4166,6 +4233,28 @@
    "priority": 2
   },
   {
+   "title": "Trump says he thinks a trade deal will be made with Canada - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yUGZEdklDMFVGeHNrY2xhVElyN1FqWW1la2FZeGVQNVl1R2IzeXIwSFFZRGI0SlJIb2xzX0duZlhmeGotaVlJVkVBcEo2aUE?oc=5",
+   "published": "Mon, 28 Sep 2026 22:42:04 GMT",
+   "summary": "Trump says he thinks a trade deal will be made with Canada&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
+   "title": "Soybeans dive as China keeps import tariff in place - Brownfield Ag News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQjBFN20tVEl0cnlRVVpOU1kyanFOSVhZMkYwRVpwdjFYM1k1MTZuUi1vTzh4QTJrWTFUODhZTXRxdk9ma0pTaV9nYVNzemtBaFNpNGV1Mk5kRjFtVnFWLWQ2YW1uUDRVTTdHLW5nbUNNNWtHZlZEWkVUTWE3YUdFT2ZxUDFiOVdXZmxPSzR3d19HRGlTNTFjeEdNeS1FQQ?oc=5",
+   "published": "Mon, 28 Sep 2026 22:41:06 GMT",
+   "summary": "Soybeans dive as China keeps import tariff in place&nbsp;&nbsp;Brownfield Ag News",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "In the US-China AI race, the real fight is keeping humans in control",
    "link": "https://www.scmp.com/opinion/china-opinion/article/3368932/us-china-ai-race-real-fight-keeping-humans-control?utm_source=rss_feed",
    "published": "Mon, 28 Sep 2026 21:30:12 GMT",
@@ -4286,6 +4375,17 @@
    "priority": 2
   },
   {
+   "title": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESBIO ESF E 688790 ECO MAESTRO 48116501962 MALTA 4811CON - Hapag-Lloyd",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVlTRDRKYmNYaEZEMTF0S3pqa0I5RU4zQVJsUjRVWUN5ZjVTcTJWcW9nQ081eUJJSm9TVnNya3NCMWU0MllKb0N1NjlRVWVmLUhiUGNHYzZCNTdlcFdrNnhFSEZpbDlZZ3pJQjFnbjFxOW1fRnl3eHRicWVTTmVoNGsyUjJVTnNzQW1sTmZqV1hfby11V20yZTZYaUFUMG8?oc=5",
+   "published": "Mon, 28 Sep 2026 19:07:35 GMT",
+   "summary": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESBIO ESF E 688790 ECO MAESTRO 48116501962 MALTA 4811CON&nbsp;&nbsp;Hapag-Lloyd",
+   "source": "Hapag-Lloyd | Shipping",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESAGP MSW S 207454 CAUCEDO EXPRESS ANTIGUA AND BARBUDA 2 - Hapag-Lloyd",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGlOMHd0RWFpRGZ2d0xVWUZxVHlIa0pHTzhtUHFVWVJ3TnlBVnR1VDZUblB1aDc0ZUhkcFFITUFxNEVzLVVFVGFrN3FLTjBjdkVMS1llVWV4WjJza19LeVpIMllLLWliRGlMbU1hSG83aEFYU3dvSXQwMGFXNTk5bnpDSjU0UTdVQW02cE5PREdsTFRkeDhVZF9zclR4MGs?oc=5",
    "published": "Mon, 28 Sep 2026 19:05:47 GMT",
@@ -4376,6 +4476,17 @@
    "priority": 2
   },
   {
+   "title": "China Exempts $17 Billion in US Farm Goods From Tariffs, Excludes Soybeans - finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6aExKRi02WlpUZ0dGZlpqVVZUOXk5ZEstWGd0WWdiOHdPVk52OGxuNEVicUJETzg3VElhSFhYX1dMM3UyaWw0ZXY5WjJZYk93bnF3SzZEV1NZUG81ZHZSN1g2a2Y1RXd2VnFtb3g3RWxsVW4zZGc?oc=5",
+   "published": "Mon, 28 Sep 2026 18:05:00 GMT",
+   "summary": "China Exempts $17 Billion in US Farm Goods From Tariffs, Excludes Soybeans&nbsp;&nbsp;finance.biggo.com",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "Trump and Xi Jinping agree to US-China tariff cuts as markets react to trade deal - foxbusiness.com",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10RWlrc2hEa2pzc0pwT3dEOGlrYmZBd3lSbEN4d3RxNGJzbUJFalJyOG9yOHZjbFVwN3B0dmhZU3M5REF4UlpHOThBQ1hjLWRxOVdZNmlZWVdab2c?oc=5",
    "published": "Mon, 28 Sep 2026 18:03:27 GMT",
@@ -4434,6 +4545,17 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
+  },
+  {
+   "title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG9naTh0N0NqVC1Qa2xGLTZsaHd4dFMxVnpUYzFEZnJqbFQwVTN1ek4yZ3k5Uzh4M1lyVWdZeWJvSDJXLVVvUTM1eTFQak1XdWlrUFBBN082czBVR0h5XzJwLVFqUndKTmsyQUV5NnhzNGRlQnFMazJ1UFVGN1U0ZE9nSlpSbmxRNjdEU3pPekJ3YlNuTXhCaTlFa2YtbHFsd3J1TUhSVzFJMEE0VFBOT0poOVlmV1dS?oc=5",
+   "published": "Mon, 28 Sep 2026 17:13:17 GMT",
+   "summary": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "U.S., China agree on 'more favorable tariff treatment' for $30B in goods - Woodworking Network",
@@ -4526,6 +4648,17 @@
    "priority": 2
   },
   {
+   "title": "China's Gotion invests $1.25 billion in Volkswagen battery plant in Spain - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYjhtWENMaGdMc2tUUkhCcFVFNXVfU1JwWmhKM2kwLUxnS2Z3X0tYNTkyamdaNzcxbUxOY2RscGtMbVJSZ3FHNHoyYlJRa0RNaUNnVXR4SWU2ODYzeG5LWHVZS3lqYXVDaS0yd0k1S2RqU2lkZmxGODczQ3B6UFRqMU91d0Jvb3BvdElyYm5xQWtwRlRlc19WT1hsVGtDdEk4THhSQnVfZm94aHMxRC0w?oc=5",
+   "published": "Mon, 28 Sep 2026 16:12:39 GMT",
+   "summary": "China's Gotion invests $1.25 billion in Volkswagen battery plant in Spain&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "PA Trade Asia to NWC Med and Black Sea - MSC",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFRvVmZIZkQ5b20zR050MUozeW1kQ2tTaVpUZ0hzVi1uRWpMQV91NE1sVGNpWVg2UHduWGNZeVpMU19uQXI4MThNRTFmSy1iU0FDUnhoaW5yaGw4QzUwNTYtcHZUMklkWWdUS1pZUnBtYnVNVjhKXzNXZWtnY1FmMTJ2VUlOSmNRTjN0cTNYTzRLZmZYQ0U3Y05BS20xSWJJLXpnTVJYTkY?oc=5",
    "published": "Mon, 28 Sep 2026 16:10:18 GMT",
@@ -4554,6 +4687,28 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
+  },
+  {
+   "title": "US and China release $60 billion nonsensitive product lists for tariff cuts after Trump-Xi meeting - Idaho State Journal",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTDhXaV9EdzJoWUppSEZaQnhmYm9MRGxjQW1VOVo0VDFEVGQxRFZVMUdFZHhhYmlwQ0tyanF5YVBkNzc1VjhrX2lYWnhhSTN2TlVzRmdveTNoZkNxMDVSb1pQa0ctVmFxcTZub3hTejNRcV9rcFRfdHZoS3ZwaDl1cDNZYkhOdEhmbU12bDlXNktpNURVRXZiY2pEUWNlRkhvbGJiQmkxRTUzeC1NYjZ6VVdwUU1sbUZXUTJUUnRsWWlvTmU1YmJ4ZEV0bjBnWE1ldzNCRlR1RHZpQk1Pb193bUJtd09FVENSN0plUUkwMjR0Zkpkd0xYZjdSRUtybGxWdUJLMUVOQ0J3NjRBdldQTDR3?oc=5",
+   "published": "Mon, 28 Sep 2026 15:55:51 GMT",
+   "summary": "US and China release $60 billion nonsensitive product lists for tariff cuts after Trump-Xi meeting&nbsp;&nbsp;Idaho State Journal",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
+   "title": "US and China release $60 billion nonsensitive product lists for tariff cuts after Trump-Xi meeting - Traverse City Record-Eagle",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPaXA1eGhja19SMjh4N01VM1B5eGlXem9CZWsydnRlbkJlY1ZlLVc5NDVDNmhEZlYtbmcyVjZMXzVCVDBoZTBrUThhZW5TYURMandselhqY2owZWZlbzdHNkJaZ2gyV0xFcVdySFZpV3dld2dZTldQY0xJdlhzVDRMZjZ4TUNwN0lPRTRHN1ZGOTNOQi0zcUlXSXVZT0QtTkRHQjFDS2hYM0lCemRPTVU0blg4QU5haDV6UXFoS1RmOTl0OXhGeDdiNmlGM2VzMmx3YkRUd21DdElveVk0SVAzRzJWS2YtaFFlVHJxMVRYTk5pWllPemUxTlhrWUhYSDdRZ3p5VC1iVTZCZXNk?oc=5",
+   "published": "Mon, 28 Sep 2026 15:55:51 GMT",
+   "summary": "US and China release $60 billion nonsensitive product lists for tariff cuts after Trump-Xi meeting&nbsp;&nbsp;Traverse City Record-Eagle",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "US and China release $60 billion nonsensitive product lists for tariff cuts after Trump-Xi meeting - AP News",
@@ -4644,6 +4799,17 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
+  },
+  {
+   "title": "Ghana Parts and accessories for cinematographic camer imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFV1bHo2cDZqNHdnMGk1cVE0dV81TF9VMGNMVXFHU1ZDUkhQRFRwR2p6NEgzMlhQZi1hY1RheEg2RHVzMXNLa1VQam1PV1pQa3BMc0I0U1hHejg1NURXcVNxQVEtREE2WTl5V3J2LTMtbVppYUdrMnVPb2o2cnA2Yl91U1FsMHZvc1dwRV9aNk1qQ0FVaVA3X09YSEVsMVNnZEstMDdwZTkyV2RaMVdMSw?oc=5",
+   "published": "Mon, 28 Sep 2026 15:05:41 GMT",
+   "summary": "Ghana Parts and accessories for cinematographic camer imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "Goyal to visit US for G20 Trade Ministers' meet, hold trade pact talks with Greer - The New Indian Express",
@@ -5136,6 +5302,17 @@
    "priority": 2
   },
   {
+   "title": "Citi Recommends Buying China’s 30-Year Bonds on Weak Growth View - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYjlFV3NKblFtWFVHT2ZhQ294WVFseG5xUXlDbUEtVHAwQkh3WGFuNlFqQUpoUnZfdFFmcGpPMWRHQ2NuM1NxRFFyYkREdEJkVHN2N0RoTWFyTlZwbmoxNWxRMGpaQXdfSkVSV0hma1IwN0swSFpvWXRQNkxIUDVmRUUwemlmMFJRcjhNaW94azZVZTV1YlowTklXWGdEcUNuSENaUVhYUFFITHJNSGhybkhVdEJBZw?oc=5",
+   "published": "Mon, 28 Sep 2026 11:02:52 GMT",
+   "summary": "Citi Recommends Buying China’s 30-Year Bonds on Weak Growth View&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "Four Things to Consider in the Next Steps for US-China Trade Talks - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZE1YQlhSTFJrT1hsUnZUZHl6OTJCMF84UDJMeXhmdEFDdG45TlVUUWRKelZBTGtSM1BhaGJmdzgwN1NLUVEteWU4MlpabTBmVk1vc1RVMU9wcTI0NlJCSXdyVzJQZTRZeEVaZjM5Z0ZTcmhBZnhtXzZ2VkE3azlwOHowOGdOWUtSa3ZpUlE2QUpabUFYczBkSk9KSW42NlZWYWV5NjhIVVF1NXJs?oc=5",
    "published": "Mon, 28 Sep 2026 11:00:01 GMT",
@@ -5286,6 +5463,17 @@
    "priority": 2
   },
   {
+   "title": "Namibia Oxygen therapy, artificial respiration or oth t imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUUtSkRPeUFPbFIwam1TSE94M1o1N2ktM2xSZ1RESEVFNFFrb1RIb3l0dnZyRzRocmpybzBwQ004ZUxpWmVRZlBMMXRjX2lWZExGNl94Z192TVROZUxDRV9RZW9vcDVTWTl4eFltVFBncF9ScE5OcFdPbFR1THhxUkZYNXhiR0hSU0Y3S0s5T0d5dDhKa0JIVGloZVJGTWpvUVlITlpSNkFKbGtpNXVnLQ?oc=5",
+   "published": "Mon, 28 Sep 2026 09:41:42 GMT",
+   "summary": "Namibia Oxygen therapy, artificial respiration or oth t imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "China - US agree tariff cuts on US$60b of goods as trade truce extended - The Vibes",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaG96QXNFenpEUG41WkxUaHFrdjZIVHplZ3BoYVBtWHB4NkthUE5TRC16Mzd1azktX0dUaWRiQVVHSkZfcHAya1RtWDY1V0I5NmpYSENSX1FrVFlkbFB1WF9NNS0wZDJsdmtoUDJxTVJuRVlxYUZ2RE11NGZBVFNqS0VHWWxwdGd6ZzJ5WDllbDI3bTJtbHZvbkhnbkRlQkVQMmFiSHpJVEtyc3ZtNXVNbG9jbFV4QQ?oc=5",
    "published": "Mon, 28 Sep 2026 09:38:00 GMT",
@@ -5324,6 +5512,17 @@
    "module": "海外媒体",
    "category": "航运物流",
    "priority": 2
+  },
+  {
+   "title": "US and China release each $30 billion product lists for tariff cuts after Trump-Xi meeting - naharnet.com",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXMzWXBRS0l4THNkUl9jelF2N21nLVVPa1RrTE1ucWtVdEVBSlRWOS1tM19ESDRib3kyVDRwLXVpS3lJSk9VSml2SHViNlpCVXRDaGlsVVBqR0t1VVhYd21HQ2hIVFhla04yeFdwdXBOdms0R09pSnExam5qcU1MNkZobEpCNHNKcHlLeW9pV2VhYXV6M0ZpcXZBV1NmbDlnNmVHUnRLQlphdTc1Qk9FYkN6WUZLUDk0a0IwUGU5ZXYtSUthbnFzY2Nn?oc=5",
+   "published": "Mon, 28 Sep 2026 09:27:42 GMT",
+   "summary": "US and China release each $30 billion product lists for tariff cuts after Trump-Xi meeting&nbsp;&nbsp;naharnet.com",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "US and China announce reciprocal tariff cuts on $60 billion of trade following Washington summit - Swarajya",
@@ -6036,6 +6235,28 @@
    "priority": 2
   },
   {
+   "title": "Namibia Cotton imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYjhRVHhCSUZIRE9kekNwWWdwUTM0ampBckVWZHBKRnBabEs5NHF0czFMOUR3YU1FbWtaM0tydUtTZ2Fqdk8wMTlWdjdoczRYWm1JRXpHSTNBSWtxdFI3MTB3VnQ3SktwMUJmVndITV92Y29zTWpqQUZDOG5iV3J0VFdfREwzNDZKTkFyM0pzREdDNm1zWXZ4bUh5bzhZMWN5TmloMGlSRlVXR2M?oc=5",
+   "published": "Mon, 28 Sep 2026 03:39:06 GMT",
+   "summary": "Namibia Cotton imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
+   "title": "Zimbabwe Cotton imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcWZncE1kdHlCWmRLc1BWS2Y0VFNfSGtGUWJBSVZNMWJ3ZFZ2akZaTXQ3SGNVcC1jYXcxUS1hNGh2YkpVclJtbDQyVG5IV3VaeG13a0dBYzJfNDdDTjVjRndQUzZNZnl2TFRXNnI5OVJOZFg4c0lQVkxMS05IUWlEX1ZocWdQaHAxLXpaY2dtR2tROVpyejFOQy1Qb1M0Wm1LRm9kc0EzbFE1YVk?oc=5",
+   "published": "Mon, 28 Sep 2026 03:34:01 GMT",
+   "summary": "Zimbabwe Cotton imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
+  },
+  {
    "title": "Fiji Product Imports from Spain 2023 - World Bank Group",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcW9aQURsTWk4UnNKX19vZkFveUp5T2x6RVZDMWQ3U1JZYWR1QWRRcm9MYkVzS3pHemh5eEZTRk02X3Rwd2x6N0Z0LTRoay1JTUxhSnVudE1nYm5RelVTelRzdE5EcXZlejVON2JDakFNTDdLdnd5TVdIbVhEd29kbk1BZ2JBTERWNUg0V2dGMllmbmp1VDJaVEllRmVhVGo4Mm9heW91NS1YUkJXcWhLNFY2Sm0?oc=5",
    "published": "Mon, 28 Sep 2026 03:31:00 GMT",
@@ -6104,6 +6325,17 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
+  },
+  {
+   "title": "Fiji Product Exports to Spain 2023 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDB1V3NSaVRZaklyYzRGU3lyTWNBZThMTVQyYWVRUDdVc2xZRE9kTTdFRnVpR2RjVUNsb1FJN21wSGtOMm5vSUE5NU9ocGEwSUpqaUV4UEROVm9INHk4OXJ0d3BwYmswZGdPY2JQRDAyeDBZVUFCZ0dxN2t2NWhTeWdjM0pYczBmVUZTWktwVjVfcXB1WC1DMjFaOUxwT1JxWGprRDAxeE1JdFV1bGR6UUlGN0Q?oc=5",
+   "published": "Mon, 28 Sep 2026 03:03:49 GMT",
+   "summary": "Fiji Product Exports to Spain 2023&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2,
+   "content_status": "title_only"
   },
   {
    "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold - CNBC",
@@ -7486,6 +7718,16 @@
    "priority": 1
   },
   {
+   "title": "What the new US-China trade order means for South-East Asia - The Malaysian Reserve",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEljWF9iRUJtRFFqNFZtdzBaTVJWWWJWQlotRDJJYm9oS19icGw2WkZNdXlhUHVPRXBsM1RiTnBxaVhmWXk2M1pRbGtKZWZ5dzh5X1dtc3I1VjhYVGcwd0Q5V2t4YkV2NmNMby15Mk0yaHlqZmRxekV0Y0lJem41dnZlc0Q4UXJNT2FzYVNxSmc3bzZUQlZselQyLXVmLS0xM2FFd1RB?oc=5",
+   "published": "Tue, 29 Sep 2026 00:34:19 GMT",
+   "summary": "What the new US-China trade order means for South-East Asia&nbsp;&nbsp;The Malaysian Reserve",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
    "title": "Circularity Reverse Logistics - DHL",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSE5CY3QwWVVSczh6bmJpbnpMRmwtRkRTRGhRQ3Q4dGpPRG5hRWFnYXpCT0hfZTlMT3ZMY0tEYU5MRTN0cV9MaXVzUXFZUUNRYTJWOEwwdzFDTXhGTWtodlpTaTRfZWtycTNHamlPVkR4OE5LNXYzWmNGZDhQNWZlcERnSWF5VTdTcUp5Ukw1YVZmYktscGRzYg?oc=5",
    "published": "Thu, 24 Sep 2026 22:20:12 GMT",
@@ -7770,6 +8012,16 @@
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbVRwR2VEQVhsT0dvel9QaXJxdDNKVGJXR2s3SFlIclE1Ym00RWcxaHZEbjY3dUNMeFlUbUFpcXU3UkJxMVNISUVmRVB5c25uYzhvVE1yYTlHQ3lMTFBwYmZaY1o3dEVsMnpqMTREeXhyclE0cDVva253RThKeVZ5blN2M2k2cjBGNFFhUFByRjR4Ul9SWHRYZjEtelBxTGpGajVXMUdtSkNsclBIMGtQMHNYWHMxQzQ?oc=5",
    "published": "Sun, 27 Sep 2026 05:10:00 GMT",
    "summary": "What the West misses when it judges China’s dogged AI pursuit&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "What the West misses when it judges China’s dogged AI pursuit - straitstimes.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEU0c09OMkZuZEZNWUZjNzBCWnJaclpLNUwzVFVwWGFHQ3Z3V1VWSHpxTENoUHVEdS1oNTdubDJlMEpDOTMzaS0ybC1LcGxyUFFuMUJLdXoxMUM1UHFXNTZoaG5KazYxSkRrbW5BMVZhOG12NDFIeEtKOEVVcjBWdW1udG4yb2U0WkQ4cTNhUGhJbzZQRDVzZHF6WQ?oc=5",
+   "published": "Sun, 27 Sep 2026 05:10:00 GMT",
+   "summary": "What the West misses when it judges China’s dogged AI pursuit&nbsp;&nbsp;straitstimes.com",
    "source": "Straits Times",
    "module": "海外媒体",
    "category": "中美经贸",
@@ -8096,6 +8348,16 @@
    "priority": 1
   },
   {
+   "title": "PM chairs meeting on science, technology contributions to socio-economic development - Vietnam+ (VietnamPlus)",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa01KSFA5WkxIV1BrbEhDM201M3RHMno1ZWFMclRIbnVubGlQRFpsZFYxRDN0dVhWQ19mdFlyalllT2VVZ1M4N29wUkk2VlVEU0ltdThQN29xdnBYczl6Z3ExTzFLTk5KNk5GLVZNZkliRDI4aDZCWXlDWXVmUlYyb3RFeDFtVjBSSWZCVjdpRlQzNkdQTTBzbnRXc0tXdFhIUGkyYTczWE15MnMzRktPSnNhaGxUT09nYWtuSzBMLWFlUQ?oc=5",
+   "published": "Mon, 28 Sep 2026 10:41:34 GMT",
+   "summary": "PM chairs meeting on science, technology contributions to socio-economic development&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
+   "source": "Vietnam Plus",
+   "module": "海外媒体",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
    "title": "Flattering a Faltering China: Trump Misreads a Country in Decline - National Review",
    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNcnptVGE3WEJ2ZVNzcGttMFh1VF9JQm1ONzdvLXhRcElWZVB1WXBHRkVhdmFqLThNajE3TE5VRHc5eWZOUThrdzVheU5HQkZKN3A4clZCOThSR3pMSXRRWW1NLTFFbFJTblpVLUFEdlBvd1FXY05pQVVad0JNZC1JSnBRbE1CclFxcjAwOUN4SkpXYVc4RTZwUVZVNFR5YlpiVEhDU2FyMkR2MXF1dUkxRUF3a0VKTUhabzlHVE95VFdicHNBTW5lYzRxd3lmODM3Q3JiQVlZWl9TWWVmZHBmVFNFbEZOMUFZOENEb05QUGpzcC1kWEZEOFFVME4xY09WWHVqYThTX001R0JwR3BidmE0Z3lReUIxdUlnVlRNZTk1UENkQkxnNm5UNVhueV9ucmpCZGR6am9ydTZCZW43aUhaU1kzTDI5SFYtMS15WXlZbkIyemRmWkRrcm1OZGJkNTg0aU1HSVdPRlJydzZz?oc=5",
    "published": "Mon, 28 Sep 2026 10:30:23 GMT",
@@ -8210,6 +8472,16 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmJSdkF3djB5RWdSWVBLUGtMcGtuT2NhRmRMbk1DZ0owLWcyY2RPM0JkSEFjdm5LWHRaUTFscTNGV1lfWWtkNmRidUQyM0Q4eEVtYlpvejNJX1pYR3ZMVlVQZ3ZwS2Vwd3lKai16MHAwNEptS1VxTmJySDJSZWpYR2d3M3NQWUpjdkdfN1hWTGlQdG5fR2RfRnloZHppWVJSbkp6T21IdlVpcmx2a3F3?oc=5",
    "published": "Mon, 28 Sep 2026 03:07:00 GMT",
    "summary": "China says US trade truce extension creates space to advance talks&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "China says US trade truce extension creates space to advance talks - straitstimes.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWZjb0RfRFBPYzhqSHpLTU5KYndrOFd4SXhPVTlzdGEtQURfYmx1c1hrU1ZnRFBPejJ3WlJxTThuMkNLd0VwbEs0czFqcFZhSFlIOHYwdGR6MGtERjhjR1BsUFJTY2RoV1B1aW9CcHRtcVdsNEJ5amFqeWRsZndsWlpsTDdYX1IyUHdpMHl3Q1JrajdSbWxzVFo4OHM3Z3NEMkE?oc=5",
+   "published": "Mon, 28 Sep 2026 03:07:00 GMT",
+   "summary": "China says US trade truce extension creates space to advance talks&nbsp;&nbsp;straitstimes.com",
    "source": "Straits Times",
    "module": "海外媒体",
    "category": "中美经贸",
