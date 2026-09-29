@@ -228,7 +228,7 @@ FEEDS = {
             "base": 2,
         },
         {
-            "url": "https://www.ecommercedive.com/feeds/news/",
+            "url": "https://ecommercedive.com/feeds/news/",
             "tag": "Ecommerce Dive",
             "base": 2,
         },
@@ -263,6 +263,11 @@ FEEDS = {
             "url": "https://gcaptain.com/feed/",
             "tag": "gCaptain",
             "base": 1,
+        },
+        {
+            "url": "https://www.porttechnology.org/feed/",
+            "tag": "Port Technology",
+            "base": 2,
         },
     ],
 }
