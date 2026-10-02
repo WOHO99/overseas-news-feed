@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-02T03:23:34.660769+00:00",
- "total": 1747,
- "high_priority": 1452,
+ "updated": "2026-10-02T10:11:51.409811+00:00",
+ "total": 1765,
+ "high_priority": 1463,
  "fulltext_count": 47,
  "stats_by_category": {
-  "美国官方": 0,
+  "美国官方": 21,
   "欧盟官方": 0,
-  "国际组织": 15,
-  "海外媒体": 14,
-  "企业官方": 1,
-  "亚太官方": 2,
-  "海外媒体RSS": 3,
-  "航运物流行业": 2
+  "国际组织": 11,
+  "海外媒体": 27,
+  "企业官方": 3,
+  "亚太官方": 4,
+  "海外媒体RSS": 16,
+  "航运物流行业": 1
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -578,6 +578,16 @@
    "source": "WTO",
    "module": "国际组织",
    "category": "其他",
+   "priority": 3
+  },
+  {
+   "title": "2026 News items - John H. Jackson Moot Court Competition kicks off with webinar support on offer - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iUkg1eWZJQzBjYkxualFqdHRQZTM1emxtSmRIYkxHN2dHZklfMlE4YXFJdG5LQjE0UGxPS0d2MksxVFhzcDlIWnNOemhJUzJjTFRheGhTQzRFQ2phWTUtU09RZlhlVHZCakNUVmhQNDk2dDZt?oc=5",
+   "published": "Tue, 29 Sep 2026 15:21:51 GMT",
+   "summary": "2026 News items - John H. Jackson Moot Court Competition kicks off with webinar support on offer&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
+   "category": "航运物流",
    "priority": 3
   },
   {
@@ -1581,129 +1591,19 @@
    "priority": 3
   },
   {
-   "title": "WTO - World Trade Organization",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MeUFQVG4yVkFuR3dieGg1MFFIbDlwd2RRSHlwNjhNUW8tcG04TmtRUlZMVzBVMWMxZWJoVXN6ZWdkTGt3REE1Y2tsNHFOc08tYlJ4ZkU2ZUgzZHZkVUR5XzJLeU9mZ0VBZkRUektTV1pFc0dZ?oc=5",
-   "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-   "summary": "WTO&nbsp;&nbsp;World Trade Organization",
+   "title": "Thematic Session on Promoting Transparency in Sampling, Testing, and Analytic Methods Used to Determine Compliance with Sanitary and Phytosanitary (SPS) Measures - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0QtX21iUHFaLTlsR0tyRXpSWXpTd2NlNkQxa09YNjhZclBiQWVveFAxR3ZlQ2huRFBJYy1ZblBCekI1YzNPRDBCY0JHTU42STVCd2Y3eXF0TGtiN253SnVwZEJUdEQ1VW5KQmF6VFdNdGYxNW9PRjFBUGR4enppbmxnczlpdmM?oc=5",
+   "published": "Fri, 02 Oct 2026 07:57:22 GMT",
+   "summary": "Thematic Session on Promoting Transparency in Sampling, Testing, and Analytic Methods Used to Determine Compliance with Sanitary and Phytosanitary (SPS) Measures&nbsp;&nbsp;World Trade Organization",
    "source": "WTO",
    "module": "国际组织",
    "category": "其他",
    "priority": 3
   },
   {
-   "title": "Regional Trade Agreements Database - World Trade Organization",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UWTNJdGpJbHNld0NuTElxNVhMcnhUVWJHcEZOX3NWYWNGM3BsdTI3b0tLUW5xY2RoLW1hSjlLZnlMYVZvUkhfZHJUWEs?oc=5",
-   "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-   "summary": "Regional Trade Agreements Database&nbsp;&nbsp;World Trade Organization",
-   "source": "WTO",
-   "module": "国际组织",
-   "category": "其他",
-   "priority": 3
-  },
-  {
-   "title": "WTO | News - What’s happening at the WTO - World Trade Organization",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHeVdqTXpnTXZRTWlheEJYTFBkNkx6NVZnUjdnWks5c2lOX09hUkhuNjNUQzhYVFhELUEzWk92czc5SWVXWmpTbUFzRXp5S2FTNEs0ZWw1YnY?oc=5",
-   "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-   "summary": "WTO | News - What’s happening at the WTO&nbsp;&nbsp;World Trade Organization",
-   "source": "WTO",
-   "module": "国际组织",
-   "category": "其他",
-   "priority": 3
-  },
-  {
-   "title": "Medicaid and Children's Health Insurance Program (CHIP) Generic Information Collection Activities: Proposed Collection; Comment Request",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19707/medicaid-and-childrens-health-insurance-program-chip-generic-information-collection-activities",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "On May 28, 2010, the Office of Management and Budget (OMB) issued Paperwork Reduction Act (PRA) guidance related to the &quot;generic&quot; clearance process. Generally, this is an expedited process by which agencies may obtain OMB's approval of collection of information requests that are &quot;usually voluntary, low- burden, and uncontroversial collections,&quot; do not raise any substantive or policy issues, and do not require policy or methodological review. The process requires the submissio",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "其他",
-   "priority": 3
-  },
-  {
-   "title": "Draft NIH Policy on Sharing Summary Level Study Results With Clinical Research Participants",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19706/draft-nih-policy-on-sharing-summary-level-study-results-with-clinical-research-participants",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "NIH seeks public input on its proposed NIH Policy on Sharing Summary Level Study Results with Clinical Research Participants, including ways to promote and enable the research community to share summary level study results with clinical research participants.",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "其他",
-   "priority": 3
-  },
-  {
-   "title": "Robotically-Assisted Surgical Devices-Premarket Submissions; Draft Guidance for Industry and Food and Drug Administration Staff; Availability",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19704/robotically-assisted-surgical-devices-premarket-submissions-draft-guidance-for-industry-and-food-and",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The Food and Drug Administration (FDA or Agency) is announcing the availability of the draft guidance titled &quot;Robotically-Assisted Surgical Devices--Premarket Submissions.&quot; This draft guidance provides draft recommendations for premarket submissions for robotically- assisted surgical devices (RASDs). This draft guidance is not final nor is it for implementation at this time.",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "美国关税",
-   "priority": 3
-  },
-  {
-   "title": "Intent to Request an Revision From OMB of One Current Public Collection of Information: Law Enforcement Officers (LEOs) Flying Armed",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19703/intent-to-request-an-revision-from-omb-of-one-current-public-collection-of-information-law",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The Transportation Security Administration (TSA) invites public comment on one currently-approved Information Collection Request (ICR), Office of Management and Budget (OMB) control number 1652-0072, that we will submit to OMB for a revision in compliance with the Paperwork Reduction Act (PRA). The ICR describes the nature of the information collection and its expected burden. The collection involves gathering information from federal, state, county or municipal armed law enforcement officers (L",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "航运物流",
-   "priority": 3
-  },
-  {
-   "title": "Foreign-Trade Zone (FTZ) 57, Notification of Proposed Production Activity; Eli Lilly and Company; (Drug Products); Concord, North Carolina",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19699/foreign-trade-zone-ftz-57-notification-of-proposed-production-activity-eli-lilly-and-company-drug",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "其他",
-   "priority": 3
-  },
-  {
-   "title": "Foreign-Trade Zone (FTZ) 93, Notification of Proposed Production Activity; Eli Lilly and Company; (Drug Products); Durham, North Carolina",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19698/foreign-trade-zone-ftz-93-notification-of-proposed-production-activity-eli-lilly-and-company-drug",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "其他",
-   "priority": 3
-  },
-  {
-   "title": "Certain Dynamic Random Access Memory (DRAM) Devices, Products Containing the Same, and Components Thereof (III); Notice of Institution of Investigation",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19697/certain-dynamic-random-access-memory-dram-devices-products-containing-the-same-and-components",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on August 11, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of Netlist, Inc. of Irvine, California. A supplement to the complaint was filed on August 25, 2026. The complaint, as supplemented, alleges violations of section 337 based upon the importation into the United States, the sale for importation, and the sale within the United States after importation of certain dynamic ",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "美国关税",
-   "priority": 3
-  },
-  {
-   "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Campus Safety and Security Survey",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19680/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "其他",
-   "priority": 3
-  },
-  {
-   "title": "Determination Under the Textile and Apparel Commercial Availability Provision of the Dominican Republic-Central America-United States Free Trade Agreement (“CAFTA-DR”)",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19675/determination-under-the-textile-and-apparel-commercial-availability-provision-of-the-dominican",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The Committee for the Implementation of Textile Agreements (&quot;CITA&quot;) has determined that certain polyester/viscose dyed twill lining fabric, as specified below, is not available in commercial quantities in a timely manner in the CAFTA--DR countries. The product is added to the list in Annex 3.25 of the CAFTA--DR in unrestricted quantities.",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "其他",
-   "priority": 3
-  },
-  {
-   "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; eZ-Audit: Electronic Submission of Financial Statements and Compliance Audits",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19644/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
+   "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Eligible Career Pathway Program",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20279/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
    "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
    "source": "Federal Register | USTR",
    "module": "美国官方",
@@ -1711,79 +1611,109 @@
    "priority": 3
   },
   {
-   "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; AmeriCorps Seniors Application Instructions, Progress Reporting, Independent Living and Respite Surveys",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19641/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The Corporation for National and Community Service, operating as AmeriCorps, has submitted an information collection request (ICR) for the AmeriCorps Seniors application instructions, progress reporting, and independent living and respite surveys.",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "航运物流",
-   "priority": 3
-  },
-  {
-   "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; President's Volunteer Service Award",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19640/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The Corporation for National and Community Service, operating as AmeriCorps, has submitted a request to renew the President's Volunteer Service Award information collection.",
+   "title": "Polyethylene Terephthalate Film, Sheet, and Strip From Taiwan: Preliminary Results and Preliminary Intent To Rescind, In Part, of Antidumping Duty Administrative Review; 2024-2025",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20273/polyethylene-terephthalate-film-sheet-and-strip-from-taiwan-preliminary-results-and-preliminary",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that Nan Ya Plastics Corporation (Nan Ya) made sales of polyethylene terephthalate film, sheet, and strip (PET film) from Taiwan at less than normal value (NV) during the period of review (POR) July 1, 2024, through June 30, 2025. Further, we preliminarily find that Shinkong Materials Technology Corporation (SMTC) and Shinkong Synthetic Fiber Corporation (SSFC), which we consider to be a single entity (SMTC/SSFC), had no reviewable entries during the POR. Interested parties are invited to comment on the preliminary results of this review.",
    "source": "Federal Register | USTR",
    "module": "美国官方",
    "category": "其他",
    "priority": 3
   },
   {
-   "title": "Notice of Request for Clearance of a Revision of a Currently Approved Information Collection: National Census of Ferry Operators",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19636/notice-of-request-for-clearance-of-a-revision-of-a-currently-approved-information-collection",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "In accordance with the requirements of section 3506(c)(2)(A) of the Paperwork Reduction Act of 1995, this notice announces the intention of the BTS to request the Office of Management and Budget's (OMB's) approval for new iterations of an on-going biennial information collection related to the nation's ferry operations. The information collected from each census will be used to produce a descriptive database of existing ferry operations. A summary report of census findings will also be published",
+   "title": "Certain Aluminum Foil From the Republic of Türkiye: Final Results of Countervailing Duty Administrative Review; 2023",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20272/certain-aluminum-foil-from-the-republic-of-trkiye-final-results-of-countervailing-duty",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "The U.S. Department of Commerce (Commerce) determines that countervailable subsidies were provided to producers and exporters of certain aluminum foil (aluminum foil) from the Republic of T[uuml]rkiye (T[uuml]rkiye), during the period of review (POR) January 1, 2023, through December 31, 2023.",
    "source": "Federal Register | USTR",
    "module": "美国官方",
-   "category": "中美经贸",
+   "category": "航运物流",
    "priority": 3
   },
   {
-   "title": "Passenger Vehicle and Light Truck Tires From South Korea, Taiwan, Thailand, and Vietnam; Notice of Commission Determination To Conduct Full Five-Year Reviews",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19628/passenger-vehicle-and-light-truck-tires-from-south-korea-taiwan-thailand-and-vietnam-notice-of",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The Commission hereby gives notice that it will proceed with full reviews pursuant to the Tariff Act of 1930 to determine whether revocation of the countervailing duty order on passenger vehicle and light truck tires from Vietnam and the antidumping duty orders on passenger vehicle and light truck tires from South Korea, Taiwan, and Thailand would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time. A schedule for the reviews will be establishe",
+   "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List; Note Regarding Format of Review Requests",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20269/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "",
+   "source": "Federal Register | USTR",
+   "module": "美国官方",
+   "category": "航运物流",
+   "priority": 3
+  },
+  {
+   "title": "Delegation of Authority by the Secretary of State to the Official Performing the Duties of the Administrator of the U.S. Agency for International Development",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20263/delegation-of-authority-by-the-secretary-of-state-to-the-official-performing-the-duties-of-the",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "",
+   "source": "Federal Register | USTR",
+   "module": "美国官方",
+   "category": "其他",
+   "priority": 3
+  },
+  {
+   "title": "Foreign-Trade Zone (FTZ) 153; Authorization of Limited Production Activity; CMS Circuits, Inc.; (Electronic Manufacturing Services in Aerospace, Industrial, and Medical Applications); Murrieta, California",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20261/foreign-trade-zone-ftz-153-authorization-of-limited-production-activity-cms-circuits-inc-electronic",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "",
    "source": "Federal Register | USTR",
    "module": "美国官方",
    "category": "美国关税",
    "priority": 3
   },
   {
-   "title": "Large Diameter Welded Pipe From the Republic of Türkiye: Final Results of Antidumping Duty Administrative Review; 2024-2025",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19626/large-diameter-welded-pipe-from-the-republic-of-trkiye-final-results-of-antidumping-duty",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The U.S. Department of Commerce (Commerce) determines that large diameter welded pipe (welded pipe) from the Republic of T[uuml]rkiye (T[uuml]rkiye) was sold in the United States at less than normal value during the period of review (POR), May 1, 2024, through April 30, 2025.",
+   "title": "Foreign-Trade Zone 27; Withdrawal of Application for Subzone; Applied Materials, Inc.; Boylston, Gloucester, Newburyport, and Rowley, Massachusetts",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20260/foreign-trade-zone-27-withdrawal-of-application-for-subzone-applied-materials-inc-boylston",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "",
    "source": "Federal Register | USTR",
    "module": "美国官方",
-   "category": "其他",
+   "category": "航运物流",
    "priority": 3
   },
   {
-   "title": "Certain Superabsorbent Polymers From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19625/certain-superabsorbent-polymers-from-the-republic-of-korea-final-results-of-antidumping-duty",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The U.S. Department of Commerce (Commerce) determines that certain superabsorbent polymers (SAP) from the Republic of Korea (Korea) were not sold in the United States at less than normal value (NV) during the period of review (POR), December 1, 2023, through November 30, 2024.",
+   "title": "Melamine From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Countervailing Duty Order",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20259/melamine-from-the-peoples-republic-of-china-final-results-of-the-expedited-second-sunset-review-of",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on melamine from the People's Republic of China (China) would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the &quot;Final Results of Sunset Review&quot; section of this notice.",
    "source": "Federal Register | USTR",
    "module": "美国官方",
-   "category": "亚太动态",
+   "category": "中美经贸",
    "priority": 3
   },
   {
-   "title": "National Organic Program: Notice of Intent To Extend and Revise a Previously Approved Information Collection (2027)",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19623/national-organic-program-notice-of-intent-to-extend-and-revise-a-previously-approved-information",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the U.S. Department of Agriculture, Agricultural Marketing Service's intention to request an extension and revision of a previously approved information collection titled National Organic Program (OMB Control Number: 0581-0191).",
+   "title": "Certain Carbon Steel Butt-Weld Pipe Fittings From the People's Republic of China: Notice of Court Decision Not in Harmony With Final Covered Merchandise Determination and Notice of Amended Covered Merchandise Determination Pursuant to Court Decision; Correction",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20258/certain-carbon-steel-butt-weld-pipe-fittings-from-the-peoples-republic-of-china-notice-of-court",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "The U.S. Department of Commerce (Commerce) published notice to the public in the Federal Register of August 28, 2026 that the U.S. Court of International Trade's (CIT) final judgment was not in harmony with Commerce's covered merchandise inquiry (CMI) determination. Specifically, Commerce amended the CMI determination to find that products cut to length and formed into the rough shape of certain carbon steel butt-weld pipe fittings (butt-weld pipe fittings) in the People's Republic of China (China) represent &quot;unfinished&quot; fittings, which are covered by the scope of the Order, and that when such products are further processed in the Socialist Republic of Vietnam (Vietnam), they remain subject to the antidumping (AD) order on butt- weld pipe fittings from China. This notice did not ",
    "source": "Federal Register | USTR",
    "module": "美国官方",
-   "category": "其他",
+   "category": "中美经贸",
    "priority": 3
   },
   {
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 15c6-2",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19621/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
+   "title": "Notice of Extension of the Deadline for Determining the Adequacy of the Antidumping and Countervailing Duty Petitions: Certain Corrugated Die-Cut Cardboard Boxes From the People's Republic of China, Malaysia, and the Republic of Türkiye",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20257/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-and",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "",
+   "source": "Federal Register | USTR",
+   "module": "美国官方",
+   "category": "中美经贸",
+   "priority": 3
+  },
+  {
+   "title": "Common Alloy Aluminum Sheet From the People's Republic of China: Initiation of Circumvention Inquiry of the Antidumping Duty and Countervailing Duty Orders",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20256/common-alloy-aluminum-sheet-from-the-peoples-republic-of-china-initiation-of-circumvention-inquiry",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "Based on available information, the U.S. Department of Commerce (Commerce) is self-initiating a circumvention inquiry to determine whether imports of certain aluminum composite panels (ACPs) produced in the People's Republic of China (China) by Shanghai Alumetal Decorative Material Co. (Alumetal) are circumventing the antidumping duty (AD) and countervailing duty (CVD) orders on common alloy aluminum sheet (CAAS) from China.",
+   "source": "Federal Register | USTR",
+   "module": "美国官方",
+   "category": "中美经贸",
+   "priority": 3
+  },
+  {
+   "title": "Foreign-Trade Zone (FTZ) 230; Authorization of Limited Production Activity; Qorvo US, Inc.; (Semiconductor Wafers, Modules, and Chips); Greensboro, North Carolina",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20255/foreign-trade-zone-ftz-230-authorization-of-limited-production-activity-qorvo-us-inc-semiconductor",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
    "summary": "",
    "source": "Federal Register | USTR",
    "module": "美国官方",
@@ -1791,9 +1721,9 @@
    "priority": 3
   },
   {
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 613 of Regulation NMS",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19620/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
+   "title": "Foreign-Trade Zone (FTZ) 45; Authorization of Limited Production Activity; Qorvo US, Inc.; (Semiconductor Wafers and Modules); Hillsboro, Oregon",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20254/foreign-trade-zone-ftz-45-authorization-of-limited-production-activity-qorvo-us-inc-semiconductor",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
    "summary": "",
    "source": "Federal Register | USTR",
    "module": "美国官方",
@@ -1801,9 +1731,9 @@
    "priority": 3
   },
   {
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 608",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19619/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
+   "title": "Foreign-Trade Zone (FTZ) 75; Authorization of Production Activity; Essai, Inc.; (Semiconductor Test Equipment); Chandler, Arizona",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20253/foreign-trade-zone-ftz-75-authorization-of-production-activity-essai-inc-semiconductor-test",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
    "summary": "",
    "source": "Federal Register | USTR",
    "module": "美国官方",
@@ -1811,101 +1741,71 @@
    "priority": 3
   },
   {
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 15c3-3",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19618/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "",
+   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Multiple Bureau of the Fiscal Service Information Collection Requests",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20232/agency-information-collection-activities-submission-for-omb-review-comment-request-multiple-bureau",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "The Department of the Treasury will submit the following information collection requests to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, on or after the date of publication of this notice. The public is invited to submit comments on these requests.",
    "source": "Federal Register | USTR",
    "module": "美国官方",
    "category": "其他",
    "priority": 3
   },
   {
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 17a-10",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19617/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "",
+   "title": "Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: Exhibition of “Four Norwegian Bridal Crowns”",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20214/notice-of-determinations-culturally-significant-objects-being-imported-for-exhibition-determinations",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "Notice is hereby given of the following determinations: I hereby determine that certain objects being imported from abroad pursuant to an agreement with their foreign owner or custodian for temporary exhibition or display in the European Sculpture and Decorative Arts galleries of The Metropolitan Museum of Art, New York, New York, and at possible additional exhibitions or venues yet to be determined, are of cultural significance, and, further, that their temporary exhibition or display within the United States as aforementioned is in the national interest. I have ordered that Public Notice of these determinations be published in the Federal Register.",
    "source": "Federal Register | USTR",
    "module": "美国官方",
-   "category": "其他",
+   "category": "美国关税",
    "priority": 3
   },
   {
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 31a-2",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19616/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "",
+   "title": "Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Auschwitz. Not Long Ago. Not Far Away.” Exhibition",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20213/notice-of-determinations-culturally-significant-objects-being-imported-for-exhibition-determinations",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "Notice is hereby given of the following determinations: I hereby determine that certain objects being imported from abroad pursuant to agreements with their foreign owners or custodians for temporary display in the exhibition &quot;Auschwitz. Not Long Ago. Not Far Away.&quot; at the United States Holocaust Memorial Museum, Washington, District of Columbia, and at possible additional exhibitions or venues yet to be determined, are of cultural significance, and, further, that their temporary exhibition or display within the United States as aforementioned is in the national interest. I have ordered that Public Notice of these determinations be published in the Federal Register.",
    "source": "Federal Register | USTR",
    "module": "美国官方",
-   "category": "其他",
+   "category": "中美经贸",
    "priority": 3
   },
   {
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 17Ac3-1 and Form TA-W",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19615/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "",
+   "title": "Chassis and Subassemblies From China; Scheduling of Expedited Five-Year Reviews",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20201/chassis-and-subassemblies-from-china-scheduling-of-expedited-five-year-reviews",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "The Commission hereby gives notice of the scheduling of expedited reviews pursuant to the Tariff Act of 1930 (&quot;the Act&quot;) to determine whether revocation of the antidumping duty and countervailing duty orders on chassis and subassemblies from China would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time.",
    "source": "Federal Register | USTR",
    "module": "美国官方",
-   "category": "其他",
+   "category": "中美经贸",
    "priority": 3
   },
   {
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 17f-2(e)",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19614/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "其他",
-   "priority": 3
-  },
-  {
-   "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Trademark Trial and Appeal Board (TTAB) Actions",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19613/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The United States Patent and Trademark Office (hereafter &quot;USPTO&quot; or &quot;Agency&quot;) will submit the following information collection request to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, on or after the date of publication of this notice. The USPTO invites comments on the information collection renewal of 0651-0040, which helps the USPTO assess the impact of its information collection requirements and m",
-   "source": "Federal Register | USTR",
-   "module": "美国官方",
-   "category": "其他",
-   "priority": 3
-  },
-  {
-   "title": "Disadvantaged Business Enterprise and Airport Concession Disadvantaged Business Enterprise Program Revisions",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19688/disadvantaged-business-enterprise-and-airport-concession-disadvantaged-business-enterprise-program",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The U.S. Department of Transportation (DOT or Department) is finalizing amendments to its Disadvantaged Business Enterprise (DBE) and Airport Concession Disadvantaged Business Enterprise (ACDBE) program regulations. With few modifications, this final rule follows the interim final rule (IFR) published on October 3, 2025, which eliminated race- and sex-based presumptions that DOT determined to be unconstitutional. This action completes the transition to a system of individualized determinations o",
+   "title": "Special Local Regulations; Southern California Annual Marine Events for the San Diego Captain of the Port Zone, San Diego Sharkfest Swim, San Diego Bay, San Diego, CA",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20225/special-local-regulations-southern-california-annual-marine-events-for-the-san-diego-captain-of-the",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "The Coast Guard will enforce special local regulations for the San Diego Sharkfest Swim on October 18, 2026, to provide for the safety of life on navigable waterways during this event. Our regulation for marine events within the Southwest Coast Guard District identifies the regulated area for this event in the San Diego Bay. During the enforcement periods, the operator of any vessel in the regulated area must comply with directions from the Patrol Commander or any Official Patrol displaying a Coast Guard ensign.",
    "source": "Federal Register | BIS",
    "module": "美国官方",
    "category": "航运物流",
    "priority": 3
   },
   {
-   "title": "Sanctions Penalties Regulations",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19678/sanctions-penalties-regulations",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is adding the Sanctions Penalties Regulations. These new regulations consolidate previously existing information regarding penalties applicable to multiple sanctions programs implemented by OFAC.",
-   "source": "Federal Register | BIS",
-   "module": "美国官方",
-   "category": "中美经贸",
-   "priority": 3
-  },
-  {
-   "title": "Terrorism List Governments Sanctions Regulations",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19657/terrorism-list-governments-sanctions-regulations",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is amending the Terrorism List Governments Sanctions Regulations to implement changes resulting from the rescission of the designation of Syria as a State Sponsor of Terrorism. Specifically, OFAC is removing and reserving a Syria-specific general license because the authorization is no longer necessary following the rescission.",
+   "title": "Special Local Regulations; Marine Events Within the USCG East District-Ocean City, NJ",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20224/special-local-regulations-marine-events-within-the-uscg-east-district-ocean-city-nj",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "The Coast Guard will enforce special local regulations for the Ocean City Chase Race on October 3, 2026, to provide for the safety of life on navigable waterways during this event. Our regulation for marine events within the USCG East District identifies the regulated area for this event in Ocean City, NJ. During the enforcement period, the operator of any vessel in the regulated area must comply with directions from the Patrol Commander or any Official Patrol displaying a Coast Guard ensign.",
    "source": "Federal Register | BIS",
    "module": "美国官方",
    "category": "其他",
    "priority": 3
   },
   {
-   "title": "Submission for OMB Review; Comment Request",
-   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19629/submission-for-omb-review-comment-request",
-   "published": "Fri, 25 Sep 2026 04:00:00 GMT",
-   "summary": "",
-   "source": "Federal Register | USTR",
+   "title": "Special Local Regulations; Marine Events Within the USCG East District-Philadelphia, PA",
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20223/special-local-regulations-marine-events-within-the-uscg-east-district-philadelphia-pa",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "The Coast Guard will enforce special local regulations for the Philadelphia Cup Regatta on October 3, 2026, to provide for the safety of life on navigable waterways during the event. Our regulation for marine events within the USCG East District identifies the regulated area for this event in Philadelphia, PA. During the enforcement period, the operator of any vessel in the regulate area must comply with directions from the Patrol Commander or any Official Patrol displaying a Coast Guard ensign.",
+   "source": "Federal Register | BIS",
    "module": "美国官方",
    "category": "其他",
    "priority": 3
@@ -2128,6 +2028,16 @@
    "priority": 2
   },
   {
+   "title": "Gloves(621600) imports from North Macedonia - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkh4Z1R5Uld3VU1SWXBxdmRGWXZGR0wyalVmS0U5cXYxUVhRTGVkMkF6dndodllHcDdJdTNldHFWRlo2Q1ZEODRuSDVKcmcwcThCZUMyUDBWcnlXLWR1dENCcDBlVmRnQjJ0WUNyTGIxcEs5MVl2dWFyYXdyY2RzN204VG9QNExybnVISGhpUHBveWFXT011M19lVDRvcWZaVUphU2NYZXhSVk85OEsxTVdmWEF2aV9INlNVSA?oc=5",
+   "published": "Wed, 30 Sep 2026 21:02:51 GMT",
+   "summary": "Gloves(621600) imports from North Macedonia&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "Can Anything Slow China’s Export Juggernaut? - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1ZURzl5LW1OcWtqTjhDYldQa2pxdl9FeWQ1RkhFd2dwQ3RsUW1ULTlLX3VEV19EZDZkRnc2VERwTUxaaTUyUkxKN3pmQmNUQnhKYlpUVnJ2cDdjTFhKQjN0OHltV1RCUk9acTdkZF9KWFFvQ0VlVllKdFVVUl9memhpclp1MW91VGlqZ3FxRmNoa3JSNGRTT0JNZjNOVkZFYTlvVjNtZVk2ZmhrYWYwYlA0aUZ1SUFL?oc=5",
    "published": "Wed, 30 Sep 2026 21:00:05 GMT",
@@ -2246,6 +2156,16 @@
    "priority": 2
   },
   {
+   "title": "China warns broad EU tariffs could disrupt trade negotiations - Jing Daily",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdG43SG1rMWhUeFZaa1ZQYzI0U1UxR3M3Qnc3M1ZraHNLN3JjX2JJOS1nWGx4VFlTLW0xNFpILVliUFVoTFZySFAzV2JPbjhPTV8yamRkU2FackJnZmktOEl3YWNoTUZSSmFKQ2g4RXA1WmNHYkVvUW5RUS01SEtuYlh5UlF1RTRzc0xMaDhlWlhTb2M?oc=5",
+   "published": "Wed, 30 Sep 2026 19:41:51 GMT",
+   "summary": "China warns broad EU tariffs could disrupt trade negotiations&nbsp;&nbsp;Jing Daily",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Two trades that just happened in 'Magnificent Seven' stocks point to big gains ahead",
    "link": "https://www.cnbc.com/2026/09/30/two-trades-that-just-happened-in-magnificent-seven-stocks-point-to-big-gains-ahead.html",
    "published": "Wed, 30 Sep 2026 18:47:35 GMT",
@@ -2340,6 +2260,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "Brazil’s beef exporters hit a wall in China as 55% tariff kicks in - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdUJNcWdqaS1sTUh2Y0g3WHdxYnV1WXdBcVVqd1NfRkdNTmdKaE5yNmw0MkdCSFNXRHZaU2dUVGtsRXJ6M2kwVlNWS0t2WlVnSGdzMDhxNnVyRkRwVjhXOV9ETkl4WlJnSEtkR3ZiLUdmNXBhckpTaTdzRW1JeWUwVzFhanhrNjhVNDJPbU5tekFjdnhKRGVYcDNrcnNjNnNuWHphTVkxMDRIOUNaZi1kRDJ2TzhQaU5kakRNaWpmOHcxYzROcjBoZlo5LVp5Z9IBzgFBVV95cUxNTGpIYUo0WEZOR1dxLURNaTJLSE1CcG8yMkNLQW9lTFhvXzlyWF93N0I3TkxIaGN6ZmZ3cERUaHBqQmMwSTRYWHZaTHhMYV94ZS1YTG9YVGx0VDVlVV9ZMHhGWG1VWmd2bTlUQzU1VEhldS14blNqYWVEaHJXVHhmUEllaGNBaERDSy1sTzJEWFRTVzhaWjJlZmpJTTVMMVlmQWg3d1JPdFBUZEVMX0hCU2xrd005cGhjWmRMMnFJeWlOaTBsaG0xYlNmUFZBZw?oc=5",
+   "published": "Wed, 30 Sep 2026 18:07:56 GMT",
+   "summary": "Brazil’s beef exporters hit a wall in China as 55% tariff kicks in&nbsp;&nbsp;South China Morning Post",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "US, China Move to Cut Tariffs on $60 Billion in Goods - Vision Times",
@@ -2608,6 +2538,16 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3Q1WXROQTBzUy1kdDltZW5nOTl1YU93OTg4Z2p2THNIM3pIX0FESGZYdGpQRzdZSDBzVmlOWjBFSk1TcDFkdFVESWNvQXZKU2lFX0sxcmo5V1pscERJalA5YTBXOUJpdEdSdXNKREJzaVhFUGxCS3U1Q0lwcHYzVTZwMWpMSnB3Q2JlaGZfdE9iYlAzMU1kUmZBdE5qMUdicGVCTmF2UGJyWkhUOU1HR3JPQQ?oc=5",
    "published": "Wed, 30 Sep 2026 16:00:06 GMT",
    "summary": "Mexico’s Peso Becomes Worst in the World as Carry Traders Flee&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Mexico’s Peso Becomes Worst in the World as Carry Traders Flee - bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcGVOZzlZTmpoTEVoaWt1RndHcHJNNmY1VTNOT2FCZTJ0ZFNZNndETFM4V0hKOGgtakRGZG1US09EdXZaWXVGRnZmajZ4cHVINWxIRXc1MkZ0Ulo1X2dwR0ZoS2RMWU9vaWZwdFhJWTRIM2VPNGxsakNSaE9oMUFmM0tuMHFhTUtDU01PMkJjZWZCQ04zMlRKc0ZwNHpLeEpzZjBNa2dHSC1GOVRUUWZqUktfbjZ3LVFzSFFXS1NKY2JmaGRpdUtyZG1jZ1UyRUxt?oc=5",
+   "published": "Wed, 30 Sep 2026 16:00:06 GMT",
+   "summary": "Mexico’s Peso Becomes Worst in the World as Carry Traders Flee&nbsp;&nbsp;bloomberg.com",
    "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "中美经贸",
@@ -3221,6 +3161,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "US and China release $60 billion nonsensitive product lists for tariff cuts - Scripps News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2MzalNLQ1g0LW9rWUcwVEVucXNCWm01dUFJVEd4NHNrRzg5RU5hY29Bd0xyeUdmcW1CZ2N6TUxSSTI0SGozU0ZPTlJLeHVyRHd1OXoxTDlwM011S1F4YXc4T3FITXA4M2UwM3BfdU91Vk9DaU9XQ2kyenNVN0RucDhvczcxZm5QXy1zM24yRXk4dWVjbzJaQXIySGxxVnFoUF9ZRFQ2eXhfSnFs?oc=5",
+   "published": "Wed, 30 Sep 2026 12:25:05 GMT",
+   "summary": "US and China release $60 billion nonsensitive product lists for tariff cuts&nbsp;&nbsp;Scripps News",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "PRS and SCS Trade from Asia to Mediterranean - MSC",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemRqWGdacXgxRU9SMDA0MExrbTBDS0FBOTBzSWJuZ3NaV2RtaEc0MDNRNFFXVGhwTkdJRUd6TjgyQ2hUNGZHZDBQcDF4N2ZvTVZJRXJibkg0NHEtRVlzTkhqeGhjYXMwbHFuX2J4SjJEVlEzY20xRW8wTEY5MmRlMkNMNThNZ2JTck9BMGRyUV82VjNKRmU2emdjcUZwMERFWGxuLUdqUm15X1Mya0dIYw?oc=5",
    "published": "Wed, 30 Sep 2026 12:19:52 GMT",
@@ -3434,6 +3384,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "OpenAI wants dot agents to handle everything from parties to payroll - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YamNkSzUxcnAxN3U5TkVSai1uazFRVUMwS0ltQTQ2OFlacTNPU1k5NUl3RjVRS09oOER1U3ExcmlRVG1IeWtTdGhHV0M3Z1hheVhDdXBiMm02S25RN3pPYVNUSWxpSzg?oc=5",
+   "published": "Wed, 30 Sep 2026 09:59:35 GMT",
+   "summary": "OpenAI wants dot agents to handle everything from parties to payroll&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
   },
   {
    "title": "2026 Golden Week Sailing Programme - Trade Asia to USA - MSC",
@@ -4436,6 +4396,16 @@
    "content_status": "full"
   },
   {
+   "title": "US and China release reciprocal $30 billion product lists for tariff cuts after Trump-Xi meeting - TheTrucker.com",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON1MzQ3M2SEdFVGVXWk9pQzJWaExCamZaTE8zOGVGWDNVdGxkZDhRUUdXVFFoZVUtakdrODNXOURrWVJfcDBGWl9kMXEtakZhNno4Yno4RzNzd0s3S3V5MHpyazFHVEVGM1E2UkR4a0cxUmlJVWdaM29rWEUxVFBJb3pWc3oxOFU0OEdINE92WW1xczVfM1BfRjhKMTQ5MFVOYWQyX0tLSkUyR080elUzWFRLOWpfakJBQUU0aW43SnBJYnU1YXdmX3Y1RHA3QURIS09pNGVEcmRRZjF4eGc?oc=5",
+   "published": "Tue, 29 Sep 2026 19:38:36 GMT",
+   "summary": "US and China release reciprocal $30 billion product lists for tariff cuts after Trump-Xi meeting&nbsp;&nbsp;TheTrucker.com",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Trump rejects calls to work with China on AI safety despite Xi summit progress",
    "link": "https://www.scmp.com/news/china/diplomacy/article/3369254/trump-rejects-calls-work-china-ai-safety-despite-xi-summit-progress?utm_source=rss_feed",
    "published": "Tue, 29 Sep 2026 19:32:03 GMT",
@@ -4832,6 +4802,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "US grants zero tariff on selected Bangladeshi specialty drugs - thefinancetoday.net",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ldFpEM2FSUy1ObjU5VWZFaktfcXN6azNCRlVsZVgzcUtQY2J0MFhYSG5KbVFtRzhIVDQ5S25YWVhLVlRmR1g3S1M0bUl1c0dlTmZJay1LU1BuOElJaXRYNFhn?oc=5",
+   "published": "Tue, 29 Sep 2026 12:47:50 GMT",
+   "summary": "US grants zero tariff on selected Bangladeshi specialty drugs&nbsp;&nbsp;thefinancetoday.net",
+   "source": "Google News | ASEAN Trade",
+   "module": "亚太官方",
+   "category": "美国关税",
+   "priority": 2
   },
   {
    "title": "Jamie Dimon has a plan to revive the West: A 'big, beautiful' deal with Europe - CNBC",
@@ -6668,6 +6648,16 @@
    "priority": 2
   },
   {
+   "title": "China’s zero tariffs deliver massive savings for African exporters - news.wine.co.za",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NVHRKdFRoQzZ4VTV3OEoxd3R6V24tUHI5TERBTkdfdWltdnFlc1ZPS2F1MG1CTk1UQVp1WGZjVlJSbFRVNkRNX21tZ0o1MzE4dzJDWVBsTzNBUQ?oc=5",
+   "published": "Thu, 01 Oct 2026 22:01:54 GMT",
+   "summary": "China’s zero tariffs deliver massive savings for African exporters&nbsp;&nbsp;news.wine.co.za",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Panda diplomacy: all the countries currently hosting China’s beloved ambassadors",
    "link": "https://www.scmp.com/news/china/diplomacy/article/3369456/panda-diplomacy-all-countries-currently-hosting-chinas-beloved-ambassadors?utm_source=rss_feed",
    "published": "Thu, 01 Oct 2026 22:00:05 GMT",
@@ -6814,6 +6804,16 @@
    "content_status": "full"
   },
   {
+   "title": "Machinery parts, non-electrical, nes imports from Ethiopia(excludes Eritrea) |2024 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjM3elV1bnBhOVFGOFhDbWFlcWdqUTF6OGg0bHlTcl94b0lWR19CalQwbXBMNWhCUWhwdDliajhJZXN4TUtwVmVnRDlSajVwS1k0SjFTd21HaG5TempudmlubDM3ZHNjWWl2aWptckNPR0VhR0pLT290OUxncGVYQ01vUTFSTnN0U0ZSY3ptakw0c09UUVFZQ1hFNl83UnkzUWdZY1lVcnRwWXpnblBQag?oc=5",
+   "published": "Thu, 01 Oct 2026 17:34:32 GMT",
+   "summary": "Machinery parts, non-electrical, nes imports from Ethiopia(excludes Eritrea) |2024&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "EXCLUSIVE: US slows aircraft-part exports to China as Trump seeks leverage in trade negotiations, sources say - Reuters",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTm41VmdtNFdJR2d1VVB2ZGxGeDRoU0FxTVJvbkZZSURLSGJNU1JFdmFyMWswaDh4Ukszb1dCUS0yNk8wY3MzN2N2dm12VnhMcmR0Qm1KU0hqdjNfZl9pbjU1bGpjY24tYkNIWkw2Vzh6SE1wYkQ0bEtZSmJTRl9wekhLN281NF90NWhVNC1la19nLTRlVXFNZUVjVVlscTBPa0d6RURVc0ZxS0ZDaVd4Ykw0MllFaEhsSVhBdm9qM0FSblVhaVJjbGtsdDBxOHR5aDRGUjJ6Q1lqZw?oc=5",
    "published": "Thu, 01 Oct 2026 17:17:05 GMT",
@@ -6865,6 +6865,16 @@
    "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "Ghana Trees,shrubs,bushes,grafted or not,of kinds whi imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc3ZCemwzRGdfcGs3SjNPZ1hmLTJ5ZWdkR0MxYW9RVmpoU2hXSnY3WlFOM1FLYkxad0lCN2hvcEtrajdPcVZVRlgwaUV3QndfT2taQ2ZObkF2dEQ3enM5bXJHX043QVdLNWJSamFpc3VPU0l3dFpRNF9pQU9oX0F2ZzhlbzhDdFpmMjdvcVNGWmYxS05raTlBV2k3WGlmSU9YS2k2THlyOEpXWWlGQTE1Qw?oc=5",
+   "published": "Thu, 01 Oct 2026 16:31:55 GMT",
+   "summary": "Ghana Trees,shrubs,bushes,grafted or not,of kinds whi imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
    "priority": 2
   },
   {
@@ -6971,10 +6981,30 @@
    "priority": 2
   },
   {
+   "title": "International Review of Micro‑Credential Systems - OECD",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHNJMHVPSDI1c1ZBUk0xbXZVTjNic25uUDZ0NmZoZm5Kd2k3cV9DRWlwOWVOdkZLc2IxSTF5anJUaEFqNGZ6ZUR5cGhlY2Y1VXlUS0luVm1XRnVsZ01mWVd3UFFxaEtPakNTUWh6bmtYaTNHcjdsSktXLW1PQ2hhYUVTNnMycDR1N0pHUzU1TF9fRTA3OTJXLUl6Y05Zekk0WV9CeXlEMVVjck9hX3RBSll0eDU2YWVKamo2TGl3Nk5PamtS?oc=5",
+   "published": "Thu, 01 Oct 2026 15:10:44 GMT",
+   "summary": "International Review of Micro‑Credential Systems&nbsp;&nbsp;OECD",
+   "source": "OECD",
+   "module": "国际组织",
+   "category": "其他",
+   "priority": 2
+  },
+  {
    "title": "CEP Policy Areas and other possible categories relevant to biodiversity: An overview of global biodiversity finance - OECD",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGZBNm5LNXpGZ0FDUFpBcEUxWFRrZlpPekdZOVZ1dHpPRndFU3NIUTlYdUVwVG5qNTA0WnF0bFJJcW0tZjRCWXhQU0drcm1XRDF2SkZvdkRyZ01FWjZRVzA0RFFxYzNqcEdUbEJXVnFYLXlsWHl2TzR5RmRwWnNEMmw1dmxsc3dzcVc3RGtrSUJoSGZUZ1FIZmJjTF9mWDJEMVFNbXNQenYxRnZnMUI1V3BVeG50bmdNSkluaV93?oc=5",
    "published": "Thu, 01 Oct 2026 15:10:40 GMT",
    "summary": "CEP Policy Areas and other possible categories relevant to biodiversity: An overview of global biodiversity finance&nbsp;&nbsp;OECD",
+   "source": "OECD",
+   "module": "国际组织",
+   "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "Bringing aboard employers and learners: International Review of Micro-Credential Systems - OECD",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmNhcEZKRVJoMnFGc0pmRHNGT2NjRDBRODFYcjlrR3I0UDJtdWFXZ0R4ejRqeVRlRC15Y0RwNV9ROVZlekFQZ1VpRy13NXVxR2VISVZrVDBJUUtONWFOYmtuWmhTbU4xOGhZeHVpdHQ5V21IaGRrTVI3c3ExN01VbGVlVHBvOTJpYWJ2aElUbFZxaW9DTzVYbm94TEVVTjk2Q0RLdzVsZHhIdmtzdVhOSFVvU2llMXE2UFQ4RW54eVBwWi1u?oc=5",
+   "published": "Thu, 01 Oct 2026 15:10:28 GMT",
+   "summary": "Bringing aboard employers and learners: International Review of Micro-Credential Systems&nbsp;&nbsp;OECD",
    "source": "OECD",
    "module": "国际组织",
    "category": "其他",
@@ -7159,6 +7189,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "Zimbabwe Transmission shafts and cranks, including cam s imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3Z6TGpYNnRFN2hraWpRc3VHVVpQQ1I4THBRR3ZvVDBfczVWdnQ5dmhoaFljSEJLMVItRHE2SElzRV9UNEk4VGhHWHZRY3gtakNuN2p3OTI4SkIxVGFnbl9xazBuNFZJTFZaeXhXeGFWMG1hZmpuSnhZNlg3ZjFYcldHT0hiQmZuWV96R2JjbThSU1NIVlFaWGlYaWFQQXFZRmVOdXJVeWtKYm5sNDJhUg?oc=5",
+   "published": "Thu, 01 Oct 2026 13:00:07 GMT",
+   "summary": "Zimbabwe Transmission shafts and cranks, including cam s imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "Zimbabwe Parts of lifting, handling, loading or unloadin imports by country - World Bank Group",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHROdXk1YXhIR0hFby0yeS1yTFFJRlpCYkYzT3FHU1RwQVB3VVVoYVRXeXdBb0Yxb0pqdUd1TGJ0bjI1TzM0MjlTekdlbDU0NThxMzc0RXA2OUUzcGpDLTJNZ2lBaDFfR2M1eVc1cE5aYU9fWlM2ZTlxWXQ5SEQ4OEdGN1h0S05hRkdENmVYNThxb1R6NGVNWVdtYW5rWmVDVm5INW1GVGJEUkkyZ1RNZQ?oc=5",
    "published": "Thu, 01 Oct 2026 12:56:08 GMT",
@@ -7332,6 +7372,16 @@
    "content_attempts": 1,
    "content": "Breaking up DSV and Kuehne is hard to do. However... - The Loadstar Premium Comment / Breaking up DSV and Kuehne is hard to do. However... ID 477216545 © Oleg Doroshenko | Dreamstime.com By Alessandro Pasetti 1 October 2026 I have talked to quite a few investors and trade sources in recent weeks, looking for consensus about DSV’s existential crisis as well as Kuehne + Nagel’s temporary rebound on the stock market and leadership, or lack thereof in the post-KMK world. Reality With that in mind. “Am I going to pay 25x forward earnings for Kuehne + Nagel [K+N] rather than less than 20x for DSV!?!!”, one investor, call him Mr C*, chuckled in a recent video call. When his body language ... Daily News from £15 / mo · includes Daily News Sign In / Subscribe Subscriber Access Minimise This is a Daily News Story For uninterrupted access, sign in, subscribe or upgrade to The Daily News. For as little as £15 / month (£120/year), we can get you into the room where the big decisions are made. Email Password Forgot? Remember me on this device Sign In Subscribe / Sign-In * Includes access to Daily News Compare plans → \u0000\u0000\u0000\u0000 Comment on this article Close You must be logged in to post a comment. Related Stories A resilient consumer meets Kuehne's capacity bet – what to make of it The earnings mix is changing, upside from China and AI Kuehne + Nagel 29 September 2026• 0 Comments• Share UP-NS to be won or lost on the numbers... …and the STB just named the people who check them M&A radar Norfolk ",
    "content_status": "full"
+  },
+  {
+   "title": "Zambia Perfumes and toilet waters imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSGI0Y1lfOWZVT01aaTFZNWdFQ0M3c0c4MUx3d01EUnBPVktLbG44c0xJWGp6SjNKcW5VNTVkVGFtM2JWNTFRYUdPcXBqdXk4NDNkZFF1SVl2R2JpaEdLZV9ULURJbEJvRjJWNmVGY2JzSlhQMk1mRDR4c1NSZHpwaWRhMHJIN2VTd21HLWhMZHBGQlZvd3FGclI2MHc4MHZHU0lGRnBTejctMEp2d3FzbA?oc=5",
+   "published": "Thu, 01 Oct 2026 11:21:42 GMT",
+   "summary": "Zambia Perfumes and toilet waters imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
   },
   {
    "title": "dairy export trade policy | US dairy sector pushes for tariff relief under China board - en.edairynews.com",
@@ -7751,6 +7801,26 @@
    "published": "Thu, 01 Oct 2026 04:00:00 GMT",
    "summary": "Inside the Little-Known World of China's Clean Tech Startups&nbsp;&nbsp;Bloomberg.com",
    "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Malawi Instruments and apparatus for measuring or chec imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFFPc1EyU0thS0VreVV5UjdnX0FfTTUwTEpRUzZJVFh4Z1NUYjBlbzMwXzZvMlU1azBhMFRDWllmTy1CeXpGMlZzR0dPRTF2dU1sQ1UyaWZrUnZsMkFUaFNxb21mZlgtSDlMTVhFMk15MDllSVpkLUVmVHdRZzR4MkhnaHlvbjM3NUY4ZHp1QVluN0QtbGRmTE9ZeklyOTFuSkh3Rlo0aHBrQU1RTFB4dA?oc=5",
+   "published": "Thu, 01 Oct 2026 03:34:58 GMT",
+   "summary": "Malawi Instruments and apparatus for measuring or chec imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "PM Modi, Trump Talk Trade, Energy Amid Fresh India-US Frictions - BW Businessworld",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmQ5VUtBeVlLd1o1d2FXT0dxVG1WYVVqU2FyeTZEWWliNVh6M0dzbnFYNVRaNWRKa3BSTFV4ZHdPeF9vS3FlQVMyRUVKblVjOE93YUNRMHFELWF5M0k2MjdmMy1jbEJpRkMzZ0VaREh0ZExDQXhpc0k0YWxtTGRxTHY1aUFRczVBaVIxM000OXlPRGlrUmVQVXZvMG5HY3hzVGdZT3MwejI?oc=5",
+   "published": "Thu, 01 Oct 2026 03:30:03 GMT",
+   "summary": "PM Modi, Trump Talk Trade, Energy Amid Fresh India-US Frictions&nbsp;&nbsp;BW Businessworld",
+   "source": "Google News | US Trade",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
@@ -11805,7 +11875,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -11847,7 +11917,7 @@
    "module": "海外媒体",
    "category": "其他",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -11869,7 +11939,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -11958,7 +12028,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -11970,7 +12040,7 @@
    "module": "海外媒体",
    "category": "航运物流",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -12023,7 +12093,7 @@
    "category": "中美经贸",
    "priority": 2,
    "content_status": "bot_wall",
-   "content_attempts": 1
+   "content_attempts": 2
   },
   {
    "title": "Zambia Flanges, stainless steel imports by country - World Bank Group",
@@ -12065,7 +12135,7 @@
    "module": "海外媒体",
    "category": "其他",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -12177,7 +12247,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -12352,7 +12422,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -12457,7 +12527,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -12567,7 +12637,7 @@
    "category": "其他",
    "priority": 2,
    "content_status": "error",
-   "content_attempts": 1
+   "content_attempts": 2
   },
   {
    "title": "Trade groups urge USTR to extend pause on China-linked ship fees",
@@ -12579,7 +12649,7 @@
    "category": "中美经贸",
    "priority": 2,
    "content_status": "error",
-   "content_attempts": 1
+   "content_attempts": 2
   },
   {
    "title": "China, US Agree Tariff Cuts On $60bn Of Goods In Trade Truce Extension - Arise News",
@@ -12701,7 +12771,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -12794,7 +12864,7 @@
    "module": "海外媒体",
    "category": "航运物流",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -12887,7 +12957,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -12918,7 +12988,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "A Non-Sensitive List for Tariff Cuts Emerges From Xi-Trump Summit - Bloomberg.com",
@@ -13019,7 +13091,8 @@
    "module": "航运物流行业",
    "category": "中美经贸",
    "priority": 2,
-   "content_status": "error"
+   "content_status": "error",
+   "content_attempts": 1
   },
   {
    "title": "Foreign Secretary discusses Russia sanctions, India-US ties in meeting with US Congressional delegation - CNBC TV18",
@@ -13040,7 +13113,8 @@
    "module": "海外媒体RSS",
    "category": "中美经贸",
    "priority": 2,
-   "content_status": "error"
+   "content_status": "error",
+   "content_attempts": 1
   },
   {
    "title": "Remarks by Minister for Trade and Industry (Energy and Industry) Dr Tan See Leng at VSMC Grand Opening Ceremony - Ministry of Trade and Industry",
@@ -13070,7 +13144,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Second Thomas Shoal stand-off sparks sharp exchange between US, China embassies",
@@ -13080,7 +13156,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "US and China release reciprocal $30 billion product lists for tariff cuts after Trump-Xi meeting - WLNS 6 News",
@@ -13291,7 +13369,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "China details reciprocal tariff cuts, trade council rules after Xi-Trump summit - MLex",
@@ -13341,7 +13421,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Republicans pour cash into dozens of US House races previously seen as ‘safe’",
@@ -13351,7 +13433,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "航运物流",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "UK-US Base Plot Foiled, US-China Tariff Cuts, More - Bloomberg.com",
@@ -13391,7 +13475,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Canada-U.S. Tariffs: What Does Ottawa’s Latest Trade Response Mean for the Canadian Economy and TSX Stocks? - kalkine.ca",
@@ -13441,7 +13527,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "U.S.-China tariff relief: Which agri stock presents the most upside? - Investing.com",
@@ -13462,7 +13550,8 @@
    "module": "海外媒体RSS",
    "category": "其他",
    "priority": 2,
-   "content_status": "error"
+   "content_status": "error",
+   "content_attempts": 1
   },
   {
    "title": "US and China release reciprocal $30 billion product lists for tariff cuts after Trump-Xi meeting - fox5sandiego.com",
@@ -13622,7 +13711,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "US-China tariff plan covers $30 billion each way - The Hans India",
@@ -13825,7 +13916,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Other(650500) imports from Botswana - World Bank Group",
@@ -13875,7 +13968,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "Elderly resident sparks fury in China after cutting worker’s safety rope to hang laundry",
@@ -13885,7 +13980,9 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
   },
   {
    "title": "US and China Extend Tariff Ceasefire Through January 2027 - SuaraGarut.ID",
@@ -14848,223 +14945,253 @@
    "priority": 2
   },
   {
-   "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02NzNfeHZJM0NQVGhCdlpFOXl1WFdpWnFIZ0t6NWExSndXUDd4Mk1PU1l4NFhJUXRWWkdvS0JjU3R3QWF4NmI5WDJBMk5icWdfUzhNVVZHc0c3UWJlNnRCejlxZDZBM3ZkcDhOeTlLUTRuMml4dXRBeDVDVzAtQQ?oc=5",
-   "published": "Fri, 25 Sep 2026 10:00:01 GMT",
-   "summary": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows&nbsp;&nbsp;CNBC",
+   "title": "Nike shares plummet 10% after weak revenue outlook and layoff plans underway",
+   "link": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
+   "published": "Fri, 02 Oct 2026 10:11:09 GMT",
+   "summary": "Nike's shares plummeted in premarket trading, continuing a second straight day of declines after it reported falling revenue and plans to lay off staff.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "Chevron extends Australia asset-integrity deal with EnerMech",
+   "link": "https://splash247.com/chevron-extends-australia-asset-integrity-deal-with-enermech/",
+   "published": "Fri, 02 Oct 2026 10:10:00 GMT",
+   "summary": "UK oilfield services specialist EnerMech has secured a five-year extension to its non-destructive testing contract with Chevron Australia, retaining the inspection and asset-integrity work until the end of 2031. The Aberdeen-headquartered services company first won the assignment in 2017. The renewed agreement covers inspection and integrity support across Chevron Australia’s operations, including major LNG assets &#8230;\n",
+   "source": "Splash 247",
+   "module": "航运物流行业",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "YouTube sports strategy targets more live rights -- but not necessarily events",
+   "link": "https://www.cnbc.com/2026/10/02/youtube-sports-strategy-targets-more-live-rights-but-not-necessarily-events.html",
+   "published": "Fri, 02 Oct 2026 10:00:01 GMT",
+   "summary": "YouTube is targeting more live sports rights. But it's more likely to buy games in bulk if there's a clear consumer proposition underlying the rights.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "Eurozone inflation hits its highest level in three years at 3.8% as energy costs soar",
+   "link": "https://www.cnbc.com/2026/10/02/eurozone-inflation-ecb.html",
+   "published": "Fri, 02 Oct 2026 09:39:51 GMT",
+   "summary": "Annual euro zone inflation hit 3.8% last month, its highest level since September 2023.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "Why Sabah has Malaysia watching South China Sea tensions more closely",
+   "link": "https://www.scmp.com/week-asia/politics/article/3369554/why-sabah-has-malaysia-watching-south-china-sea-tensions-more-closely?utm_source=rss_feed",
+   "published": "Fri, 02 Oct 2026 09:30:11 GMT",
+   "summary": "Malaysia’s long-standing strategy of non-alignment amid US-China rivalry in the South China Sea could soon be tested, with the eastern state of Sabah sitting near a potential flashpoint involving Philippine territory.\nObservers pointed to comments by Malaysian Defence Minister Khaled Nordin, who last week voiced concern that a conflict or “unexpected incident” in the maritime region could spill over into Malaysia.\nKhaled, who singled out Sabah, added that Malaysia was looking to strengthen its...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Mexico’s Export Boom Comes With Some AI Caveats - bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3pVQ3dGZjFiNUxUb042MjBwZDZUV3Z5dXUtaFhFRGhBN0VaRnh6OHU5bjlwS0JvRWVFZF80RWI5Q25oMmtDbUtxdkxqbktGQVJjbGlyVG9LRktFcDZ1Y3VYQXA0Si02U1BVM2Z0WkVsU2ZheVpFQUg4alJoblpHRTJhelF0OTFQbkZxSnhURzkxaHhhRWktWWlRWXNCWFpzalg0?oc=5",
+   "published": "Fri, 02 Oct 2026 09:30:00 GMT",
+   "summary": "Mexico’s Export Boom Comes With Some AI Caveats&nbsp;&nbsp;bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+   "link": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+   "published": "Fri, 02 Oct 2026 09:24:33 GMT",
+   "summary": "Brazil will hold a knife-edge vote as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Hong Kong IPOs falter, China aids homebuyers, EU trade talks",
+   "link": "https://www.scmp.com/plus/business/banking-finance/article/3369567/hong-kong-ipos-falter-china-aids-homebuyers-eu-trade-talks?utm_source=rss_feed",
+   "published": "Fri, 02 Oct 2026 09:05:40 GMT",
+   "summary": "Hong Kong stock debuts are losing steam as a deluge of initial public offerings (IPOs) overwhelms investor appetite.\nSeven of September’s 12 IPOs fell on the first day of trading, raising the third-quarter total to 15 flops out of 31, based on Bloomberg data. By contrast, there were only 14 declines among 77 debuts in the first half of the year.\nMedcaptain Medical Technology led September’s first-day flops, plunging 43 per cent. Fast-fashion giant Shein tumbled as much as 10 per cent on its...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Crop outputs grew up to 100% in China’s big agricultural experiment: scientists",
+   "link": "https://www.scmp.com/news/china/science/article/3369564/crop-outputs-grew-100-chinas-big-agricultural-experiment-scientists?utm_source=rss_feed",
+   "published": "Fri, 02 Oct 2026 09:02:43 GMT",
+   "summary": "Large-scale field trials across China show that irrigation water treated with natural minerals radiated by sunlight could dramatically increase the yields of several crops, according to Chinese scientists behind the experiments.\nThe team said the trials, including on rice, wheat, soybeans, peanuts, sweet potatoes, sugar cane and vegetables, improved photosynthetic efficiency.\nTheir study, conducted from Heilongjiang province in northeastern China to Hainan province in the south, recorded yield...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "How the US went from ‘a position of strength’ to ‘gung-ho’ on China",
+   "link": "https://www.scmp.com/opinion/world-opinion/article/3369233/how-us-went-position-strength-gung-ho-china?utm_source=rss_feed",
+   "published": "Fri, 02 Oct 2026 08:30:09 GMT",
+   "summary": "Not so long ago, Washington’s approach to relations with Beijing was anchored by a single assertive phrase: dealing “from a position of strength”. It was rooted in a unipolar mindset: a belief that the United States could dictate terms, manage competition unilaterally and demand compliance from a distance.\nYet, at their recent summit, Chinese President Xi Jinping and US President Donald Trump formally established a new strategic framework: a “constructive strategic stability relationship based...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "David vs Goliaths: Singapore builds most accurate clock ever, leaves US and China in dust",
+   "link": "https://www.scmp.com/news/china/science/article/3369532/david-vs-goliaths-singapore-builds-most-accurate-clock-ever-leaves-us-and-china-dust?utm_source=rss_feed",
+   "published": "Fri, 02 Oct 2026 08:00:11 GMT",
+   "summary": "A small Singaporean research team has beaten scientists in China and the United States to build the world’s most accurate atomic clock.\nThe clock, built with a single ion of a rare earth metal element known as lutetium, is so precise that it would lose one second every 260 billion years – nearly 20 times the age of our universe.\nIt is about four times as accurate as the previous record holder, a calcium-ion clock developed by a Chinese Academy of Sciences team in Wuhan, and also surpasses an...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "China’s AI compute ambitions demand innovation",
+   "link": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
+   "published": "Fri, 02 Oct 2026 07:05:21 GMT",
+   "summary": "China has set a five-year goal for the expansion of intelligent computing capacity to drive artificial intelligence (AI) that calls for a more than fourfold increase on what was in place at the end of June this year.\nTo reach the 2030 target while being blocked by the United States from importing the most advanced Western-made AI chips will require innovation, adaptation and the application and coordination of vast resources. Judging by the 177 per cent increase in capacity achieved in the year...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Modi, Trump review ties amid sanctions and trade concerns - newstodaynet.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSV96OElNSWhpeEpsMmFndzJBRS1tTzV1Z1FET2RWYk9DbmhEUS1uS3psSFpocE1VUGk0blZ4UGFHX2RWdm56MVkxYlQyR2RMQlEzNW40ZlNwekZMYWYzU3RwWlhYNnpwTlN5VGcxRmw2T1hJNUtFRVFhdXBmRXozaTZ4ZFRiY2tyVFh4OV90ZG9jOHVSNEhnLQ?oc=5",
+   "published": "Fri, 02 Oct 2026 05:58:31 GMT",
+   "summary": "Modi, Trump review ties amid sanctions and trade concerns&nbsp;&nbsp;newstodaynet.com",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX2FnTWlaNko5MlBVdVJyRklOTmxSc3NDaXdtV2x2aEtZQ2tJaFhzVU42ZzlxYk1jX1JyWFg5NlJBRVRBN3hqdXJDdVJDT3hSYzJzVVdsYzdLQUhSc3hldFRTUEFNUk0xOElXYjIwdnJMcng1cjBsMnlRZk8tWUprc19WazloQQ?oc=5",
+   "published": "Fri, 02 Oct 2026 05:00:01 GMT",
+   "summary": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large&nbsp;&nbsp;CNBC",
    "source": "CNBC | Tariff/Trade",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
   },
   {
-   "title": "Stoppers, lids, caps and other closures of plas imports from Botswana |2024 - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeVloa2NvRjdqbUV4ZjFVY3VYV0plRnhOTVREZmMzc0hRejdNWC1pY2RoNEhWZTRPd3c1eld3Y2tTblQ1VktyTVJLYUNhd2E4b0lySGFtbFRLRGNOOXIySXdpcm01bjMtU1gzOHlZQTNlSUZPc2hDMlM3cUoxV25PT2hINjh1MGVOT1dmVmhESnB4bWZuMkVwMFk0NTJTOXV1YXNub3VqeHJCdmF3aHJybg?oc=5",
-   "published": "Fri, 25 Sep 2026 09:14:11 GMT",
-   "summary": "Stoppers, lids, caps and other closures of plas imports from Botswana |2024&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "US Trade With Cuba: Cargo Shipments Surge Despite Trump Sanctions - Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44UUp2Q244ZDBHeUhaUXdPQWRmVzdFRkNadmpGb21RTF94ZDNya0JoalJqU0s5bWRid181Wlo2WmRGd2Z2ZDJlWUJmOFFRMnRNMmw5NHhESnRySlFFNVEzMFVTT0cxMEVmb0tCNXhuMThJMEk?oc=5",
-   "published": "Fri, 25 Sep 2026 09:00:00 GMT",
-   "summary": "US Trade With Cuba: Cargo Shipments Surge Despite Trump Sanctions&nbsp;&nbsp;Bloomberg",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
+   "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
+   "link": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
+   "published": "Fri, 02 Oct 2026 05:00:01 GMT",
+   "summary": "Britain voted to leave the European Union in 2016.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
    "category": "中美经贸",
    "priority": 2
   },
   {
-   "title": "Rhine River: Additional Low Water Surcharge Levels Introduced - Hapag-Lloyd",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjl2UGFUbkVCWFE0MS1VX0JKVGtxYkFCRk9NUjkxU0IyUmtBU0VEUHdfOUQwZXE3NEFkSW1YQmZGRGZfTlpRWVozRmpxMTIwaThZR2NkaWNYdEJ4V0R5OUQ2Tkx4aVkwbWNfbEY1cVV4WHcwc3Q3OUVpdjVkbGx4emZ6VHFRckMtdDhoTHpRZ1h6UVZYQ2U4Zm5RV2FyVDdGWmlTVVVyMFhJTXp1eGhYTnY4MjZIUmlmOWNySEswRVlDTktLSDJTM0I3bzNFekJZ?oc=5",
-   "published": "Fri, 25 Sep 2026 09:00:00 GMT",
-   "summary": "Rhine River: Additional Low Water Surcharge Levels Introduced&nbsp;&nbsp;Hapag-Lloyd",
-   "source": "Hapag-Lloyd | Shipping",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "US Trade With Cuba: Container Shipping Surges Despite Trump Sanctions - bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0pyV3U5YnhLZm14SkpyV3RFWldCblFrcTFsNTFGbTBUN18yb0p6N0hUNktXUVlfVEJMYkFIR253eXdQM2cxRGV3RERHVWVlSE1ETm9zRF9HNUp0R3VkZGFDZ2pTbVZLUVJkV0RBZFVTaXNOeko3bk1CRFIyUXNiY3lxS25tY0U?oc=5",
-   "published": "Fri, 25 Sep 2026 09:00:00 GMT",
-   "summary": "US Trade With Cuba: Container Shipping Surges Despite Trump Sanctions&nbsp;&nbsp;bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Mountings, fittings and similar articles of bas exports to Liberia |2024 - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGlEMFA2UjNwUjRha0pITDVZaDliaDg1Ynd6MTdYY3VwcUt5YTB4WnpSQllnZUNoYnVCOFNXYzFJR2V5LU1RX0c0VWRmYTE0UktVeHMxdlRjNUVtTWhpOF9IZHlISTFHTENONDJucDV4LW5oT2tfZy1sUjJQTHlkeVQ2eUR2VVRGV3VQRVBNVjJFQXlNRDFYaXp1eHhKQXlIMzlIbGFwT0g1aEhXTVRvcw?oc=5",
-   "published": "Fri, 25 Sep 2026 08:57:41 GMT",
-   "summary": "Mountings, fittings and similar articles of bas exports to Liberia |2024&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "EU urges UK to raise tariffs on Chinese cars to avoid ‘made in Europe’ barriers - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHdaR2llWGpWLVlXcU8zbEtGdU1zbHBjTW40VE9COVRoNk1jcHVCXzRmTjdsVVBUd3VfMGo3bk5hd0dIMF9qNXRGWVBIWEhFTzBBME1Dams3WkZaWGNGSTllR056U0txU0tTX2JWdW5Rek95SFJETExRdENjclg5RFFTOFk?oc=5",
-   "published": "Fri, 25 Sep 2026 08:52:17 GMT",
-   "summary": "EU urges UK to raise tariffs on Chinese cars to avoid ‘made in Europe’ barriers&nbsp;&nbsp;Financial Times",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Namibia Stoppers, lids, caps and other closures of plas imports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnhNQlk2MTU5YzVyVjNLcUFDeEJIVk4wdnlZZkVpWHdLZGZrQnBxa193eExQRUo5R1JSem1tSEQ3ZVJHNXE1SUNxTTJudzJkcjJOMzl0VDZBdXJxbHdUNXo5YzNtbzV3NG1IN2lNZzBKcmdXOGJlNTBISlRFTkFnYV81b0pITGM2cnZQNzhWWWlZRmlkMGdWTVhIMUpVem5ZNERNdzBrQkRXZGxibnpOaA?oc=5",
-   "published": "Fri, 25 Sep 2026 08:51:53 GMT",
-   "summary": "Namibia Stoppers, lids, caps and other closures of plas imports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "US-China Trade Truce Extended: Why Trump And Xi Still Face A Long Road To A Deal - Outlook India",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbjdiNzItdVF2dWZxckFReG0tSTI0MnZwTm1zc25oYjZSMGJFWFFCd044cUQ4dVYzTThpeDJNRGpwZlVKVGY2QTJRXzdkVUpPaFdxZF9jVjFyM0M5ejBqTHZ3dmVzdkhndHRBOUt6eW56c0FYQk5KZUFXam8xb09QcmhhbVRrMXdXVnZDSU05U2REaEQtYTZxS2E1Wmg1c1hIelBNREJ5SV9MWUE1OUJYRnIzTTFfVGNyaE9yTEdxUdIBzAFBVV95cUxOTm1iSjVwcThyMFFIYWlnWlFIMUt4YzdvZS1lSjVZblMtRVozT0xzd25qa2s2dTlaVkNBT2JtVkE0Vk93YUhOeFNkbDVlby1BcGtIRVVkZEp0andYOUg5UC1PYUFETzdaMGd4cWp1V29QSHZuVlkzTnZNS0lvVGktR0NUOW92N0NaWEtiQmZQY25wSUl2TXlxb3VDY0ZfN29RcTFGSDVMQ0pxZHdkNFdYZEZzZXFrTGxsNUV0eDNwVkd1YXZmYjFJSVMzSmU?oc=5",
-   "published": "Fri, 25 Sep 2026 08:50:46 GMT",
-   "summary": "US-China Trade Truce Extended: Why Trump And Xi Still Face A Long Road To A Deal&nbsp;&nbsp;Outlook India",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Namibia Men's or boys' shirts of other textiles, nes exports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUxCREtHcTIyY2VQSHV5ZFdrTXoxRlRWZEVTWEVyYU9uLW1QcThKWU1IbHJiYlVNT1BGMDFXemxtRmxmNTU0TnVGYk5wT1ZnQnlyUXdsdUVwMW9rakxZT29uNmRZOXM2RkczX0VPZXV3VlZ1dXZjRUkzdHNyNm5RcDF2SWlPTE5nN0V4V0dHdnBhQ2xiUnRJajg4OE5UUHhWQnBvdDBNVUNDMFhPaE1wRw?oc=5",
-   "published": "Fri, 25 Sep 2026 08:47:41 GMT",
-   "summary": "Namibia Men's or boys' shirts of other textiles, nes exports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "BIGEX Service – Vessel Schedule Revision Due to Delay - CMA CGM",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORC0tMzlUNkRKZEJNSXVLc3F6YUcxdXRkV0tsbzk2VDJLc2N0RE1KdFBSMmRGcDFHZ1pZM3o0S3A3Ungyb2hWeDlKLW9ZcVJValNvZ3BNbTBmOHR1WmdEM0QtRXhTQmtTN1VZQzZjNjFqOXpBYksxZTNVbVNmVUV0VmtTY3JuOUJqM2czZllWQjFJU24tYmlVQ1RGYU0xUQ?oc=5",
-   "published": "Fri, 25 Sep 2026 08:39:12 GMT",
-   "summary": "BIGEX Service – Vessel Schedule Revision Due to Delay&nbsp;&nbsp;CMA CGM",
-   "source": "CMA CGM | Shipping",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Speech by Minister of State for Trade and Industry Foo Cexiang at the Singapore Semiconductor Industry Association Semiconductor Dinner 2026 - Ministry of Trade and Industry",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZDJLd0VZZFVEeXF3RHF5ZjRYSWxTaUc1SVZpd3FXcXFpazh3aEszMzJuVlVrUTBPWlJpNnk4dnpaamR4Umd1N0pVU2FSV25XdVFtTThhVEV4N0d1WGcwYmtpeGtobk44ODdfWXI1eFdMRTVTNUNKM01ZOGpOS25MOE5pd2xFb3NHNUk1R2o1V0hGYldldmlkLVZuSzhtSTZ6aHd4OW1Qa1BsTkNZTE91QXpXbUhpVnpueG9JQzBqWHlzRE56dm9vREF6Yi1nNUNJWGxkdENhMkt4Z3RydDRndVI2clFrUVhhTlhBNWV5dThKd2FiZmVxdmRkRVdxOTVWYUtr?oc=5",
-   "published": "Fri, 25 Sep 2026 08:37:23 GMT",
-   "summary": "Speech by Minister of State for Trade and Industry Foo Cexiang at the Singapore Semiconductor Industry Association Semiconductor Dinner 2026&nbsp;&nbsp;Ministry of Trade and Industry",
+   "title": "Future of Investment and Trade Partnership welcomes Fiji as its newest Member - Ministry of Trade and Industry",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHAzTHhrZ3FQNEhNUUtDVjNEdVh1Y0d2YW40X05zTWxKcGhfU2ktN0xlTmx5OUhrLWFIYUVFVUtGNllSc1RqR0J3TlNvVU9McXRlMG9FeVVZZlQ5ZGJDOTE5UHBONzIyR28tamMxRnE5c181VUhZZFZkb3FFeTRhMVdUX1c1OUNnLWN2Z1lqQnhKMi1DUFd1MEZVWDF0MzFFbEpyV05RVTlhWjBnUXBN?oc=5",
+   "published": "Fri, 02 Oct 2026 04:58:42 GMT",
+   "summary": "Future of Investment and Trade Partnership welcomes Fiji as its newest Member&nbsp;&nbsp;Ministry of Trade and Industry",
    "source": "Singapore MTI | Trade",
    "module": "亚太官方",
-   "category": "中美经贸",
+   "category": "美国关税",
    "priority": 2
   },
   {
-   "title": "How firms linked to Chinese cotton giant shirk sanctions to sell clothes to US - The Jerusalem Post",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3d01uRm9KOEwtTGVzR0lNTnRSU2NzMUNDMlFydGhaM01BMjZfbF9OMTl4YnZFOVg5WmVaVWNHb0ZaNWRFNTFmZ3lJRzh0VTV3QzVfTG5iZXFNMjRkTENF?oc=5",
-   "published": "Fri, 25 Sep 2026 07:55:39 GMT",
-   "summary": "How firms linked to Chinese cotton giant shirk sanctions to sell clothes to US&nbsp;&nbsp;The Jerusalem Post",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Turkey buys record diesel from India; US ally’s imports come amid Trump’s tariff threat on New Delhi over Russian oil - organiser.org",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc0stcDZaNXV6NjY1M3B4S1dsTGtWTVZyRnVwS19xZkx6bHdHMjRNQ0N1SG5XYmQ1eGdKN0EwTUNKb3JQbnNwa19EWlNIVlB5cnprQjZQUmQtR01ZT0V3UEJGTWtYb1l2ZWRlNTdWU19VOUU0a0k0LUgxWjY3RkJUQkxwNS1WVnpSX2JJVnJUWlZYSFFBUTROcGFmNE9rOUNzTHBOSWpYS2QySXAyS21nM01VaVNXSWFsQ3g0R1kzLTN6anZHSDV6WFJmS0s5WmVGbzBfTVl2YkxleVZPU0h2S3VQU1k4UjVTLUVCWDZpaGs4STd10gH6AUFVX3lxTFBNOWdEMzlXUXFXNmk1cWc0VzRJbTNiamxXdjBCdkxWZXlRRmVEd3JsWXpnT1BzZmh6cGNraEQ3cjZWVGV5WkVTRDZHZlIyRWh0TFpVMEc0U05hSU1yQkJIdXhpNU1VSG9aMWlXVGxickZUN0xibVFqME1XWmxYOGswd0JJLWJ2MXJBYWpEZ2YxZmVXbW1Fb2lYd19DbnNwWU11NWJmN2hSbHdzX0p0bm1nRjlmdVlLWlhCV2V0OUd1NGgwRWpma2xYWkZuZWtqOXBSby1IMFp2VVJIOVZMMVBhVUdMaGVUZklYWk5NSm1uSlI3R01PakJJZFE?oc=5",
-   "published": "Fri, 25 Sep 2026 07:35:31 GMT",
-   "summary": "Turkey buys record diesel from India; US ally’s imports come amid Trump’s tariff threat on New Delhi over Russian oil&nbsp;&nbsp;organiser.org",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "3 Tanker Stocks Investors May Miss As Sanctions Reshape Shipping Routes - simplywall.st",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdXI1ekQyekhBVU9mclVLQnNvS2ViY1p0T3pmM1VQTmwyZlpyRnpSR2ctb0ttS0I2dFlTWW9QS2VSN3l2RnJudV9MVkZsLWhsNmV2NGUzdGYwNC1VTUh4OE5NUUNHdFZ1N0o2aklxWFNhYkl4eDlKdkp3cUM2RUU2WFpwQXNvWTVfZzZnT0piSWtCdDBRcWhCdmtCUWhOa1doRUJuM2tUekRWdXpmc08zalhEY3R5aUp1WWpxdkJWS0RfNnRoZ21OX1ZPdDl2MjM3SmZDT0dZRdIB3AFBVV95cUxOWUN4ZkhVdThadzFWWndEUDRKUDlab3NRWWhDSWlRanZ2UERfdjc2OHRZYXZLc2lsdHE4VmFob0RjU2xYVUppTDRqaGp1WmJ4aG53dTlRamVmM3RROTJ0SXdaSWJPVllySjV1QmZaUkozZ3N4VTFxQjJCZGVDTUxWS0p3ZW5kZ2FpY3ZuZWIzX25pM1dmVm05a2k2dHlrMGlfc2E0SThvdnhmbG82RkZtTEFzMEJES24wUWhBNDAzajRkRDdWWkgySUsxRGFubVdGRHQ3MXB1V0ZWMUFu?oc=5",
-   "published": "Fri, 25 Sep 2026 06:48:15 GMT",
-   "summary": "3 Tanker Stocks Investors May Miss As Sanctions Reshape Shipping Routes&nbsp;&nbsp;simplywall.st",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "The U.S.-China Trade Truce Is Extended to Jan. 10. The Hard Questions Remain - Vocal",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnVSeGtCVVNidGJGWFhfdUpxa2V2MVNHVUtUUWN0bTF1TzhtdlhaVGR2MkR2ZGxoWUZSMWtjQktLT015X3FsbEZUb2xEVWp1Y1lsNmsySlJ6LU1Uc3Z0bE5Ic1V5Mlhia2RhRXI0V2EzTEtObnVZcVdEZjJSRTBEbVFpRWlkYUIxZDQtMGZrRDgxS0hzMlpxUW10RzhDUlRTV28w?oc=5",
-   "published": "Fri, 25 Sep 2026 06:45:32 GMT",
-   "summary": "The U.S.-China Trade Truce Is Extended to Jan. 10. The Hard Questions Remain&nbsp;&nbsp;Vocal",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End - Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXBxTEhITGFuWVlDRnZwR091R2poVktlRXFWc19zQkJocmtoakN4WDVkaEpIR2pudThGSDVpYVNjYjN5azE3dHdMUWNnamwzcmVVNTh1RE41U3ZpZXBPVzhweWs1QWN5WFZvRTVtaFZhOGRSa1Y4MmIwX2pjcF9ZRUJTZVhfeVU3SnhOdWwzM0F6Zm5lOWJmZlZDZnpjU3A5ZEFwVE9zUFBxeEd5OUlnX0x1NA?oc=5",
-   "published": "Fri, 25 Sep 2026 06:04:00 GMT",
-   "summary": "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End&nbsp;&nbsp;Bloomberg",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Thai August exports rise 24.3% on year, close to forecast - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZTB0aXJ0cEVmZ2Y0V3d1bGJCQVJzWVJ5Z1JudmViZm1OdEVSajBzd01teDFZaHRKdlYxOWtOeVpfSFE2UE9uVzFDTEZBTXEyLWZSRzBLVFBHdVRfUEJNRkozSVRES21aQ1NSeHA2XzNra3htTExlbmpTUTBTQW9hTWY3MXl3dkVZUWwtUHZtR2g1TDNSX1RjRU04TGE5U0o0LVlBUXVR?oc=5",
-   "published": "Fri, 25 Sep 2026 04:24:10 GMT",
-   "summary": "Thai August exports rise 24.3% on year, close to forecast&nbsp;&nbsp;Reuters",
-   "source": "Reuters | Trade/Tariff",
-   "module": "海外媒体",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Exclusive-How firms linked to sanctioned Chinese cotton giant sell clothes to U.S - Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMS1tdDJId0phRnRrakxXZnVLU04yMjlaWjhyZllZQzVSLWRNMXA0cmZYUDFBMVJzaXhmQkIxODJxZFREblc0TmJaU2VhS0pFNDdEdFNoLTM2RFBjVk1DaVZrVjZsS1NCVjBZZWF0b1pwNGJhX2k0NnA1cVJtVVRxd0RTR21qVF9lYUdGdWhpU2tDZkh6?oc=5",
-   "published": "Fri, 25 Sep 2026 04:15:00 GMT",
-   "summary": "Exclusive-How firms linked to sanctioned Chinese cotton giant sell clothes to U.S&nbsp;&nbsp;Yahoo! Finance Canada",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "EXCLUSIVE: How firms linked to sanctioned Chinese cotton giant sell clothes to US - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzFpeWxHY0MzVFNLd1Q2aUgtbnN4bTdEc3VMbW9KczJjMmNjODRHNTZ5UTZZbWIzLVBHMWRabTFKMUxFb092ajBON3NtTWtXM3NEbmlIdVY3VHIzNVJMa1JqdU1aSFgteHkybzZiQVQ0dXhqVnkwMWJ6a09TYlBUU2FQRHJScWNYRkg2eFg2d25RLS16UzVzMTNNTDI1bWhlZnpXQVJTQy1zelpUSDVLZTdxcEhHWHZBOXhONnZHSEJVOFk?oc=5",
-   "published": "Fri, 25 Sep 2026 04:01:00 GMT",
-   "summary": "EXCLUSIVE: How firms linked to sanctioned Chinese cotton giant sell clothes to US&nbsp;&nbsp;Reuters",
-   "source": "Reuters | Trade/Tariff",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "China’s Global EV Exports Rise 33% Y/y to 284,622 in August - Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmlJbFpOTm9FUVBiS0FacTBqYVlaYk11RW1SbHVZUmQ3WWhKU1ZGWFVxNkNlOE1SakFHZ0NMWmVGWGdYLWFYdEwtdVgzekpMVmx4SkwxczVTT0xLZXdJTjlDWDVaR181SFp1UVZLQ0VmVDhUdWlDUVBGSXpNc1plRkE2NEU2VXFzcUZORm84c09GQWJkSU9scVkwU2xGZm9IbWp1QjRzeUQyRUFjclE?oc=5",
-   "published": "Fri, 25 Sep 2026 03:53:00 GMT",
-   "summary": "China’s Global EV Exports Rise 33% Y/y to 284,622 in August&nbsp;&nbsp;Bloomberg",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "India-US Trade Deal 'Almost Done and Dusted'; Tariff Edge Over Rivals Needed, Says Goyal - siliconindia.com",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNTJVNWdrb3Bna0Rmc3RxVm0zTUJnZDJBRU8yUmFpdmw4TnF5TFA3eEV5SkF3S083VUZNcUdXTEhabHlRS1VOUTE0eVVrM2dfVklUUzJQY1NER0t2TmZiSWJOMjNhZWt6ME55U3RsMjVHWmhkNXFpdnNuREZzOVhvMDBwVENpOHlpZ0t6X1pQSG1fQ2FUUUp0WGt4d19ONmNrVmxuek1qSXNzTFNKTW83eFphZlczZXFCVHFOQUFLdk9iMVJCV2xoNjZ6RTdFUm4yNGVuMnd4WmphUU9TajJUaQ?oc=5",
-   "published": "Fri, 25 Sep 2026 03:36:22 GMT",
-   "summary": "India-US Trade Deal 'Almost Done and Dusted'; Tariff Edge Over Rivals Needed, Says Goyal&nbsp;&nbsp;siliconindia.com",
+   "title": "South Africa and the United States: AGOA's Reprieve, Visa Sanctions and the Forced-Labour Tariff - Wansom AI",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUlJSak9uS21UWTF1STZtb3c5cWY2dmFmM2o5N0JuM1U4TGlHNlFrT2lFYU0tMDFYd0E5Q1E2QnNQV05EaVA5WGJiTk4xdVBTMTAteXBqZUdlRmRtRTNraXdwNTJUTVBleWVsQUdxeVNiNWpDc0NxcWNtdGhrZUlsMGhOTVU4cjAzYW91bmR4bVg1ckRMUlZXQmtWSm1FN2xMWnF3RXJka1h6OEJaMXNvc19vV2dBaW9OTEljYnp0VTRobk54QmVrT0RrV2Z4QnhvakRDeU9oVQ?oc=5",
+   "published": "Fri, 02 Oct 2026 04:52:16 GMT",
+   "summary": "South Africa and the United States: AGOA's Reprieve, Visa Sanctions and the Forced-Labour Tariff&nbsp;&nbsp;Wansom AI",
    "source": "Google News | US Trade",
    "module": "海外媒体",
    "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "Return of 11 Skies project to Airport Authority will spur hub development: experts",
+   "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369522/return-11-skies-project-airport-authority-will-spur-hub-development-experts?utm_source=rss_feed",
+   "published": "Fri, 02 Oct 2026 04:48:57 GMT",
+   "summary": "The Airport Authority Hong Kong’s move to take back the 11 Skies project will catalyse the development of its aviation hub, a government adviser and a hospitality sector expert have said, calling for better access and immersive entertainment to attract visitors.\nTheir remarks came on Friday, two days after developer New World Development (NWD) announced it would return the project to the authority next year – including an entertainment complex and three office towers – and provide cash or...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "China deploys WZ-7 drone; flat dispute in Abby Choi trial: SCMP’s 7 highlights",
+   "link": "https://www.scmp.com/news/world/article/3369489/china-deploys-wz-7-drone-flat-dispute-abby-choi-trial-scmps-7-highlights?utm_source=rss_feed",
+   "published": "Fri, 02 Oct 2026 04:30:05 GMT",
+   "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. Chinese commercial reactor achieves nuclear fusion with clean hydrogen-boron fuel\n\nIn a first, a Chinese company has achieved high-parameter hydrogen-boron plasma control, marking a “significant and valuable” advance in research into...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+   "link": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+   "published": "Fri, 02 Oct 2026 04:07:54 GMT",
+   "summary": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "How a Sanctioned Conflict-Gold Trader’s Network Continues to Thrive - bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNZd3JMVlJsb3Y3Z1psNjJtaDN2c2hzdWZCV2psNWhhMmRBdnNVTEF3S0RXT2FybE9PdGNZQTFaeTJLWFFGWkV5aXlZTzlJV1dQTUVaekNTQXkyZFJZd0NPZDBseTJXYmhVak91MGtqb2J3RWRpYk9jYmFIYm5kUDE2b21mVzllQll2bzFrcHBwZVJDeDB4azF6c0tXUQ?oc=5",
+   "published": "Fri, 02 Oct 2026 04:00:00 GMT",
+   "summary": "How a Sanctioned Conflict-Gold Trader’s Network Continues to Thrive&nbsp;&nbsp;bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KRXNoUDJPRUY2VmFtOTJYU2hfSTEyZTNDVWRyekdJbnNWZlZTRGJHQkNEMnhzTW9ZeXBSNEtNQzM3LUhTZ01oYmZaVmtLV1dxeWphQVhLM256ejhXeVZLYkd2Y1VGMHlCUUhzU0lXbWUxUFR3TUdpcFdQLVNiZ9IBgwFBVV95cUxPYVJmeHVvdkswbEZENnhtUHBIcjVOV3M3eWUwZmlBbFQ3eUFPU2Z2MUVtc2ZyUHlKQ3dHOGQ3cDJLVF9xbkY0NXhNZzZhLTBiNldGekx1bXRjcjltU2JUWVE2UDBLYzlhTnBleXJXOWRsQXpyd2dENS1RcjEtUTl2M29rWQ?oc=5",
+   "published": "Fri, 02 Oct 2026 03:54:00 GMT",
+   "summary": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call&nbsp;&nbsp;CNBC",
+   "source": "CNBC | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Tariff rate, most favored nation, weighted mean, manufactured products (%) - Lebanon, Slovenia - World Bank Open Data",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kcDlLM3cwbVpZYWFRd19PVU1jbFhXb3FSVnA1TEl0Qm5aLXcwczNONmo0UzIwcTJEWVdOZmd1bTFtdmxiOV8xMkFwV0FNRjF0djN2OXlLYVgySVUtQ1hmNE9MLVFTcEVBOVdBb1JCMkpzNVFVdmFmaXJ0VnlUUQ?oc=5",
+   "published": "Fri, 02 Oct 2026 03:51:28 GMT",
+   "summary": "Tariff rate, most favored nation, weighted mean, manufactured products (%) - Lebanon, Slovenia&nbsp;&nbsp;World Bank Open Data",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "Ethiopia and Eritrea sever diplomatic ties as northern fighting escalates",
+   "link": "https://www.scmp.com/news/world/africa/article/3369512/ethiopia-and-eritrea-sever-diplomatic-ties-northern-fighting-escalates?utm_source=rss_feed",
+   "published": "Fri, 02 Oct 2026 03:49:18 GMT",
+   "summary": "Ethiopia and Eritrea broke diplomatic ties on Thursday, accusing each other of stoking internal conflicts as fighting continued in northern Ethiopia.\nEthiopia accuses Eritrea of backing a rebel group, the Tigray People’s Liberation Front (TPLF), which launched a major assault against government forces last week, raising fears of a return to the devastating 2020–2022 civil war that killed an estimated 600,000 people.\nAddis Ababa said it was expelling 10 Eritrean diplomats who “pose a direct...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "What does Philippines seek with new Thitu map in South China Sea?",
+   "link": "https://www.scmp.com/week-asia/politics/article/3369510/what-does-philippines-seek-new-thitu-map-south-china-sea?utm_source=rss_feed",
+   "published": "Fri, 02 Oct 2026 03:43:38 GMT",
+   "summary": "Thitu Island and its residents have come under the spotlight after the Philippines, in a bid to reinforce its claims in the South China Sea, announced plans to file an updated maritime chart with the United Nations.\nObservers say the filing would not establish Philippine sovereignty but could help Manila identify and challenge competing claims in more precise legal terms.\nMore than just a technical document, the updated map is a means for the government to formally document its presence and...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
    "priority": 2
   },
   {
@@ -15105,6 +15232,16 @@
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "亚太动态",
+   "priority": 2
+  },
+  {
+   "title": "Nike’s China Reset Needs More Than the Kardashians - bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDVnRVpoTVl1RklKdDZOSG85V3k2Qm5UbEtXX1Y5SXZRWmdIc3QwY1k2UnNIcUZmX20wd0p4OWl1c2trZjVSejVTRFVpdjFneldHSTZHM2tZdlREdGtrWHJYQVFhMDV2aGZwRUlxdmZXZ1phLWVkWDFCa21IRlNiZnpMbzZ1TmFaSjZxbGtDTkNvYTd6N2p5OTFESnZfdXJ5ZVAtZ0pqbw?oc=5",
+   "published": "Fri, 02 Oct 2026 01:30:00 GMT",
+   "summary": "Nike’s China Reset Needs More Than the Kardashians&nbsp;&nbsp;bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
    "priority": 2
   },
   {
@@ -15425,6 +15562,16 @@
    "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
    "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "BILL EVANS JIM HALL UNDERCURRENT LIBERTY LBJ60051 1LP - ebay.com",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CblpWTUlEMTJhTFF2WW9CLWw2NjI2LXhiQnRGTkljbEUwWV9ObHhXMjgxVkg4dDctZmRPWnBCdmdFT0xmSHJDX3p6VzFJQQ?oc=5",
+   "published": "Wed, 30 Sep 2026 12:43:13 GMT",
+   "summary": "BILL EVANS JIM HALL UNDERCURRENT LIBERTY LBJ60051 1LP&nbsp;&nbsp;ebay.com",
+   "source": "eBay | Seller",
+   "module": "企业官方",
+   "category": "其他",
    "priority": 1
   },
   {
@@ -15918,6 +16065,16 @@
    "priority": 1
   },
   {
+   "title": "Cancel order, never received item - eBay Community",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFY1aVFGdGo2ZWdDdFI4bkRiZlZJZUV6SE1YOE1KYml5LVNkSHk3V0djZV9EaGJjTUJOVl9GLW1rYmFqak1pMVZWVmxQSTB2M0dUZDY4Q0pRbGdwQllvazZjVDNQUGl5M1NsSmFtM1J1RWN2T2w4TGFRZ2Nra2M0c2pXX1FaOWltUFV1eUJMLXdnb1N5VUxsOExuLUwzaGM?oc=5",
+   "published": "Tue, 29 Sep 2026 19:40:16 GMT",
+   "summary": "Cancel order, never received item&nbsp;&nbsp;eBay Community",
+   "source": "eBay | Seller",
+   "module": "企业官方",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Developer Account Approved, but Verification Email Never Arrives - eBay Community",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdFk0dW1qR080RUxORERPUEZTSnR5WFExTTlXZ1JFUGVGNVhQSDZiTlI0UkhtRmZEbkh3V2xmODg4VUFRMzB1Z0gzMmtRczg3UFJfTFJRTFUzOHViRUxmNURZWFVqUTNhRkNlWjhQX1B6N2xwa3ZTbVBDeVJDSkNmbERyV1pxdEN1MzVKa1ZuSTNBYXZadkRiNVhqWEtwUy0tT2puWEhmc2p0N1VkbnBPOVJTNWpVakF6aUlMRXMzWlAwcnpDbFRTWnB2bUpwMEp5TGRsYk9nMXZCTFEtdXc4UVNIZzB4YTFRWUl1QWo3LTM?oc=5",
    "published": "Tue, 29 Sep 2026 18:48:03 GMT",
@@ -16378,6 +16535,16 @@
    "priority": 1
   },
   {
+   "title": "UPS Supply Chain Symphony™ | UPS - Italy - UPS",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15LVRfTXJFdHJHSHg4WHNINl90ekRoUGg4OHltWFh3U3dCTlhQN05CcXFKc2h6ZEpOQ0NTaUZhdG1oVjdJeENDS2MtWWdmdHBIaU1ISzU1MEo5SFp0VlQ2MWxoaGV0T2hQ?oc=5",
+   "published": "Thu, 01 Oct 2026 22:16:57 GMT",
+   "summary": "UPS Supply Chain Symphony™ | UPS - Italy&nbsp;&nbsp;UPS",
+   "source": "UPS | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
    "title": "First EC tender under new rules draws record-high bid from developers",
    "link": "https://www.channelnewsasia.com/singapore/canberra-drive-ec-tender-new-rules-record-high-bid-6424671",
    "published": "Thu, 01 Oct 2026 22:16:00 GMT",
@@ -16392,6 +16559,16 @@
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rNmJKTlRUN0M3N2k0ZlN6Q1hUNjFHSGR5cDdzYTNibUlUUEJ5RFNHQjBBbXA3N0hoRDRCTXdqV19HR09idFZXWjhpV01tcldiV2tZRTRDMFFhMVVsQXFwNzgyblAxZkUxWHF1ZkpBcTlyMTBmMExGdG9jbHA?oc=5",
    "published": "Thu, 01 Oct 2026 22:02:57 GMT",
    "summary": "Malaysia opens door to Taiwan’s pig exports&nbsp;&nbsp;porciNews",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Korea Nears $1 Trillion Export Milestone With KITA's Support - Seoul Economic Daily",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMU8zOVd0Q3VXbEYybnItYTc1WTlKbWJHdWRfaFB6bzRzZHJGTGZVVGFrSkN1ekRRVFZsazhaYWRoc1RIRW9obU5id0xTdDdaVmlPZm9JU0F6SzB4ZEpWelppaHNoU0t4a3VTTDdKc0haU3BCN1ctTnkxTnFOcGhMTF9VNHhTbXh1QmRiM3U3QW1aWGtUcWw5Smd5ZExsSUZqa0E?oc=5",
+   "published": "Thu, 01 Oct 2026 20:30:05 GMT",
+   "summary": "Korea Nears $1 Trillion Export Milestone With KITA's Support&nbsp;&nbsp;Seoul Economic Daily",
    "source": "Google News | SE Asia",
    "module": "亚太官方",
    "category": "航运物流",
@@ -17888,102 +18065,112 @@
    "priority": 1
   },
   {
-   "title": "Opinion | How Chinese firms can optimise their ‘going out’ strategy in Southeast Asia - South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjhPTTM5NnBQd09VbUwzWGgxczQ0Y0p3Qm1KMVNjQ0d1ZnVrT3VXcjhiSTVMc1lteDVGWDlrWHZCTW1ET0JEdEtQRmJRcnF2ZC1uVXAzSERDOWxJMXNQWFZDRHpMbDZkd1BtYXFCN09sd09qNHVUTHgyeFc5TkJZLTA4M1JhYnhMcy1GZTZ6WlJjeU43XzFjTlpsdlpVelV5SmJpQnVNbGVSd1BIZ2tkYlR6ODFxYjlJcU9TbUFTOEZ0ak5BcHNR0gHHAUFVX3lxTFB3WHlISE1XNTdhaFV3UjZDV0hweWR0ZlcxTnJELXF5eWpLV1drOVh5aFBoLXlBYUMySXUtTjVtQ0NQR05PNnlLVnJvSjJ0SHM4c0I5ejBLQzEyb2x0VEZxOFJYVWV0RkQxaU1ZZi1LeTl1b0o1bE9UeVp3ZC1aeTRFbHNRWkZ0enRITTgycENqMFJtTThEUWZXVENPSS13a1FzSkVFdHR2dGlIR2pna09GcGxRWkl5MDJ4ZHJOOHc4Q3dYeHBJaFE?oc=5",
-   "published": "Fri, 25 Sep 2026 08:30:11 GMT",
-   "summary": "Opinion | How Chinese firms can optimise their ‘going out’ strategy in Southeast Asia&nbsp;&nbsp;South China Morning Post",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
+   "title": "(LEAD) (Asiad) S. Korea beat China to win women's football bronze",
+   "link": "https://en.yna.co.kr/view/AEN20261002009051315",
+   "published": "Fri, 02 Oct 2026 18:47:09 GMT",
+   "summary": "NAGOYA, Japan, Oct. 2 (Yonhap) -- South Korea defeated China 1-0 to claim bronze...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
    "category": "中美经贸",
    "priority": 1
   },
   {
-   "title": "India-US trade deal ‘done and dusted’, says Piyush Goyal; what’s stopping the execution? - Upstox",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVkFTMjBsUldZeGF0SnY1RzJLazVIamJqZlNpQ2VEUDRYdGVnUjVrWTUwOS04cU8ycGdsZGFOdW5yTUwwZUFBTDVwUzhkd3M1Y3NaR0lka0pEdU45dEtqLXFWcGs4SEVjZm1aLTJkZDlCTy1xTllvaVdUa193dlNxcU54Rk5PY3NJRVF4bEdOWVBHa0p5ajFUaEN2bGhGSDdUeVhfdGNscjVUXzg3Ym1xLXpuVGpQcXhOcTJZTFlSWXZZRHdvdU1XZmhKeHo4RjIwczVBNFhjdzJMUEREdjhsMVMxZHk5SUE?oc=5",
-   "published": "Fri, 25 Sep 2026 08:03:53 GMT",
-   "summary": "India-US trade deal ‘done and dusted’, says Piyush Goyal; what’s stopping the execution?&nbsp;&nbsp;Upstox",
-   "source": "Google News | ASEAN Trade",
-   "module": "亚太官方",
-   "category": "航运物流",
+   "title": "(Asiad) S. Korea beat China to win women's football bronze",
+   "link": "https://en.yna.co.kr/view/AEN20261002009000315",
+   "published": "Fri, 02 Oct 2026 17:58:47 GMT",
+   "summary": "NAGOYA, Japan, Oct. 2 (Yonhap) -- South Korea defeated China 1-0 to claim bronze...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
    "priority": 1
   },
   {
-   "title": "US Mulls 90-Day Diesel Export Ban As India’s Shipments Surge - Outlook India",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRm1BbFNtemtuVEVkR0xrYzN5amxWS1kxZ2pJRUV2NWlfdy10U2QwemNKU2tmTzR3YnVXVjBUMXlmMktJYXVfNGI0LUtDOE0zQTZJZk5tMGx4UTI2SHgxUUlhaVBqWHNIbmpYeFFMaWtBWXVqRzlyYlYtZGR2NHFPcWdRYmw4aXZQWXdTOHZNTDRZNmZJcDVpcDI2b1dNQdIBqwFBVV95cUxOY1podFpMcHczRXpPeWNBTFlMcTlIaGdZanB0V1Rpbm84R2JqM1VNVXVLWE9IUkMtel9YVy1rS2dRaTFLM0kxa0JKU2k4WGZBLWtkSHA2eGc1TnV2VDNsMmdnR2FvT1lrMWxnUjBSVkhkSU5xU185eU9jQkNmQXpEejZXdDVaTEw1VjdqdjJkaVA5NjBweFhURHhjVTZjanQwZFJyRHcxVVVfczg?oc=5",
-   "published": "Fri, 25 Sep 2026 07:06:14 GMT",
-   "summary": "US Mulls 90-Day Diesel Export Ban As India’s Shipments Surge&nbsp;&nbsp;Outlook India",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "Security Business Partner Lead - Product Ops & Supply Chain, AIS - Jobs - Careers at Apple - Apple",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXVkb0I1eWd0ZHdFYjhYZHFzOW84NjVjSGpNZldmVjFTRXRVb0FRM09RRW1qSU5wQnhKcXdtMUxPTDA1NlI0b2tBZUlZQkZJVThJeURvZmkzc3czT0Y3Tk9fal9BRHZLbVJ6elo1ZkZZd1FmWDJ6dlNHSVdpdjhFWTFJTWNUOC16Q2YzTEJyU1c4bkpKbGpteXJKQ1ZGZDVQXzNjSTJmQWY2ZGNyY25GcWVHdVY0U1Jmb1BsSkFGSQ?oc=5",
-   "published": "Fri, 25 Sep 2026 06:54:37 GMT",
-   "summary": "Security Business Partner Lead - Product Ops & Supply Chain, AIS - Jobs - Careers at Apple&nbsp;&nbsp;Apple",
-   "source": "Apple | Supply Chain",
-   "module": "企业官方",
+   "title": "DPWH rehabilitation works in Metro Manila to begin Friday evening",
+   "link": "https://newsinfo.inquirer.net/2315784/dpwh-rehabilitation-works-in-metro-manila-to-begin-friday-evening",
+   "published": "Fri, 02 Oct 2026 17:31:09 GMT",
+   "summary": "MANILA, Philippines — The Department of Public Works and Highways (DPWH) said that lane closures will take effect starting Friday evening, Oct. 2, in some areas in Metro Manila for its ongoing rehabilitation works along Epifanio de los Santos Avenue. In its advisory, the DPWH said that lanes 1 and 2 along Monumento (A. De",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
    "category": "其他",
    "priority": 1
   },
   {
-   "title": "China’s electric cars aren’t Europe’s real problem - The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWHlLSVp3Ni1SNl9ZOXd1RWs0dFk3U09pZlVmOGFpZ25MSlBYVDMtMGJkWEJ4MW8wNXZ4RE5BVE1QWVdYdDhIX1BsRHFKQTVEYzJldS1jZlVORWJnc2V4RGc1aFpnOEc2SElaWVUxeXpMVTA3ZkdTc0RLeUVfb242ZXJfTjdCZTRpVHI0V0psVWNWVTd6?oc=5",
-   "published": "Fri, 25 Sep 2026 06:20:00 GMT",
-   "summary": "China’s electric cars aren’t Europe’s real problem&nbsp;&nbsp;The Straits Times",
-   "source": "Straits Times",
-   "module": "海外媒体",
+   "title": "Palace wants closer look at ‘China money’ linked to VP husband’s firm",
+   "link": "https://newsinfo.inquirer.net/2315755/palace-wants-closer-look-at-china-money-linked-to-vp-husbands-firm",
+   "published": "Fri, 02 Oct 2026 16:49:00 GMT",
+   "summary": "MANILA, Philippines — Malacañang on Friday said former Sen. Antonio Trillanes IV&#8217;s claim that a firm linked to Vice President Sara Duterte’s husband received more than P319 million from China should be not be taken lightly, if backed by sufficient evidence. At a press conference, Trillanes said CALE88 Foods Corp., a food company partly owned by",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
    "category": "中美经贸",
    "priority": 1
   },
   {
-   "title": "Singapore chip industry gets ‘SG Semiconductor’ as a national brand identity - The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTRRaVVxa2ZaTXNjdHpoaUFaY2xLQk9Ka19TQm1BaGZwU1JTVS00YV8yYkhRakgxUUJJamktUmROaEsyVlFpVFhrV1RNUmxicVV0MFAtQ25qdHpmUFo0d0dvSHd4emluRTE1TTAxSTBrUllZTkRBTjVVT204ak1GYWNOdXA3MDR2RnBvak5Kbkh5MjBvc0c4cm5Xc3pzRGFRZUN3THFkVjRwRGRLb3lGbng1VldpdTlPTFZGY00zSjZNOWp2MDRBS2xrX0U0Zw?oc=5",
-   "published": "Fri, 25 Sep 2026 06:15:00 GMT",
-   "summary": "Singapore chip industry gets ‘SG Semiconductor’ as a national brand identity&nbsp;&nbsp;The Straits Times",
-   "source": "Straits Times",
+   "title": "'The Assassin(s)' actors to skip BIFF events amid controversy over historical inaccuracies",
+   "link": "https://en.yna.co.kr/view/AEN20261002007800315",
+   "published": "Fri, 02 Oct 2026 16:45:58 GMT",
+   "summary": "SEOUL, Oct. 2 (Yonhap) -- Actors who starred in &quot;The Assassin(s)&quot; will not atten...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "UP Rural High School slams red-tagging over martial law event",
+   "link": "https://newsinfo.inquirer.net/2315764/up-rural-high-school-slams-red-tagging-over-martial-law-event",
+   "published": "Fri, 02 Oct 2026 16:35:37 GMT",
+   "summary": "MANILA, Philippines — The University of the Philippines Rural High School (UPRHS) has strongly condemned the red-tagging of the institution and its constituents over its commemoration of the 54th anniversary of martial law last month. In a statement released Thursday, UPRHS said a social media post published by the Facebook account identified as “Emjay Chico”",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Driver charged after EV hits Yaowarat shrine, killing one",
+   "link": "https://www.bangkokpost.com/thailand/general/3330243/driver-charged-after-ev-hits-yaowarat-shrine-killing-one",
+   "published": "Fri, 02 Oct 2026 15:35:00 GMT",
+   "summary": "A 78-year-old driver has been charged with negligence after his electric car ploughed into the Guanyin Shrine at the Thian Fah Foundation in Bangkok's Yaowarat area on Thursday, killing an 82-year-old woman, police said.",
+   "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
-   "category": "美国关税",
+   "category": "其他",
    "priority": 1
   },
   {
-   "title": "Singapore chip industry gets ‘SG Semiconductor’ as a national brand identity - straitstimes.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONTk0X0MzVkhLaVNJdzVMV2xmbjdpXzJsWV9PLTg4ZDlBRmhsOVVOd0lZb09MbV9jQU9SdUlhbUsyOG8xaUFVNXRYUHFKU2RTUjdCMDB1NnR4UjlrZ0ZBMlcySzZlTnVPSEItb1JyRVpSR01HZWEyazQzRU5SRzl5V1pCeVhHQkdJZW85MnoxN0hTdmRMa3BUMjA5cFU1N1hjbE44SHlUSXlRNVE5akkxNHlB?oc=5",
-   "published": "Fri, 25 Sep 2026 06:15:00 GMT",
-   "summary": "Singapore chip industry gets ‘SG Semiconductor’ as a national brand identity&nbsp;&nbsp;straitstimes.com",
-   "source": "Straits Times",
-   "module": "海外媒体",
-   "category": "美国关税",
+   "title": "Tongol: Trillanes has free speech but impeach court to rule on trial evidence",
+   "link": "https://newsinfo.inquirer.net/2315676/tongol-trillanes-has-free-speech-but-impeach-court-to-rule-on-trial-evidence",
+   "published": "Fri, 02 Oct 2026 14:10:30 GMT",
+   "summary": "MANILA, Philippines — The Senate impeachment court said on Friday that former Sen. Antonio Trillanes IV has the right to free speech, but his statements will not be the senator-judges’ basis to either convict or acquit Vice President Sara Duterte. Impeachment court spokesperson Atty. Reginald Tongol made the assertion shortly after Trillanes held a press",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
    "priority": 1
   },
   {
-   "title": "‘Pandas are cute but US needs rare earth magnets’: Trump-Xi meet so far leaves analysts wanting more - The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY3RMV1hSMzB1UE5YZGxCWHRZVnczLXE3MXRxdDRPNlUzSWVpek1DLTFxR1hpRUdrdzhIY0dHWUFhOWtCVU02a3FJZlRJMG5NVFFwam9odjQtLVAxcWZacVotTjhLRE5iZlZ4UktFTlV0Z2FIQ2hPWnlsUVZzLTNKblViN2VVb1FhalF3dGx4a1F0V2pJRi14d0RzX203dWo1Wkx1OTRvRUYxcVhYU1ZyeVFHRFRKcXJlNEViMUkwN0Vjc1JVanY5R2V0X21LNi05LTl5MUdVWDlvTVRwNVMw?oc=5",
-   "published": "Fri, 25 Sep 2026 05:50:00 GMT",
-   "summary": "‘Pandas are cute but US needs rare earth magnets’: Trump-Xi meet so far leaves analysts wanting more&nbsp;&nbsp;The Straits Times",
-   "source": "Straits Times",
-   "module": "海外媒体",
-   "category": "中美经贸",
+   "title": "Gov't reviewing 'all possible measures' over N.K.-linked DMZ mine blast: senior official",
+   "link": "https://en.yna.co.kr/view/AEN20261002005300315",
+   "published": "Fri, 02 Oct 2026 13:56:05 GMT",
+   "summary": "SEOUL, Oct. 2 (Yonhap) -- The government is reviewing &quot;all possible measures&quot; in...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
    "priority": 1
   },
   {
-   "title": "US and China Extend Trade Truce to Jan. 10 as Leaders Meet in Washington - Retail News Asia",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTHplQXpZSkJfQ0plS0N2Q2dRQ0JLWU1Ock44WmctTDdLT1FqVm9TQ3cyNEVxN2Vfa0ZXMmJ0UjQxT1BKZTF5ajVfVXN4d2dSblIzNlctbWkxRWRKMHNxWHhhSi1JM0RtSWlZWTg5bGhNZGVuOWdqMVZpeUNUTnVuWUJNRGxGLVVZTlJhVWl5WVM5aWczcmZ2cTgtTQ?oc=5",
-   "published": "Fri, 25 Sep 2026 05:02:51 GMT",
-   "summary": "US and China Extend Trade Truce to Jan. 10 as Leaders Meet in Washington&nbsp;&nbsp;Retail News Asia",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "中美经贸",
+   "title": "(LEAD) (Asiad) S. Korea takes bronze in mixed team recurve archery event",
+   "link": "https://en.yna.co.kr/view/AEN20261002004851315",
+   "published": "Fri, 02 Oct 2026 13:32:06 GMT",
+   "summary": "OKAZAKI, Japan, Oct. 2 (Yonhap) -- South Korea won the mixed team bronze medal i...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
    "priority": 1
   },
   {
-   "title": "South Korea’s Paris Baguette has a secret ingredient for growth in Southeast Asia - Singapore Economic Development Board (EDB)",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2xNMUNhY3kzc1Rxa0pOX19Za2htNXAxY0M4aFR1RDNTVHQ1bHJuTUZEbkJEeEl3SkcwRzhYMUtKRmRjQm82QmNmTkoyMXRvdjZwVV9IUElUcXVEZ0YtZ29GMzF1UXVvd3ZjUnF0bGhiN1BvT25mYWllOTVrNUhoNUUzTUdlb0lUMXh5dWdvSm9kT21GTmpjWHZsZlZFeXhTZFAyNVVTN3B5eUhzNHlhaGhMc2FISVlycFU0Uno4SF9vQQ?oc=5",
-   "published": "Fri, 25 Sep 2026 04:10:24 GMT",
-   "summary": "South Korea’s Paris Baguette has a secret ingredient for growth in Southeast Asia&nbsp;&nbsp;Singapore Economic Development Board (EDB)",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
+   "title": "(Asiad) S. Korea takes bronze in mixed team recurve archery event",
+   "link": "https://en.yna.co.kr/view/AEN20261002004800315",
+   "published": "Fri, 02 Oct 2026 12:48:48 GMT",
+   "summary": "OKAZAKI, Japan, Oct. 2 (Yonhap) -- South Korea won the mixed team bronze medal i...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
    "category": "亚太动态",
    "priority": 1
   },
@@ -18058,6 +18245,16 @@
    "priority": 1
   },
   {
+   "title": "Brazil’s Agribusiness Faces Changing Global Trade Conditions: Market Diversification and Export Outlook - Expert View by Spherical Insights - sphericalinsights.com",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOGhJZEQ0WnZWVzgtc3VmMTZuZUhDdnRockJ5OGU5TzlOM1JhdmhmdTZuTGpzd2dIbzRDMGhzTzRBZ0FsaTBuLTZZZWJvMjd0YjRLZDJBWTY3SXBwcFE0bnBPd2xXX3Nkalo3bFljYV9LcTMwdTNVYmRxTHlfNnFXbkV5TkdsTU1jLURoazJSS1JraHE4ZWMySnN1UEMwOWUzZXZxd3FtMFBuMlhwSnpuT1hCTUdQWHRSeElXd1ZfazA3Q3plZEJ1Nm1vZXpIaHN2LWlvQ0R6cXc0dw?oc=5",
+   "published": "Fri, 02 Oct 2026 06:37:56 GMT",
+   "summary": "Brazil’s Agribusiness Faces Changing Global Trade Conditions: Market Diversification and Export Outlook - Expert View by Spherical Insights&nbsp;&nbsp;sphericalinsights.com",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
    "title": "Commentary: China opens door to 100,000 American students. The US must do more to get them there",
    "link": "https://www.channelnewsasia.com/commentary/trump-xi-summit-us-china-study-asia-benefits-6424301",
    "published": "Fri, 02 Oct 2026 06:00:00 GMT",
@@ -18085,6 +18282,16 @@
    "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
    "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "Vietnam targets Argentina to boost cashew exports - Vietnam+ (VietnamPlus)",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmo0dGZkeW5GX0NRZ01lNkJNWVRhVGpCSVB0cmdNS3FuWXZDWEZuSm5KWjgyNVFTcG1NTGg1ZlB4ekdDNFVBY1pGbklxd2JNZTBMSXFvNTVocHVkWlhwVmFRa25LQ2RmMVhIYy1vcHM0WmxUVUx0MTdad0JjdEVVaUtGMHVLcmd5dUV3NlJtZFdZOFRW?oc=5",
+   "published": "Fri, 02 Oct 2026 03:22:29 GMT",
+   "summary": "Vietnam targets Argentina to boost cashew exports&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
+   "source": "Vietnam Plus",
+   "module": "海外媒体",
+   "category": "航运物流",
    "priority": 1
   },
   {
