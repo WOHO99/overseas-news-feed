@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-03T18:55:07.015866+00:00",
- "total": 1744,
- "high_priority": 1418,
+ "updated": "2026-10-03T22:33:46.700473+00:00",
+ "total": 1742,
+ "high_priority": 1414,
  "fulltext_count": 53,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
-  "国际组织": 5,
-  "海外媒体": 15,
-  "企业官方": 2,
-  "亚太官方": 1,
-  "海外媒体RSS": 1,
+  "国际组织": 8,
+  "海外媒体": 10,
+  "企业官方": 1,
+  "亚太官方": 0,
+  "海外媒体RSS": 2,
   "航运物流行业": 0
  },
  "fail_counts": {
@@ -23,7 +23,7 @@
   "World Bank": 0,
   "OECD": 0,
   "SCMP | China Economy": 0,
-  "Bangkok Post | Breaking": 0,
+  "Bangkok Post | Breaking": 1,
   "Straits Times": 0,
   "Vietnam Plus": 0,
   "Reuters | Trade/Tariff": 0,
@@ -1920,6 +1920,16 @@
    "source": "World Bank",
    "module": "国际组织",
    "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "Brazil, U.S. to set up working group on trade tariffs - Latest news from Azerbaijan",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2eDhaU1c1S09BRTN4WUdKWlNPUnl3clBMb0k5bC0xVXI4N0FtT0dRRHd6STBLdzdwNDFia21QX1ZZbnJjejBOYW43bC1aT1lvYzI1UFFVQU1mSUdLQkpHa2tMc1dqcHRjTmVOWmg0ZnExYzBWbHAyTTJqWQ?oc=5",
+   "published": "Wed, 30 Sep 2026 23:25:46 GMT",
+   "summary": "Brazil, U.S. to set up working group on trade tariffs&nbsp;&nbsp;Latest news from Azerbaijan",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
    "priority": 2
   },
   {
@@ -6876,6 +6886,16 @@
    "priority": 2
   },
   {
+   "title": "Automatic regulating or controlling instruments exports to South Sudan |2024 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1BYV2xxNGhkd2pXS3k1U0gxa2pMSGVLVmx5Q1JHeWlIU0hiVzYxcXhFZThfcU1VNGJNcnVyY3FfUlhKYUhjZW5EWUN5S2ZpUWRMN293SGhaZFpyQmRseWhrMFo5bDVNT2ozTDc4ZmxQcU9vcmpvdFI4VUo0aTNMNkYyNVR2eFJvclhiZnY2OWxKS2pkMmxMaGViSGJCSGZDSWFlM2FnLVVFRnRXZjZZSg?oc=5",
+   "published": "Thu, 01 Oct 2026 23:08:40 GMT",
+   "summary": "Automatic regulating or controlling instruments exports to South Sudan |2024&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "Ghana Electric/laser/ultrasonic mach for weld/cut nes imports by country - wits.worldbank.org",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3NXRndYZ0lMYXdwOEdhVWNZbEtCdGJKN3M3Q0dMSE1NTVhER1ZkMjZRcjlScmpsaUZ2TnljN1pVOUpDTENLeUJneHE1UVh4azRsdjdwYi1HeG1ZUElqcXd6TWhROXZSZXRMYzloUmRvN0p2b1dBcDJONGhqRGJJNXB6cDUwMDdOX3I5NExpdHZ3RDYteG5uVVVETGxqeGVCcmRVcWNQUHNUSGlZZ2k4SQ?oc=5",
    "published": "Thu, 01 Oct 2026 23:04:13 GMT",
@@ -7297,6 +7317,16 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHF0V1cwZXlWWkZicjZzcmlLVXV2WEZHTk5BVTl3M25LUGo2YUFXOXZtR21ob2tiMUZBb0hpQkhqdktOSzZqU3ZPeGxZMU9tVS13NWZ4clp0dFBvNlNEV0dIel9QTThsc3YxM204LW5wUnZCVGpXNENFejkwNlpSc3g3ZUEzS3FxOGZ0WWFWYlE2bHhjU1lmVGVQaXJycHdPSWp6MHZoSDVPMVJjazhOeg?oc=5",
    "published": "Thu, 01 Oct 2026 15:49:25 GMT",
    "summary": "Sunglasses imports from Zambia |2024&nbsp;&nbsp;wits.worldbank.org",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "Zimbabwe Equipment for scaffolding, shuttering, propping exports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaXZleFBoWWlhcEhOcWJQQ0tubF92aGZDZ2VEVF9oZnlxWDBwVHlyOXVra2hsdWZPaEJPN1c1dnJsWkpUcmVZNkYtR0toV2RMYnF6ZW1OWkpQUGpQeEdqT0FFanBZNVNzdFBtU0RYMmZDeXQ4SzBUVW1leFF3ZDlNSWY1MkI1U290UDVzYWVRci1xdl9xVWNva2FseWZXTnF6aGJNQllaRVlBeWoyZnE1VA?oc=5",
+   "published": "Thu, 01 Oct 2026 15:46:10 GMT",
+   "summary": "Zimbabwe Equipment for scaffolding, shuttering, propping exports by country&nbsp;&nbsp;World Bank Group",
    "source": "World Bank",
    "module": "国际组织",
    "category": "航运物流",
@@ -7729,6 +7759,16 @@
    "priority": 2
   },
   {
+   "title": "Mongolia Dried apricots imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUVFOWVJIVDRmSnNJVEpoZ3Ytb2xWQ2xjeGFad2VJbjE0WGZpcDEyYmoxaW9BNVM5Y2ZzRVBOU2JEam9kMWJ3dkdMaGtUVkNDd01CSjBsM3dnd1hkUVhGbG5PRXQzOGxXVy1JZkJSOUtzMDNSSTA4eXNKeFNZMmRDMXpfb213MkhrbnY1WE5rUXFsNVpUb19oNHU2bExXazVhcGx0cEppZ2w5VDFScXEzLQ?oc=5",
+   "published": "Thu, 01 Oct 2026 12:49:44 GMT",
+   "summary": "Mongolia Dried apricots imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "Ghana Paper... for writing, etc, >10% mechanical fibr imports by country - World Bank Group",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMEFwckt5Szd1dDBXQ1ZpczdGZk8wUlE4WHVDNXVLN2pOR2NLUkpTbzlDdHYyazFXVTZuMUVqTHVCWG5lQ291NEN4TXowQWltMklreFM4eVBzdW02U2ljSUVjdVNrdm1wNF9JRUNPa08za29KbGFZaXhqczg3dUhjLUY4c3Y0T3dUNUZ0R2M2cW1zTEVPeWRvbmQzcndXOHotZ3RyNE1mdzdtSWNvS2RLbg?oc=5",
    "published": "Thu, 01 Oct 2026 12:40:47 GMT",
@@ -7763,6 +7803,16 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1U5ZUFZTVRCcS1pN1ptWkEtWmFmdnBTZ1lVenNTNTlaa3ZKbHNrX0RLWEtQOFpLNE5icTJzV3RsVmdKb2JfaGlITlpCUU9mNENMbUpaRDFIQnYtRnJZNFdBX0lVbUFaVElpR3JfWmVkc0w3UjhOUHVPbmxKQWhqS2lab1RRVjNPZU9KYTZ6Sld3NkVNN3o0TDVhNWtIS3UyZF94aFNUOFFtMmZ6U29GaQ?oc=5",
    "published": "Thu, 01 Oct 2026 12:30:47 GMT",
    "summary": "Ghana Pipe-cutters, bolt croppers, perforating punche imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "Parts and accessories for measuring or checking exports to Zambia |2024 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3A2TmJDUDlEaktWU0RiYjEyUjBOeGhhaVlXS1BZUzltRl9zaFVMWG9qZEJtWEI2TVdHVWJBX3NvYk5GOEJjTXZEWVlMVU9iQi04OG8zaTAzZmM3YnhQZ3lkZ1ZEVXc3cXdCdHFnRzNNWXhhbWtKZEVVVDg0b0dOVnlZN0s4ZU5SaDBDMWM3RHFjM3ZZQlAzdC1IWDMydlBmQkxLQTRNWVB5c1lERHl6dg?oc=5",
+   "published": "Thu, 01 Oct 2026 12:30:38 GMT",
+   "summary": "Parts and accessories for measuring or checking exports to Zambia |2024&nbsp;&nbsp;World Bank Group",
    "source": "World Bank",
    "module": "国际组织",
    "category": "航运物流",
@@ -8381,6 +8431,26 @@
    "published": "Thu, 01 Oct 2026 04:22:35 GMT",
    "summary": "Modi-Trump Talks Focus on Trade, Energy Amid Sanctions Risk&nbsp;&nbsp;Siliconindia",
    "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "US-China Tariff Deal: Limited Holiday Savings on Toys, Kitchenware - News and Statistics - indexbox.io",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHp0TmpScU5YYTczME1MTE1XNmthNnU1eTF6ckFacWJNLTBDbVg0ejdPMnQ1aUVrZkMxSmxBSkhOdGdKTnVxblFmOGxWMkdISzBMOFVORmVKcHVOWWtEYUozZVBiWFpQYWZyUnRmYmV6WmVBcnNqOWU5RjdMUG9FSm9TQmpFUklEOFJaTVlLX1I1ajZDbFdDZ2Z1SFZxRU9kb1pISkI3QUkwSmJLWkZB?oc=5",
+   "published": "Thu, 01 Oct 2026 04:20:32 GMT",
+   "summary": "US-China Tariff Deal: Limited Holiday Savings on Toys, Kitchenware - News and Statistics&nbsp;&nbsp;indexbox.io",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "China Eyes More Targeted Fiscal Support After Growth Slowdown - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU20ycDZSdkdJVnZseWtveWpiQXJfX2YxSjJrYjVnd0ZJa2F3VFg0YXBTYXN2dEZDNl8wTkN0Z3U4cjVVOFZNN1BYeFk2SFVsejN0SjRpMFpuM1pfUlRpN2NBVXRsRkp3NUJtQnNBb2lXN2Z2ZUh3RnU0UVdZbkctU2QxTEJkX3JmaVAxUVBEcjJEU3dkU1BNUEdWUGhzcjBISUpkLUNMV29FRU1XQWFHc3VB?oc=5",
+   "published": "Thu, 01 Oct 2026 04:17:00 GMT",
+   "summary": "China Eyes More Targeted Fiscal Support After Growth Slowdown&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
@@ -9701,238 +9771,16 @@
    "priority": 2
   },
   {
-   "title": "Namibia Coll & coll pce of zoo,bot,mineral,hist,anatom, exports by country - wits.worldbank.org",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObnlfYTZCUk00NkFTdmFDeDJMWDdHdmtmMHpzQURPRWdVaFB2cXc2a2NtMDE2MlBxbWJGeC12d2kzUW1KMElsd1FmR3dlZkdfYVVoV2tHRVJEUTFTaDVWSkVWR2wzeElzaWo0Nm16X3BGaDduSjNMSmRwZldFMHowX0Q3R3Mzdk8ya0NBU1ZLVGlrM0llbXhPckl1dVI1bHpMaG1FdUNyVU9LczBjMDlrRw?oc=5",
-   "published": "Sat, 26 Sep 2026 22:30:41 GMT",
-   "summary": "Namibia Coll & coll pce of zoo,bot,mineral,hist,anatom, exports by country&nbsp;&nbsp;wits.worldbank.org",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Malawi Soya sauce imports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMkhEZi1ObTM2bm5DLWNJOEFJM2lCcGdwS3RHWDA3cHdsT1J2TDRLR1VFRko2ZHV0NTFQMXV2eWN2MC1rMWhDOTQzTjF2aVYwWTBseUdERjRodWx4SnNWVGlacEZ4Z2ZwV2RXMnRzSzRlQXkyNTRnXzNZUlI2OVFZSnViN2tUMzhCUmM0aTNoR3ZPNVRTQVFaRmtIMmhkQXg3eGpHSHowZThoVUpiQ3pUXw?oc=5",
-   "published": "Sat, 26 Sep 2026 22:26:13 GMT",
-   "summary": "Malawi Soya sauce imports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Amid many thorny issues with China, Trump pushes to rename AI as superintelligence",
-   "link": "https://www.scmp.com/news/china/diplomacy/article/3368921/amid-many-thorny-issues-china-trump-pushes-rename-ai-superintelligence?utm_source=rss_feed",
-   "published": "Sat, 26 Sep 2026 22:15:40 GMT",
-   "summary": "US President Donald Trump is pushing for a rebrand of artificial intelligence (AI) — and looking to get the world’s other AI superpower, China, on board.\nAll US government documents, and “hopefully the world’s”, will use the term “superintelligence”, or SI, to refer to the fast-evolving technology, Trump said at the United Nations General Assembly on Tuesday.\nThe same day, the US State Department ordered US diplomats to use SI instead of AI in all communications moving forward, the Associated...",
+   "title": "China and Africa boost law enforcement ties in crackdown on cross-border cybercrime",
+   "link": "https://www.scmp.com/news/china/diplomacy/article/3369660/china-and-africa-boost-law-enforcement-ties-crackdown-cross-border-cybercrime?utm_source=rss_feed",
+   "published": "Sat, 03 Oct 2026 22:00:12 GMT",
+   "summary": "From online-gambling rings in eSwatini to SIM swapping in Kenya and cybercrime networks in Zambia, a wave of cross-border fraud is drawing African governments and China into closer security cooperation.\nChina hosted East African security ministers and police chiefs in Lianyungang, Jiangsu province, on September 10 for talks on terrorism, kidnapping, online fraud and other cross-border threats.\nChina’s public security minister, Wang Xiaohong, said Beijing would strengthen law-enforcement...",
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 2,
+   "content_attempts": 1,
    "content_status": "bot_wall"
-  },
-  {
-   "title": "Zimbabwe Buoys, beacons, coffer-dams, pontoons and other imports by country - wits.worldbank.org",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUcwVzBDQlc3TE9pQU1sZzBnVXJtN0F6djlnb05NNUVHZWtuX0dveGxCWnQyLWpJMnVSQko2a3ZXTmFNUFM5Y0RZbHBjRDJmZHpYM0JuY1FFbHhENG1KSHJ4Qkc1U0Utd3dpeHpBOC1aQkJfNnV1S0R2STZCYzA4RGRJUnlTZWY4TTIweHR5Wk4xV05BbUhjVVVTY0FFeEpOQk1XV0Z2THRHMkx3aEpCdQ?oc=5",
-   "published": "Sat, 26 Sep 2026 22:13:01 GMT",
-   "summary": "Zimbabwe Buoys, beacons, coffer-dams, pontoons and other imports by country&nbsp;&nbsp;wits.worldbank.org",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Trump’s Trade War: A News Guide to His Second Term as President - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbGZIR2kyeU1XRVdPYnNOcmpneW1RRmx2RHFwZ0s1QTZTUjExM3l1UWJNVjJoWlFQbXQxeVdBa0E4bFlrUGVPMUg2ZzNlTnAyVXNlQ3p4cDNoQkgwZHlJSjNfcnN5QnllMkVSSGV3TFlhZ1VxOHJydEMyNU9UN0Y4YVp6OTBrUjBhdmtBV1FlbVBuSGhpaEZhcVRHUUhGWUdwRzIxZXhtRXAySElXLVcxQVA3cDJ1YkFfYkNKNGpZckpQcUV6WDlaTEN4YW9MY3kzS0ZDTHJzaGZSSG9uV05iS2RFTkpCZ044UlVsRDI5X0labGczUVpLX25pU0l6OGc?oc=5",
-   "published": "Sat, 26 Sep 2026 22:11:00 GMT",
-   "summary": "Trump’s Trade War: A News Guide to His Second Term as President&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Claims China’s BeiDou satellite was refuelled in orbit could change space race",
-   "link": "https://www.scmp.com/news/china/science/article/3368579/claims-chinas-beidou-satellite-was-refuelled-orbit-could-change-space-race?utm_source=rss_feed",
-   "published": "Sat, 26 Sep 2026 22:00:13 GMT",
-   "summary": "Chinese researchers appear to have revealed a previously unknown satellite-to-satellite refuelling operation in high Earth orbit, putting the country at the forefront of a technology that could reshape the space race.\nIn a paper undergoing peer review for the Journal of Deep Space Exploration, the team said China had “successfully provided room-temperature propellant refuelling for a high-orbit BeiDou satellite for the first time”.\nThe researchers from the state-funded Deep Space Exploration...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "How China is seeking to transform the meaning of great power",
-   "link": "https://www.scmp.com/opinion/china-opinion/article/3368671/how-china-seeking-transform-meaning-great-power?utm_source=rss_feed",
-   "published": "Sat, 26 Sep 2026 21:30:08 GMT",
-   "summary": "As China has emerged as a peer competitor to the United States in many areas, an increasingly familiar question is whether it has become a superpower. The question, however, may rest on a definition of power that belongs to another era.\nChina possesses many attributes traditionally associated with great powers: a large population, vast territory, a major economy, advanced technological capabilities and growing military strength. Yet Beijing describes China as a “major country” rather than a...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "China, US agree to AI dialogue, $42b in tariff cuts during state visit - ABC News & Headlines – Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTV6azFsWm8tRW9Pd2VTekJUOE5XZGtxanE5OFJQcjBSRHJTTHo0Z0l6dXhqQi10V19CaVBSWnN0bWJpTUNFeDRLQjlfTHJOZUU3cjNIU1JscVRLUGw0eVpZcUZKaVRrU0JiNDFnUXpsdzRGdUZQMDA2eFZXbFZiVUJmSFFTbHJ0encxY3pYS2hWaEx6R0lES195SWk5czRDUkVNWTBRY0xiNnQ5XzA3Sw?oc=5",
-   "published": "Sat, 26 Sep 2026 20:33:49 GMT",
-   "summary": "China, US agree to AI dialogue, $42b in tariff cuts during state visit&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_status": "title_only"
-  },
-  {
-   "title": "Namibia Art.&equip for sports&outdoor games nes&swimmin imports by country - wits.worldbank.org",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnZmMzllWkNMSThUdWRHWjZ6ZHhxTGlfWTQxNzZfd1ZSbHUyT2ZabEY5cDVaYlZwMmV4NFhnMS1kcGRsMHBEQ1FBcnhFeTlWbWxoalgwS0tKdmtJWkc0c2NZQl9VWWtIN3Rxdkk1MjBFa2JxWWlUbTM4Q2oxakNnOFlpV1ZEbFNuTGdLbzU3RUl5ZlRWSHJza1VQQ3R3dHRBZGxnczFkNHJONTZyYXNfZg?oc=5",
-   "published": "Sat, 26 Sep 2026 20:33:39 GMT",
-   "summary": "Namibia Art.&amp;equip for sports&amp;outdoor games nes&amp;swimmin imports by country&nbsp;&nbsp;wits.worldbank.org",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Ghana Processed cheese, not grated or powdered imports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmRVMXl6b3Bkd3p1Rm1DU1o0ZFJ2NFhab3VHMkRBRmRLVGZ5S1RvT3R2SFV4dEhvM2twZEphVHVOR1B6V0x1amNiamgwOVl1dWgtanRfSEtfV1RzWHRjdVdYRmFqQmk3akItaE1scFlXcFpjVG95V25FSHdkdHIwSEU3VDhBa0VFOXFyR2lGRXJnMWowR3F3c2dsTGdDc0dURjNuZUV3Rld5RjkxbjNLcg?oc=5",
-   "published": "Sat, 26 Sep 2026 20:29:29 GMT",
-   "summary": "Ghana Processed cheese, not grated or powdered imports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Thousands march in Spain over eviction of 87-year-old woman Maricarmen Abascal",
-   "link": "https://www.scmp.com/news/world/europe/article/3368920/thousands-march-spain-over-eviction-87-year-old-woman-maricarmen-abascal?utm_source=rss_feed",
-   "published": "Sat, 26 Sep 2026 20:18:09 GMT",
-   "summary": "Thousands of people marched through Madrid on Saturday to protest the eviction earlier this week of an 87-year-old woman from her lifelong home, calling for greater protection for tenants.\nImages of Maricarmen Abascal being carried from her Madrid flat on a stretcher on Wednesday after police broke down her door have thrust Spain’s housing crisis back into the spotlight ahead of a general election due in 2027.\nProtesters rattled keys, blew whistles, chanted slogans and held banners calling for..",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Tariffs, Russian oil and the uneasy India-US relationship - Deccan Herald",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2hhTHR5WklSTndiamVzc3VqaUFBVWpqemxuQXFhUUhSRF8zbHBVc1NIZUJMeEtEcnFUb3BqZ1RidGJ1NzdPcEpNT2JVb0k2VnBmUnlvenFyNXRmdlJLRXY5REpuV0ZoNFdiNTdtYnlCcHNWa28zN2J0WUstVG9UZ1BtSWtNUW1hQWtDTmZwMG8wNEcxMERheWhmejB5OFZkSi1DR0NLUkN6Nm1LNDU0dlIwUdIBswFBVV95cUxPU2hhTHR5WklSTndiamVzc3VqaUFBVWpqemxuQXFhUUhSRF8zbHBVc1NIZUJMeEtEcnFUb3BqZ1RidGJ1NzdPcEpNT2JVb0k2VnBmUnlvenFyNXRmdlJLRXY5REpuV0ZoNFdiNTdtYnlCcHNWa28zN2J0WUstVG9UZ1BtSWtNUW1hQWtDTmZwMG8wNEcxMERheWhmejB5OFZkSi1DR0NLUkN6Nm1LNDU0dlIwUQ?oc=5",
-   "published": "Sat, 26 Sep 2026 20:11:00 GMT",
-   "summary": "Tariffs, Russian oil and the uneasy India-US relationship&nbsp;&nbsp;Deccan Herald",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Washington’s “hellish sanctions”: A blow to Moscow or a major trade war? - Caliber.Az",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDV4UDZsNUprSXhoY1R0UlFGRFRLUWFGbXpkTHNGWV9IQXpsNHRuSHVPQzhNaEs2SkpUZDA1c0poX19WUnN3cHlhekJsNjRtaGo1RVJRdG5udE9HaVQteW1RdFMyUkpuWWZlMU5XNnRkOFhnSG16ZVk1RW1NOEdHZHZZUW5jNFBFOXlFQk9OSEMyYVB4cmU1cVktSQ?oc=5",
-   "published": "Sat, 26 Sep 2026 20:01:02 GMT",
-   "summary": "Washington’s “hellish sanctions”: A blow to Moscow or a major trade war?&nbsp;&nbsp;Caliber.Az",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
-   "published": "Sat, 26 Sep 2026 19:59:32 GMT",
-   "summary": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit&nbsp;&nbsp;Reuters",
-   "source": "Reuters | Trade/Tariff",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "China, US agree to AI dialogue, tariff cuts on US$30 billion in goods during Xi visit - CNA",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZUm5hU2s3VHU4aEEzSDNmN0wzaENlV3VmeFBkTDc1aFp0Tm56ZjQ5WEJJdVpsaC1YM3VYU2xoVnJJTTNjbG5nTlh3MmRiMDNZSXN4YVRDUUJqYnVMbEQ4MFFCbkNIYWE2MDM3bjg1QWVrOENTWXlzdFd1MkU?oc=5",
-   "published": "Sat, 26 Sep 2026 19:45:00 GMT",
-   "summary": "China, US agree to AI dialogue, tariff cuts on US$30 billion in goods during Xi visit&nbsp;&nbsp;CNA",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Barbados Parts for spark-ignition type engines nes imports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXhBd0YwNUs0MHV0ZU1aYTZ2UTAyMmxqbXhRZHB3Rm5VZkRSMUlMUk9TN0RUVFpWcGU1X3dsNzZFUW9ZSDloNGZ3MHBsbkdSVXZab2xDMXEtV3hYZWV2MTByX2FiRzlpaUZLWlQyYTlmbXlwcEczTHF2YTZYRzFLZDdiU1BtZTZDc1VXMlh4SEppV0VqT2RFME8tSi1nLUJteHBmNzFFSWdDb1lwd3Z3Ug?oc=5",
-   "published": "Sat, 26 Sep 2026 19:40:41 GMT",
-   "summary": "Barbados Parts for spark-ignition type engines nes imports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Belize Trailers nes for the transport of goods imports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdzFTbWZVT0hXWmZPSlJNalZ5M0ZFcGhPaC1zMVpCeU5rSG5hakhDdkVJdUViMF9uSlo3XzNFNnhkQVc4SFU1LUx5ZHZnNktkX1AxVnQ5UVY0QUlLaVByaVdVY1FhbXNlYlZjMGFaMmtGbEx3T0FwWElBNmZVdWJ1MDZCSlg5cEI3RENveXY1RmpRa3J2dDJ3RWpuRHE4N0pxRmtVQTZBczRVS3ZTMmF4ZQ?oc=5",
-   "published": "Sat, 26 Sep 2026 19:16:26 GMT",
-   "summary": "Belize Trailers nes for the transport of goods imports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "China pushes back against US on Iran and Cuba in UN speech - reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5",
-   "published": "Sat, 26 Sep 2026 19:14:37 GMT",
-   "summary": "China pushes back against US on Iran and Cuba in UN speech&nbsp;&nbsp;reuters.com",
-   "source": "Reuters | Trade/Tariff",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_status": "title_only"
-  },
-  {
-   "title": "Coffee husks and skins imports from Rwanda |2024 - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUJsbDJYQWNOcUtCOEdMZGN6QnhiWXdTd29HMzlPbEpXd2pROXR1a3B2V09xTVpJaUV4aUR2OWF6Q2I1MHBsTDNjVjZRMWlNeUpBMm9YVjhrT2p2UHJLQnhVOE5iNERYRmVsRGlyb0dQN21Rc2JvaXhhcVItV3g4eVhqS3psY2FCNzN0dmdBOWlmcENzcU01M0ttMzhnbUNDRGlic3Y0NlM2SnVOb3BnbA?oc=5",
-   "published": "Sat, 26 Sep 2026 19:10:44 GMT",
-   "summary": "Coffee husks and skins imports from Rwanda |2024&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Beijing says US, China to pursue military crisis-communication pact",
-   "link": "https://www.scmp.com/news/china/article/3368919/beijing-says-us-china-pursue-military-crisis-communication-pact?utm_source=rss_feed",
-   "published": "Sat, 26 Sep 2026 19:07:53 GMT",
-   "summary": "China and the United States have agreed to pursue a new military crisis-communication pact following the summit between Donald Trump and Xi Jinping, according to Beijing, potentially giving commanders another mechanism for managing dangerous encounters across the Indo-Pacific.\nChina’s Foreign Ministry said on Saturday that the two militaries had agreed to conclude a memorandum of understanding on “crisis communication and prevention” as soon as possible.\nThe two militaries already have...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Why US chip controls took a back seat at the Xi-Trump summit",
-   "link": "https://www.scmp.com/news/us/article/3368918/why-us-chip-controls-took-back-seat-xi-trump-summit?utm_source=rss_feed",
-   "published": "Sat, 26 Sep 2026 18:57:23 GMT",
-   "summary": "There is little question that Jensen Huang and Lisa Su, the heads of US semiconductor chip giants Nvidia and Advanced Micro Devices (AMD), had secured two of the best seats in the house at the White House state dinner on Thursday evening: at the head table alongside the two presidents and their wives.\nBut what remains unclear is how much progress they were able to make on their primary goal of restoring access to the Chinese market, amid entrenched opposition to that happening in both China and.",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Malawi Golf equipment nes imports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUh3TnZVQmNWNjJZYlY4ODhmYXYtaU5VQno5ckliQjJYQnVKdzhJbWlpQm10VDIzOGU5OFZIOTJ6TUxaMWtPXzRnQUFPd09qbXM3SXFCS0M4WDV0Z3Z5ZFVQS1hrTHA1RDlQSWRYemRvYlVTTXlHaU1JN2R2V1ltcmdtNkNoUmU1N0NoSmhwQnpXMEk4T2RFdXRhZGlEMXVwcUNYTDJBS1RnU0ViNWhiUQ?oc=5",
-   "published": "Sat, 26 Sep 2026 18:57:17 GMT",
-   "summary": "Malawi Golf equipment nes imports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
   },
   {
    "title": "Speaker Dy backs stronger safeguards for sugar farmers",
@@ -9947,6 +9795,16 @@
    "content_status": "error"
   },
   {
+   "title": "From crude to rice: The long tail of US sanctions - The Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbnptVXJ5N1lEaEJXeW9RdmJJNGpYejFiRzlKZzhDeUVYRDgwSFJDWHBxRUZIMmlUajJVdUZaY0lGejBUaWhCSVFZaUJYS0wzY3V4YzZjQ2lsck9uSXBWd1hBSTlSdndjMnVGNG9uZDVsWlJqWW1XZ2RHbk1VTkE?oc=5",
+   "published": "Sat, 03 Oct 2026 18:56:15 GMT",
+   "summary": "From crude to rice: The long tail of US sanctions&nbsp;&nbsp;The Business Standard",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
    "title": "As public fears of AI grow, Trump digs in on voluntary safeguards",
    "link": "https://www.channelnewsasia.com/business/public-fears-ai-grow-trump-digs-in-voluntary-safeguards-6429041",
    "published": "Sat, 03 Oct 2026 18:05:31 GMT",
@@ -9958,6 +9816,26 @@
    "content_attempts": 1,
    "content": "As public fears of AI grow, Trump digs in on voluntary safeguards - CNA Skip to main content Close Close Top Stories Asia East Asia Singapore World Commentary CNA Explains Sustainability Business Sport Latest News Insider TODAY Big Read Up Close In Pixels Ground Up Voices Adulting Mental Health Matters Watch Live TV News Reports Documentaries & Shows TV Schedule Listen CNA938 Live Podcasts Radio Schedule Special Reports Singapore Parliament Mental Health Interactives Lifestyle Entertainment Women Wellness Living Style & Beauty Dining Travel Luxury Experiences Obsessions People Remarkable Living Sustainability Newsletters CNA Eyewitness Send us a news tip Events & Partnerships Branded Content Business Blueprint Health Matters The Asian Traveller Brand Studio Learning Minds Weather Edition: Singapore Indonesia Asia World Search Trending Topics CNA Explains China artificial intelligence Indonesia Malaysia podcasts Wellness Thailand Japan Follow CNA Follow our news Facebook X Youtube LinkedIn RSS Recent Searches Trending Topics CNA Explains China artificial intelligence Indonesia Malaysia podcasts Wellness Thailand Japan Advertisement Advertisement Business As public fears of AI grow, Trump digs in on voluntary safeguards US House Speaker Mike Johnson, US Secretary of Commerce Howard Lutnick, Meta CEO Mark Zuckerberg, and OpenAI President Greg Brockman attend a luncheon for tech leaders hosted by US President Donald Trump in the East Room of the White House in Washington, D.C., U",
    "content_status": "full"
+  },
+  {
+   "title": "Waterproof footwear covering the ankle but not imports from Zimbabwe |2024 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZXpWUG1ncTBTUGI2VzBzLUt3SEZpYk9qQ0NPd2U5VVFtVHNPUm9CekhpMjRqU0dFVEtaMnNDbFFjcjFYMTdjOUhxemlUYTdVLW9UTW1WbHA2RnhpSmJOSVl6SXltT195Q1J0ZWpITFZoNzZXRktmSnlxc1JNMGR1MXRmNjMxREU4R1dLbVpLQ1ctRjNPbWxlOURTX1FWQTNUd3JhZzFmS1hZQXRkbUZLWQ?oc=5",
+   "published": "Sat, 03 Oct 2026 17:30:43 GMT",
+   "summary": "Waterproof footwear covering the ankle but not imports from Zimbabwe |2024&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "Trump set to impose sweeping tariffs on 60 trade partners - abcnews.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
+   "published": "Sat, 03 Oct 2026 17:16:31 GMT",
+   "summary": "Trump set to impose sweeping tariffs on 60 trade partners&nbsp;&nbsp;abcnews.com",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "Probe launched into luxury One Stanley project over alleged steel bar shortage",
@@ -10044,6 +9922,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "Opinion | Can Britain really afford to diverge from EU tariffs on Chinese EVs? - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNHpoOURDb01fU0V6LU1DUk5uNzExeS1ZODAzUnp6YjNWUkdLeGFxT0ppRkZXWk1XOS1qT2dpY3Jmd2c0N0Z4MUZtbVprbl9TdXZRdUNES3pJMjZnX05FLVhGNll6SW05Q0VyeEpEZDY3NE9NSGk3eW9wWENZTXFxdDd5MGRWVDFrb1FCX1Nvamw2Mms1WEgtV0JGdkVQeTRweW9JdmpNdGtyVXNRM0FfWGU1RFNGUdIBtgFBVV95cUxPcm5Uc0gzcGUxREVNakUxNUZscjFpQVNNY0xiVXZWNVhjN1FuR1ZJdGJpb19mMHFJdk1uVDVpWnFvNjFJLWY3c1VKcUQzRDloc1gxQlZ5UnlaQVpuZUs5V2V2Qi1HWDBEbFFhakdmdjVTck1OSTZnd0Y0SmQyYUtxcEU5Nk1wT3VzbjU0cTVBNFBaZHRkeGd1SG16Mkh6OUdnU190aVpGRFVaajZ6b20wYTR1eDRNdw?oc=5",
+   "published": "Sat, 03 Oct 2026 08:30:09 GMT",
+   "summary": "Opinion | Can Britain really afford to diverge from EU tariffs on Chinese EVs?&nbsp;&nbsp;South China Morning Post",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Papua New Guinea Inactive yeasts; other single-cell micro-organi imports by country - World Bank Group",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFZxZGtJaGJWazEyellMRENPeTY3aldERFp5M0Q5ZnNLcXpLQ1J0ZU1zUDN1b3hNTVRfQ1dhM2JjS3ZXczNRc3ZtNWd1eXBPakV3YmtkakM3NjFEZjV0X1gwRjItR2dHWkV4Y3BNSlJpajNxUVYwUzZCM09YSEV2XzdhQlljTGk0aUQza3lhVlJqTVptMm1RNHdRU2NNZzZMbDZsODNQbXkxejJwbnNvMg?oc=5",
    "published": "Sat, 03 Oct 2026 08:12:56 GMT",
@@ -10084,6 +9972,26 @@
    "priority": 2
   },
   {
+   "title": "Delhi hasn’t yet figured out how to deal with the US or China - Security Wise – Bharat Karnad",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWN3SEdEeGU2UFZSc2dfeklfNHpEeWFwNEp4b2QtMEpSN0EwUlR1SEhZd0ZWLUFVZG1qcXUyZVFEek5Na0Y0WTNFXzBKalptVVlyZzNxRVVVQzVHNTlkTXJUWktYZU42eDNjSkhoX3RsSExucDYxVFhDTFVDY3lQTGNXS3lReU5xRjBKRTZVb3NXaFZYS2ZwcERzRFppUQ?oc=5",
+   "published": "Sat, 03 Oct 2026 07:04:57 GMT",
+   "summary": "Delhi hasn’t yet figured out how to deal with the US or China&nbsp;&nbsp;Security Wise – Bharat Karnad",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Table,kitchen or oth household art&parts thereo imports from Botswana |2024 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHVVNm5WQnFGeXN0LWRrWmZVWHhnWVZYR0VJVHl1ZFlEM3QwVmRscDEtd1poUnZMMkRRaS1tUmFKNjd0bmtSZEJac2NvUnBRTkRzOXYxcVNDS1RmZEMtQUFnTkpsRkRtaVFQNGVNZVlvcVAyVHhsRFRXbnNLTVF1S1hNN2R4eDAyNnpCOHZjREFwTVd3dDQtY0RkOUp3SHFFX3NLQ1lpTTY1Q25UNEo3MQ?oc=5",
+   "published": "Sat, 03 Oct 2026 07:01:45 GMT",
+   "summary": "Table,kitchen or oth household art&amp;parts thereo imports from Botswana |2024&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "Chinese lithium mine registers wider vein, bolstering Beijing’s battery supply",
    "link": "https://www.scmp.com/economy/china-economy/article/3369603/chinese-lithium-mine-registers-wider-vein-bolstering-beijings-battery-supply?utm_source=rss_feed",
    "published": "Sat, 03 Oct 2026 07:00:11 GMT",
@@ -10094,6 +10002,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "India-US Trade Deal Not Imminent: Key Sticking Points Explained, Who has the Advantage & What are India’s Options? - Jagranjosh.com",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZEF5VmYyRHFIZ2pKZW5makZ5ejYtQVhmWUhjVFI4b2lrbmZaQzJjd25sRlBMV1lwUWNNQzF5ZHpESmN2VFhVanBsaHRBZVF0WWlOdkpCelRET2xRYS1fTXoxT3hpOF9XTmFuM1V1eENIbGhHZ2lHUVRsbk14N3l0SzRGLUpUQVpkdlQ0d1FIVzNnWUJaczVNS1hJMWdCMXNmZVJxeEVXZl9iNVRaX182ZDhRT1FXSVFlZmpvNzhjU0VlQm1YX3gtTURWMkZIQ012d2FkNkNLZjhFOWpFYlRoSlFKOXlmS05RaFllX3N3bnXSAfcBQVVfeXFMUEZRQ1UyTktOUWV1Q2FBeGlqN2J1TWhKNS1FWnJCaU9jOEFIS2pzMk90R2JnZHdSLW1vaS11VllSVDBYdjUyM09KTDZ3VnFJM0RPandqdFdwUlFtTm80VlRzVWE2UWxQcEN4cFZaX1Y5MWNCODBsVE5KMGhaQzJQVlQ0eE5iNFZKV2xQV243MG95S09fX3E1QkFSdE82Wjc4OVE5ZDdSZklYaHQtTFR3ajJ1bGV0eVpWQlBFYkdJaU4yekR2V1RGcDRVZEV0WGV3STBHQzEwWkNHek1tX01hWDZyRERXM2RiQmkxMzdycWtOdWZkMXZNTQ?oc=5",
+   "published": "Sat, 03 Oct 2026 06:29:49 GMT",
+   "summary": "India-US Trade Deal Not Imminent: Key Sticking Points Explained, Who has the Advantage & What are India’s Options?&nbsp;&nbsp;Jagranjosh.com",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
   },
   {
    "title": "India-US Trade Deal: Why the Agreement Is Still Pending - Vajiram & Ravi",
@@ -14010,6 +13928,16 @@
    "content_status": "full"
   },
   {
+   "title": "Barbados Capital goods Exports, Imports, Tariffs by country 2023 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTBkTzhrOUxzdjRreHEzZWRaSVJWRVJON1RWN2VOOEd5WkFWWTBreWpZQm85ekJrVVBsUFRGZDEzWVQ4Q0ZweUlZeEVmVFE4MEZSeV9yUnZDcnRiWGhOaTRBSzJGV0dTYW1xSHZCZW1CMFduNGZwNFU1Tlhqb3BkS3pEQlYyVXRtU1VjcWxTT3JzbkdPVDI1QUZfRm5EdEUxOU9XTk5IWENLQzdYR2dsRG1TckcxRGIzNXc1cE9Gbw?oc=5",
+   "published": "Fri, 02 Oct 2026 20:23:15 GMT",
+   "summary": "Barbados Capital goods Exports, Imports, Tariffs by country 2023&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
    "title": "Bayer Plans $2.2 Billion US Drug Plant Against Tariff Backdrop - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFFET0l1enQzd3NabWJpbUxxWXBXN1hDVU9RM3dzUEd6Yld3SE5qbEFoczRqckE0T2t0dzFyLVhOX0hRaW5xd0ZQRFRkcnJwNkJtX29LNElnUmI5dFp2WXpldEdsMmhMQXFDbjR1bTB1ZFJ1S1l5SEZab1JvN2stOEI1ckhXSUx4eFNWaEtFNnVkaVhBQWlGWF9seUlPZkc0Ynd0Z0N2ckJKckxfXzBjLW1R?oc=5",
    "published": "Fri, 02 Oct 2026 19:10:00 GMT",
@@ -14024,6 +13952,16 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmk4ODBFQkYxUnUyUVBvaE1mQXk5MEhCUDBUVTZNeDBWNF9seXlEaUtxNm1rbHFjb2lmYjM2VlpaWmE0ZjlsNlZmWUlMR05sS0J6RnZNN2lZeDd0ODd5NjBnOEFncGEzTzFKSEdfNzJ2TzF1aVdpRW9BbTF1RktQSE8tSm1NeEFzWnJlLVBXRnJ1enRQa1RndFFWZDlYYklWT1gwYlVNS1VLc2RpVTgzMw?oc=5",
    "published": "Fri, 02 Oct 2026 18:51:48 GMT",
    "summary": "Namibia Tools for working in the hand, pneumatic rotary imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "Parts of agr/hort/forestry/bee-keeping mach nes exports to Zimbabwe |2024 - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVC1yZ0U2eTJpMVUzX1Vqa096Nm1UVmh4UGpPaVhMRURscG4tZVRhUE5hS2FSdmJ0LVF5bl9kXzNNOWhLUGRxdnBVOUtDNUxMTDRJREwxNTl6V3h0QmdDcTdXMjFtRVZ6NElkaEFoOW94RHZ5QnJXQ0JiTkczSUNVdWhMc0pFV2l1SG9CNGZRVDNGdXZsZ3hOcnZ1YUNQVzBpb1BSWlhrcEpfa1BJQy1MMg?oc=5",
+   "published": "Fri, 02 Oct 2026 18:49:04 GMT",
+   "summary": "Parts of agr/hort/forestry/bee-keeping mach nes exports to Zimbabwe |2024&nbsp;&nbsp;World Bank Group",
    "source": "World Bank",
    "module": "国际组织",
    "category": "航运物流",
@@ -14385,6 +14323,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "US tariff threat puts India’s energy strategy under pressure | Policy Circle - Policy Circle",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UVnRiYVN5Z3lsLVlfaFowNWQ5UG0xQjVZUVFMVEpNRE45V0laTEVlU0hQT2w2UnU5REg0SVdMbk9XM0g4bDJLd29pOWRtRTF5dk5PbDBHNkZ2ZUR4bnhHbUlLdHR1VWJLMS1ldjNfWFVFWkFHeWtN0gF8QVVfeXFMUFJfZE5QVGdCUXIzSGlqUnB6Q25sTlg4WDZOZEFNQm9RVEtUa01Na2RaQ2M5b3IwNTNiLWNlNC1SeFduWi1YME4zdkJvQS1xZGotSkxQMWVJS3dvRkpfLWNGY3ZUa0hZOHhjcGtBTnlNa1JxbHpxY2piM0dmeA?oc=5",
+   "published": "Fri, 02 Oct 2026 10:30:09 GMT",
+   "summary": "US tariff threat puts India’s energy strategy under pressure | Policy Circle&nbsp;&nbsp;Policy Circle",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
   },
   {
    "title": "Aviation Connect: air cargo’s favourite event, but with an unfortunate early dip…",
@@ -17057,6 +17005,26 @@
    "priority": 1
   },
   {
+   "title": "From ‘red ocean’ to ‘blue ocean’: Why Singaporean firms are exploring Nanning to enter China’s market",
+   "link": "https://www.channelnewsasia.com/east-asia/nanning-business-caexpo-singapore-china-6407501",
+   "published": "Sun, 04 Oct 2026 06:00:00 GMT",
+   "summary": "Recent pyramid scheme arrests involving Singaporeans have put Nanning in the spotlight, but businesses told CNA they remain undeterred from entering the Chinese market - and that making inroads can take months or even years.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "Defense chief: Need proof of Dutertes’ China funding",
+   "link": "https://newsinfo.inquirer.net/2316369/defense-chief-need-proof-of-dutertes-china-funding",
+   "published": "Sun, 04 Oct 2026 05:30:00 GMT",
+   "summary": "MANILA, Philippines &#8212; Defense Secretary Gilbert “Gibo” Teodoro Jr. on Saturday said former Sen. Antonio Trillanes IV should submit evidence to law enforcement authorities to back his allegations that Chinese funds went to an organization linked to Vice President Sara Duterte and her family. “The allegations of [former] Senator Trillanes, if substantiated, raise serious implications",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
    "title": "DCCI seeks Malaysian support to boost exports, investment - The Daily Star",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN1R0bmJUTERpb1dlZUFFOHBJdl9OUTFJVU0wSFMxVzdwQXFXaERaQlN1ejhqcTQzVE51aUh1WkV5cjVWbEdtV3RmeVlaaHZtcHk5X0ZwVVZmVS1naFpXQ0o1dGF6UFZudzhsQldqVVBQSVBKaS1MSzNzVU1HZGU1RDd0YnZUODBGN0tIeEo4T0tGR2laOTItSE43SmtwRHhrR0hSU00xTC0zQlhQUUJUTUdR?oc=5",
    "published": "Sat, 26 Sep 2026 23:22:22 GMT",
@@ -17064,16 +17032,6 @@
    "source": "Google News | SE Asia",
    "module": "亚太官方",
    "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "Vietnam pushes trade as partner country at India's UPITS Show - Vietnam+ (VietnamPlus)",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2N5TkxzckQ5SFVmSzZPZ0JUYk1LekhtZEFKUERqbnp1MUhaRmdhT2pQT0ZtbTBRRDBYdkppeThZLXR6dEZSWGtGSFc2ekE3bEt2d0Vsa3ZucDJld2NNeXhWMTc3WDVyRlNoQUVGVk9vQm5Zeml4b1BZbkVtcXdlOGh3NUdRbHBqYWVsMWg0a2N4dzRoUi12cng2Mlo4SlB2N240?oc=5",
-   "published": "Sat, 26 Sep 2026 19:10:43 GMT",
-   "summary": "Vietnam pushes trade as partner country at India's UPITS Show&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
-   "source": "Vietnam Plus",
-   "module": "海外媒体",
-   "category": "亚太动态",
    "priority": 1
   },
   {
@@ -17093,6 +17051,16 @@
    "summary": "About 100 demonstrators removed security barricades before police forcibly detained some of them.",
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Never recieve my refund - eBay Community",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVNzTVFRU2FBRE1YZF9wNFR0blV6VE1EOXQ3MzRTVDlEYmIteTBPYWV6RWtPdXQtVWJDcWpIdkQ1eXpxRndvSUl5RmNsQTdGTzNsaldhTGdKeDljdDFNX080WWtYZFc2TWtVcUZRR2haQ0gxSVpfTERtaXB0RllYZWR4UHFvdC11cVFDQ3NfNUhvVzVqMUdaTmI1N3FudXdCdUxOemE0MXhva1N1?oc=5",
+   "published": "Sat, 03 Oct 2026 20:42:56 GMT",
+   "summary": "Never recieve my refund&nbsp;&nbsp;eBay Community",
+   "source": "eBay | Seller",
+   "module": "企业官方",
    "category": "其他",
    "priority": 1
   },
