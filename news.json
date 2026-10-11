@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-11T03:10:43.570950+00:00",
- "total": 1292,
- "high_priority": 991,
+ "updated": "2026-10-11T10:27:58.859944+00:00",
+ "total": 1298,
+ "high_priority": 993,
  "fulltext_count": 60,
  "stats_by_category": {
   "美国官方": 0,
-  "欧盟官方": 0,
+  "欧盟官方": 1,
   "国际组织": 3,
-  "海外媒体": 7,
+  "海外媒体": 17,
   "企业官方": 3,
   "亚太官方": 2,
-  "海外媒体RSS": 2,
+  "海外媒体RSS": 4,
   "航运物流行业": 0
  },
  "fail_counts": {
@@ -1001,13 +1001,13 @@
    "priority": 3
   },
   {
-   "title": "Documents - World Trade Organization",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY3UzTzFFSnI4cWtxNDNoblR4OXJkZU52X1V3X3dpdW9wLTR3NW1OZEhncWU0WGRURE8yYUFpdkMwekJ1a3gwZGdqejByWnZ6cEpldEFndGozcnNfZS1KWFAwRkYxczdZRndfLUM0MWRYUXdaREVsUnFMSFA2T3hrcG9lQVJDRl96aF9oNnd1dzk5UnRaOTZGaFc4ZkFpWV95TjUtZTdsWkthRVRvVFhfOEZ3NWd4TU85MmhnODhiOS1Fb09yTGVzNXFxbjlCMkxGSGlKLTA5WFlvSDljbWFHdkQ3Yw?oc=5",
-   "published": "Sun, 04 Oct 2026 09:26:25 GMT",
-   "summary": "Documents&nbsp;&nbsp;World Trade Organization",
-   "source": "WTO",
-   "module": "国际组织",
-   "category": "其他",
+   "title": "STS data requirements by NACE Rev. 2.1 and CPA Ver. 2.2 under the EBS Regulation - European Commission",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFp1OUNqQTc3NWJvLWtkaGthU1FzUTFaMFRNZEdUNUZQWWJ6ZlhvdXVTNTRBNDJLT09yUWJlUV9SVk16QVVabXZ0NVBrcEpUM3pnRWY1WEtyN3llMmw0d2tUM0x0X2NkVEp5dXhRRGtOYnBOOUJTTmhVVGhuTEdCc1A2WWItMmF0dTFLeEc0UVVZbk41dzY1bHJ0VmhjM3A2QV9wQ2hxdEhwd1BpZ1l6TXBjdUw0V1l2MkpJX3hseTRaOUNyYlhBQg?oc=5",
+   "published": "Sat, 10 Oct 2026 23:35:15 GMT",
+   "summary": "STS data requirements by NACE Rev. 2.1 and CPA Ver. 2.2 under the EBS Regulation&nbsp;&nbsp;European Commission",
+   "source": "EU DG Trade",
+   "module": "欧盟官方",
+   "category": "欧盟贸易",
    "priority": 3
   },
   {
@@ -5141,6 +5141,16 @@
    "priority": 2
   },
   {
+   "title": "EU Prepares Import Cap on Chinese Hybrid Vehicles - Fuel Cells Works",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUItZHlweW0tZUx2VUY3VTVDc21HWWladkhMdVFVR01kSlFZMEpvSmxuS1N1Z1pLS1NfWG0yVlIzOTU1ai1FUWtpNDBKVzN1blhiWlN2ejdzLU5EVDFQMk12UDd4U3Z6YzlCUW5Fd2JXQ2lXbVhPUjluTTRpUkpDUGJfOFhvV1hjd0lZVTZrWmVrRXlUYjlrSW9FMHpfSzI1d01CYndSbnNydlhpdXpjV0ZZMlc3LUdpeHJN?oc=5",
+   "published": "Thu, 08 Oct 2026 16:42:00 GMT",
+   "summary": "EU Prepares Import Cap on Chinese Hybrid Vehicles&nbsp;&nbsp;Fuel Cells Works",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "欧盟贸易",
+   "priority": 2
+  },
+  {
    "title": "Factory backlogs build as freight and steel costs climb",
    "link": "https://www.freightwaves.com/news/factory-backlogs-freight-steel-costs",
    "published": "Thu, 08 Oct 2026 16:30:58 GMT",
@@ -6490,6 +6500,28 @@
    "priority": 2
   },
   {
+   "title": "Business Secretary responds over JLR jobs and China trade policy - Birmingham Live",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDhGYkh6WmJaMW5oUTQ0Z3VGb3V1VWo1cms0cWJGMHhHbkxaTGRRbm5ycVVvNGp3dUVaaW9JR1o5bEt1UlJudTkzWDFUcDFrRnB3bWU0ZzBNLWI5NVY5X3B6TEV6bEVmZTRyYjN4blptbUt0Ry1wUWROVDE2YnRHb2dzNVJ1RHZXSkhXaEpTNjBZMjNYNWVFSXk2NlZVQQ?oc=5",
+   "published": "Sun, 11 Oct 2026 10:05:00 GMT",
+   "summary": "Business Secretary responds over JLR jobs and China trade policy&nbsp;&nbsp;Birmingham Live",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Why are mainland China’s tax officials suddenly so interested in my Hong Kong MPF?",
+   "link": "https://www.scmp.com/economy/china-economy/article/3370354/why-are-mainland-chinas-tax-officials-suddenly-so-interested-my-hong-kong-mpf?utm_source=rss_feed",
+   "published": "Sun, 11 Oct 2026 09:00:11 GMT",
+   "summary": "For the past few months, this newspaper has extensively covered China’s ongoing clampdown on tax avoidance, especially its push to tax the income of super-rich families held in offshore trusts.\nWe never expected to become targets of the campaign ourselves.\nBut there have been signs in recent weeks that officials are starting to take an interest even in the incomes of South China Morning Post journalists, with several of us being contacted by the tax man.\nFirst, a colleague with our Beijing...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
    "title": "US lifts sanctions on daughter of Myanmar military-linked businessman",
    "link": "https://www.bangkokpost.com/world/3335089/us-lifts-sanctions-on-daughter-of-myanmar-militarylinked-businessman",
    "published": "Sun, 11 Oct 2026 08:53:00 GMT",
@@ -6503,6 +6535,84 @@
    "content_status": "full"
   },
   {
+   "title": "China’s rich coastal cities to see sea-level rise up to 20% higher than global average",
+   "link": "https://www.scmp.com/news/china/science/article/3370255/chinas-rich-coastal-cities-see-sea-level-rise-20-higher-global-average?utm_source=rss_feed",
+   "published": "Sun, 11 Oct 2026 08:00:10 GMT",
+   "summary": "International scientists warn that rising sea levels driven by melting Antarctic ice will be 15 to 20 per cent higher in cities such as Hong Kong and Shanghai compared with the global average.\nThey said gravitational shifts caused by shrinking Antarctic ice would redistribute water across the globe, causing higher ocean levels along China’s densely populated coastlines.\n“Even if we limit warming to 1.5 degrees Celsius [2.7 degrees Fahrenheit], the Paris Agreement’s most ambitious goal,...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Tariffs, millions in extra costs, Iran war: Trump’s policies hammer US firms",
+   "link": "https://www.scmp.com/news/world/united-states-canada/article/3370478/tariffs-millions-extra-costs-iran-war-trumps-policies-hammer-us-firms?utm_source=rss_feed",
+   "published": "Sun, 11 Oct 2026 06:10:19 GMT",
+   "summary": "For Doug Rende, who runs an aluminium product manufacturer in the US state of Ohio, President Donald Trump’s tariffs have meant millions of dollars more in annual costs – and recently, the Iran war has made shipments even more expensive.\nRende is CEO at Shapes Unlimited, one of many American producers smarting from Trump’s economic policies as the midterm election approaches.\n“Frustrating would be one word,” Rende said.\n“And I think that we’re sensing a lack of trust in not only the...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Trump’s new spokeswoman is a ‘devoted fan’ who lived in Beijing and speaks Chinese",
+   "link": "https://www.scmp.com/news/china/diplomacy/article/3370473/trumps-new-spokeswoman-devoted-fan-who-lived-beijing-and-speaks-chinese?utm_source=rss_feed",
+   "published": "Sun, 11 Oct 2026 06:00:10 GMT",
+   "summary": "Before she addresses the world from behind the White House briefing room podium this week, 42-year-old Katie Zacharia has a story that stretches far beyond Washington’s power corridors.\nYears before US President Donald Trump appointed her as his new press secretary, she lived in Beijing, worked at one of China’s leading law firms, and learned enough Chinese to occasionally surprise people.\nHer reported experience in China spans international law and a communications role with a non-profit...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Trump’s trade wars sting US manufacturers ahead of midterms - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXdDQXc3RVNNM2V5aXl4S0VPUVp3UTVKNFpYUC1jUlllUUNvR3hYbXhpNWZSTlVDdzdQeXJzbGhCelllamJfY3ZmZWFhQXRFS1VRRjUzMUNkMXBnUXc3TFMzNXNFMWRHb3ZuZDRCenZLR2lYRVFnUWdZaEdKN2QxMVUyN1RUTzJlU3ZtaE1QUXl3c2I0cnhZeXhiUFhQSHJnT1p0SXpLUHI1SEE?oc=5",
+   "published": "Sun, 11 Oct 2026 05:55:00 GMT",
+   "summary": "Trump’s trade wars sting US manufacturers ahead of midterms&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Trump's trade wars sting US manufacturers ahead of midterms - The New Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVdwbzl3V18ySG8tdGJzZlQtSDV6QkpfcnNEMjVSNmhTRWN4eDFJT1NoQ2RwYVNPMEJUQjktbmFjNkgwQXJTTkZpVTd3NExuSVRaM3A5c1k0U3BzemhaNl9pUFFVbHY3Ml9wSkdWbDdBUWRBNS04TGp0SEM1akVZWFctR2ZRRTdiOENVNUNPWEJabm1WZjJDYjhPaGJ5dUstQkw0dkRZbkxEOW5lV0HSAbsBQVVfeXFMTUMyUjM0bnZWc0tDckVXTlAxUXdxUGVGLUpHR3IyQnpIQ09Ld3FJUlRPNXo3eDA0bFE3SlJ3aE8tamxBdGhPNjg4Z3o0Yk5PS1VjZkxjSHpybUc0cGhhUWpJMWhzYnZpb1pVckpLLTNLR0doYUJybjZxcGRoeHV2RUtHRTFxQm1SOEY3RjNSZnFfdHczVHRoajNNMTBkWTdNMWZ1TDRpT3ZuZGdXUnhlTHAwYjVJTjZDSzVsZw?oc=5",
+   "published": "Sun, 11 Oct 2026 04:30:49 GMT",
+   "summary": "Trump's trade wars sting US manufacturers ahead of midterms&nbsp;&nbsp;The New Indian Express",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Chinese retiree devotes life to photography after tumour shrinks post-bucket-list trip",
+   "link": "https://www.scmp.com/news/people-culture/trending-china/article/3370469/chinese-retiree-devotes-life-photography-after-tumour-shrinks-post-bucket-list-trip?utm_source=rss_feed",
+   "published": "Sun, 11 Oct 2026 03:20:43 GMT",
+   "summary": "After spending all her savings on a month-long trip to Antarctica following a cancer diagnosis, a woman from southwestern China discovered that her tumour had shrunk.\nWang Ying, 67, is an amateur wildlife photographer who has photographed more than 1,200 bird species.\nIn 2013, as she was preparing to retire from her job as an administrator at a school in Kunming, the capital of southwestern China’s Yunnan province, Wang was diagnosed with a form of thyroid cancer. Doctors urged her to undergo...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Rwanda Articles of aluminium, nes, for example casting imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEE2eEJmbU9MZE5HWVRVYldNdklROHBNcks2MkExb3hrTjd4dnF1d2FrbGFlajM0Uzk3OXFCMjlZdTltQWc3QnNSdDgyVGY3SnRwVlZwU3l0ZnRYa3k5Z2k4QXFLX1NmTk1RUVVXMEFRdEtObm54WUJfdjFERm9DZUY4MHZXRDVjQWxsRTN6Rl9jTTB1dVV6WVNOTm9KZVg2RHk3RDdUMDladTJwbmFpbQ?oc=5",
+   "published": "Sun, 11 Oct 2026 03:12:17 GMT",
+   "summary": "Rwanda Articles of aluminium, nes, for example casting imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
    "link": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
    "published": "Sun, 11 Oct 2026 03:04:32 GMT",
@@ -6511,7 +6621,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6523,7 +6633,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6538,6 +6648,16 @@
    "content_attempts": 1,
    "content": "Russian attack on Ukrainian city kills 20, a day after Trump eases diesel sanctions on Moscow - CNA Skip to main content Close Close Top Stories Asia East Asia Singapore World Commentary CNA Explains Sustainability Business Sport Latest News Insider TODAY Big Read Up Close In Pixels Ground Up Voices Adulting Mental Health Matters Watch Live TV News Reports Documentaries & Shows TV Schedule Listen CNA938 Live Podcasts Radio Schedule Special Reports Singapore Parliament Mental Health Interactives Lifestyle Entertainment Women Wellness Living Style & Beauty Dining Travel Luxury Experiences Obsessions People Remarkable Living Sustainability Newsletters CNA Eyewitness Send us a news tip Events & Partnerships Branded Content Business Blueprint Health Matters The Asian Traveller Brand Studio Learning Minds Weather Edition: Singapore Indonesia Asia World Search Trending Topics CNA Explains China artificial intelligence Indonesia Malaysia podcasts Wellness Thailand Japan Follow CNA Follow our news Facebook X Youtube LinkedIn RSS Recent Searches Trending Topics CNA Explains China artificial intelligence Indonesia Malaysia podcasts Wellness Thailand Japan Advertisement Advertisement World Russian attack on Ukrainian city kills 20, a day after Trump eases diesel sanctions on Moscow Twenty people, including three children, die as Russian glide bombs hit Zaporizhzhia flats, the third mass-casualty strike on Ukraine this week. Rescue workers carry a body after pulling from the rubble of a r",
    "content_status": "full"
+  },
+  {
+   "title": "China Isn’t Importing Any US LNG, But It’s Still in the Game: Bousso - EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMTZZZll0ampHZ25OS0xWd28tWmhEamJsY1lNekxSMkYwWTNIZG1nVnVSdlNRRFdGS3c2R3hMdXZ0bnk2R090anhveHk4RVA3NU9sc0NXQWw1YTNya2pQaEx6U2VkeVRlT1ZnaV92Z3pEOXk2SVdsUDRuWkc3bmc0T0QzdnVLMzk0ZzkxcXk1XzRrYVhNMnJvd2l1UQ?oc=5",
+   "published": "Sun, 11 Oct 2026 00:02:10 GMT",
+   "summary": "China Isn’t Importing Any US LNG, But It’s Still in the Game: Bousso&nbsp;&nbsp;EnergyNow.com",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "Tariffs and geopolitics re-shape global supply chains - BizzBuzz",
@@ -6959,194 +7079,14 @@
    "content_status": "bot_wall"
   },
   {
-   "title": "Helpers, employers voice concerns over Hong Kong plan to import carers in 2027",
-   "link": "https://www.scmp.com/news/hong-kong/society/article/3369701/hong-kong-set-begin-importing-hundreds-carers-second-half-2027?utm_source=rss_feed",
-   "published": "Sun, 04 Oct 2026 10:22:26 GMT",
-   "summary": "A pilot scheme to import hundreds of foreign domestic carers from next year to look after elderly Hongkongers has sparked concern among both helpers and employers after the city’s labour minister revealed further details, including the salary level.\nSecretary for Labour and Welfare Chris Sun Yuk-han said on Sunday that the carers would be equipped with both specialised elderly care skills and general domestic capabilities, and would first need to complete a 150-hour course in their home...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "航运物流",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "US-China trade truce extension gives global businesses fresh window for supply-chain planning - nation.com.pk",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMjBVWXpleTZnVFJYUUQ0eDVnSEw4MWRsV3cxTUE1SkxvMzZSeEVsSWlyLUxham4yZDlmbjBPUTNIUzFmWmd1eVhMdm1XZUNuR2h1YW8tVzBVYWMweVZDa3dGaVRDclk0V2Z0ZUFsR29Dd1hOM0hVaHFWempXMzNTZE9IeHNJQklPU2xtRTl3bWhUSk5weE5nVlpwQXB3Z3lRRFE2ZzVjeG1CN2c3aEN0eGlLZW1ONEoyeVVqYVpTZEs2OTBESnc?oc=5",
-   "published": "Sun, 04 Oct 2026 10:11:01 GMT",
-   "summary": "US-China trade truce extension gives global businesses fresh window for supply-chain planning&nbsp;&nbsp;nation.com.pk",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Greer says no specific timeline set for enforcing US-China Board of Trade - The Star",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR1VMd3Vydmdxamt5NG5DbTdQZWlhbU5aVk9VN3lOc21qc2ZsT1d1UUVZN295NWtyWW10cFpjNE44ZUpXRWJyVWpwdVJ2RzlPU2RuWmo0NUE3Tnc3WXdrRjc3WE9VWjRGc29tQzdxVWItVk5lVF9TeXZ4QlBmNGplanduY05wbFE0clNvcHhwVHhFc09VSG1VejlwMHVLb0lyX0tNU24xQmUyVmcyTnQ5aFdmdkZZSUlUbHZxRUlvM180eVM1clF0X1VQN0Vxa2p0V0E?oc=5",
-   "published": "Sun, 04 Oct 2026 10:10:00 GMT",
-   "summary": "Greer says no specific timeline set for enforcing US-China Board of Trade&nbsp;&nbsp;The Star",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "'You’re Hurting America': Tim Kaine Hits Trump Over Canada Tariffs As Carney Pushes Back Hard - Oneindia",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLXdDdWNfWmxLNzVyNlBabVpLb212SGtNZUJXbWhhdGxMalFBSnZkaG53LXcwdXlmZXdTS0YzckJaUVZvcjRxcUtkSFFCYWktbDNEMUtrS3lsbmhHN1VNRUlzZUpyQnlrMUdtMmcxcnFfZEFWaHhnTWkxMjZmR0VIQ202MXQtRHIwblB0NzQ0NDFxLUJHbDJORVlnSDRnQ1VDSzdtazJJM1hhYVpKUjZVX1diaDhXOWdLclNZci1nV0tPSmpSRW5lR1JScE1FX1Fj?oc=5",
-   "published": "Sun, 04 Oct 2026 10:04:01 GMT",
-   "summary": "'You’re Hurting America': Tim Kaine Hits Trump Over Canada Tariffs As Carney Pushes Back Hard&nbsp;&nbsp;Oneindia",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Hong Kong should review reducing number of Legco seats to cut cost, Rita Fan says",
-   "link": "https://www.scmp.com/news/hong-kong/politics/article/3369700/hong-kong-should-review-reducing-number-legco-seats-cut-cost-rita-fan-says?utm_source=rss_feed",
-   "published": "Sun, 04 Oct 2026 10:03:10 GMT",
-   "summary": "Hong Kong’s first Legislative Council president suggested reviewing the number of seats in the city’s legislature, citing the need to use public funds properly.\nRita Fan Hsu Lai-tai also said on Sunday that Hong Kong and Shenzhen authorities had discussed the development of a plot at the two cities’ border before the handover to Chinese rule in 1997, but the plan failed because of opposition within the government.\nFan made the remarks during an appearance on a radio show, in which she was asked...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Crispbread exports to Ethiopia(excludes Eritrea) |2024 - wits.worldbank.org",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX0ViNE1ZNksxMEMycnU3ZU5DaHVJMk9wV0hHSzFxQTZXUlZORFNGdGdOZDE1NXh4RFhTQVhsTU80WU1CWVVndUhQLW1zdzAtc01KNWpwU09QRlRYelVyYlEtMXA4MkFidlUyQ3I0NmUycEM1ZEl5ZjBRVnNYeGNRTE4xcFFtNWd3dVNRSlBWU2loUjIyZExYM0VndmVCd05od2tYT25LOVdQMlFzOHY1LQ?oc=5",
-   "published": "Sun, 04 Oct 2026 09:49:19 GMT",
-   "summary": "Crispbread exports to Ethiopia(excludes Eritrea) |2024&nbsp;&nbsp;wits.worldbank.org",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Ghana Mustard flour and meal, prepared mustard exports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVm8tLUFzejY0Z1NZZmNUVmY3SlBaOEk2TG5MdUJUVy1lM1BSLU1sNzBySVVGTUdWQzU4aHoxa3ZwLTI3UTQ3QTVYTVdaWTRTS1BkSEFic3BOUkkxQ0hJcUtIWU9XbFBDYVZld01RSHJFWUdfSl9HYUZ2MkJrUFdEbVpzdVFvekplWkVIOFZuZFg3dUxlUDR2bUhMYUc0aW83dUJ5NURPMmNjVVZWODJ3VA?oc=5",
-   "published": "Sun, 04 Oct 2026 09:39:54 GMT",
-   "summary": "Ghana Mustard flour and meal, prepared mustard exports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "GVC integration, supply chain resilience, FTAs key to boost exports, high-end manufacturing: Deloitte Indi - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMkhQajVzLW13MU1FSFdfZlY5cjhlRkxLZDlXLWNyM05OMVE4ZV8yRTNNQzh1U0Y2UFh0RG90R2lqd0xsZHZKeXkxRXdKcnY1QTFHN2pvQ1kxSFJyUUNkamNfZk9qRzdGZnJWcVk5UTJLOHlaVTVlMkI5Tm5UOEdJcUNuOHVLVW9kZEVLZVBWcVRMd3lFUEl3ZzN4M3N6d2VGR3dOT2QxMVNPdWtGZVhzak8tOXZwNHBKWHZNbGtndG02WEtiZ3hTcmxnOW85djAzNlk4YjVVTjQ1NXpuczVmcG4wOXgyRzYtc004X0FzYl9tQjNoZTlGbUpXc19wdXg2MEZfekMtSnNsOFFMNmROQWd30gGXAkFVX3lxTE5Rc2g2dGd6RnN2Skp4V3VxU2tRRkM2S0hWcUozSWFHLWVhNUJpQTBsdE5xVXdnNmlKeE1NcXkzRmE4XzNrbVNOQWdvalhHLUFZd2l5M3JQbVctYVVtdmVzRDhRdjNvekFsblBGNUMxREJPT1ZxeWJBdlBXaGpaQlRvUDhZcTZPNGwzSUQxN3Z6YThXQ3p3c1BhZHVmdllEeUhKLV9KTVRqYzZEeGU2LU1vZXF3ZUF5YzBNbURvUkpobUt0dHloUFVlVUViQ1VSMzlMYkxxMi13WGI5aDBod3NudzZSWFcyNHlRb2JhTEYtREhuQjFRSEdhb2c4b3hOcUpsWUp3MmIyeXZueE8zT2RHcUtKZXlhWQ?oc=5",
-   "published": "Sun, 04 Oct 2026 09:24:19 GMT",
-   "summary": "GVC integration, supply chain resilience, FTAs key to boost exports, high-end manufacturing: Deloitte Indi&nbsp;&nbsp;The Economic Times",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Mauritius Shawls, scarves, mufflers, mantillas, veils, et imports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0VRR0lfRGVZUUtZYU5YQ29kRWJYYTAteVdCc2dPRHFvMWxtMXNSTXk3RVl2eFgyYkQyM0ktQWZLMlI3dUVtWXdoYy1FMU11OE5XXzRyNVl3RHhlUlpQaWN1alJvZElyWkxHV2h0YXlrSkFvOTBLbHdGeTJfZ2RxOUdiYnYyWjFsWU1aVGNrYmZWakZvMVJiR2NpTng5VndCcXJ4YkdSOTkzOGhMaFV5MQ?oc=5",
-   "published": "Sun, 04 Oct 2026 08:42:14 GMT",
-   "summary": "Mauritius Shawls, scarves, mufflers, mantillas, veils, et imports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Fertilizers; mineral or chemical, nitrogenous exports to Zambia |2024 - wits.worldbank.org",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUd0VDBQNDZNc2wwd1BDcWNSdjFZU2VsOUxaUHpfbjhmbDJIMTdodUdNUHpCLUctREVGQXRkMFZtSDFSVUJRbXRJY2VENklkNkFlVl9RRm1zRm1oakQyRGk1UnpBQkUzY0dWTUNaWFplT0FlVzlZZ2VzZllrZmJBXzdyVE85WFp5WEpoWm1JcHp4dU5fT1FaejIzQzhsRU1EOTZEeEw3LVo2b3AtWXc?oc=5",
-   "published": "Sun, 04 Oct 2026 08:40:58 GMT",
-   "summary": "Fertilizers; mineral or chemical, nitrogenous exports to Zambia |2024&nbsp;&nbsp;wits.worldbank.org",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Fiji Taps, cocks, valves and similar appliances, nes imports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmZ5dDBDNmpxSlEyVjRtV0E2VVp6M3NVRTBRQnlUR0J5bnhObTFRTjE3S1F2a0Uwam5lbVdoZUI4VUtCZEpUcnZTSENJQk9leThaZ3NKOGgwMUVVOFVuLVE2VTRjNzZ0bGppeEFHazFRSHZaSldCTGFSMERTblU4RWlaSUtuYUtHVWE2OXQ2U2llRVdOS3FOQS1UVy1oVWFvbnV0QUJXWGQyZUU4WlpwTw?oc=5",
-   "published": "Sun, 04 Oct 2026 08:35:39 GMT",
-   "summary": "Fiji Taps, cocks, valves and similar appliances, nes imports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "China’s hospital ships project a different kind of naval power in Africa",
-   "link": "https://www.scmp.com/opinion/china-opinion/article/3369439/chinas-hospital-ships-project-different-kind-naval-power-africa?utm_source=rss_feed",
-   "published": "Sun, 04 Oct 2026 08:30:06 GMT",
-   "summary": "When the Auspicious Ark entered Dakar, Senegal, on September 25, the scene looked closer to a public health mission than a naval deployment. Senegalese people and members of the Chinese community were waiting at the port as the vessel arrived for the first visit by a Chinese naval hospital ship to Senegal.\nThe Auspicious Ark is a PLA Navy vessel. That places the visit within a wider Chinese maritime presence in Africa, something more often associated with anti-piracy patrols, port calls,...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "China lashes out at Xinjiang ‘lie’ after US lawmaker urges Starbucks to close new stores",
-   "link": "https://www.scmp.com/news/china/diplomacy/article/3369689/china-lashes-out-xinjiang-lie-after-us-lawmaker-urges-starbucks-close-new-stores?utm_source=rss_feed",
-   "published": "Sun, 04 Oct 2026 08:00:17 GMT",
-   "summary": "Beijing has hit back at a US lawmaker’s criticism of coffee chain Starbucks for opening its first stores in Xinjiang, rejecting the allegation that China has committed human rights abuses against the far-western region’s mostly Muslim Uygur population.\nForeign ministry spokesman Guo Jiakun on Saturday said claims of “genocide” in Xinjiang were a “blatant lie” and accused the “US group” who raised the suggestions of attacking Beijing for political purposes.\n“Today’s Xinjiang enjoys social...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Hair lacquers imports from Ethiopia(excludes Eritrea) |2024 - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3VTNHNVT25CWFBtRXZEUkFYY29TMVR2MEtlUHhMbVEzYkVoaGdjR21acG9reEhlQVRseWlsanN1dTdET1h3dE8xTVB4VC1PbkpJTjlJMUZwblJmUGZ2NUp6ekdLekNhNl9sTmotZ1pOZXY0ZFJSdXlNcVVEcUI5a1hYS1FwMFg4VkFpRlBYb3V5N01sanQtU1BXYnJyMmhMOUYxbFZuVGNfWTBEOUN1SQ?oc=5",
-   "published": "Sun, 04 Oct 2026 07:44:12 GMT",
-   "summary": "Hair lacquers imports from Ethiopia(excludes Eritrea) |2024&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Mandatory Declaration of All Lithium-ion Battery Cargo – DG and Non-DG - CMA CGM",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGtYVzJYLXJCWVNwQ08wd0wzXzAtVTNJT3dpeUFjMnYwalRNU0xvSG9UbFY1N2xWNFJvdHY3czlGUkdvRXFJZW8tTVNwN1BPaHZfVzFfMXpZUHdZRDg4RTAxcS1UMGUxRHFmR3ZZeTJOSGdYQUtPdm5uV1VKb1JGdGk4cVhnbWxpY3ZpNHdRQlJHZnhCZGRfaEhJT2lRNlpES2NLemhjcTAxNDJMVVhiYzd4RGc?oc=5",
-   "published": "Sun, 04 Oct 2026 07:00:00 GMT",
-   "summary": "Mandatory Declaration of All Lithium-ion Battery Cargo – DG and Non-DG&nbsp;&nbsp;CMA CGM",
-   "source": "CMA CGM | Shipping",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Recommendations for R&D&I Financial Support Providers on the application of open science practices in national programmes and public research, development and innovation competitions - OECD",
-   "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNcTI2Y0tKMmVyMVhGcXkzVlJTRWNzeWQ0WHB4VWJrUXNhMTVkRUN3UER6STJpcmtHNWpOVC1yZjlkZTJvMURmZ1dKOWlEazJnOWYyRXRVeGliMHUweHZmZGloQ21jbGNBTmJ2S3NFMlpVYTVPU09vRTMwNmt3ZzhhTlVwYVpVemdBcWJPTnVKbFRGX1JBVzlLZ2R0dE1BQVA1aENpU1FMMmZpQUR4aUV4WmlPY0VGRmtOMEx0Q2F5cGNRUzNaQ3RWLWViRFEwYy1Xc1RBSV9SdHBlcmMxdmJRQ3AzSU81TFVoMjNkMkFkN1JYV3N0NG5sTWE3c1FTX2tISU9XVWhjalRxblVlUVNpc1FXNUhWdEptZmM0Y0s1ZHJPbUxfNkRGM015WEhXb0dwbHBienhKdkRhSW50SEFxWWRlQlBmUUtmNVEyLVJudTBfOTJVQzZrbDlOTkxjNzZVZ0wtOXlEc3BGRW1QTGF4SHJpZk92LU5pdVRDeWZtMmpIS25oNnlTME1rMWdwZ1hYTjg1T2NfM0tYQQ?oc=5",
-   "published": "Sun, 04 Oct 2026 06:26:22 GMT",
-   "summary": "Recommendations for R&amp;D&amp;I Financial Support Providers on the application of open science practices in national programmes and public research, development and innovation competitions&nbsp;&nbsp;OECD",
-   "source": "OECD",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets - The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkl5LUhTc0FQaVMtS1FCQ2lmWXd2YmpvX3o0MzVUWlNDWmlVQ3k5SWpuU1dNb2hNb2RSaVZOZ1ZrWXJDMzJiTkdQUG5xdVNfRWV4MWU3Z0ZBSGRHbGpneUJmSXFvSUR2dnhhSkd3MG9GbzF0MEdQVExIS0tWbXc0UXJxWXRPQXZkbF9aNVBWLXhrcTF2XzYwek1sZ0tiSXZ3VXc?oc=5",
-   "published": "Sun, 04 Oct 2026 05:01:00 GMT",
-   "summary": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets&nbsp;&nbsp;The Guardian",
+   "title": "Pakistan’s Bike Parts Duty Reaches 31%, Raising Tariff Policy Concerns - TechJuice",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWpHMDRsMVdEWjVnT3pCVXhfUldvV2t2Rkp6TzExVXVSSmg3bk1ONko5U2VzbHF6N1BPUnJrWmVhM2ZKMkw3dHg5NXZud190VnVYcE5zVmZWaTRIYWRtcGFqQmVUOEJsbzBzOEptRmk2M2xfNkV1YllnREM0OFZqUzBoMkkwOU9aVXBFUF9wUjdHc0Z4cEhkNA?oc=5",
+   "published": "Sat, 10 Oct 2026 23:26:20 GMT",
+   "summary": "Pakistan’s Bike Parts Duty Reaches 31%, Raising Tariff Policy Concerns&nbsp;&nbsp;TechJuice",
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "美国关税",
    "priority": 2
-  },
-  {
-   "title": "ABS, HD KSOE and Siemens develop digital twin for ammonia vessel safety",
-   "link": "https://container-news.com/abs-hd-ksoe-and-siemens-develop-digital-twin-for-ammonia-vessel-safety/",
-   "published": "Sun, 04 Oct 2026 03:21:01 GMT",
-   "summary": "ABS, HD Korea Shipbuilding &#38; Offshore Engineering (HD KSOE) and Siemens have signed a memorandum of understanding to develop digital twin technology for assessing the safety of ammonia-fuelled vessels. Announced at Gastech 2026, the collaboration will combine computational fluid dynamics (CFD) analysis with digital twin technology. The partners aim to predict how ammonia could disperse [&#8230;]\nThe post ABS, HD KSOE and Siemens develop digital twin for ammonia vessel safety appeared first on Container News.",
-   "source": "Container News",
-   "module": "航运物流行业",
-   "category": "亚太动态",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "error"
   },
   {
    "title": "How a museum masterpiece’s life-size replica sparked rare US-China collaboration",
@@ -7178,6 +7118,16 @@
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Belize Tubes..., of vulcanized rubber, reinforced with imports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZW5ra1Jxb202ZXg0RUw4VVpJOTJ0ZzhwVk1aSjRJQTVsZ3hKTFhqMzRIbEFmV1JNVUpfR1IxYk42NFF0NzEtaHhudWRpWGp1ZUduQlZJcGZTRFVGLVYyOUtJenBDUTVVMUhSaU5ld0FBQjd2V09XNklZYURnZ3c2Uk5PekJLQ01FSllFUlZZMUxzcVFFZ0RacjZYVHBlSHM1TTZDU3lKeXRoMVlEWkg0dA?oc=5",
+   "published": "Sat, 10 Oct 2026 18:44:05 GMT",
+   "summary": "Belize Tubes..., of vulcanized rubber, reinforced with imports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
    "priority": 2
   },
   {
@@ -7284,6 +7234,16 @@
    "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "欧盟贸易",
+   "priority": 2
+  },
+  {
+   "title": "Fiji Footwear with rubber... soles and leather upper exports by country - World Bank Group",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLXVtT19SN1ROTEZrNTVJalhENVJZeEVFT3pvVC1Da25aa1A3VmtVTW43Z1RrZmxwSVZxeWpDa3ZFYjkzblFWUXV4ajUtT1VPZUdCNWJkSzhZaGFJdnVraDRBNDZsMlN2ckJGTExwQmkwaXFzbGs3bmZielFHV21iZDdKWURyVThDWk9KN18wMDM0WGhKVlJxMEpSckR4OGpvLVF4YjVMLWFTNnJIRnB3cw?oc=5",
+   "published": "Sat, 10 Oct 2026 12:57:24 GMT",
+   "summary": "Fiji Footwear with rubber... soles and leather upper exports by country&nbsp;&nbsp;World Bank Group",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
    "priority": 2
   },
   {
@@ -9427,6 +9387,16 @@
    "priority": 2
   },
   {
+   "title": "China agrees to halve hybrid vehicle exports to EU - TVP World",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2RYdExGVmQ2MEVuUWxhYlNTdlIyTm9hTzhLSTBGUTY1d3BXVV9JVndaTGs0c1VtdjFqV2dBN2RPd2k3N0lxYS1wM0sxQ1YxZXJSQmstT2daZjRZRHJkTUV0RjJ2em04VHNHem9wa3UyT3YySUpEdTZwNzBQVE1OejNFWU1vZVVmaGNwTWo2ZXgySkxtRTlz?oc=5",
+   "published": "Fri, 09 Oct 2026 19:44:35 GMT",
+   "summary": "China agrees to halve hybrid vehicle exports to EU&nbsp;&nbsp;TVP World",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Namibia Fertilizers exports by country - World Bank Group",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUVrdTBWeXMzWnk0R0EwOGIwcHpWWTBSYWNoYXdWQ2pVWUQwSHdJb0N4YmEzSDh2a004Q0tkR0JLaWxmUEpOdFhfRUZPQjZMMUwwYTZDOUhoMzgyMFNfM1laVFdGamNXNnR1RFc2Q2o0R3d0Vzd5VXphMWtKVzB1bVJKSlFBOVZRTkRBX25ncFJ1ek1PZGF4Qm1VN3J3WnpIR2w2VDNxWlFPb0U?oc=5",
    "published": "Fri, 09 Oct 2026 19:14:07 GMT",
@@ -9575,6 +9545,16 @@
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0Y1ZnNxQUlkX0xlQ0JVRGpVR2NoVE1sdnN3OHkySHl4dHBrNm9JNGxkS2tLNVY5TlVyRmhjUVczd0FoaU82NFVPRXVhdlJnelM3bkg2cEJ5aHpsLTczdW9mNWs4Y0VaeFpYT2JZWEl5YVpPUFFoeHpLYTdMQmNyOVpuOTI2a2l2MTdfZWhCVTBOSDRqTzZGQ21JTmV3dmV0Y3RydGJZZGl4N1lZWFNlbEwyNkpLRmROOEJ6b2lzOEJPZDFk?oc=5",
    "published": "Fri, 09 Oct 2026 16:06:00 GMT",
    "summary": "Tariffs targeting China's Temu, Shein shrink US small parcel deliveries&nbsp;&nbsp;Nikkei Asia",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "China Agrees to Import U.S. Coal - The Institute for Energy Research",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDIwUmVYeElGQ1pubVptN01UOUw0YjRZUWNSSzNCbE5Nc0FVYVdYNDVtZi1uWkF1eHlJYWgtMURQNDFGaGRhdDZOSEpQUnBPVU0ydVU5dDl1Sk1LVjFqaWFjRDhiRXdUVmlxZlBPSmQ5a0pCVDM4MjA5QmZuRFlHam4tNWZIV3VKTHIxZVl4MG5oXzZZelVKZ1hOWEpNX2Et?oc=5",
+   "published": "Fri, 09 Oct 2026 15:32:47 GMT",
+   "summary": "China Agrees to Import U.S. Coal&nbsp;&nbsp;The Institute for Energy Research",
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
@@ -9774,6 +9754,16 @@
    "content_attempts": 1,
    "content": "A Virtual Compliance Department for Every Fleet - FreightWaves Ask carriers what’s changed about trucking compliance lately, and you’ll likely hear about the accumulation of new rules that change faster than most back offices can absorb them. David Vincent has had a front-row seat to that accumulation. He’s co-founder of Visionary Ventures, the technology company that built and operates Dotra Compliance, a platform designed to serve as what Vincent calls a virtual compliance department. FreightWaves sat down with Vincent to talk through where carriers are losing ground and where a software layer can realistically help. He laid out a picture of an industry squeezed from multiple directions at once, including a faster enforcement, a Supreme Court ruling that rewrote how brokers vet carriers, and a volume of paperwork that outpaces small compliance departments. The current compliance environment, Vincent says, feels more difficult than it used to because it is. Carriers have been dealt a stretch of regulatory change that would challenge any safety department. “In the last 18 months alone, carriers have absorbed English proficiency becoming an out-of-service violation, revoked ELDs, a non-domiciled CDL crackdown, a new FMCSA registration system and a Supreme Court ruling that changed how brokers choose carriers,” Vincent said. None of that replaces the baseline workload that never stops, including medical cards, MVRs, testing, inspections, and filings. The disparity in who can ab",
    "content_status": "full"
+  },
+  {
+   "title": "China reduces tariffs on U.S. cherry, grape, and pistachio imports - Fresh Plaza",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeF9Vd1ZQamZ2Z2FQNkZpQkxfSTdYbllTMVQxNWdEdlNsRmwtZU8xdDl0STJsZ0w1VnE4bzdsTW00ak9XbWxXUE9SeEF4YTdvTlB6RTFpdW4xNjJtTE5Od01PbXpyZ0ZIZGtBZlFzZDF4dGw2TEhwZE1iRW1lSEIyZW5NQjhsdWk2Z0g4empKYlBRVjVlb2JDWWo2cGluNHpVR1JJRHNNczFuTkhXRUhfOTRKYzl6cVhocDdHV3FB?oc=5",
+   "published": "Fri, 09 Oct 2026 13:10:56 GMT",
+   "summary": "China reduces tariffs on U.S. cherry, grape, and pistachio imports&nbsp;&nbsp;Fresh Plaza",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "Why a ‘confrontational posture’ won’t help China in the Arctic",
@@ -10106,6 +10096,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "India pharma industry explores new export markets amid US tariff risks - Manufacturing Today India",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zSmQ3bEg4Nk1WT1RJOGRrQWg1Y3Z1WUwzT0Zac0pZZ3JqV1h6SXRsSzVJZjViN09xYjRhbVJtSVE4QzJ1dGNLUTAwZjZHN0lhRWVQUHJyYVdudjRpS3BNV0ZJNnRUTHg1LVRVMDJHLW1CLUgzeFNwVkFKMA?oc=5",
+   "published": "Fri, 09 Oct 2026 09:43:35 GMT",
+   "summary": "India pharma industry explores new export markets amid US tariff risks&nbsp;&nbsp;Manufacturing Today India",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
    "title": "Canada’s 2026 job gains have been erased. The hardest-hit area wasn’t the one facing U.S. tariffs - CTV News",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPemhKWEVFaERfc3J4aTVrMmZSdk1uNDBPVDVBemxpNXpwMFdiejRkTzRxS2cxY3BDVGxBejk0bVNUdmxfZ1JhMDJ0UlFMZUpZZFBTZzV0YS1IZFRRMDVMYlIyTVEzWmVKTmNsXzBCOFlzX2o4Tk9ycTgwM1VZWTkwb0gtbjRHbndSbkdPUnFiQVE0YWZrR1U1MExqZ2YxcV81RVFBdElkN0Zvc3drSDJjZmVqZzZOSXVEMUctSm5idjJMZFAyQVVjbEs4dkEwdw?oc=5",
    "published": "Fri, 09 Oct 2026 09:26:01 GMT",
@@ -10275,6 +10275,16 @@
    "priority": 2
   },
   {
+   "title": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESVLC AL7 E 686660 ZIM PACIFIC 1202604811 LIBERIA VLC011 - Hapag-Lloyd",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk1ZSHd4cGxXOC15UG0wQlhnUXc3VmN5VC16MHp1aklLd3RMVTJfZFgyWUZSYWFodGxUeE5sTW1DSTZpelFCVGJhdEN4QzJiUVEwR1psV3c2T1RxaTZQdThqUDQwcVBfMVBQVlBmUHJUVkIzcEhMX0tCMlNfUC0waVJqQkc3NWJ6V212WUJFMnFEdVVZZ3hGRmptaEk4ck9fZkE?oc=5",
+   "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+   "summary": "PORT SSY DIR DP VESSEL NAME CUSTOMS FLAG TERMINAL ETA ETD VOYAGE NUMBER ESVLC AL7 E 686660 ZIM PACIFIC 1202604811 LIBERIA VLC011&nbsp;&nbsp;Hapag-Lloyd",
+   "source": "Hapag-Lloyd | Shipping",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "UK Considers Tariffs of Up to 45% on Chinese EVs as Trade Tensions Escalate - EVTech.News",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmpnWUloaTc4ZFJsY1RTYlVTdncwVEJ5d1JlWUFhdFlUdnoyVElPM1VsczdaYlR4TUxRVXM3Ti0zSUJoWks1TnpIM01XZUFnOU4wWkZNUzVORDVva0VLNUw4Si14WGlkbHpUOXlPdTVNWVlWeHVoUzNVWm5xcld0bE4xM1F3RGViN3djcmtSSFc2ZGRmWWt6ekZ2bEZac2NOenZj?oc=5",
    "published": "Fri, 09 Oct 2026 06:59:47 GMT",
@@ -10312,6 +10322,16 @@
    "source": "Google News | US Trade",
    "module": "海外媒体",
    "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "Watch China Rejects Claims the Yuan Is Undervalued - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQWI1cVE4d3dlLTR2M2RfUnNmeFlCSWFQZjhlT1MxVnpEMTQyYXdUQ1Q3cFRaLW9rX2xOSzZEN29zOGZyX0hrMG1OaldPTXBFcVR2dG8zU3NzR0JPckRDLW9hcXZXMHZubVRjUUxaaEwzQ3pBcWJuUE55OTNhVHJZZlpzcXZlZw?oc=5",
+   "published": "Fri, 09 Oct 2026 06:11:08 GMT",
+   "summary": "Watch China Rejects Claims the Yuan Is Undervalued&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
    "priority": 2
   },
   {
@@ -11987,6 +12007,16 @@
    "priority": 1
   },
   {
+   "title": "EU Sends Trade Envoy to Beijing Amid Growing Concerns Over Chinese Exports - The Earth News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNjA2VlRFSFV2dlRKSWxXYW94cWRlMDFvVmR6NldXSk1aUEZLS056V2haSGd1OTExbW1wNUliX1p2S1l4V210LWJXcUpjVGZfZnBHU25lMmRoYzVXemlqNE1JdnFjZVAyYnVsd0JfTVdHYzZ3bm1ETS05VktCMjVNU0lwMzVDdWNiRTN5ZXhkcElRMmkzS3BVNW5oemk?oc=5",
+   "published": "Thu, 08 Oct 2026 11:09:51 GMT",
+   "summary": "EU Sends Trade Envoy to Beijing Amid Growing Concerns Over Chinese Exports&nbsp;&nbsp;The Earth News",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
    "title": "Budget minister calls for 'virtuous cycle' of spending, growth and tax revenue",
    "link": "https://en.yna.co.kr/view/AEN20261008002000320",
    "published": "Thu, 08 Oct 2026 10:44:02 GMT",
@@ -12257,6 +12287,56 @@
    "priority": 1
   },
   {
+   "title": "PCF Sparkletots to double spending on staff development to S$20 million over 3 years",
+   "link": "https://www.channelnewsasia.com/singapore/pcf-sparkletots-preschools-early-childhood-education-teachers-6450081",
+   "published": "Sun, 11 Oct 2026 17:51:59 GMT",
+   "summary": "Teachers will have their administrative workload reduced and get a checklist for supporting children with diverse learning needs.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Villanueva: ‘Mafia, forces of darkness’ linked me to flood control mess",
+   "link": "https://newsinfo.inquirer.net/2321555/villanueva-mafia-forces-of-darkness-linked-me-to-flood-control-mess",
+   "published": "Sun, 11 Oct 2026 13:47:18 GMT",
+   "summary": "MANILA, Philippines — Sen. Joel Villanueva has recalled how he, his family and religious community suffered — and overcame — emotional distress amid “severe accusations and allegations” and political attacks apparently linking him to the flood control scandal over the past year.   “Last year, I was also standing here, being criticized, being pelted with huge",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Solar irrigation boosts Eastern Visayas farmers’ El Niño resilience",
+   "link": "https://newsinfo.inquirer.net/2321518/solar-irrigation-boosts-eastern-visayas-farmers-el-nino-resilience",
+   "published": "Sun, 11 Oct 2026 13:10:57 GMT",
+   "summary": "TACLOBAN CITY — The National Irrigation Administration (NIA) is expanding solar-powered irrigation and other projects in Eastern Visayas to help farmers maintain agricultural production amid the threat of El Niño and prolonged dry conditions. Among these is the Guintigui-an Solar Pump Irrigation Project (SPIP), which was turned over to 87 farmers in Barangay Guintigui-an, Ormoc",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok",
+   "link": "https://www.bangkokpost.com/business/general/3335125/middle-east-war-high-debt-levels-to-dominate-imfworld-bank-meetings-in-bangkok",
+   "published": "Sun, 11 Oct 2026 12:56:00 GMT",
+   "summary": "Finance officials from around the world will gather in Thailand this week under the shadow of a widening war in the Middle East, ​the biggest energy supply shock ever and rising interest rates that together pose daunting risks to already-sluggish global economic growth.",
+   "source": "Bangkok Post | Breaking",
+   "module": "海外媒体",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "Nepal urges villagers to evacuate after flood triggered by landslide",
+   "link": "https://www.channelnewsasia.com/asia/nepal-villagers-landslide-evacuation-flood-6449926",
+   "published": "Sun, 11 Oct 2026 11:55:00 GMT",
+   "summary": "Authorities&nbsp;said several houses and two suspension bridges had been swept away, and a hydroelectric project was damaged by the flood.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "'Everyone is angry': Okinawans fearful and frustrated after alleged killing by US Marine",
    "link": "https://www.channelnewsasia.com/east-asia/japan-okinawa-alleged-murder-woman-us-marine-6449876",
    "published": "Sun, 11 Oct 2026 10:24:51 GMT",
@@ -12283,6 +12363,16 @@
    "summary": "",
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Heavy Duty Savage Sling Shot Powerful With BB'S - eBay",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03N1RzdkxvbU1UZHhpSVU0Vmd5czdJTU1NRUY1NFJQU0ZzNXJqTkkxMGl6UHZ4TWpzTUdNaUlPMmFYVGFnVDFVTXBndld2Zw?oc=5",
+   "published": "Sun, 11 Oct 2026 03:29:55 GMT",
+   "summary": "Heavy Duty Savage Sling Shot Powerful With BB'S&nbsp;&nbsp;eBay",
+   "source": "eBay | Seller",
+   "module": "企业官方",
    "category": "其他",
    "priority": 1
   },
@@ -12447,56 +12537,6 @@
    "priority": 1
   },
   {
-   "title": "Developer Portal - UPS Developer Portal",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFRlRHNBWGxfWVVxMnZidXlfcTNxUXQ1Z05zMUlob2ZmWTZ2RmptT0tEdnpOM3pGZWg1Qm9fcFNjTWxndjkwUXkxVEx3VHRJeEU0MS1XYmJBaEJUdFdSUS1STGZzMjhhanc1OG5sNmkyaHBwS1dXZ3dCV2VtTUhCTTVhNzRSX2ZWcTdhdHF3?oc=5",
-   "published": "Sun, 04 Oct 2026 08:28:31 GMT",
-   "summary": "Developer Portal&nbsp;&nbsp;UPS Developer Portal",
-   "source": "UPS | Logistics",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "Vietnam revises scheme to improve sovereign credit rating by 2030 - Vietnam+ (VietnamPlus)",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMkN2U1JFbVByeXdtdy1mc1FJWkd5ZVVLVmtEeGZTZXlRM24zWVZDeFRMdWlhMkZuZjEwMkFmLWh1SGxOU1hfWjhNdHBKemw1V2d3MGZySFFTZHBWZHVBbHlFaXFaVW1xeEJpOEc3TjFOOXVreXhNMlNVTVk3RkZETVZ2c3BhRUFPeXB4LVFnaUxNSHhpb3pMSnhRckhyeXY1aXZKR0R2cUwzZw?oc=5",
-   "published": "Sun, 04 Oct 2026 08:13:20 GMT",
-   "summary": "Vietnam revises scheme to improve sovereign credit rating by 2030&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
-   "source": "Vietnam Plus",
-   "module": "海外媒体",
-   "category": "亚太动态",
-   "priority": 1
-  },
-  {
-   "title": "From ‘red ocean’ to ‘blue ocean’: Why Singaporean firms are exploring Nanning to enter China’s market",
-   "link": "https://www.channelnewsasia.com/east-asia/nanning-business-caexpo-singapore-china-6407501",
-   "published": "Sun, 04 Oct 2026 06:00:00 GMT",
-   "summary": "Recent pyramid scheme arrests involving Singaporeans have put Nanning in the spotlight, but businesses told CNA they remain undeterred from entering the Chinese market - and that making inroads can take months or even years.",
-   "source": "CNA | RSS",
-   "module": "海外媒体RSS",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "Defense chief: Need proof of Dutertes’ China funding",
-   "link": "https://newsinfo.inquirer.net/2316369/defense-chief-need-proof-of-dutertes-china-funding",
-   "published": "Sun, 04 Oct 2026 05:30:00 GMT",
-   "summary": "MANILA, Philippines &#8212; Defense Secretary Gilbert “Gibo” Teodoro Jr. on Saturday said former Sen. Antonio Trillanes IV should submit evidence to law enforcement authorities to back his allegations that Chinese funds went to an organization linked to Vice President Sara Duterte and her family. “The allegations of [former] Senator Trillanes, if substantiated, raise serious implications",
-   "source": "Inquirer | RSS",
-   "module": "海外媒体RSS",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "Suphajee keeps eye on traders",
-   "link": "https://www.bangkokpost.com/thailand/general/3330910/suphajee-keeps-eye-on-traders",
-   "published": "Sun, 04 Oct 2026 05:30:00 GMT",
-   "summary": "Commerce Minister Suphajee Suthumpun has ordered strict price checks and stock monitoring to prevent traders from exploiting consumers affected by flooding.",
-   "source": "Bangkok Post | Breaking",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 1
-  },
-  {
    "title": "Maniquiz questions P319M China-linked funds amid Zambales fishers’ woes",
    "link": "https://newsinfo.inquirer.net/2321184/maniquiz-questions-p319m-china-linked-funds-amid-zambales-fishers-woes",
    "published": "Sat, 10 Oct 2026 20:23:16 GMT",
@@ -12513,6 +12553,16 @@
    "summary": "MANILA, Philippines —&nbsp;Several civilians and a police officer were injured when a military vehicle figured in a multi-vehicle collision in Manila, on Saturday morning. In a statement, the Philippines Marine Corps said the accident occurred at 6:31 a.m. near the corner of Pureza Street and Magsaysay Boulevard in Sampaloc district. The Marine Corps said its",
    "source": "Inquirer | RSS",
    "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Input Devices - Apple Vision Pro (M2) - Apple Vision Pro Essentials - Apple Vision Pro Accessories - Apple",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakszSXhNOUkzWk1Xc0xSa3VUWmJTSlB0ZDJyNWtfWm80VlA0SmtfWmFUbWtubUY0eXdQR29LWll3OEEzaXFCVkNPbko0a2lmNEJEZGlrRFZnSWlJb3MxMXdsWGZ3MUFCaHU3QUVfbDBaMm1TSVJMZ2Vtc2F0ZS1Hbnh1Zy1vRVI1czNfWVN6T3NXbGlXcHlOVjR4M29hbmtCVnZ3SnA0dTNIdkg0TS1J?oc=5",
+   "published": "Sat, 10 Oct 2026 19:21:07 GMT",
+   "summary": "Input Devices - Apple Vision Pro (M2) - Apple Vision Pro Essentials - Apple Vision Pro Accessories&nbsp;&nbsp;Apple",
+   "source": "Apple | Supply Chain",
+   "module": "企业官方",
    "category": "其他",
    "priority": 1
   },
@@ -13074,6 +13124,16 @@
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
    "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Asia Today: Data Centres, Trade, Travel, Cancer Therapy and E-Commerce - Asia Business Outlook",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1YtTlczV1Mzai1lMWhEX2NsMkpNdFMzZmdnSGhtWlJEUDFTZVZWdHdBS3pJa0tLR21xYzVyQVFVMTUwZy1IYWlfdXBUbUhrUlhtSGljdkNYbkQ3dVZFTjdRUnIteWhMTGlRMVNPVEV2YjFXWk5UZXZnSzlWOWEzOHNxS1IyZVNoUTd5Sm1mOENpaTNOY01wd3BiTUpocGFDakY5UmZySkFlVU9nREVkanluVE43aWFyTG04NC1Tcw?oc=5",
+   "published": "Fri, 09 Oct 2026 23:28:24 GMT",
+   "summary": "Asia Today: Data Centres, Trade, Travel, Cancer Therapy and E-Commerce&nbsp;&nbsp;Asia Business Outlook",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "跨境电商",
    "priority": 1
   },
   {
