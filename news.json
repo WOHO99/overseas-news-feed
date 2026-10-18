@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-18T18:23:02.568623+00:00",
- "total": 1360,
- "high_priority": 1001,
+ "updated": "2026-10-18T22:06:42.520661+00:00",
+ "total": 1363,
+ "high_priority": 1000,
  "fulltext_count": 39,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
   "国际组织": 0,
-  "海外媒体": 0,
-  "企业官方": 2,
-  "亚太官方": 1,
-  "海外媒体RSS": 1,
+  "海外媒体": 7,
+  "企业官方": 1,
+  "亚太官方": 2,
+  "海外媒体RSS": 3,
   "航运物流行业": 0
  },
  "fail_counts": {
@@ -6452,6 +6452,50 @@
    "priority": 2
   },
   {
+   "title": "Robin Xing on how China’s ‘two-speed’ economy can solve contrasting problems",
+   "link": "https://www.scmp.com/economy/china-economy/article/3371109/robin-xing-how-chinas-two-speed-economy-can-solve-contrasting-problems?utm_source=rss_feed",
+   "published": "Sun, 18 Oct 2026 22:00:12 GMT",
+   "summary": "Robin Xing is chief China economist at Morgan Stanley. A famed economist and Peking University graduate, Xing has a PhD in economics from the Chinese Academy of Social Sciences and previously worked at Goldman Sachs and China International Capital Corp.\nIn his second Open Questions interview, Xing dissects China’s K-shaped economic divergence and why he remains convinced that the “top half of the K” can offset challenges such as deflation and weak consumption. He also discusses Beijing’s real...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "How China made climate resilience part of its economic growth strategy",
+   "link": "https://www.scmp.com/opinion/china-opinion/article/3371034/how-china-made-climate-resilience-part-its-economic-growth-strategy?utm_source=rss_feed",
+   "published": "Sun, 18 Oct 2026 21:30:06 GMT",
+   "summary": "The war in the Middle East has disrupted oil and gas supplies, leaving governments to confront energy pressures as they prepare for next month’s Cop31 UN climate conference in Antalya, Turkey.\nThe crisis raises an enduring question: how can climate action strengthen the resilience of an economy?\nChina offers a useful case. Its factories supply technologically advanced products essential to the green transition at competitive prices. China has production cost advantages in electric cars,...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWdtNGVsOU02TXFvOUNyRUs4NTZLbXFZY1N3RkVSbjRuendpOE5waWFyWjVVMnF5aWlwZ3NOZG81QW95WG9fUUkydmltWkctaWg1R204UU1nRU1teU1FR2diZHdJMy13Z3NXbVliRTJLc3dSWEVubDRwVjV4WXh1dG9lcjJPa0dhbVBkWklyMVJIT3JSZ2VUQlFORHIyeWg0d3NjMG1vODFESXZlMVBXMVZlalk?oc=5",
+   "published": "Sun, 18 Oct 2026 20:00:04 GMT",
+   "summary": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "UK Signals ‘Different View’ From Trump on Russia Sanctions - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTMtYlhaaWtFbVBlWXFUYUd4YjNYN0RKeWMzLTFTYlE1Wk1QRGNHSmZfZXpyWmwxMFZkM21Pc3RvUk1peWEzRkRnWGkxTGVPNGRZTkpzdU4ybFJfSzhrS3FDTVpEcW9FRHVHYjNTZGJsS2p0VTdqamFRYkF2S01OOTBDS0t1YVBDbUVXWmlVR1d5S01UNnJqUkdxcUlMSDlaQkNuVzBjWGk2b1k?oc=5",
+   "published": "Sun, 18 Oct 2026 18:44:13 GMT",
+   "summary": "UK Signals ‘Different View’ From Trump on Russia Sanctions&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Hong Kong to review Peak lighting installation after outcry over felled trees",
    "link": "https://www.scmp.com/news/hong-kong/society/article/3371320/hong-kong-review-peak-lighting-installation-after-outcry-over-felled-trees?utm_source=rss_feed",
    "published": "Sun, 18 Oct 2026 14:06:15 GMT",
@@ -6544,6 +6588,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "High costs threaten Ghana’s China zero-tariff gains, exporters warn - NewsGhana",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa21kSVhDTlhMeVdLdGZWZkthTURNaTNKcE5oWVVteVIyQncwejF2MUpISElSa0pxVTFKSGs4UmNXdzJYNzFPVlR3UHU4MU5QRFM5REswSDYyM3plRXRRM3hjTTIweGZrREJCUXdjYUJ6YWVLQnduUmZZRk9RcXlZQ2UxWGJSSUE0OFVnbnBud2FZSzRKQmc?oc=5",
+   "published": "Sun, 18 Oct 2026 09:52:37 GMT",
+   "summary": "High costs threaten Ghana’s China zero-tariff gains, exporters warn&nbsp;&nbsp;NewsGhana",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "China slams Japan’s Takaichi over Yasukuni ritual offering, warns of ‘remilitarisation’",
@@ -6782,78 +6836,6 @@
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Despite a China-India thaw, military relations are stuck in 2020",
-   "link": "https://www.scmp.com/opinion/asia-opinion/article/3370226/despite-china-india-thaw-military-relations-are-stuck-2020?utm_source=rss_feed",
-   "published": "Sun, 11 Oct 2026 21:30:05 GMT",
-   "summary": "Chinese President Xi Jinping has met Indian Prime Minister Narendra Modi three times in the past three years. Indian pilgrims are back at Kailash, the Tibetan mountain sacred to Hindus and Buddhists. Air China has restarted flights to New Delhi. But can trust grow between two armies that meet only in a crisis?\nAnd why does the Pentagon now talk to the People’s Liberation Army (PLA) more easily than India’s army does?\nIn September, Xi made his first visit to India in nearly seven years; Beijing...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Bipartisan group of senators calls on Trump to 'reverse course' on Russian diesel plan - PBS",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWHpKS2MxdXJJQUliSGRyYmxydjZvUDZFLW5KQWF4RkhYRnRubW5sS0VxZHlEYUxjdE9YbUdyaVlqX0Qwdllkc3pGVk1ralNOQzVYZjRBVVNsa2VfTzUtX3hUOGt3bkUyYWpTbC1nMWpzYzN5cm5wVGhxWXRya1FydGt1Zm5LRTJFNFpNeDhpMnB1djRFbDh6ekFWS2IyLVluZVZEdmZ4YkRPRmtmS1lvdlNQdDlJNHBNNjNiUWhUUdIBxAFBVV95cUxQaVU1SFAzbjZiX0ZBZXRpNzBSeXVJbG9QcVpPTU5QMjVwS2ljci1uM3J4QUFILV9jdnYtS1JZcVR1R25rWFRMdGt6OFhQVjc1WEIxSFp0UzlyN2RFWVpBZk55XzF1VDN3cktVOTBkc3FJeW1CQkxXMzRrSURVT2lTVzh3MnY3UkJ2WkdBXzVIY0h1b2gwLTdVSklqZ1N4Yk9vNGoza0QxYkxnWVJpVWp6X1Z0Nm9leDlJS0p4MHpkWnU3VDEw?oc=5",
-   "published": "Sun, 11 Oct 2026 20:18:14 GMT",
-   "summary": "Bipartisan group of senators calls on Trump to 'reverse course' on Russian diesel plan&nbsp;&nbsp;PBS",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Canada’s Anti-Trump Government Tightening Ties with China Is a Choice for Economic Decline - Breitbart News",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV19qR04wdWlzNG01ODR1WjI4cnNESDNNbHItMVk4WXl0bXhuTU5jay1KVVl6R1I1WXd0UDA2Vi0yaEJ3bDYwdkFlc2RRbXRCMlJwUDYtNnYwdjVaaktUajIyZm5NLV9aMHZtLW9lT0l1cnBMT2hOeDBXc1M1WTZOZkpWNFAwT1oyam5ldXQ4VWdyZ1ZDUXRSOVRUaEbSAZwBQVVfeXFMTVdfakdOMHVpczRtNTg0dVoyOHJzREgzTWxyLTFZOFl5dG14bk1OY2stSlVZekdSNVl3dFAwNlYtMmhCd2w2MHZBZXNkUW10QjJScFA2LTZ2MHY1WmpLVGoyMmZuTS1fWjB2bS1vZU9JdXJwTE9oTngwV3NTNVk2TmZKVjRQME9aMmpuZXV0OFVncmdWQ1F0UjlUVGhG?oc=5",
-   "published": "Sun, 11 Oct 2026 19:47:45 GMT",
-   "summary": "Canada’s Anti-Trump Government Tightening Ties with China Is a Choice for Economic Decline&nbsp;&nbsp;Breitbart News",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "U.S. and China release $60 billion nonsensitive product lists for tariff cuts after Trump-Xi meeting - Agri News",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRmFnbndySEcwM2dKMkRRaVg4dGxrc2FwQmExdlhWZ2FwM2JSeHVLanRvTHl2cGlGV09MV0NPeUtPV0g2a3lPckl3NkFVMEJ5ZUgzODM5Qi1iZTFxb25uV2IxazdoN25hMG13QmRmOHRvcEoweEhlMU52X25vVEVrNmZGaUhOczc5REVmWG14QVZ1Wk9PcFlTQ011MS1yUFROWEZqQW9ReENKTXA5WlRTa2xWTzJESnpsZkN1OW9nUXF2YVBWQmdlUEFPak9zU1VRSFdjS2c1N2Q0ak9qU2t3cjZn?oc=5",
-   "published": "Sun, 11 Oct 2026 19:30:00 GMT",
-   "summary": "U.S. and China release $60 billion nonsensitive product lists for tariff cuts after Trump-Xi meeting&nbsp;&nbsp;Agri News",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "India weighs Donald Trump's Russian diesel import amid US tariffs - NewsBytes",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVBuVnFjVGZuUUE2T2dCVVdOODB3aVRKSUowOHNYTV8xR1NFdk5ueW85NW84a2hXVXNoLTZYUUZjd2hrbkFMVklYc2pBNjJUWmw3WG9Jc3hoaVBERjhXd0RMOXJRTlVUTXhJMW8yaG5LNzVZR2l5WkNNOHpjV1d2bGJDOXpoVEd3dXlvLUdrSk1KeFp4aVRKeGRWQkVYLXA0U2tQMkFhbW1nSVE3SUE?oc=5",
-   "published": "Sun, 11 Oct 2026 19:09:56 GMT",
-   "summary": "India weighs Donald Trump's Russian diesel import amid US tariffs&nbsp;&nbsp;NewsBytes",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "US Bond Traders Await CPI, Warsh For Insight on Fed’s Rate Path - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3lYa092MnRSV0FXYUtRRjVRSHN2akl0ZzM3UWlJcjh6bXNpbVE4dHJQUDM0bS1iWklWekQ0aENwMDRCdWhZbUZMTHFOMmVrZzZzYmFIMG5BamMzSTFfTE0wVjZsWjFBZ2ZQTmFWM0h4NUZkZlVseDlCM05QSFNyczJfdk5BV1IzVmd1NXlnaTdVVnNyOXV0TmxjSW9IRFZWWkEtZlZ1c25jcXU4WXQ1QmRNbw?oc=5",
-   "published": "Sun, 11 Oct 2026 19:00:00 GMT",
-   "summary": "US Bond Traders Await CPI, Warsh For Insight on Fed’s Rate Path&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Tariff rate, most favored nation, simple mean, all products (%) - Jamaica, Cambodia - World Bank Open Data",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51S19IaVc0eXo4X0hpeWlsN3VfYUZ1OTBZZzI5NmxxWG02YlpsNDJzYXNhSmxJTkFSNGowc3lIS2NLTGdpbnRiWFJKRjlPUnlFcnEzX1Y2QlhHWVJrU2NIWE5LVlc1T3IydUlKemRtTkN5cks5Tm9tM2ZKY3dyQQ?oc=5",
-   "published": "Sun, 11 Oct 2026 18:23:33 GMT",
-   "summary": "Tariff rate, most favored nation, simple mean, all products (%) - Jamaica, Cambodia&nbsp;&nbsp;World Bank Open Data",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "美国关税",
    "priority": 2
   },
   {
@@ -9368,6 +9350,16 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTl9FSVVTV0x0UTdaMXo5Mi1ZcUgzVzh2UGVrR0pjdGZMb2lXSkhvd01OUWN0STNUbkNEVUpFSUZnR1ZtaG5lRERhR1dNLTZSVXR4a0tPOERSbWwzVkJBVXc0ZzJJak4zOGVqLVBVUTFaODdONTlpcVduVkxRMk55ZWVKMFFtTjAtYV9nb3NnOGVGMmxVNDJxbEROSHFpamc?oc=5",
    "published": "Fri, 16 Oct 2026 20:14:51 GMT",
    "summary": "US-China trade truce extended as Trump-Xi summit turns to rare earths and AI&nbsp;&nbsp;www.equiti.com",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "What is the average US tariff rate for China? - USAFacts",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVYtQXRZaURpVnUyQUJjV2l6ZzJSOGRXSE5MUmNnY0gzRlBWQnd2Z056NDhUcHdnc0tFTzExNGt2U3BMOXZRU2pVNmttbFJYbzhobnF3VXB0WTFaNlR5OGttbjc1UkNQRnl5TFBqaEZGWEJUU0lneTV5ZkxCdHBiZ3pvcWJLeUZGNlFUT1VXcjVrZw?oc=5",
+   "published": "Fri, 16 Oct 2026 20:11:12 GMT",
+   "summary": "What is the average US tariff rate for China?&nbsp;&nbsp;USAFacts",
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
@@ -12444,6 +12436,16 @@
    "priority": 1
   },
   {
+   "title": "GCC trade pact could cost Bangladesh Tk 17b a year - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGJhWXAtZ0hKSXdSRG10WmxVU0Z1ZEY4MmtSeEZTMHpWNWlNQzhZdllTNVdSa2M1cmdFWmlLU3pvVktqbkNETVZNc1VaZkYteGYwcXVJMDRibm5yWU1hemdkSDRmTDZ3M3JjY21qMklsVy0xMFNxTHhxbWJwNURBSW5hN3ZSMFhXUWZlLV9PeXIzTW1DRC1oTHM0YW9UalpGbjE3SHlXbmtTYkx4ZUViUmxn0gG-AUFVX3lxTE96cEFLbEZjTWJvQ3p5U3ZnT2F0NVowMHRJT2thS2xJUWJVS2Y3dEdfZUhKcU8tSXBxWFZfdTRQZEFpNTlxRG9SeGY4ekk3XzFNeTVjNUR6RW9yejF0Z2JhX2phc1JHX3UtTlhWS3hDM0ljX191RjZYTS11d0hOc0VQNS1VN1pPb1BfcEJ5Z0k2cGRLMFc2WVBsRzV1dW5UMG1haWlocmcxdjkteXFDQTY4QXREMUFvZTFrZ2M5V1E?oc=5",
+   "published": "Sun, 18 Oct 2026 18:32:55 GMT",
+   "summary": "GCC trade pact could cost Bangladesh Tk 17b a year&nbsp;&nbsp;The Financial Express",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Parents take failed China study trip case to CSD",
    "link": "https://www.bangkokpost.com/thailand/general/3339264/parents-take-failed-china-study-trip-case-to-csd",
    "published": "Sun, 18 Oct 2026 17:36:00 GMT",
@@ -12644,6 +12646,16 @@
    "priority": 1
   },
   {
+   "title": "Vietnam, Iceland boost economic, trade, investment ties - Vietnam+ (VietnamPlus)",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWwtU2k2ZDdBLVZ5OGMyYk13Z0t6czU4YkZoNVdtLVVGTTF6c2pnOUJDLUhBaVVraVpFQkE1V0ttS2R4a3YzM1dYTlZsVkZJRENGRFI1M1NXU09obGI1SEt0LXdhU2w1U00zemdLeVpVV2ktbUxYSjVRU0FnNVdFUGt1MXJabm1kS0Q4Ym5hdTJydnJNWHFnSw?oc=5",
+   "published": "Sun, 18 Oct 2026 09:29:19 GMT",
+   "summary": "Vietnam, Iceland boost economic, trade, investment ties&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
+   "source": "Vietnam Plus",
+   "module": "海外媒体",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
    "title": "Vietnam signs free trade deal with four non-EU European countries - BGNES",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmZubHN5NmU2d2wydzZ2cUhneU1OY01FMnJPVXlYWllxd01URVJFV2hia1p6ck91Y1Y1TEtscUctbHJURzZ3bFAtaE1zSWVXem1Mb2MtV2RfbTZ0TV9oOGdXVE9GREVoaDQyNldmNE4ydGRkVzhFZ0o1TWd6WVBXYWRSUW03UlJUYmxTdnZsWlJZUnBQNkxObmxB?oc=5",
    "published": "Sun, 18 Oct 2026 08:53:14 GMT",
@@ -12668,6 +12680,16 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzFNeU05TzJDOXdXVmNnTGRwZ0JaTWx5Wlh1OXRpV3cteExCS3M3WmNTSXNWdWhaWTJreXB5cmF1MVdEVEJUdlgwbkdCY1JmRU5pOTdncWRLaFY0NVIyMmRGcDFPc2pKX1ZscEJTREQwYW5ZbF8xWVNXb2UzWXduTURoelpSNVlhUzFhVk5yUkVPMEYtRzl3SVNPVjhqekplSkFHMEJoMNIBpwFBVV95cUxPRzFNeU05TzJDOXdXVmNnTGRwZ0JaTWx5Wlh1OXRpV3cteExCS3M3WmNTSXNWdWhaWTJreXB5cmF1MVdEVEJUdlgwbkdCY1JmRU5pOTdncWRLaFY0NVIyMmRGcDFPc2pKX1ZscEJTREQwYW5ZbF8xWVNXb2UzWXduTURoelpSNVlhUzFhVk5yUkVPMEYtRzl3SVNPVjhqekplSkFHMEJoMA?oc=5",
    "published": "Sun, 18 Oct 2026 08:13:00 GMT",
    "summary": "Vietnam signs free trade deal with four European nations&nbsp;&nbsp;Kuwait Times",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "欧盟贸易",
+   "priority": 1
+  },
+  {
+   "title": "Vietnam signs free trade deal with four European nations - Inquirer.net",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUXRmc2lUd2ttbC1TM1pqajBoWEE1UjBpX2ljLWhxeE9KQXc2R25Xb0JLLTBlTmpsdUNWdm1FT1FHX191WE5RYXBDaHc0NXhfSnVzRVJvRS1QdGRWT3RaZXUxQ3MzM0d3dGp0S0xEQXVtMnhQU0dHZzZFRHRTZmRnQTRiNGNYS3I5U3FxLUlHVDJGcGROOUVkctIBngFBVV95cUxPSnJZRUI0LXZTcWNqbEtMaUxtRWh4d0FHdC1SMUFfT2FqR2k1QVpKbW5xTDVWLTBLUjNSQVRuQ0ZSNFpiZ1kwRjZFaXhUMHZZcjYyNUpUcENRWi13by1oY3haX0pKVHo0Q1FvWGo0bWtLMU5EZlhxVzRsZkhSblhvMllOWmhSS1RjN0hPdmc1aXp2UjUzejY1VVVzdElQZw?oc=5",
+   "published": "Sun, 18 Oct 2026 07:46:00 GMT",
+   "summary": "Vietnam signs free trade deal with four European nations&nbsp;&nbsp;Inquirer.net",
    "source": "Google News | SE Asia",
    "module": "亚太官方",
    "category": "欧盟贸易",
@@ -12901,36 +12923,6 @@
    "source": "FedEx | Logistics",
    "module": "企业官方",
    "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "Overseas Warehouse Authorization – No Decision Since July 14, 2026 (89 Days) | Sell Globally on eBay | eBay Exports - eBay",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMUg0WjhpZ0piR05oZ1RuLTc3RmhSc29fV0QyX0FGd1pfczNEZTYzclFaV3hlMmdaaVBqckZOSF9RcHJtRnFyUkwyZk1tc1VXaHlTd2c4M25yUEVSSEdkYU81V3BoYVdpLWpicEROSDkwZWhmTC1LMFg0cnZwVXBlUUNtYXdZRTUwX3oybjFHS3JzVnI5a0FVeGtlQzluUGs5ZUFGV0hyRTJXUldvaWhUV2Y5cFdVWGp2UHFnc244MWZzdUxsU3F1YmtiSzc0LWRhbURLcXQ2QjlzOGYxYWY1UA?oc=5",
-   "published": "Sun, 11 Oct 2026 21:49:37 GMT",
-   "summary": "Overseas Warehouse Authorization – No Decision Since July 14, 2026 (89 Days) | Sell Globally on eBay | eBay Exports&nbsp;&nbsp;eBay",
-   "source": "eBay | Seller",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "Customs Entry Writer- Houston TX job | jobs at DHL Group - DHL",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMGJGODVuTWhoUGk3TWRXWlJjM3haS3ZoaGFEN3lvc3hPT3d4dmN5RTFGUWFIa0FOTUQ0ZTd0YjhmdEl2QktwSG9reU1mRHhzdlZITkozcDNSWXNQWDd3NDA1R2dLUXpmdGZQcjhYMmF0LUpJRHVjNDE3c3o4ZjNuV1BxZ3ZPUHh0WC1mMGVwckdsOERSM0RHY1o5Tm4?oc=5",
-   "published": "Sun, 11 Oct 2026 21:08:51 GMT",
-   "summary": "Customs Entry Writer- Houston TX job | jobs at DHL Group&nbsp;&nbsp;DHL",
-   "source": "DHL | Logistics",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "30 evacuated, 1 hospitalised after fire at Bukit Batok coffee shop",
-   "link": "https://www.channelnewsasia.com/singapore/fire-bukit-batok-coffee-shop-evacuated-6450196",
-   "published": "Sun, 11 Oct 2026 19:29:28 GMT",
-   "summary": "Three food stalls were damaged in the blaze at Block 413 Bukit Batok West Avenue 4.",
-   "source": "CNA | RSS",
-   "module": "海外媒体RSS",
-   "category": "其他",
    "priority": 1
   },
   {
@@ -13191,6 +13183,36 @@
    "source": "Google News | SE Asia",
    "module": "亚太官方",
    "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Commentary: Could devastating Nepal floods catalyse action at climate talks?",
+   "link": "https://www.channelnewsasia.com/commentary/nepal-floods-climate-compensation-un-loss-damage-6465406",
+   "published": "Mon, 19 Oct 2026 06:00:00 GMT",
+   "summary": "Demands for compensation from climate-vulnerable countries are unlikely to yield outcomes soon, says COP30 special envoy and think tank founder Arunabha Ghosh.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "No easy gig: China's push to better protect platform workers faces hurdles",
+   "link": "https://www.channelnewsasia.com/east-asia/china-gig-workers-draft-rules-protection-6459661",
+   "published": "Mon, 19 Oct 2026 06:00:00 GMT",
+   "summary": "China's proposed rules aim to improve pay, rest and working conditions for tens of millions of gig workers, but analysts warn that financial pressures, differing work arrangements and enforcement challenges could limit their impact.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "Mbappe double helps Real Madrid sweep aside Sevilla ahead of El Clasico",
+   "link": "https://www.channelnewsasia.com/sport/mbappe-double-helps-real-madrid-sweep-aside-sevilla-ahead-el-clasico-6470441",
+   "published": "Mon, 19 Oct 2026 05:17:27 GMT",
+   "summary": "",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
    "priority": 1
   },
   {
@@ -14190,6 +14212,16 @@
    "summary": "",
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Battery Algorithm ML Engineer - Apple",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObVA3alVJWFZEQkZkcmFfblV3TUpLOHljY19mY3hvTXJrMGFrYWZ6cEplbjBQM1RDWFppN2dxSEFqVGRuZGlLdTgxNEpIcFZhakFIalZGNWhIOEhPSFE4TTNaUEN2LUdoczNLYlN5elowNkxNT2ZSRWYtZ055UnY0TWZB?oc=5",
+   "published": "Fri, 16 Oct 2026 04:05:25 GMT",
+   "summary": "Battery Algorithm ML Engineer&nbsp;&nbsp;Apple",
+   "source": "Apple | Supply Chain",
+   "module": "企业官方",
    "category": "其他",
    "priority": 1
   },
