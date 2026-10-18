@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-17T21:54:45.014955+00:00",
- "total": 1305,
- "high_priority": 977,
- "fulltext_count": 42,
+ "updated": "2026-10-18T02:22:35.856946+00:00",
+ "total": 1310,
+ "high_priority": 979,
+ "fulltext_count": 41,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
   "国际组织": 1,
-  "海外媒体": 6,
+  "海外媒体": 10,
   "企业官方": 0,
-  "亚太官方": 0,
-  "海外媒体RSS": 4,
+  "亚太官方": 1,
+  "海外媒体RSS": 2,
   "航运物流行业": 0
  },
  "fail_counts": {
@@ -928,16 +928,6 @@
    "source": "Federal Register | BIS",
    "module": "美国官方",
    "category": "中美经贸",
-   "priority": 3
-  },
-  {
-   "title": "STS data requirements by NACE Rev. 2.1 and CPA Ver. 2.2 under the EBS Regulation - European Commission",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFp1OUNqQTc3NWJvLWtkaGthU1FzUTFaMFRNZEdUNUZQWWJ6ZlhvdXVTNTRBNDJLT09yUWJlUV9SVk16QVVabXZ0NVBrcEpUM3pnRWY1WEtyN3llMmw0d2tUM0x0X2NkVEp5dXhRRGtOYnBOOUJTTmhVVGhuTEdCc1A2WWItMmF0dTFLeEc0UVVZbk41dzY1bHJ0VmhjM3A2QV9wQ2hxdEhwd1BpZ1l6TXBjdUw0V1l2MkpJX3hseTRaOUNyYlhBQg?oc=5",
-   "published": "Sat, 10 Oct 2026 23:35:15 GMT",
-   "summary": "STS data requirements by NACE Rev. 2.1 and CPA Ver. 2.2 under the EBS Regulation&nbsp;&nbsp;European Commission",
-   "source": "EU DG Trade",
-   "module": "欧盟官方",
-   "category": "欧盟贸易",
    "priority": 3
   },
   {
@@ -6105,6 +6095,60 @@
    "content_status": "full"
   },
   {
+   "title": "China’s ‘golden week’ holidays come at a cost",
+   "link": "https://www.scmp.com/opinion/china-opinion/article/3370840/chinas-golden-week-holidays-come-cost?utm_source=rss_feed",
+   "published": "Sun, 18 Oct 2026 01:30:06 GMT",
+   "summary": "For iPhone users in China, the calendar has long presented a small but recurring problem. On a Sunday designated as a make-up workday, an alarm might remain silent. On a regular Friday converted into a day off, it might ring anyway.\nNearly 17 years after entering the Chinese market, Apple quietly updated its operating system in September to automatically recognise China’s official schedule of adjusted holidays and workdays. The fix is modest, but it points to a larger question: what happens when...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Trump paused Russia sanctions to ‘analyse’ impact on global economy: Rubio - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYUJjZTdfTldueVhhU25zNGpmTHRKSHM2bmhlV0NBSGpkLXlyYmJjQ2hQU0ZRN3o0cTZSWlNWNFBpR1VHTjJUXzU5bkhCQkc5NFNaUEpmNGE2RWt6Q0ktMmdCYXk2RWktOFp4REJkXzU0UXhWdHNGZ042cHNHNjBJUk5FMXhFb0lFS3g2Wk1ueE9QdjUwbG85WkhGZDN6a1F2eTlzMDR6YXU0UlZhUy1WY1J2Y0s0V1M3Vm5PSzVjeENtVXZUWEIxZmNjOA?oc=5",
+   "published": "Sun, 18 Oct 2026 01:15:00 GMT",
+   "summary": "Trump paused Russia sanctions to ‘analyse’ impact on global economy: Rubio&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "How land power could help US forces counter China in the Indo-Pacific",
+   "link": "https://www.scmp.com/news/us/article/3371267/how-land-power-could-help-us-forces-counter-china-indo-pacific?utm_source=rss_feed",
+   "published": "Sun, 18 Oct 2026 01:00:10 GMT",
+   "summary": "Senior US commanders have highlighted the importance of land-based troops and equipment stationed in the Asia-Pacific in any conflict with China, countering assumptions that such a war would be fought mainly at sea and in the air.\nGeneral Ron Clark, commander of US Army Pacific, said the “tyranny of distance” made it difficult to rely on air and naval forces during a panel discussion at the Association of the United States Army’s annual meeting this week.\nThe comments reflect mounting concerns...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Trump’s Russia sanctions waiver called mistake by Republican Party allies - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHZoS3c4bzQ5bDlBS2F5Nk04cnc4dW9uRFRMUVZZOVBsWWg2ZkQ2MjZfWE42c0dMajV4ZFZRYmUyTnJQaGZSdDlGV09sdXRUNjhuTnpVNG52MFdnXy00OWVZb2VDd0E3NFRuZ0xsZFpfaTFaaU5YWjhrN21MbEM5NXRZblFyLVRaWjgzRm45eHdrcTJ4UHphVkxQRWFXSWRsNW10YWNnVzdnQU1uTVc0OXp6SGM2ZmlDRloxUEFn?oc=5",
+   "published": "Sun, 18 Oct 2026 00:50:00 GMT",
+   "summary": "Trump’s Russia sanctions waiver called mistake by Republican Party allies&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Zelensky criticises Trump’s waiver of sanctions on Russia as ‘wrong’ - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNXFDbFhqTDJ1dTJ0Uk1jUTYzanJyZ0s1MHdzR1Bnd3Y1bjBoeVQta01rSnJGaWpmYndLbl9RZjQzX2hSQ2xCb2dpYl9LN1liN1JtQllmVmJJWHdNcDdDOEpscC04NmFVVGxfbU9HNlNxWXhDbTlMZmdUbVdDcllGWGpXd3FPb05jQjhSdDZTSFBLLXo2aDZxS3RWdk9MUTd6RWVLMnFPY1dvVHBfemxBdF80QVhrUQ?oc=5",
+   "published": "Sun, 18 Oct 2026 00:39:00 GMT",
+   "summary": "Zelensky criticises Trump’s waiver of sanctions on Russia as ‘wrong’&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Trump faces growing backlash over plans to import diesel from Russia - BBC",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12aENGV2dkdWNiNzl5RlFsVEk2TEJMMi1SSEIxZ0pHMFhpVE5NLVFHRjEwYWZ2VUlEMVBlMmhRMGNUVEk3cjBYYnRGZGVqaEdJazI2Q09GUWtjUjA5TEE?oc=5",
    "published": "Sun, 11 Oct 2026 23:18:45 GMT",
@@ -6639,36 +6683,37 @@
    "content_status": "bot_wall"
   },
   {
-   "title": "Russian attack on Ukrainian city kills 20, a day after Trump eases diesel sanctions on Moscow",
-   "link": "https://www.channelnewsasia.com/world/russian-attack-ukrainian-city-kills-20-day-after-trump-eases-diesel-sanctions-moscow-6449106",
-   "published": "Sun, 11 Oct 2026 02:02:00 GMT",
-   "summary": "Twenty people, including three children, die as Russian glide bombs hit Zaporizhzhia flats, the third mass-casualty strike on Ukraine this week.",
-   "source": "CNA | RSS",
-   "module": "海外媒体RSS",
+   "title": "Across US, ‘No Kings’ events seek to boost early voting and thwart Trump",
+   "link": "https://www.scmp.com/news/world/united-states-canada/article/3371279/across-us-no-kings-events-seek-boost-early-voting?utm_source=rss_feed",
+   "published": "Sat, 17 Oct 2026 23:56:30 GMT",
+   "summary": "Carrying an umbrella painted with the words “vote, power, people”, retired teacher Sabine Carlson said the lesson plan for Saturday’s “No King” marches was clear.\n“It’s great to voice your anger, and we have long lists of complaints, but the most important thing of all is to go and vote,” the 66-year-old Democrat from Washington’s suburbs said.\nAt the demonstration near the country’s Capitol, Carlson joined one of the estimated 3,000 events organised by the prominent anti-Trump movement across...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
    "content_attempts": 1,
-   "content": "Russian attack on Ukrainian city kills 20, a day after Trump eases diesel sanctions on Moscow - CNA Skip to main content Close Close Top Stories Asia East Asia Singapore World Commentary CNA Explains Sustainability Business Sport Latest News Insider TODAY Big Read Up Close In Pixels Ground Up Voices Adulting Mental Health Matters Watch Live TV News Reports Documentaries & Shows TV Schedule Listen CNA938 Live Podcasts Radio Schedule Special Reports Singapore Parliament Mental Health Interactives Lifestyle Entertainment Women Wellness Living Style & Beauty Dining Travel Luxury Experiences Obsessions People Remarkable Living Sustainability Newsletters CNA Eyewitness Send us a news tip Events & Partnerships Branded Content Business Blueprint Health Matters The Asian Traveller Brand Studio Learning Minds Weather Edition: Singapore Indonesia Asia World Search Trending Topics CNA Explains China artificial intelligence Indonesia Malaysia podcasts Wellness Thailand Japan Follow CNA Follow our news Facebook X Youtube LinkedIn RSS Recent Searches Trending Topics CNA Explains China artificial intelligence Indonesia Malaysia podcasts Wellness Thailand Japan Advertisement Advertisement World Russian attack on Ukrainian city kills 20, a day after Trump eases diesel sanctions on Moscow Twenty people, including three children, die as Russian glide bombs hit Zaporizhzhia flats, the third mass-casualty strike on Ukraine this week. Rescue workers carry a body after pulling from the rubble of a r",
-   "content_status": "full"
+   "content_status": "bot_wall"
   },
   {
-   "title": "Trade facilitation implications of carbon-intensity requirements (EN) - OECD",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPY1hGLUgxanFDVzI5ZEM3LV91TTlfR3lVa0pHRml5VEJtR0Q0Vjc5WlRSZzBfSGFkQkJ3T2NMdjNzQlNyZ1FDZVVWYTZmM1MyU2g0a1VpTDhraGNPcFVqYThDd0dnbThZWHJMRW4zYzkySkhOYktRNk5CXzd1ckJ4X0tRbGhyVlRDSTRMQjNkVTJmT3V5TWRsMGZKQXFicVhCYmF4UTJNeXRJUDlqSGhiMEU4Y0RZN0ZITkY4RHgxQ2FWVTYtQU5NUTV4VWMwM1lXbUF1dzlXMVdZV1hpMG11dERxbXBuN2V0WW9TZXM5U2k?oc=5",
-   "published": "Sun, 11 Oct 2026 00:15:23 GMT",
-   "summary": "Trade facilitation implications of carbon-intensity requirements (EN)&nbsp;&nbsp;OECD",
-   "source": "OECD",
-   "module": "国际组织",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "China Isn’t Importing Any US LNG, But It’s Still in the Game: Bousso - EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMTZZZll0ampHZ25OS0xWd28tWmhEamJsY1lNekxSMkYwWTNIZG1nVnVSdlNRRFdGS3c2R3hMdXZ0bnk2R090anhveHk4RVA3NU9sc0NXQWw1YTNya2pQaEx6U2VkeVRlT1ZnaV92Z3pEOXk2SVdsUDRuWkc3bmc0T0QzdnVLMzk0ZzkxcXk1XzRrYVhNMnJvd2l1UQ?oc=5",
-   "published": "Sun, 11 Oct 2026 00:02:10 GMT",
-   "summary": "China Isn’t Importing Any US LNG, But It’s Still in the Game: Bousso&nbsp;&nbsp;EnergyNow.com",
-   "source": "Google News | China Trade",
+   "title": "Beyond EVs and perception, how China is gaining ground in Central Asia",
+   "link": "https://www.scmp.com/news/china/diplomacy/article/3371232/beyond-evs-and-perception-how-china-gaining-ground-central-asia?utm_source=rss_feed",
+   "published": "Sat, 17 Oct 2026 22:00:08 GMT",
+   "summary": "In Kazakhstan’s futuristic capital Astana, car dealer Auyez Kabdygali is planning a big change to his business as he switches from importing European cars to Chinese electric vehicles.\nKabdygali says there is increasing demand for Chinese EVs both from locals and Russian customers due to their competitive price and quality. His grandfather is among the converts – he has an order in for a BYD Han, the carmaker’s flagship model, and plans to collect it from a terminal on the border with China and...",
+   "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Tariff rate, most favored nation, weighted mean, primary products (%) - Finland, Japan - World Bank Open Data",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EWGRjWVI0T3U5MjBEUW40bU1DakRQOEFIR3B4N3JmNk5fb3dKRDRmdWI0aWMwUVpDSHpnNE9VRDZ0UHQzSWRDT05qR01HRWhaZndPTmJQWV9kVkc4U1NUZ1VLdnFEMlpTY01PcGdYTmpheUdhOUl2Nmx0dmhtQQ?oc=5",
+   "published": "Sat, 17 Oct 2026 20:45:27 GMT",
+   "summary": "Tariff rate, most favored nation, weighted mean, primary products (%) - Finland, Japan&nbsp;&nbsp;World Bank Open Data",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "美国关税",
    "priority": 2
   },
   {
@@ -6686,6 +6731,16 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTDVFd081enB3MFViMG9XUDAyNGZnMzljQmlmZTdWeWhicmxKUWxWcHNCWE1GZEtVSS0tcWMyUjZsWWpMZFNERkRNd1A5b24xVFFwbW5kakZBckctdzFOMWRaTmtvaHJCeVZoOHlVbFdpS2kxSjRUYXFPNDhCZmI2NlI1SUxrcDdjVnNWQjlRX0swdUVkckxBTlVsSFBkQUNscjdTVGdabXVIbzBwSC1RWUlPVWkxVTdLci1HMHY1bDZRb3g2OXZpNy1Mb013cm1yR0E?oc=5",
    "published": "Sat, 17 Oct 2026 19:31:49 GMT",
    "summary": "Trump’s Russia Sanctions Waiver Called Mistake by Key GOP Allies&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Trump’s Russia Sanctions Waiver Called Mistake by GOP Allies - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBhMEdBRVg3TkZWNHNYNDc3ZVdfRVhpVmtWQUlhY2t2eW9vTW5wdTNLX0pUUDdyUXdUcU5neVFrLVp1ZXZ2R1VVM1h5YnZFQ3NVM0hraDZwUzBJMHRBb0NYa2JjRTZEbmJnMW5MNW9FcV9vbzhBSU5odzlBcTRTTGIzSEJHLU1NZVFnRHRHSGdfZVdmSnJzRzFVQTlsbTRfS05Pd05kb3lDWWE5cEJKbTMzRncyQQ?oc=5",
+   "published": "Sat, 17 Oct 2026 19:31:49 GMT",
+   "summary": "Trump’s Russia Sanctions Waiver Called Mistake by GOP Allies&nbsp;&nbsp;Bloomberg.com",
    "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "中美经贸",
@@ -7796,38 +7851,6 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
-  },
-  {
-   "title": "Pakistan’s Bike Parts Duty Reaches 31%, Raising Tariff Policy Concerns - TechJuice",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWpHMDRsMVdEWjVnT3pCVXhfUldvV2t2Rkp6TzExVXVSSmg3bk1ONko5U2VzbHF6N1BPUnJrWmVhM2ZKMkw3dHg5NXZud190VnVYcE5zVmZWaTRIYWRtcGFqQmVUOEJsbzBzOEptRmk2M2xfNkV1YllnREM0OFZqUzBoMkkwOU9aVXBFUF9wUjdHc0Z4cEhkNA?oc=5",
-   "published": "Sat, 10 Oct 2026 23:26:20 GMT",
-   "summary": "Pakistan’s Bike Parts Duty Reaches 31%, Raising Tariff Policy Concerns&nbsp;&nbsp;TechJuice",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Dried beans, shelled, nes imports from Costa Rica |2024 - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUJnTzF5bGdfQk8yRUljalE5SkR4aEp5QnNrT2JVdGlKNnV0WTRvaFljV25CUHE1UFVNdXF1U2VnSUpyVnA2bjJTbUNGWGFILXFCNG5WZXVJd2FsUjB6VHB5SEZHUGU0T0VXWXVyN05ld3BGU1lSY2NhU2J2UkJ0Qi1ROHBkOGVGY3kzR2tCMlY5d0Z6Rm5MSlVVMmR4YkRkZHI0STlqYkowMGVsVzA5Ug?oc=5",
-   "published": "Sat, 10 Oct 2026 22:18:22 GMT",
-   "summary": "Dried beans, shelled, nes imports from Costa Rica |2024&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "How a museum masterpiece’s life-size replica sparked rare US-China collaboration",
-   "link": "https://www.scmp.com/news/china/politics/article/3370434/how-museum-masterpieces-life-size-replica-sparked-rare-us-china-collaboration?utm_source=rss_feed",
-   "published": "Sat, 10 Oct 2026 22:00:12 GMT",
-   "summary": "For anyone who has visited the Chinese galleries at the Metropolitan Museum of Art in New York, there is one work that stops them in their tracks.\nStepping into Gallery 206, home to Chinese Buddhist art, visitors are met by a monumental wall – over 15 metres wide and 7.5 metres tall (nearly 50 feet by 25 feet) – covered in a Buddhist assembly so vast and majestic that it momentarily erases the Manhattan bustle outside.\nHere stands the Medicine Buddha, a 14th century Yuan dynasty (1279-1368)...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
   },
   {
    "title": "EU adds 3 individuals, 4 entities to N. Korea sanctions list",
@@ -12157,6 +12180,26 @@
    "priority": 1
   },
   {
+   "title": "S. Korea's growth momentum to strengthen amid chip boom: finance minister",
+   "link": "https://en.yna.co.kr/view/AEN20261017001900320",
+   "published": "Sun, 18 Oct 2026 11:00:01 GMT",
+   "summary": "BANGKOK, Oct. 18 (Yonhap) -- Finance Minister Lee Hyoung-il has stressed South K...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "5 gastrointestinal symptoms you should never ignore, according to doctors",
+   "link": "https://www.channelnewsasia.com/wellness/gastrointestinal-symptoms-gut-health-6436716",
+   "published": "Sun, 18 Oct 2026 06:55:30 GMT",
+   "summary": "Experts say these warning signs should always prompt a chat with a doctor.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "From weekend markets to a matcha network: How Kevin Chee built Matchaya",
    "link": "https://www.channelnewsasia.com/people/matchaya-kevin-chee-singapore-matcha-6457691",
    "published": "Sun, 18 Oct 2026 05:34:00 GMT",
@@ -12224,6 +12267,16 @@
    "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
    "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Trump’s second Asean summit presence comes at a price for region - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMG1ZQWY2ZUdtYWxxaGY4SW55VmQ2QVRpQ1FKNHdWM0VoZXRWQkFIYXkydHdvMXBoV1NsRDFOTHFTRkRoVnpDU1ItdFY3c1NPWTd1UTl0eTBUVVVyTjhjdUhud0FKODZYZlA2THlyUXhnV2E4Q3owRWowVWpZMTdVZm52X1cwTnY5RllvWnZvVl84QnpuNFVyTk9MSFVHLUNFM1dsZnRKQUZXenp3V2pVczZxOGl6UERTOEZ1aElJV3o?oc=5",
+   "published": "Sun, 18 Oct 2026 00:00:08 GMT",
+   "summary": "Trump’s second Asean summit presence comes at a price for region&nbsp;&nbsp;South China Morning Post",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "中美经贸",
    "priority": 1
   },
   {
@@ -12417,23 +12470,13 @@
    "priority": 1
   },
   {
-   "title": "Man United fans revive ticker taunt over Man City financial case",
-   "link": "https://www.channelnewsasia.com/sport/man-united-fans-revive-ticker-taunt-over-man-city-financial-case-6449646",
-   "published": "Sun, 11 Oct 2026 02:14:36 GMT",
-   "summary": "",
-   "source": "CNA | RSS",
-   "module": "海外媒体RSS",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Thousands join pro-Palestinian marches in several European cities",
-   "link": "https://www.bangkokpost.com/world/3335023/thousands-join-propalestinian-marches-in-several-european-cities",
-   "published": "Sun, 11 Oct 2026 01:47:00 GMT",
-   "summary": "LONDON - Thousands of people on Saturday joined pro-Palestinian marches in London, Berlin and Dublin calling for an end to Israeli strikes on Gaza, three years after Hamas's October 7 attack.",
-   "source": "Bangkok Post | Breaking",
+   "title": "Why a ‘killer switch’ to tackle Europe’s trade issues with China may not be so straightforward - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmxDY3R4NHpndjlLUUlhZUxLUUtYdzAyQnpSQUJYQVpKb3g3VExSckVJMjE0RXZUbW9RWUsxMmpRS3VCRmhhYzBnNl9SSXNUT2VnZk9sRWpCNFFTeUFwRkpSNXJ4ZEQ5ei1jTU96X204MnZKTXZDWkRzQVc2MDdUWko2ZFhKM1pLZUpELWJXVUxrYVhTMkJ3VExIYVpteUNTNzVYSW5SbGVUeTVpaEplR0h3OHNJS0sxeXI4QlBQektmNmJOS0E?oc=5",
+   "published": "Sat, 17 Oct 2026 23:30:00 GMT",
+   "summary": "Why a ‘killer switch’ to tackle Europe’s trade issues with China may not be so straightforward&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
    "module": "海外媒体",
-   "category": "欧盟贸易",
+   "category": "中美经贸",
    "priority": 1
   },
   {
@@ -12604,6 +12647,16 @@
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
    "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Lawmaking success lies in facilitating trade, reducing costs: Top leader - Vietnam+ (VietnamPlus)",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVpPdDFzd1NKZ180QVF2QlJ3SnN1bWY1NXBRXzVMOFdqUHJPV2xoSExBZm1pWnNiV1dDRnhOUUZhUnBJSGlCeGNtS1hjU1VKR1ZfQ3Fkcmxxa2JSR093MTRCLTIzRXZkRnR4bUE4cUU2Rm9HRHJXTmhuN0hueldMZGZpQm1CNWRqVGF4MWFxaS1MNHp2MkF2VkhoRGRpRXlTU2o1UUU2N2pzWlFDMDRxNg?oc=5",
+   "published": "Sat, 17 Oct 2026 08:23:11 GMT",
+   "summary": "Lawmaking success lies in facilitating trade, reducing costs: Top leader&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
+   "source": "Vietnam Plus",
+   "module": "海外媒体",
+   "category": "亚太动态",
    "priority": 1
   },
   {
