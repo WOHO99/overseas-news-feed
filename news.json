@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-18T15:09:51.267813+00:00",
- "total": 1364,
- "high_priority": 1006,
+ "updated": "2026-10-18T18:23:02.568623+00:00",
+ "total": 1360,
+ "high_priority": 1001,
  "fulltext_count": 39,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
-  "国际组织": 1,
-  "海外媒体": 12,
+  "国际组织": 0,
+  "海外媒体": 0,
   "企业官方": 2,
-  "亚太官方": 13,
-  "海外媒体RSS": 4,
+  "亚太官方": 1,
+  "海外媒体RSS": 1,
   "航运物流行业": 0
  },
  "fail_counts": {
@@ -6460,7 +6460,7 @@
    "module": "海外媒体",
    "category": "其他",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6472,7 +6472,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6484,7 +6484,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6506,7 +6506,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6518,7 +6518,7 @@
    "module": "海外媒体",
    "category": "航运物流",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6530,7 +6530,7 @@
    "module": "海外媒体RSS",
    "category": "跨境电商",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6542,7 +6542,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6854,58 +6854,6 @@
    "source": "World Bank",
    "module": "国际组织",
    "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Prospect of Arctic Blasts Threatens Energy Traders’ El Niño Bets - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnBWNlJwNVVpajRmdTBud0xJbzFBcDFrSDdkclJDeFRpMDVNeTFJUWNZWFdMQ01tekotdVBqZl9UQ3RYVEE4VWY0SU0wbklkbzdfalc1LTN2SGZJNk1uNzgwMzZRcThoMmwtd2YxVUNjZXJkc1lEV2hhdktrVjkwVDlNb0p4ejRkYTJfM0V0UjJNTnFtb0ZVbmc5Q0o2dW0tMmdCSFpCRUlqZUZHNEdqcVRUM0s?oc=5",
-   "published": "Sun, 11 Oct 2026 18:00:00 GMT",
-   "summary": "Prospect of Arctic Blasts Threatens Energy Traders’ El Niño Bets&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Elon Musk, Oligarch: Starlink, Tariffs and Double Standards - TFIGlobal",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUlJiQmtfd1NaLUJpODZYaE5CQW9UanphcFNIdnJBTEZRN3dsVFJ1S3N5WmoxakktQ0JxUnBMMHE1dkZpMnpyWW5RRVlxRTV4X05mbkVWVExncWpXbTZ5OWVzOUwyalc1QjlsLW9RcWtsRUZfejQ2bFhNdnlrR3V1TEhUcERtT1BvSml0NnhFN2FFTTl3RFhYbnNB0gGfAUFVX3lxTE83eEE3cXJLbF93a0h3ZTZaVkhRTHAzRzhIMmlxNDlMamFRMlpVU1pSOWFMQUxaNmRScS1RSXNaMS1mcUtDM3I2MlBqSzFVNUJRUFFfZFd1bmFuQTlEYVpmUkxwZWRwUVB5cWVDM212R3pkTFdkZFZTVUJCWjNjYzMzcWlHb2xXVFhLVjk4TkZOckdXSnlXUUdZWVlGV2wtaw?oc=5",
-   "published": "Sun, 11 Oct 2026 17:40:17 GMT",
-   "summary": "Elon Musk, Oligarch: Starlink, Tariffs and Double Standards&nbsp;&nbsp;TFIGlobal",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Putin aide looks to boost Russian shipbuilding ties with China during visit",
-   "link": "https://www.scmp.com/news/china/diplomacy/article/3370497/putin-aide-looks-boost-russian-shipbuilding-ties-china-during-visit?utm_source=rss_feed",
-   "published": "Sun, 11 Oct 2026 16:00:11 GMT",
-   "summary": "Russia is looking to expand shipbuilding cooperation with China through technology partnerships and joint investment, visiting presidential aide and Maritime Board chairman Nikolai Patrushev said.\nPatrushev held talks in Beijing with Ke Jixin, Chinese vice-minister of industry and information technology, the Russian Maritime Board said in a statement on Saturday.\nIt said the two sides discussed the possibility of Chinese shipbuilders becoming technology partners and equipment suppliers for new...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Botswana Non-coniferous wood in chips or particles exports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSlMtbHA3alRGWFJwaFZ3VURjaDU2eXBsRURjcUhNNkYwZThpYVZSUTYxbGJhanY2Q1RkY1NZY25RRlJYWmFZa2V2d0xTeWZZSUNrczlfYkc1ZkcyUVpxcjltQWFnalV6bTBLakFIMEpwcGZ4dEZsRHBEWjBaM2xFaVRscWR6R2FJX3lzRVJES0xWdFREM2JiYWhjYmZsUmM1a21kX29wUUJodXVhMU9iZA?oc=5",
-   "published": "Sun, 11 Oct 2026 15:39:17 GMT",
-   "summary": "Botswana Non-coniferous wood in chips or particles exports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Trump set to impose sweeping tariffs on 60 trade partners - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1BDcjdFRHFWaGlkYlMzZi1ZY2hCaVR5dGRpalctVTI1Q2poOGxFcXZqdmZfX2lqaVZxRmo3MWZIZ2ZUU0xCMm44OFdibDRCNF9BOVNmT1VHNURxR0tabkNtaVdoNTRaTW81cVIyVUdvanhBUS1rX3pEZFdyQmNSbDVDa0VMM2tPVGhYbDkwR1VhcUJJTDJXVmhNZVVVNi1L0gGmAUFVX3lxTE5UdFo2TDl4c1R2ZWRuX1ZxbTA3UmdwQnlrbVh1OXUyd1pucVlQS2dqY2VsbnRNSGt3WWljNkZ3V2kySmZNUzJ4WVBaT2NXSGRuUFlqRmx1UXNzSlEwZkV1MGRWVWxNbHdBcnY3Vm9CMVFqSWZxdnI3TkZqbWxValByNzBMRWxBR3BraFBtbEVuUFBvNDNpUVNBdWVkN3V6enc1YjlIWXc?oc=5",
-   "published": "Sun, 11 Oct 2026 15:29:56 GMT",
-   "summary": "Trump set to impose sweeping tariffs on 60 trade partners&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
    "priority": 2
   },
   {
@@ -11966,6 +11914,16 @@
    "priority": 1
   },
   {
+   "title": "Customs Trade Coordinator in Memphis, Tennessee - FedEx Careers",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EVnZTSUVlbHAtNndPejZlaTljUUExZkFsbXFRSWxBNllWc1NRQ05LVjAyZk9kMmJTanEyWnhsXzBrM2V1V3hMYUVMcGtkM09sem5ZMmQ0dnBEb0lJeHlaT0hwcGlNRUpZS05QX1paUVRoVG9MRnc4?oc=5",
+   "published": "Thu, 15 Oct 2026 20:23:03 GMT",
+   "summary": "Customs Trade Coordinator in Memphis, Tennessee&nbsp;&nbsp;FedEx Careers",
+   "source": "FedEx | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
    "title": "NYC Comptroller Levine urges Anthropic to pause US IPO",
    "link": "https://www.channelnewsasia.com/business/nyc-comptroller-levine-urges-anthropic-pause-us-ipo-6462361",
    "published": "Thu, 15 Oct 2026 20:08:30 GMT",
@@ -12456,6 +12414,16 @@
    "priority": 1
   },
   {
+   "title": "Leverkusen's Schick strikes to end Freiburg's unbeaten run",
+   "link": "https://www.channelnewsasia.com/sport/leverkusens-schick-strikes-end-freiburgs-unbeaten-run-6469801",
+   "published": "Sun, 18 Oct 2026 23:42:24 GMT",
+   "summary": "",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
    "link": "https://www.channelnewsasia.com/business/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-reports-6469576",
    "published": "Sun, 18 Oct 2026 20:08:28 GMT",
@@ -12493,6 +12461,16 @@
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
    "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "India's exports to West Asia recover from US-Iran war shock in April-August; shipments to Africa, ASEAN rise - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTjdEQ2o4YU1KRUR0RFpRRVRCY29VX05aLUptVGk5WWljdGNHb2FkVGpwYkoySU9KRERpRC1zRzRnMmNUaHNaN0M1cEhTdm0yMnZlell3S2MtdzhGX1IwdjJGUWVlNUdDX1NxcnlBQ2hwNnh6SF94YVl4YjZ3aDJkbWU4VFFud0taQktQenJyLXVhOC1BZU5ST0hLeGJLaEpQTWZFRWRESmpVRGNfa1hlWkFTWGVKQUR5c2VSZ0VUUV9JbHBtLWlsc0U4dkdDemFjMjUxUGVPOG1aVlpfOEhOLVJLcWtaRVJFOEJVcExuONIB9AFBVV95cUxQU2IybDRzc0l1SDQ3OGY1eTJkSVFveFpSTnV1a2VKRVl1ZzJxLXBLV2dseGJMWVpDWkVzTUxDdmhONEFHMWNnQjM3bE9ScnEtM29hTU9YMk00OFZuSnZOaS1tQzY3WHU0MHJaS25pY0xHNldhbjk4TmNYVmZDRUlUU29nMmtLanVWMFJqWFpxS21qOUliZkI5Z3ROR0RfWEN3cHJmZ0kyVm95MnVHa3I2b0taT2RMaXFTQThwZ1hPRXVYOXRHUjZJeGo0SnpfOUhBeUZIdWxSekt4LXloaXpKVy0xTVlzb3NJM0cxazNpbS1ZLUJ0?oc=5",
+   "published": "Sun, 18 Oct 2026 16:38:58 GMT",
+   "summary": "India's exports to West Asia recover from US-Iran war shock in April-August; shipments to Africa, ASEAN rise&nbsp;&nbsp;Livemint",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "航运物流",
    "priority": 1
   },
   {
@@ -12953,36 +12931,6 @@
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
    "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "PCF Sparkletots to double spending on staff development to S$20 million over 3 years",
-   "link": "https://www.channelnewsasia.com/singapore/pcf-sparkletots-preschools-early-childhood-education-teachers-6450081",
-   "published": "Sun, 11 Oct 2026 17:51:59 GMT",
-   "summary": "Teachers will have their administrative workload reduced and get a checklist for supporting children with diverse learning needs.",
-   "source": "CNA | RSS",
-   "module": "海外媒体RSS",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "UPS Supply Chain Symphony™ | UPS - Italy - UPS - Estados Unidos",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtd0g4NXI2VlBReS1Wc25RcVBERV9oOHp5RmNsSmZGMTlKTGpuems0N2pmWEhjSHdGSFFSeHhUOWJwcUJod0ppZm5HMTFMY2VUMHo3UWZvVTRJcnlnWXJ4LUJ3WXNOM1FRa3dz?oc=5",
-   "published": "Sun, 11 Oct 2026 17:37:05 GMT",
-   "summary": "UPS Supply Chain Symphony™ | UPS - Italy&nbsp;&nbsp;UPS - Estados Unidos",
-   "source": "UPS | Logistics",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "AFTA key to Asean integration - The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0FhaUZ2Q1VzV1NKbVgzZjBvZ3pINVE0V2ZPYzhaTzB0TDJqNzlNVkVyQTY3RnFsNUVnRU05anBxX3FCVTBDZWVhMzhEblFKVzdINjI4Z0c1QlNVTjNyZ2ZXV0Q5bjRxd3UwWkY1emltd3IyN3dfUzFvcTc0S24yX0hxdUNWSUduZDhmWkx4OG52dllZcGpN0gGcAUFVX3lxTFBNUm9PLUFGYW9XV1RmYm1rQ2RvdkxCM1lMSVF4WnZSTVBzaVBoaFJycWdheE05MzB3a1V3eDB0ci10UzFibXNoeE9aUFczU1F3SDZ2eFZfTmFRaC1xYy1XdUo1V013cmxVUHlYSS1RWjVSRFkwYTNlUHljWFdWc254MkFWeGExeFBXUXl1Tzh1Tk5wVFN1S0Q2SXVBVA?oc=5",
-   "published": "Sun, 11 Oct 2026 16:27:00 GMT",
-   "summary": "AFTA key to Asean integration&nbsp;&nbsp;The Manila Times",
-   "source": "Google News | ASEAN Trade",
-   "module": "亚太官方",
-   "category": "亚太动态",
    "priority": 1
   },
   {
@@ -14183,6 +14131,16 @@
    "source": "Apple | Supply Chain",
    "module": "企业官方",
    "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Developer Guide - Shopee Open Platform",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xSVQ1Ukh4WTJ4Z21UV1hseGNycjJvQmc0d2lyRWozMHFxeGFPUUlYRDhUdWJaSlZPb0dpcEVoU3VrVG8xQ1NjT2NDZ0ZfTV9oTWFYVFp3?oc=5",
+   "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "summary": "Developer Guide&nbsp;&nbsp;Shopee Open Platform",
+   "source": "Shopee | Seller",
+   "module": "企业官方",
+   "category": "跨境电商",
    "priority": 1
   },
   {
