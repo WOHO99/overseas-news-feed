@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-18T22:06:42.520661+00:00",
- "total": 1363,
- "high_priority": 1000,
+ "updated": "2026-10-19T02:37:07.113446+00:00",
+ "total": 1372,
+ "high_priority": 999,
  "fulltext_count": 39,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
-  "国际组织": 0,
-  "海外媒体": 7,
-  "企业官方": 1,
-  "亚太官方": 2,
-  "海外媒体RSS": 3,
-  "航运物流行业": 0
+  "国际组织": 1,
+  "海外媒体": 8,
+  "企业官方": 0,
+  "亚太官方": 3,
+  "海外媒体RSS": 11,
+  "航运物流行业": 2
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -6452,6 +6452,40 @@
    "priority": 2
   },
   {
+   "title": "Maersk cuts import dry port surcharge for New Delhi",
+   "link": "https://container-news.com/maersk-cuts-import-dry-port-surcharge-for-new-delhi/",
+   "published": "Sun, 18 Oct 2026 23:30:46 GMT",
+   "summary": "Maersk has revised its import dry port surcharge for shipments moving from worldwide origins to New Delhi, India. The new tariff levels took effect on 16 October 2026 for both regulated and non-regulated countries. Under the revision, the New Delhi dry port surcharge for a 20-foot dry container has been reduced from INR 21,000 to [&#8230;]\nThe post Maersk cuts import dry port surcharge for New Delhi appeared first on Container News.",
+   "source": "Container News",
+   "module": "航运物流行业",
+   "category": "美国关税",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Why I am taking the other side of the trade that crushed the market Friday",
+   "link": "https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html",
+   "published": "Sun, 18 Oct 2026 22:23:08 GMT",
+   "summary": "How did this happen so quickly? Where were the buyers? I have some answers.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Why I am taking the other side of the trade that crushed the market Friday - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWC1GdTJPN3F4aEVid1k5U29fblBMU0hVaVM0VE9lOVhDb1FWMGFzV1hod2k0MlcxcUVjTWNreDZiTTRFQ1JQQUg1cjlyN1RTQnFOc3VfWHE0VmRlWC0wdHNXRlhDeEp4dmtJSTl0aFk0dzl4WHczUVR3NWRraEh3ZXV6Y0k0VVkzNVVwX0M0c3VwNFJaeTAwenAtT1lyRXNVZERFXzVFaEhlMzFQb2oxaHpYcXAxTGlWZ04tYll4ZHhEdHBpQ2NpU3Z5Rm91b0VtQ0E?oc=5",
+   "published": "Sun, 18 Oct 2026 22:19:55 GMT",
+   "summary": "Why I am taking the other side of the trade that crushed the market Friday&nbsp;&nbsp;CNBC",
+   "source": "CNBC | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
    "title": "Robin Xing on how China’s ‘two-speed’ economy can solve contrasting problems",
    "link": "https://www.scmp.com/economy/china-economy/article/3371109/robin-xing-how-chinas-two-speed-economy-can-solve-contrasting-problems?utm_source=rss_feed",
    "published": "Sun, 18 Oct 2026 22:00:12 GMT",
@@ -6460,7 +6494,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6472,7 +6506,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6486,11 +6520,31 @@
    "priority": 2
   },
   {
+   "title": "A Trump-Xi Deal Could Revive US Energy Exports to China - EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2VaaVNJRnN6RnhWM2U0cFI2MGg2VDNLVUEzS0daemVkTjc4WGIxRDI3Y2dvMTN5clRlaC1CTjNHdUJndmtsTnZVcFBvZnhZaTJRYjN1d2FqZ1MxY2o2M2VsaXhLWmVlWDJuVy1ERWowZWd2Q1JGOTNQUWhDR1VYWFJDeEFxTzJwZDdCQVZKQQ?oc=5",
+   "published": "Sun, 18 Oct 2026 19:40:53 GMT",
+   "summary": "A Trump-Xi Deal Could Revive US Energy Exports to China&nbsp;&nbsp;EnergyNow.com",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "UK Signals ‘Different View’ From Trump on Russia Sanctions - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTMtYlhaaWtFbVBlWXFUYUd4YjNYN0RKeWMzLTFTYlE1Wk1QRGNHSmZfZXpyWmwxMFZkM21Pc3RvUk1peWEzRkRnWGkxTGVPNGRZTkpzdU4ybFJfSzhrS3FDTVpEcW9FRHVHYjNTZGJsS2p0VTdqamFRYkF2S01OOTBDS0t1YVBDbUVXWmlVR1d5S01UNnJqUkdxcUlMSDlaQkNuVzBjWGk2b1k?oc=5",
    "published": "Sun, 18 Oct 2026 18:44:13 GMT",
    "summary": "UK Signals ‘Different View’ From Trump on Russia Sanctions&nbsp;&nbsp;Bloomberg.com",
    "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Inside Trump’s Russia sanctions relief plan: What 60-day review means for India - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEU0Y0l0VHFSVTNUTEMxSkNhSFFkbEV6N3ZZeVEtenNmY01LcVhDeXNTbllZTXY3NWxYSWRuV2dOQVNmbGN5QmpNemoxQ3lmcUlkblhRZVNjLTBTbDd4MGd2Qm9xci04alNCNjFtUERjRnZsTEhudVM2ZU5PT0dqNXVfVDYtd2NqZF9YcW16aFBZbnRHTno2LWZMSmJQRmc2QmJfWVN0aUVuRTNMM0cwcNIBtwFBVV95cUxOUVh6UFE0YnpkZnVZRTdFdmt4RGs1eDFLRTZld2NRU3NPQ0tpZi14MTRIZ1oxQnVZajFsdHd0R2hIbXBXbWVLcEVRWGRMbkhDZ21LVWdXOFJ6aWV6S0IwVDhBODNIYThzR0RhaFRINmR5REp1ZzVJRmtIaXVfelQ1NER0Tl9ZdTZZRDByNVFZQmxYeGQ5NFNjSDkyeUVtcEhKQlJYa0pRMUtiYWpnUWNtdkpjUko3dWc?oc=5",
+   "published": "Sun, 18 Oct 2026 17:16:57 GMT",
+   "summary": "Inside Trump’s Russia sanctions relief plan: What 60-day review means for India&nbsp;&nbsp;The Financial Express",
+   "source": "Google News | US Trade",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
@@ -6576,6 +6630,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "Tariff rate, most favored nation, simple mean, manufactured products (%) - Paraguay, Malawi - World Bank Open Data",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWUJ1Ukhsd0VVT0RNNV9keHVFUUQxZk9SVXBCTFNYYnBLM2t2bXlia0k1ejQtNVNZa3BqMGQtTHJKWlA1dkxmdVZGQ21CeG4tRk1qTWs1LWtBWEpadmt2U01Qd1VoQ3BDNEIyOW5SQWdMZndtN0FKQTlrWnZLMUJ4SDhzRDRuT1hKWDdsZQ?oc=5",
+   "published": "Sun, 18 Oct 2026 10:54:49 GMT",
+   "summary": "Tariff rate, most favored nation, simple mean, manufactured products (%) - Paraguay, Malawi&nbsp;&nbsp;World Bank Open Data",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "美国关税",
+   "priority": 2
   },
   {
    "title": "Qian Jiang, former Johns Hopkins’ eye institute expert, joins hospital in China",
@@ -6797,48 +6861,6 @@
    "priority": 2
   },
   {
-   "title": "Trump faces growing backlash over plans to import diesel from Russia - BBC",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12aENGV2dkdWNiNzl5RlFsVEk2TEJMMi1SSEIxZ0pHMFhpVE5NLVFHRjEwYWZ2VUlEMVBlMmhRMGNUVEk3cjBYYnRGZGVqaEdJazI2Q09GUWtjUjA5TEE?oc=5",
-   "published": "Sun, 11 Oct 2026 23:18:45 GMT",
-   "summary": "Trump faces growing backlash over plans to import diesel from Russia&nbsp;&nbsp;BBC",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "‘Satisfactory’ opening for revamped Huanggang crossing",
-   "link": "https://www.scmp.com/news/hong-kong/transport/article/3370517/satisfactory-opening-revamped-huanggang-crossing?utm_source=rss_feed",
-   "published": "Sun, 11 Oct 2026 23:03:24 GMT",
-   "summary": "The revamped Huanggang Port has officially opened after six years of redevelopment, becoming the first border checkpoint between Hong Kong and mainland China to use a “joint clearance” system for immigration.\nThe facility, which opened at 6.30am on Monday, has replaced the old Huanggang Port in Shenzhen, which served city residents via a shuttle bus ride from the San Tin public transport interchange or private vehicles via the Lok Ma Chau control point.\nWith immigration procedures for both the...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "China moves to stave off wider EU trade war with hybrid deal - The Business Times",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmYtZDBxWUFmc0ltYldYamd6VGZyWWdYczlFVmlLdDFLQ1FjLTRjUC1rUC1kMlhnazJNVjhfV0RUYUJkNUhPeW5JcjZWM244dGFrekRPY2VBTEhBekRVTVpSOVkyRVZqSXBGR1B4TTE2RnlNeldmTjhxaUc0bEZWM1c5OERVMTM3Z0JuRDJMLWtReEVmSjJRLUlIUQ?oc=5",
-   "published": "Sun, 11 Oct 2026 22:48:00 GMT",
-   "summary": "China moves to stave off wider EU trade war with hybrid deal&nbsp;&nbsp;The Business Times",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Canadian Who Was Detained by China Warns Against Carney’s Auto Deal - EnergyNow",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2FYQnZ1UUVBMzhxbWxEcHFleXotLVZsMWYyLUFpSWctUDBpSjhOMmktbHNveTJjazRwdVRGV2JHNjVvRXZ3ZVVSNzJtclJZQlN4bUlLcldrSkV5cXVHZkdxTEx1b3ZxR0NQblVQQ3U1ZG11eElndHBSNWp6djZpUlVkQzVyaTFMcjVPUDRVOHAwLTdVRFRVMGR1SG4?oc=5",
-   "published": "Sun, 11 Oct 2026 22:31:23 GMT",
-   "summary": "Canadian Who Was Detained by China Warns Against Carney’s Auto Deal&nbsp;&nbsp;EnergyNow",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
    "title": "Across US, ‘No Kings’ events seek to boost early voting and thwart Trump",
    "link": "https://www.scmp.com/news/world/united-states-canada/article/3371279/across-us-no-kings-events-seek-boost-early-voting?utm_source=rss_feed",
    "published": "Sat, 17 Oct 2026 23:56:30 GMT",
@@ -6944,6 +6966,16 @@
    "content_attempts": 1,
    "content": "What Daimler's Finance And Global Chiefs Revealed About Diesel, Driverless Trucks, And The Future Of The Industry - FreightWaves On a rainy Saturday morning in Charlotte, inside the brand new North American headquarters of Daimler Truck Financial Services, four of the company’s senior leaders traded the usual press-conference script for something closer to a fireside chat, and over the better part of an hour they said more about where this industry is actually heading, from the engine under your hood to the driver who may one day not be in the seat to the rising cost of borrowing money against a truck, than most carriers will hear in a year of official announcements. The panel brought together a rare mix of global and local perspective. Eva Scherer, chief financial officer of Daimler Truck Holding AG, carried the worldwide view. Stephan Unger, chairman of Daimler Truck Financial Services, which operates across 21 countries, spoke to how the financing side of the business is changing. Kevin Bangston, president and CEO of Daimler Truck Financial Services USA LLC, handled the view from the United States, Canada, and Mexico. Goetz Johanning, head of strategy and realization for the North American financial services arm, moderated. The session was set up as a conversation rather than a presentation, and the candor showed. Here is what matters in it for carriers of every size, from the single-truck owner-operator to the mega fleet, pulled apart and put in plain terms. The EPA 2027 ",
    "content_status": "full"
+  },
+  {
+   "title": "Russia sanctions waiver buys time for India but offers no lasting certainty: GTRI - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYWhvcVpjM2hMTk5ISFlqRW5meEdXRDlNeUxCU1lwUjlDNUVqSHFDb1E0OEI2a3JqNWtLRVlhdUktZjc2b2UtNGR0X2psUUFWZWpiRE8tamFDckhNZWhrQkdENktQWFlPQko4WE01ZEl5QTNDUnpHUXBINWQ1cDBfbUJNdWJQSGJTUmpnc1JFa2JUbHJ5RnhUcVNOc2ZhVXhZa2V1dldRLVRuVTFNcWh5YUhpQWxfV0ZoZnU1aXI1WmpubnFHeTN1TmlvYlh6c1dZLTVQc3hLcDJHSWF3eGVSVjRQa3Nubm1yV296VVVkSmNyeGVUSkRTdFFnRjByMW5xQkFUZtIBigJBVV95cUxQWGpiSU9lRDVCR3MxcXVfQkRpcEE0WnZNYm1TUDM1TTROTUlKaS1sWHNMZWtkRG1wSDM1TzNHWXNxbGNwQllLb1lKWnRzUEk3Z09xeFZVZF9XdkRKOVVuWlAyTjVKZGdFcGtnLWlGb3pEVmpwMkVJVks4X3hXSnVSQi10Zk1BQmhCMWl6X2hpVFhNUm1lWVJRb0xqNk5xQ0lUNEphdnY2T1RNdy1QNnhrTW1KTzdUTGhZTVBZeDVmNElzN3NYa01CTXJwU3hwcjFtMmZWbTZZb0F0dDRDdFNvbUN0U0hra0xCZGxVVjJ5RDVwbXJFYlZFM1JieFNKS1VHNEtpcl9EM1Y1Zw?oc=5",
+   "published": "Sat, 17 Oct 2026 16:57:00 GMT",
+   "summary": "Russia sanctions waiver buys time for India but offers no lasting certainty: GTRI&nbsp;&nbsp;The Times of India",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
   },
   {
    "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
@@ -7376,6 +7408,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "The UK Is Paying More Than Ever to Steady a Straining Power Grid - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVTNjelQ4d1dvc21YNUhJOExfS0pyOHJXUHB1cG84TGItaDdXZUtiNlZDdlBPTnlmdGtBZVh1ZEVFQXJLNkJpRHBGNmM2cXVhNlFPaGtTOTdlZDk0eEhMRlB5dVRvNFhTZDBIZTFMXzFtc2Z0YzRsc3VhRWdHSmMyQklCMTJEY0pwenkzQ095RGxKeWhtenlNWE5iMTMxYTk4ZzdyN1QwVmRELVdhaEY4cVJzYi1jQQ?oc=5",
+   "published": "Sat, 17 Oct 2026 07:00:00 GMT",
+   "summary": "The UK Is Paying More Than Ever to Steady a Straining Power Grid&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
   },
   {
    "title": "Trump’s Russia oil waiver: What it means for India and why tariff risks remain - Mathrubhumi English",
@@ -8034,6 +8076,64 @@
    "published": "Sat, 17 Oct 2026 00:53:05 GMT",
    "summary": "Trump suspends certain Russia sanctions, tariffs under Lindsey Graham Act; reserves right to restore them&nbsp;&nbsp;The Economic Times",
    "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+   "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+   "published": "Mon, 19 Oct 2026 02:29:11 GMT",
+   "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "BV China and Pacific Gas ink strategic cooperation",
+   "link": "https://www.seatrade-maritime.com/tankers/bv-china-and-pacific-gas-ink-strategic-cooperation",
+   "published": "Mon, 19 Oct 2026 02:03:44 GMT",
+   "summary": "The partnership aims to deliver technical consultancy services for liquefied gas carriers",
+   "source": "Seatrade Maritime",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "error"
+  },
+  {
+   "title": "No fuss, just dinner: China couple trade wedding extravagance for US$11,000 feast, cash gifts",
+   "link": "https://www.scmp.com/news/people-culture/trending-china/article/3371308/no-fuss-just-dinner-china-couple-trade-wedding-extravagance-us11000-feast-cash-gifts?utm_source=rss_feed",
+   "published": "Mon, 19 Oct 2026 02:00:10 GMT",
+   "summary": "A young couple in eastern China have gone viral on social media for skipping elaborate wedding traditions and instead holding simple nuptials, spending money only on banquets and cash gifts for their guests.\nThe bride, surnamed Zhu, is from Ningbo in Zhejiang province, while the groom, Wang, is from Taizhou, also in Zhejiang. The couple, both in their early 30s, held wedding celebrations in their respective hometowns in September, according to the Ningbo Evening News.\nRather than follow...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
+   "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+   "published": "Mon, 19 Oct 2026 01:56:34 GMT",
+   "summary": "CXMT shares fell over 6% on Monday after the company released its earnings forecast for the first nine months of 2026.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Oil slips as Trump’s sanction waiver may lead to more Russian fuel supplies - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1IwSkt0YnZwNWp1ZmUtSDBNUGRac1dfLWswM1prY1ZEb3lpWGxWMGtRaUxiZ2ZMeGxvMmZxME9fWHBaTUV2MUNNTXNkdnl5VFY4MGo4VFNNWThRMmI5eEg4Y2Nha3VCVFJfcnQ3U0lIZk8ySmtXVk55MzJlNUZNYW5PekI3M3gwV3dOaVEzNVZEVXJpaGVQZVdVaDRVM2V2bmphRFhVYU9YcHp1X3RhV1dLbGZjWVZZb3VzbTlscW9mWDB1ZWlrdFJR?oc=5",
+   "published": "Mon, 19 Oct 2026 01:30:00 GMT",
+   "summary": "Oil slips as Trump’s sanction waiver may lead to more Russian fuel supplies&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
@@ -9140,124 +9240,6 @@
    "priority": 2
   },
   {
-   "title": "China grass-roots singer shoots to fame after saving delayed Hacken Lee concert with 2-hour set",
-   "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3370519/china-grass-roots-singer-shoots-fame-after-saving-delayed-hacken-lee-concert-2-hour-set?utm_source=rss_feed",
-   "published": "Mon, 12 Oct 2026 02:00:33 GMT",
-   "summary": "A grassroots singer in China rose to fame after standing in for Hong Kong singer Hacken Lee, giving an impromptu two-hour set after Lee was delayed.\nOn the evening of September 26, the touring concert Hear Yourself, featuring six acclaimed singers from Hong Kong and Taiwan, was held in Baotou, Inner Mongolia, in northern China, Shenzhen TV reported.\nLee was scheduled to give the grand finale performance. But he did not arrive in time because his flight, originally bound for the nearby city of...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "As AI and the Iran war loom, China’s energy technocrats are on the fast track",
-   "link": "https://www.scmp.com/news/china/politics/article/3370383/ai-and-iran-war-loom-chinas-energy-technocrats-are-fast-track?utm_source=rss_feed",
-   "published": "Mon, 12 Oct 2026 02:00:26 GMT",
-   "summary": "This is a special contribution from the Centre on Contemporary China and the World at the University of Hong Kong. Read the full report at the end of the article. It will be available on the institute website cccw.hku.hk from October 13.\nWith the rising strategic significance of energy, especially due to the need to support China’s artificial intelligence (AI) development, members of the Communist Party’s 20th Central Committee with energy backgrounds – the country’s “movers and shakers” in this...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "[Jeong Ingyo's Trade-Off] U.S.-China Tariff Truce Extended by Two Months... What Did Trump Gain? - 아시아경제",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwY3QwSEpsWktaM285b1VEWkIweUcxRElheTFsWmVDQlJxWGpJMG9DSmZ1RUV4QnNidm9WNEtJR2dIVVNzRDRZVjVJOXlMUndpbHlELTFuc2N4bG1TMFU5dDhTNTM?oc=5",
-   "published": "Mon, 12 Oct 2026 02:00:00 GMT",
-   "summary": "[Jeong Ingyo's Trade-Off] U.S.-China Tariff Truce Extended by Two Months... What Did Trump Gain?&nbsp;&nbsp;아시아경제",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "China moves to stave off wider EU trade war with hybrid deal - The Edge Singapore",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGpRX2ZyNHRWbkk2akxHZ0daaTMxWTdlZzg1a3RPeFROVm9ITzJhTnhRZ2VVdC1xbVNoY1V3bmo0R05ydkVzanpMNmc0UkNFLU9nazQ2M3Z1emdQUjR1MnBLaFBweThGN0s1TnJYNldwVXd3YXJsWVJOaHNXYlJ2QjVocVJuZGlGb0t6aWZTZWpQNUFKQjBIVFAzRlNjZGNyMExv?oc=5",
-   "published": "Mon, 12 Oct 2026 01:47:55 GMT",
-   "summary": "China moves to stave off wider EU trade war with hybrid deal&nbsp;&nbsp;The Edge Singapore",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Tong's Portfolio - Trump’s tariffs: Why the inflation shock never came - The Edge Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pZmtIOC1IeGFiWFBYVkRHNnotdGZ1czVLNldSczAxNzJuOGR3WUxYemxEQ1llVjZjWHBsMEtmVVB5Wks2UGtjUTZjdnRXNDgy?oc=5",
-   "published": "Mon, 12 Oct 2026 01:00:54 GMT",
-   "summary": "Tong's Portfolio - Trump’s tariffs: Why the inflation shock never came&nbsp;&nbsp;The Edge Malaysia",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Tong's Portfolio - Trump’s tariffs: Why the inflation shock never came - KLSE Screener",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUNsandydXpCdkwwMEdsSE5RLXg0dzBIbVFxbVVZUVNod09mRDlwclN5V3N5VHp4QTZwYUxiMkxKcjhrS1QxQld2WEZ1UGlLNWl4LUNCWW9KWTVMNUV2eGR6TGFHekdHSjVrVGlPT2F2X0pISVNFWTBPdUN2TlZKMXFLcHU1STR5RUhnYXR1T0xCLTlQeXVsSWJQTlFJQ1h4cUloa3JLYVZBRFMtT1J5SGR4V2txSWN0?oc=5",
-   "published": "Mon, 12 Oct 2026 01:00:54 GMT",
-   "summary": "Tong's Portfolio - Trump’s tariffs: Why the inflation shock never came&nbsp;&nbsp;KLSE Screener",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Rwanda Men's or boys' garments of other textiles, nes exports by country - World Bank Group",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnY5cHVidmRPdHlnQ2VNSEEydlloUlk0U2NQa2NLSlJjSHcxTEVtRmJLZFN2NmZGNERuWVlhM1plelNMZTExcENJR1huQlpYVDk0UnJRLUQ4QjNJdWVUal9PVUc5cERDb2F4Rk5HbVhlLXFpVmV1M0pYelNBUGdCNjJsdHpwTkFlbXNXY3RWZ0NHT1dyeGtXOTd4Zk1PN3U2c3ZhajVxNGtMQVFSSzB5Ug?oc=5",
-   "published": "Mon, 12 Oct 2026 00:53:59 GMT",
-   "summary": "Rwanda Men's or boys' garments of other textiles, nes exports by country&nbsp;&nbsp;World Bank Group",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Why China is importing a record amount of gold — and what it means for prices",
-   "link": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
-   "published": "Mon, 12 Oct 2026 00:51:10 GMT",
-   "summary": "Beijing’s push to diversify away from the dollar and Chinese households’ search for a safe place to put their savings has fueled China’s record gold buying.",
-   "source": "CNBC | RSS",
-   "module": "海外媒体RSS",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Musk Says Terrafab Plant Will ‘Make Chips Better Than Anyone’ - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU0o2NUNoMjZDQUJXak5oLVJJaGp6YzdiQTFkellEY2pNQ3Y0Y000RWJOeEJaeHozRzJuOExzVS1QRFYxb0FFUHVYTnpqamQzWC1NOHlENFlpcEN5N2tjZ1lhd09FWHV6R1l6bUlpcXpNWUdETS0weTRFUzNSLTNCOWdDWFNqRlJNUDNuREpRWTllT1NzOEpLNUVGdWtPQWxZVmF4SG1LeTJldlMyV3Zn?oc=5",
-   "published": "Mon, 12 Oct 2026 00:47:00 GMT",
-   "summary": "Musk Says Terrafab Plant Will ‘Make Chips Better Than Anyone’&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Update 2- BIGEX Service – Vessel Schedule Revision Due to Delay - CMA CGM",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWTBVcEVLOU1OZC0wOWZIbVg5cVpSemw5dlhHWWo1V2VfTmZjai1RclgzcGp3Y0VCcVROYk5WWndXQXNtalVVVWdhaldvRzVCbkNLM2tCcnNwUndqRUZFcnA0MFZLUjJIVEMteFRnTkJoUFo0THdwNFRjVWYyc3hKUmp5M19VUW5PdjdnX2c2SWhZakVkek10c0hrX3FRX1h0Rk5VaE8tSnByZw?oc=5",
-   "published": "Mon, 12 Oct 2026 00:34:05 GMT",
-   "summary": "Update 2- BIGEX Service – Vessel Schedule Revision Due to Delay&nbsp;&nbsp;CMA CGM",
-   "source": "CMA CGM | Shipping",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "China’s CXMT unveils ‘key progress’ on chip structure pursued by Samsung, SK Hynix",
-   "link": "https://www.scmp.com/tech/big-tech/article/3370505/chinas-cxmt-unveils-key-progress-chip-structure-pursued-samsung-sk-hynix?utm_source=rss_feed",
-   "published": "Mon, 12 Oct 2026 00:30:13 GMT",
-   "summary": "China’s memory chip giant ChangXin Memory Technologies (CXMT) has reported “key progress” in a new structure that rivals Samsung Electronics and SK Hynix are also working on to boost memory density.\nCXMT planned to roll out a new server-memory product based on the structure by the end of 2026, president Cao Kanyu said at an industrial event in Shanghai over the weekend, according to a company statement.\nAt the centre of the development is the “4F square” design, in which each memory cell...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
    "title": "Watch Wall Street Week | America’s Relationship Woes, Battery Pivot, Farmers’ Fed Warning - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzdMNHItS0lhbGZHcVg3Uk1WNWRsX2NoRC1HSDMxS0FwVUp4a0phZ2x3WDVZYWFWZWIwOVItUDZYdDFOUFZpTU9ucDNKSjNoUE1CVTFZaGdwSnJmUHM3S3RrNS1HblQ1X3Vld09IZ1Y4NVFkT0xpOEVCUmdNa2ZzbnBGWUdrQlNaRjVMa3JHV0ZVaGk1cUhfdi1qMVVQMXFRTUdaSzVaVVY?oc=5",
    "published": "Fri, 16 Oct 2026 23:30:39 GMT",
@@ -10261,6 +10243,16 @@
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Consolidated List - Australian Government Department of Foreign Affairs and Trade",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRzFpZ2hXbXB2V3FpaTVzSEh3UVgxTjJuMndMalc4eFY2MnNqME43WHdzR1ZUbGlLZ3dBZUdKcXRUM1llUVZKanViQ3ZoVlVwcWdhWGxsaE1HbVpIZ2ZiNXFhdzhHeFJ6MmJYbzgydi00dFRHMm9yTXZxa2R6ajI3OThzZ01DTGFBVVQtRA?oc=5",
+   "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "summary": "Consolidated List&nbsp;&nbsp;Australian Government Department of Foreign Affairs and Trade",
+   "source": "Australia DFAT | Trade",
+   "module": "亚太官方",
+   "category": "美国关税",
    "priority": 2
   },
   {
@@ -12416,6 +12408,16 @@
    "priority": 1
   },
   {
+   "title": "Export forecast raised to 25% as September shipments hit record - Singapore Business Review",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkFQNkhXMlRidkVEbmxEQmlaM04xMkNyNHpnVjNIdGNaSUZtLTlGUmpma19keE9sTGJERl9KVDRjT09KWGctNVFZNlkzZDlzS1ZjOUNTbTlUSEhtVEdaLU9rMHdiWmNpeVpQMklBOEpuUmo2LS1MTjhLMVRvUWpHS2lDbFZRcTNWTG53aFNlMmlLY3E2TWNV?oc=5",
+   "published": "Sun, 18 Oct 2026 22:00:00 GMT",
+   "summary": "Export forecast raised to 25% as September shipments hit record&nbsp;&nbsp;Singapore Business Review",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
    "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
    "link": "https://www.channelnewsasia.com/business/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-reports-6469576",
    "published": "Sun, 18 Oct 2026 20:08:28 GMT",
@@ -12916,16 +12918,6 @@
    "priority": 1
   },
   {
-   "title": "Business Coaching successfully develops your team's potential - FedEx",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTdheWd1b0ZiZ3BBMmFYRjVqU3hGalpJai1BeGpia01QclZWclFzYnNremlGNDZ0Y3Y1enJfSWRmREt0Wml0UTVsRk8yTzFEN2J0bTFwVUVPajhmcng1ai0wR3dIZUhlcG1YSGNGMFhDMlFDRnB3WnFvMXhndkd6Sy1KY3VEaXJKaVAwWURiU1FRTHdhVWxUTUZhUnBEYU5JNTNUWnprTzI?oc=5",
-   "published": "Sun, 11 Oct 2026 23:36:53 GMT",
-   "summary": "Business Coaching successfully develops your team's potential&nbsp;&nbsp;FedEx",
-   "source": "FedEx | Logistics",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
    "title": "Why a ‘killer switch’ to tackle Europe’s trade issues with China may not be so straightforward - The Straits Times",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmxDY3R4NHpndjlLUUlhZUxLUUtYdzAyQnpSQUJYQVpKb3g3VExSckVJMjE0RXZUbW9RWUsxMmpRS3VCRmhhYzBnNl9SSXNUT2VnZk9sRWpCNFFTeUFwRkpSNXJ4ZEQ5ei1jTU96X204MnZKTXZDWkRzQVc2MDdUWko2ZFhKM1pLZUpELWJXVUxrYVhTMkJ3VExIYVpteUNTNzVYSW5SbGVUeTVpaEplR0h3OHNJS0sxeXI4QlBQektmNmJOS0E?oc=5",
    "published": "Sat, 17 Oct 2026 23:30:00 GMT",
@@ -13186,6 +13178,96 @@
    "priority": 1
   },
   {
+   "title": "Auto exports fall 5.5 pct in Sept. amid Mideast tensions",
+   "link": "https://en.yna.co.kr/view/AEN20261019001600320",
+   "published": "Mon, 19 Oct 2026 11:00:07 GMT",
+   "summary": "SEOUL, Oct. 19 (Yonhap) -- South Korea&apos;s automobile exports fell 5.5 percent in ...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Seventeen's new unit Jeonghan X Joshua to drop debut EP",
+   "link": "https://en.yna.co.kr/view/AEN20261019003100315",
+   "published": "Mon, 19 Oct 2026 10:55:13 GMT",
+   "summary": "SEOUL, Oct. 19 (Yonhap) -- K-pop boy group Seventeen&apos;s new sub-unit, Jeonghan X ...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "N. Korea touts 'invincible' comradeship with Russia at diplomatic event",
+   "link": "https://en.yna.co.kr/view/AEN20261019002000315",
+   "published": "Mon, 19 Oct 2026 10:24:24 GMT",
+   "summary": "SEOUL, Oct. 19 (Yonhap) -- North Korea has reaffirmed its commitment to deepenin...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "China's Q3 GDP growth accelerates to 4.5%, beating forecast",
+   "link": "https://www.channelnewsasia.com/business/china-gdp-growth-data-september-2026-6470736",
+   "published": "Mon, 19 Oct 2026 10:20:45 GMT",
+   "summary": "",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "Subaru targets software-defined vehicle launch for late 2020s, plans to cut development times by 40%",
+   "link": "https://www.channelnewsasia.com/business/subaru-targets-software-defined-vehicle-launch-late-2020s-plans-cut-development-times-40-6470721",
+   "published": "Mon, 19 Oct 2026 10:11:54 GMT",
+   "summary": "",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Subic Freeport eyes over 2,000 EV shipments monthly",
+   "link": "https://newsinfo.inquirer.net/2326252/subic-freeport-eyes-over-2000-ev-shipments-monthly",
+   "published": "Mon, 19 Oct 2026 10:07:25 GMT",
+   "summary": "IBA, Zambales — More than 2,000 electric vehicles could pass through the Subic Bay Freeport a month, the Subic Bay Metropolitan Authority (SBMA) anticipates, as demand for electric vehicles in the country rises. In a statement on Monday, the SBMA said the projection follows the recent arrival of 100 vehicles, 80 hybrid and 20 fully",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "‘Singapore is not boring’: Meet the urban explorer revealing the city's hidden stories",
+   "link": "https://www.channelnewsasia.com/living/urban-explorer-ho-yong-min-heritage-tour-guide-6466121",
+   "published": "Mon, 19 Oct 2026 10:05:00 GMT",
+   "summary": "Ho Yong Min, better known as The Urbanist, has built a following by uncovering the hidden stories behind Singapore's streets, buildings and public spaces.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "Cusi seeks travel permission for China, Japan",
+   "link": "https://newsinfo.inquirer.net/2326250/cusi-seeks-travel-furlough-for-china-japan",
+   "published": "Mon, 19 Oct 2026 09:48:23 GMT",
+   "summary": "MANILA, Philippines — Former Energy chief Alfonso Cusi on Monday asked the Sandiganbayan Third Division for permission to travel to China and Japan starting Oct. 31.  According to Jezreel Zapanta of the Office of the Special Prosecutor, Cusi’s motion did not specify the duration of his stay or his return date, although the trip would",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "IMF/World Bank meetings leave developing countries with more questions than answers",
+   "link": "https://www.bangkokpost.com/business/general/3339684/imfworld-bank-meetings-leave-developing-countries-with-more-questions-than-answers",
+   "published": "Mon, 19 Oct 2026 09:19:00 GMT",
+   "summary": "Last week's meetings of the International Monetary Fund and World Bank yielded no new answers for the developing ​world to the questions posed by a spreading Middle East war, continuing war in &zwnj;Ukraine, rising debt payments and a potential AI bubble.",
+   "source": "Bangkok Post | Breaking",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Commentary: Could devastating Nepal floods catalyse action at climate talks?",
    "link": "https://www.channelnewsasia.com/commentary/nepal-floods-climate-compensation-un-loss-damage-6465406",
    "published": "Mon, 19 Oct 2026 06:00:00 GMT",
@@ -13213,6 +13295,16 @@
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
    "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "China's economy grew 4.5% in the previous quarter, fueled by robust exports - WPLG Local 10",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVdVNGcxQTdBcTZmNUctNmZGYnd0UTlJb1ZSbERBemMtU3ZIcTFfNXp3LVF5U3VUM3RCLVRUWGstWjhOeUlpWTZoMHhId2ZKQUxvdXZ3aVZQOXRjQlNESjI4SzJtTkVVMXQ2bEVoRkdNN29mSDhub0NJX3pOa3luVkVEb3ZpYnJZS0pLWWh6cWRDS0F6b1BkNXQ4WTlCMU1BdHowTloydzRPdkp2WmxyNkhhaUwyQXc?oc=5",
+   "published": "Mon, 19 Oct 2026 02:34:11 GMT",
+   "summary": "China's economy grew 4.5% in the previous quarter, fueled by robust exports&nbsp;&nbsp;WPLG Local 10",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "中美经贸",
    "priority": 1
   },
   {
