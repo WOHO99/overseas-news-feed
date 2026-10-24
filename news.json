@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-23T22:46:45.658685+00:00",
- "total": 1437,
- "high_priority": 1039,
- "fulltext_count": 48,
+ "updated": "2026-10-24T02:43:01.783618+00:00",
+ "total": 1434,
+ "high_priority": 1026,
+ "fulltext_count": 47,
  "stats_by_category": {
   "美国官方": 0,
-  "欧盟官方": 0,
-  "国际组织": 3,
-  "海外媒体": 39,
+  "欧盟官方": 1,
+  "国际组织": 1,
+  "海外媒体": 17,
   "企业官方": 9,
-  "亚太官方": 4,
-  "海外媒体RSS": 8,
-  "航运物流行业": 3
+  "亚太官方": 1,
+  "海外媒体RSS": 2,
+  "航运物流行业": 1
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -545,6 +545,26 @@
    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOM3psNFByR1otUGNqVTdjb2haYlM4UWw2eFFRdzhxdDVBWFpyWFhXc2dwM0FtaUM5eFdjcGJXSkNHb1lGVUZvcUhqOVJhUFNRVHhLUEd1aG1Rb3hKLVpnQ2YzdXZiZW1HZFJXME5RNHhjWV9HWnZaX3RWWkRDRWxWVi1SN3pETTBKVjk0T0NHMlFwb3JmZC1XUW1RNU5ab0d1SmptVmt4eXJ4Z2Z0TXNNbHpSdnhnaFAyUE1MdjU0MW1aTHBFdE5UN3ZZemJUS09ydzFtRWtsOFlaSDMyVlpNR3FoNElnNktydjFyMFdGRnVqWGJzNnhWWUZRM1U2Vk4zTVlnT3NrSVJ0WC1LRDBr?oc=5",
    "published": "Thu, 22 Oct 2026 09:03:01 GMT",
    "summary": "Documents&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
+   "category": "其他",
+   "priority": 3
+  },
+  {
+   "title": "Remarks by Commissioner Šefčovič at the press conference following the informal Foreign Affairs Council (Trade) - European Commission",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ROHdROGV4UkhRS0FqMFI2UXk5STIxMW5haHVzVGFmUGZlU0JRYkRmZDJKVS0tWkFZWDdZTUlGdWhQaFFKVzUzMVZzRkVCMmJRR3YwS3hhYl9hbTRreTFvNzNhQTFCRWo1bGo2SmRmWlp1NkZlNzZZ?oc=5",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "summary": "Remarks by Commissioner Šefčovič at the press conference following the informal Foreign Affairs Council (Trade)&nbsp;&nbsp;European Commission",
+   "source": "EU DG Trade",
+   "module": "欧盟官方",
+   "category": "欧盟贸易",
+   "priority": 3
+  },
+  {
+   "title": "Le Comité de la facilitation des échanges progresse dans son examen de l'AFE et discute du soutien à la mise en ouvre - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiVU15MU84eEh3R1NJSHJsRlp6bERxdms2ci1MRTZKRmdXdWNhLU9UcDYxaDYzb3V1dWhnWVZpNUtINHZ4ZlZycnZTYXJVSDNNWEZodlpJdDZHWnlkanpxdUJtSVNpRGxWNGZEbGt3MjJZQQ?oc=5",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "summary": "Le Comité de la facilitation des échanges progresse dans son examen de l'AFE et discute du soutien à la mise en ouvre&nbsp;&nbsp;World Trade Organization",
    "source": "WTO",
    "module": "国际组织",
    "category": "其他",
@@ -1572,6 +1592,16 @@
    "priority": 2
   },
   {
+   "title": "New Jersey Food Importer Files a Lawsuit Challenging Trump's 50% Tariffs on Canadian Goods - Food Manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLUpGSk5Mb0h0MU5RdFVNcEtaa1lCUXdTQWU1dzRsUjFGYXVFS1REZmd0X3BPaEJaZDFmeDJYOU1DTjgxZ0x5Z0FyaWhaalRpUlZJRG41c3NjWWFZN0NUWEVDY3JINjVIeXNPOURlbUZMclVtX2ZaUHNjcVhoM2ZJaml4bWwwdXppOTZBWWdxaV9HQ0pXa19EQjk0OThWRFd6M0FxYk5hR1NjajVqdVpnd0J2NUlIaFBCY0NNcEtKUmVZWnJwV3hmTXlBSXVyNG81TDk1S2M4VnUwOXIzaGptaDhrWQ?oc=5",
+   "published": "Wed, 21 Oct 2026 20:43:46 GMT",
+   "summary": "New Jersey Food Importer Files a Lawsuit Challenging Trump's 50% Tariffs on Canadian Goods&nbsp;&nbsp;Food Manufacturing",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Analog chipmaker Texas Instruments sees quarterly sales above estimates - Reuters",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzY1ODZDX1BVVUNrSzM0WmpLRTdReWsxSnRGY1otdDVyaTRkWEgzZVExa29jNDBwNjdtM0NTVjZMNUhpaFd4NkpOSWhiVE9RU3h3UmgwaTZwd0JOU2JFbUktdmloXzQ3MEZzekhwc29WQ1hBblFfTXlzZTdLeF8tLTU3LU5nLTljaEh6YmFoY1pxa2xIY05jb2E2UlFoLXJhcWozUUlPWG5ocWhsNUMwckxBcEN5aFU?oc=5",
    "published": "Wed, 21 Oct 2026 20:38:16 GMT",
@@ -1751,6 +1781,16 @@
    "published": "Wed, 21 Oct 2026 16:42:46 GMT",
    "summary": "China's weak soybean demand dims prospects for US cargoes after tariff snub&nbsp;&nbsp;Awani International",
    "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Cuba slams US strong-arm diplomacy ahead of key UN vote - chinadailyhk",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01UzhWQnpzZmF1T0IzLVhvZjJmZE5sMnpqVTZjY2ZONHhkWlFqUGl6dldSTHlybVZ1dkVsQ2Y4S1pYbnRkeS1JQXROV1ZiZG1UM2pkdWh1S21oZw?oc=5",
+   "published": "Wed, 21 Oct 2026 16:35:00 GMT",
+   "summary": "Cuba slams US strong-arm diplomacy ahead of key UN vote&nbsp;&nbsp;chinadailyhk",
+   "source": "Google News | US Trade",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2
@@ -4179,6 +4219,16 @@
    "priority": 2
   },
   {
+   "title": "S&P 500, Nasdaq end lower as revived AI doubts spark tech selloff - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54WWVmZXhCa1VoSEJHamFxd0dzS3FITHRDWFY4a1hYZ3hkQm1FaGJ2aHlYcldaU3V6ZnhvdDZWRnZCYnlvejgtY3I2Z3VPckRsNDZldW9CZjZPSEVubUNBTHBLRDRmTVk?oc=5",
+   "published": "Thu, 22 Oct 2026 23:44:46 GMT",
+   "summary": "S&amp;P 500, Nasdaq end lower as revived AI doubts spark tech selloff&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
    "title": "COMMENTARY: Will US Treasury scrap 20-year bond sales?: McGeever - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmV2bzNCVUc2cFdEcWVzRU5BVExNcWFpODRDM2pUQThfYnRQdkFOVzRJMERXaVNsVXo3OTJLSV9rZDI5dDhDUTY1UXVOZjJKdVZnZ0ZRbEIxLUh2ajhBLURIM1NGYlhZREJKdjB5eGk0SkhVeWZpTnJKLWFMX2pFYWQ5N0lIRmtUVHBneTVCLS1yVU5BM2E4QWtnal8tU2puOXJYN25BRkFQZWJTMHNULUxtZkVMTlVoS2xB?oc=5",
    "published": "Thu, 22 Oct 2026 23:30:47 GMT",
@@ -4310,6 +4360,16 @@
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Investors shouldn't ignore risks in AI trade, investor says - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkLW53ZElZTjRrOWNiRUZ6anRGTXU1OHREeTRGaFYzWU1SUU00TDBQOUVrWm9EVlRfWjBYVWN6bW5vQllyYjZ5SjZ5YnlhbWtDXzFhOEtDMnNMTTVid0ZqZmJFeHlndGc?oc=5",
+   "published": "Thu, 22 Oct 2026 20:58:15 GMT",
+   "summary": "Investors shouldn't ignore risks in AI trade, investor says&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
    "priority": 2
   },
   {
@@ -5094,6 +5154,16 @@
    "content_attempts": 1,
    "content": "Motive launches AI Agents as fleets weigh how to prevent problems - FreightWaves Ends Friday 10/23 F3 Promo code: LUCKYLAST50 Register → × Motive, an AI platform for physical operations, launched Agents on Monday at the American Trucking Associations’ Management Conference & Exhibition (MCE) in Charlotte, North Carolina. These AI Agents act on safety and maintenance alerts under rules a fleet sets, including calling drivers, opening work orders, and bringing in managers so teams can scale without adding headcount. The company said Agents, AI that doesn’t just surface insights but acts on them, are available now to its customers. It previewed a similar rule-based tool, Automations, at its Vision 26 conference in May. Operations teams have more visibility than ever, but they can’t act on it fast enough. The warning signs are often already in the data while acting on them still falls to managers, who chase alerts, call drivers, and check every fix by hand. That work eats hours every week and breaks down as operations grow. For fleets, the decision rests on how much alert follow-up to hand over to software. Bennett Family of Companies, which began running Agents before the launch, started with Agents that notify its own staff and do not reach drivers. “We did some things that did not communicate out to the drivers, and I think, for me, that was very intentional because I wanna build the trust,” Jared Whitson, senior director of safety and compliance at Bennett, said during a Moti",
    "content_status": "full"
+  },
+  {
+   "title": "White evangelicals could prove crucial in the midterm elections - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiNWVoaVFwb2dvMXZzRkdFVzFGQkg1UzZ3TnpoRFlfclhWTE4tSmY1ZUp3OFlRdEJ6bzdSRWViTmZIc2EwMzFZUE9CUVlUM1BBMkctWDBhTHltR0ZUcFNuNXZDemV5ZHM?oc=5",
+   "published": "Thu, 22 Oct 2026 10:57:17 GMT",
+   "summary": "White evangelicals could prove crucial in the midterm elections&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
   },
   {
    "title": "SA seeks to turn China’s zero-tariff access into jobs, industrial growth - South African Government News Agency",
@@ -6299,6 +6369,64 @@
    "content_status": "full"
   },
   {
+   "title": "Emirates Shipping Line launches China–Red Sea service",
+   "link": "https://container-news.com/emirates-shipping-line-launches-china-red-sea-service/",
+   "published": "Sat, 24 Oct 2026 02:20:40 GMT",
+   "summary": "Emirates Shipping Line will introduce a new service connecting China with Egypt, Jordan and Saudi Arabia in November. According to DynaLiners, the new service will be marketed as the China Red Sea Connector (CRC). The carrier will deploy four container ships of approximately 2,500 TEU, providing sailings at an approximately fortnightly frequency. The published port [&#8230;]\nThe post Emirates Shipping Line launches China–Red Sea service appeared first on Container News.",
+   "source": "Container News",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Pet custody disputes draw increasing attention in China, where pets are treated as property",
+   "link": "https://www.scmp.com/news/people-culture/trending-china/article/3371992/pet-custody-disputes-draw-increasing-attention-china-where-pets-are-treated-property",
+   "published": "Sat, 24 Oct 2026 02:14:29 GMT",
+   "summary": "Pets in China have become deeply woven into people’s lives and romantic relationships, especially those of younger couples.\nWhen romance sours, deciding “who gets custody” is becoming a painful legal grey area for many couples.\nAccording to pet industry data, China’s urban dog and cat population reached 126 million in 2025, driven largely by Gen Z and millennial.\nMany young couples treat their pets like children, calling each other the “Mum” and “Dad” of their fur babies. “While love may fade,...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Danger, death and devotion: Japan’s festivals face crisis after fatal accidents",
+   "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371913/danger-death-and-devotion-japans-festivals-face-crisis-after-fatal-accidents",
+   "published": "Sat, 24 Oct 2026 01:30:16 GMT",
+   "summary": "Japan’s centuries-old festivals are facing renewed scrutiny after a series of fatal accidents in recent weeks, raising questions over how communities can preserve their cultural traditions without putting lives at risk.\nThree people have been killed and more than a dozen injured in accidents at autumn festivals across the country in recent weeks. Meanwhile, organisers of another major festival, where two men died in February, have cancelled next year’s event, citing public safety concerns.\nThe...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "亚太动态",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
+   "link": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+   "published": "Sat, 24 Oct 2026 01:00:11 GMT",
+   "summary": "China’s access to artificial intelligence computing power will double next year, but US-designed chips will account for about 65 per cent of that capacity, an indication of its continued reliance on foreign hardware, according to new research.\nTotal compute available to Chinese entities was expected to expand in 2027 from about 4.6 million to 8.8 million “H100-equivalents” – a metric benchmarked against Nvidia’s data-centre graphics processing units, according to a report by the Washington-based...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Trump Ordered Alaska Lawsuit, Some Canadian Tariffs Exempted, More - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDZlMDBjM2tDOHQ3NDYzSnUyZzByYk5VU3Zjclp0QXZCSEpXWml0VjR3LUNvUUpkaDlrQmxJODBBWFlfQ24tbkg1andJMGpOaGdNbkl5UkRFSFdYM2dEZkFzdHZOa2k2bU1zbGVvQ1RwYS1pY2U5MGhIYkstXy02TzVwVU84R0VSMnBTX2MtNE85N0RDT1c1Nkk5WUJweV9BNzdBOWFOQjEwZkJFQ1NWTVpB?oc=5",
+   "published": "Sat, 24 Oct 2026 00:05:29 GMT",
+   "summary": "Trump Ordered Alaska Lawsuit, Some Canadian Tariffs Exempted, More&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Across US, ‘No Kings’ events seek to boost early voting and thwart Trump",
    "link": "https://www.scmp.com/news/world/united-states-canada/article/3371279/across-us-no-kings-events-seek-boost-early-voting?utm_source=rss_feed",
    "published": "Sat, 17 Oct 2026 23:56:30 GMT",
@@ -7495,307 +7623,6 @@
    "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Trump Sets 500 Percent Tariff on Russian Goods - SuaraGarut.ID",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0za3BfXzdOQTU2UjZFcDNqdFNralhRQmpwWWdyNW56bXpYcU94amFJR2ZFbTgwRjVhbXZ5SlhoSTVCaWtfR01EVkNjdTBQRFloUzlJb1ZOaVZqTlp3eEJ4R1FrZUhPNWx4MlE?oc=5",
-   "published": "Sat, 17 Oct 2026 02:41:24 GMT",
-   "summary": "Trump Sets 500 Percent Tariff on Russian Goods&nbsp;&nbsp;SuaraGarut.ID",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump puts 100% Russia oil tariffs on hold, giving India major relief ahead of Rubio visit - The Statesman",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQnpWMEpzbW5zWVNIbFVnR1lrbm9vSEpLUzZxV0RvLUVTSlB6OHk3VEJnRjNvOFJCdG1RdVlfYVBUUnV2eEVlYXdfRks5R3hMbVMwQmYwdUM2VmplUHptYTNfc0c1M1RFanRtdER2NFF4V0lMQkdRQ0xOU19ncmlUdFBWRVZhVHlobmpNUmxCUEZUX2lvZTBBUkNDT0MyTlduUmNqWGdMWmxPb0Y3NFZWdXgxbFFGN2FkeGhKVzZScktHbVNQU0RjeWZLYlZVM00weF9EZHFoblVud9IB3wFBVV95cUxOZVJoMTRGRDNpVDJIMnlMeHVCRXYwdkllRGFPMVlWMDZ2VVNYWG40WTJMTjNjbko2clM2UnBSX2t5dTNJek1hRGl3QTZwbENpenR1S1dHajNEc29odjgyODhPMVhPZXhfTE1iUlNtR09XSEJBQzVtSktlYmVVX2VLazlZTWhSZkp0eDVBLVd4azRPOEppdTJJbjlfR0FCR19ESmhsVkp0dlljODNvRmN3Ti1uMEFSbWV1M0lha1MyZmNSakVCdjNHalRFbW03VHVQZy0tN1FvSTVLWWlURVo4?oc=5",
-   "published": "Sat, 17 Oct 2026 02:41:00 GMT",
-   "summary": "Trump puts 100% Russia oil tariffs on hold, giving India major relief ahead of Rubio visit&nbsp;&nbsp;The Statesman",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump Waives Russia Sanctions And 100% Tariffs, Easing Trade Pressure on India, China Under Graham Act - Republic World",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU0dZRXE3SFZYMF9oMlVqMmd1WlZscG94VC1SQVdwWUxXRHNzNDViTy0tNXBNVGw5QWFPbE95UmlJYnl4WF9iSDlGLUxjdzRCbFRaZE85NGk1SkhrN29OWFZKdUw4ZnFRRXpxbFlETl9UY3BTM0JkY0U2cS1rYVRPd2pIaV9zUnlOamhMaEREcktIQ0g4SHFMNkJneW10MlAzYlhBUHVzbm1TMFVlbTFreFFxZjRJcTFNZmVxcXJLLWt0OFZCOVE0NW1lUm50UDlOU3YxYk5HS0ctWk9wdHlDbVpER056a1k4VFNXMEtJUdIB9AFBVV95cUxPbTh4bm1YZTR6X19QLVBYb3VtMlBIeTF3Zi0yQWNNakRULXZ2UFNwMW1zamhvdTV3cnpCQmZBNlRPXzJEUWFDdkRsMENld3dTWlRtYk96OURIN2dwZjYtMU1OWHBOUmdxVWFSMjFUb1JHZ2JBVW5zcGREaGFNd0NINUVxRTNVd2VmNWF5YVdsV1RZYU5SMHJ6b01jYUZCY3pvbFZfSUtJU1JNc0VaenZHLWMtU043c2ppSDJVRjFVUkpFN0kyZG9BaG1IUWhZOGZHYjZ1MTRqX2x5dFhzYmxuTG9DTm1KcXhIQW1EZXVvd3pPMHFP?oc=5",
-   "published": "Sat, 17 Oct 2026 02:41:00 GMT",
-   "summary": "Trump Waives Russia Sanctions And 100% Tariffs, Easing Trade Pressure on India, China Under Graham Act&nbsp;&nbsp;Republic World",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Big relief for India! Trump waives Russia-related tariffs that threatened 100% duties on New Delhi; What it m - India.com",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRDhVQ1RSU1NpX2RidUR3dGItZ2g1ZUxVSmJXQm9QQ2NiZHYxN29fVVAyZDFyVG9FdnlDejg3SWdvVWxQZzQwZWMxNnZRWnZITUdLd2FIUmg0WHV4QWZodl84NXV4cDExUnZCRlZUcnZpR3ZxNC1aWnlQR2N0RjY2NGEyYS10bG9NcnlBNVI1WkRoSTR3b2pJeFVmWjlIUkRkVV8zTnNSOUtwNEZ1ZV9FQnE4THhlWGRMbjk1anhRRDZYcmMweU9tMUZnTm5Ka3FFV1JtTDhxUkF3U2RDNC1lNWtqeS1zeHhZQmwtZlB3OGVPWXl1MXZ2LUlXQkt3VmFZSmZVbUhoYV9mdnFiWV85TlBGWVVpM19vbTEyNXJJVUVoQdIBogJBVV95cUxPRDhVQ1RSU1NpX2RidUR3dGItZ2g1ZUxVSmJXQm9QQ2NiZHYxN29fVVAyZDFyVG9FdnlDejg3SWdvVWxQZzQwZWMxNnZRWnZITUdLd2FIUmg0WHV4QWZodl84NXV4cDExUnZCRlZUcnZpR3ZxNC1aWnlQR2N0RjY2NGEyYS10bG9NcnlBNVI1WkRoSTR3b2pJeFVmWjlIUkRkVV8zTnNSOUtwNEZ1ZV9FQnE4THhlWGRMbjk1anhRRDZYcmMweU9tMUZnTm5Ka3FFV1JtTDhxUkF3U2RDNC1lNWtqeS1zeHhZQmwtZlB3OGVPWXl1MXZ2LUlXQkt3VmFZSmZVbUhoYV9mdnFiWV85TlBGWVVpM19vbTEyNXJJVUVoQQ?oc=5",
-   "published": "Sat, 17 Oct 2026 02:29:10 GMT",
-   "summary": "Big relief for India! Trump waives Russia-related tariffs that threatened 100% duties on New Delhi; What it m&nbsp;&nbsp;India.com",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump pauses Russian sanctions package after striking diesel deal with Putin",
-   "link": "https://www.scmp.com/news/world/united-states-canada/article/3371222/trump-pauses-russian-sanctions-package-after-striking-diesel-deal-putin?utm_source=rss_feed",
-   "published": "Sat, 17 Oct 2026 02:26:19 GMT",
-   "summary": "US President Donald Trump on Friday signed an executive order that puts on hold a sweeping new sanctions package targeting the Russian economy, telling Congress the pause was in the national interest.\nNamed after late South Carolina senator Lindsey Graham, the measure had sought to clamp down more quickly on the flow of financial resources fuelling the war against Ukraine.\nThe move comes a week after Trump stunningly said the US had agreed to purchase diesel from Russia to try to bring down...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Trump waives Russia sanctions, tariffs under Graham Act; India gets relief before deadline - Mathrubhumi English",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlJTNlh6OGJfNkItLTc1ZmRIbHdjaGpJY2NKNTJQS3N0Y3Y1eEIxaF9GNGVhVWxhUi1XM25YMXpUSkd4bDlYYVphVUs0UU9uUS1pR1ZUd05PT0hfc2lCVlNDUTlDSG5LVUg3SEZ3a0FNOGN3T01nZ3NpRlBVNWZLZi1qNjVSdmFpODZSWE9iNm9VSEx6VGMyTWNsTDVMaThlOEJnd1hMbmswalpOWllTMmZnYVB0bDlk0gG4AUFVX3lxTFBGUlM2WHo4Yl82Qi0tNzVmZEhsd2NoakljY0o1MlBLc3RjdjV4QjFoX0Y0ZWFVbGFSLVczblgxelRKR3hsOVhhWmFVSzRRT25RLWlHVlR3Tk9PSF9zaUJWU0NROUNIbktVSDdIRndrQU04Y3dPTWdnc2lGUFU1ZktmLWo2NVJ2YWk4NlJYT2I2b1VITHpUYzJNY2xMNUxpOGU4Qmd3WExuazBqWk5aWVMyZmdhUHRsOWQ?oc=5",
-   "published": "Sat, 17 Oct 2026 02:20:23 GMT",
-   "summary": "Trump waives Russia sanctions, tariffs under Graham Act; India gets relief before deadline&nbsp;&nbsp;Mathrubhumi English",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Anthropic Pitches Safety Bill, Trump Waives Russia Energy Tariffs, More - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUHZ2VkJwT0cwV2dLVDJSeFZvWm5pWHZ2bHQ5dnFqUVpBQXFtS1NGcjRnM2VaaTNmMzRMbS1NdkJBUjRIWmFkRVdXOVBUNXhUcWF4di1tVEl3LXJ1Wnlra1Y3czZWdVI5aVpTb2ZvR1gtNDZkUG5iVEN0amtlRUJDNkExckhGT2w5c3VkSlFhT0NFcXctQmV1NnVXYUx4MVRZbjhkM2tYXzFHNjdiZ2EtMVNn?oc=5",
-   "published": "Sat, 17 Oct 2026 02:13:44 GMT",
-   "summary": "Anthropic Pitches Safety Bill, Trump Waives Russia Energy Tariffs, More&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump waives major Russia sanctions and tariffs: India among countries affected by 100% duty threat - Bhaskar English",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnZ6bWM2UlhhOEVUYkJxYzBmWXNxQVZvODRtUThmOHdRRld4c2JYYm5Yb1QwZWlYTHYwVmEydEJ6MHBQaUJ6UHlydjBmemN3d2s4bUxfdkVTRVBzTGw0bzd4LVRMTEZfN1l0aDJMaHd3OEtRdkc0M2o1NEJSSTRqTWl3NDYxWUhibk5mek42RmJSYmw0QWhxeVhIVjVNWFpRMUNZaFp4am9qUjgya01NU2NpVdIBuAFBVV95cUxPOU8zVVdOY1VKU3VoVlVoWkV6RjRUbm5nSkpDc3JTOVFaby1HVHhjMmNJUFRQYWV6REpSMWM4ZHpMLS1fM3hUYWlUVmhFcmhuLTI0LXRxWEdVTVUyQzdpSmJxSktlR2djT3FtZkN1NGhxeGViYXM4UkhrOWdBY0U5UWFiNERHM2tURURPWkEtODEyczVxR1VpNDNuTDZrREJ1VE40LXc5TFh2TXl3dDItUktLaVdXcnVU?oc=5",
-   "published": "Sat, 17 Oct 2026 02:12:52 GMT",
-   "summary": "Trump waives major Russia sanctions and tariffs: India among countries affected by 100% duty threat&nbsp;&nbsp;Bhaskar English",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump waives Russia-related tariffs, offering India relief on oil imports - The New Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQODlENFBmeFBJcGotdXdnYW41aHpobG4zYjJncktfQUVwcWFGUXZONHBrMloxZzVCdEN1enNUY21SUmVxbWIwdkI4dkJKa2dpT0FOT0lveDc1b2RRMzVXeENkRkxpNEYyMkl5eU9wRV9DN0EyZXJha1NaZEoyUUFoekVwWHEtUWItR3ViNGJlZVhTdlJ0QTFmeHcyMzhuSmhSNm80VFVvdVMzYW5PTUFnaTd2am9hRk5JS1VuQlBCbGrSAc4BQVVfeXFMTTlwYnhtYVFVVmJfODdvSUtMak01OWE3em1JYXFyRDUzMG9weGp6UlVDZlZmYnpFMFg5NVdpLV8teGVUY2MwaGZ6dXBiUTV1NHc3eGEzUGhtYUU3SC13M2QwUU44SDNKYllLWGlQbWQwODRHZnlfSEU4eG0yNF9TbU5hTG8xSmZxd2toN0NWc0EtTFN3dHVScFpUY2FxTVIwVW4ydkR0Yy13RFRoS3Q2LTN5ejNyUlJHa2xkeS1yRWE3ZDNHYzEzOEVlSVlZMHc?oc=5",
-   "published": "Sat, 17 Oct 2026 02:12:12 GMT",
-   "summary": "Trump waives Russia-related tariffs, offering India relief on oil imports&nbsp;&nbsp;The New Indian Express",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump waives sanctions on Russia bill that gave power to impose 100% tariff on India - The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYi1hLXZuc3ozdThOZGJlOE5ILUJVeHRLY2xQVXRaWkFPUVEzeHNqdzBjcVhQX0VEcURTQmNfcEZvdkhZZF9CM0RNNjNDSWFVblpKenktRlJsWjd4aTEzeVE2bFljd2loa2s1QS1sY3BieUxJVndHTUhFdEZoX0pKdWtiNlFNbTUyYWxvd3VBWmpTeGZibFFIaldvaVJhOVR0QUFXVXBuWmJQRHd0R1ZRV1NEQmZ6S1pBdS12TWpn0gHEAUFVX3lxTFBKWVB6NmRGcXVXM3FYUVNmTThHRkRMa0o4WHdCYWZrbUVPMTAtQWdHYS1lN0gyRVg0eDFfR2ZiQXZ0TUVVdEh4RHdkRmZBYk05cHlhSEZWMjl1clVqSjA3QjF5Z3lSelZTaGJHdk9QZm9SbmFyaVN3V2ZNVjU4UTdPMm5adjYtNEZYTW94MWE3NFJxUzQ5SEdSLXQ2UFpza1ZkUTIyUXlZR0d3eVN2eDlsN1JHU01fN3hPY0ZHeTNOUDFRZ0c?oc=5",
-   "published": "Sat, 17 Oct 2026 02:07:46 GMT",
-   "summary": "Trump waives sanctions on Russia bill that gave power to impose 100% tariff on India&nbsp;&nbsp;The Indian Express",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump Waives Certain Sanctions and Tariffs on Russia, Retains Power to Reinstate Measures - Hindusthan Samachar English",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2UxNnNRSG04M0pFVlBlbmdBZ2NTYVE3WXkwc2x6d2pwS05kdU9JY0NsQUx5N29HY0FxRUVCSjRpcVNOdExCcTlacDNpV3ZRZnNhSVNWVkIzX3FMNVVFM1NxN2wwN1g4a242ZTlCbndncnBqb3J2N0d2d0hpbThTWXVuS0ZNeU9NeVN4VWZ3?oc=5",
-   "published": "Sat, 17 Oct 2026 02:05:53 GMT",
-   "summary": "Trump Waives Certain Sanctions and Tariffs on Russia, Retains Power to Reinstate Measures&nbsp;&nbsp;Hindusthan Samachar English",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Fisheries minister travelling to China ahead of lobster, crab tariff deadline - PressReader",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00U0ppV19CUzFkaUpOeXR5N0d5aG42UWVQUDlrN1FPdEgzRUFBVG1aUkdXWFRNbmRlWmp3ZzJjbHZoTHI4YTlCaFlFRElQakF0MVhNamNrRnpQQzljanFWb0k1NF9qSzItUXJ4QUVPdFNTYWRpMlpHaV9tQQ?oc=5",
-   "published": "Sat, 17 Oct 2026 02:02:05 GMT",
-   "summary": "Fisheries minister travelling to China ahead of lobster, crab tariff deadline&nbsp;&nbsp;PressReader",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump Pauses Russia Sanctions In Major Tariff Relief For Global Oil Buyers, India And China To Benefit - The Daily Jagran",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSnE5RHl1Qy1BY0xIdzFNSGJfQUtiY0Z1T0lwbmZJUUNJSFhoUVVobzdVV1REVEx0WmFhUXdVWVRnN1NnbzhLYUFrV0pFY1l6RUpRZU0tdnhXYXBLVmdCSDJQUG1DTWpEcnZLNXNiWWtOWE53MUk4SVpvQ0swT0VsRTU5czlkRnYzalBFb1RlbEgzekdZM3ljRWpzODFEeW1FWE1OQW1SS2RHZUVvU05DZnVvSW95UE5jcmpobFV0Smd6TnREbTluYk5FRkxqX0hiZG9QNTdFdGM4bGlITkFFNE5FV20wYzVYbTJwTmdmZ1XSAfcBQVVfeXFMUENmb1NaTlA0TzZCSHRCMnVLWElBOHdDQVZIcENpYUpTbnQ5ZUIyYVhoalc4cTdmWTdBRHhoNmR1Ynk1eXVKdHRBZGJIc2V4cm5SRXBlZzZSVkl6UzZvM1Bpa3lPZ1JaYUlsSjYwTFBCU1NtLUZSN0ZvaDFSeUlNcXBBSHZqbzh1RThUMEhxZmVhNkdFWlFBcEdFQllvZlhGeWl6RE9vZkh4UWFKZkk0aHJpa0NtMU5XTWxZamtMR082SGFLblY4MlRaazhpaEsyZjdaVS05anZub3FPSkpUajEyaHFuZVhIcERrSGlCbHBiNHR1cVF2dw?oc=5",
-   "published": "Sat, 17 Oct 2026 02:02:00 GMT",
-   "summary": "Trump Pauses Russia Sanctions In Major Tariff Relief For Global Oil Buyers, India And China To Benefit&nbsp;&nbsp;The Daily Jagran",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump puts forth ‘waivers’ on Russian oil purchases weeks after relaxation on diesel imports - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEJCSWVBNk5fUVR0NVJDTVNSOG1TYUVWWW9WWTVUVC1OUDBUbGdoZGR0amxSUXozZHQtZHNVZzVmSDJDT3ZoZXB2OEFKbHVxbUl4TmlLQXVVQzhabmptSHk0d1BIcW05SHJtY0pvTmU2V3FUM29WbVlYQ05TTkR4ajVQa2NKXy1ycWhBMlpVdjY2bTZMeFRrVGFaUGgzSDhRQWRxQzFXQmJTSXlSTHE3MDhVLUdXX0dvZTF6TzB4UGgzQXN0YXI2cUVSSmM5djBHWUHSAdgBQVVfeXFMTWhOZUN6QUQ5TC1ESmpjVTdQWE1wTVhQeHZxLWJiMXo2azV6d1Z1OTVQQ19TZjcxQ1lpVXVyS0I5cDZOZTlxNWdEN3JxZlBQdDl5RGRqNkEwV3lVU0dhalpsa05EWDE1VGY5U2ZnbW0zT2Nhdjh4anVoRHhISTRuYU1hb1pxQW4yczlUNTNLQUJGdjZrNzdUaEdzWnlwRjV4TnNfTDItWHRBWkJRTXpHelhHd0xFYVVrcTNsZ1M4QVluOWtocFNDLW5BVDhxR2tBY29uUEctUm5E?oc=5",
-   "published": "Sat, 17 Oct 2026 02:00:15 GMT",
-   "summary": "Trump puts forth ‘waivers’ on Russian oil purchases weeks after relaxation on diesel imports&nbsp;&nbsp;The Hindu",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Foreign banks trim China branch networks as low returns test strategy",
-   "link": "https://www.scmp.com/business/banking-finance/article/3370953/foreign-banks-trim-china-branch-networks-low-returns-test-strategy?utm_source=rss_feed",
-   "published": "Sat, 17 Oct 2026 02:00:10 GMT",
-   "summary": "Almost two decades after gaining permission to conduct yuan business for local clients, foreign-funded banks are still refining their strategy in China, where the financial sector is dominated by state-owned lenders.\nWhile Citi exited its China retail banking business, other foreign banks have continued to close branches and sub-branches, focusing instead on digitalisation, wealth management and core clients to strengthen their foothold in the market.\nDeutsche Bank (China) announced the closure...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "US unlikely to slap punitive tariff on India’s Russian buy - The New Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUlFqNDRrSWJrQktTcm1rWlJUcDBPYlpkdU9sdlVuOUtXRHpKWDFEQXIzdDdKc2NwcDZtek8xQkdYdHRzaURXcVJ1MExkbkNyZ0EzdmlTaC1XTzcxSlU2VXpqSWtWNzFwQmtZRTVxVi15aXhkdVkyZG9seWNMY2h1OWl5b3ZzWWlYc0I1OWtkODZBU3ZLQ2xyRFlVRlRVNC1UWXk5Z3h4ZktGaXpz0gG6AUFVX3lxTE5WTEM4b1FhZW9Ibmg5VTlzM0VBUUlWYjVaYnVIVFZYb0p5NzU4bVlRR0QydEYyLVpUUmxYUmk3TjFkMmdnNGpfTlE1RGlkbkV5dDY2SWdGc0h2ZGVIbThKbXM5RmY3V0NKYS1pQU85cGR5WUltS01LWEZDb01tNkE0emRqQ1ZhWDNMSGdZLUhYTm9nbldjbDNpSHVIVjBNTE1EUG9PSzlHazNudHVGM3l6Uks3VUV0b3ZQdw?oc=5",
-   "published": "Sat, 17 Oct 2026 01:56:54 GMT",
-   "summary": "US unlikely to slap punitive tariff on India’s Russian buy&nbsp;&nbsp;The New Indian Express",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Trump waives some Russia-related sanctions that threatened 100% tariffs on India, China | World News - Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdWN3WDdwTDdJejhETXAyaFNYN3V3Q0hKU1BWcWFIU3BKY00tOTZlQ3pmSzJXNzZKWEgyWHV2S3l6Zlp3UUFyMVNwX2QyX01IRkVKY2c1UzNFV0FBRHplQm9EdllLWUM3QVBBN1gxbkhqZzdmUW5Ca1Nva2ZUaHV3RHFjeHBLOS1jMXJFRW15VG1ROGVHSGZwajVfblo5YWgtMEdNaU9uNTdnQUIwUmVOM1JyMWozWFlxRUNLTV9BbmVsMjJFeDhDMDctTy00c1AxYUM5d0N4My1GbTE3bm8yMUJjN0hwcUFJTVRkVHNvdWlkX05n0gH6AUFVX3lxTE9ZekVBOVdKcDFuYWRQWnk1YWRvZ1F2M2RfdVVxNlNyWC1sUUdZYWlQVTZzVkp0MzBhZFRSaFlUSExZZFltWWk5OU1jVkdBUmUyQ2ZnRXRNbk5CRUIxeHNZcXZtLVh0eDFFc2hEbjBoV1FVUGxoamd0dkRxQzBhbGNITkd6a3F0SzhydjlvWGVWMV9hdjM5Zms1ODhicUtjcE01aGo4SHlKV2FlUkFwM2liWS1aNFN2TXcxRVh5b0dVOUEzM0ZpcUExQ29WSjFKaVNreTF2QnpoTDBvTzNxSlJkTjFwZGQtN3RzUzhuVUh4SWk0cG5Mb3ZvUmc?oc=5",
-   "published": "Sat, 17 Oct 2026 01:53:40 GMT",
-   "summary": "Trump waives some Russia-related sanctions that threatened 100% tariffs on India, China | World News&nbsp;&nbsp;Hindustan Times",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trade imbalance with China growing due to barriers: FM Sitharaman - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNFpPZVMwWWxMcmhTbTQ1N3JrcUhWZVplaU9HaVdtSWpzRkZtTnF2Tkp3Z3hNWHJramg0MmNUWllOOThfM0dFWGNFNVhveldOMHRxbm1QQTVrLVJpZmJERllwNTEwYm04OUhGUmlkNzRmeURudGZxOFhEc19QeGpJMkpqNEdoT1ZlWHI5YTg3dmhmT01VRGNuUDEwVG03RG9ETGN4OHZ0UkdvYlVraFlyZVpyMFhtMmY5SmRGd0pJYW9SRjItaTFjSWdMUDA2RTBMMWhqLV9MQUNGRDBLY1R0cGJyaGbSAeoBQVVfeXFMT2gyQ1JxX3ViRW9MRzU4Wm5jZjZPZXNlQ1pMNlN5bklSMmxFM3JQQUJwcXBJOFMyU1Z1TllLM3NSU2x4ZXptblhydXlGR3MyOHRlUlZfeHBnVHVvWmowMG1yQVRGZ20zcmVQcWRWbVppQ3ZSMF91cmNHaWloSGFyMWpkeWVPN1lYUmQxTmNERWNUcGdFNFhqOG1FYVJfRGQ0a2RMZTBIa29Ka2Q4TV9mc3pUeThhaTVpYU5mb1pVQWZMcDU5TkZ1d3J3aDVTQ2QxMG1lX3NKT0NmeWN5aWJlTi1fVkNaWGN0a1dB?oc=5",
-   "published": "Sat, 17 Oct 2026 01:52:00 GMT",
-   "summary": "Trade imbalance with China growing due to barriers: FM Sitharaman&nbsp;&nbsp;The Times of India",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump's Russia Sanctions U-Turn: 100% Tariffs Put On Hold, Leaving India Watching - Times Now",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSmZzYXVRaFNtMi1zYTU2VnZiQm5ta2JRM1N0SUZQMkx0a1pHZmlxOGpVNklpendSTG1PaWRDU3hWU0NhZllfVDE5QXZaeHdRdWdLUEVKWllQNjBpUlpkZGFtLTBUVWQ3aEZkREhGWktLNkhZOEl2UFZMd0x1T3ZXb3pRZWlXQU8za1FkUjdmNXBOdE5vazZIZWQyTm9FbHVPcWJ2dDlHRHlPd2VwYXAtUVppUW9BLUtfOHV1LS1GSU04bHVRZ2NiNU40ZVUyQ3V4Rk9NcVpDMzd3dmZ2cVZmRtIB5gFBVV95cUxOc00yN0huSHA3RjlzNWhheGF0X2x2dHJLeW82Z1RrM2J4NHU0bE5IX0JiR2R5aTdXdXdNOGtGVkZhZ1lFWlZULXlRLVF3c1pWWWVoNUdvNy1YYXFWVDctUjQ3cWRoN1kzNjk4RWVYZTdTRFYxY091RXRLQ2xXeDNJaXQ3MnphZ2JpVWhnb3RVWW9WWEktaTZYQnAza1VIQnB1QWtWaEI4Y1lNWUEtYXUzWV9fZlNMOElKbVhKb20zRms3YTgxbVFXQjM0MFdpRHBYY2d4M1puY3Z4V0xQa3VsaXBkaDBfZw?oc=5",
-   "published": "Sat, 17 Oct 2026 01:42:43 GMT",
-   "summary": "Trump's Russia Sanctions U-Turn: 100% Tariffs Put On Hold, Leaving India Watching&nbsp;&nbsp;Times Now",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump waives Russia energy tariffs, sanctions in Graham law - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTE5OVBZZTE2VlEwZmlqand3N0R0XzQ5ak05OTNYcTFjMVd1RlBnQTlnaTc0Zk1lb2xYVHZXSFRENE42clFoQ1lWVTVGeXF3SE1VZFczVlEyVXRrU0hVNjhsZHFtYjRKSEN6NzZ6SlRUNGhfOTlaX1FDUUk0RU9jTDQ4Qm80blZVdDJvVHRaMjV0RE5LajNCSUt0RWtmTU1DNTZaa3FjYlJnU2h2TktPSEYzQ3REUdIBuwFBVV95cUxQQlpMVXFzbnlWSTlWSXMtNWkyci1lOGVNMVNUUnNIRnlVTWlBY2VNWlg5S1JOY3YxN1E1RkQtRkdFU3VCVjBVbmxlM2JMQno2ZG1BNHJEUy1SUHYxVDg3c1JuUWRxMTlZdG1XeXp4WXV5YVNJcTJhOU84eFNuZlpkM2ZmSEtINkk4Q2JkTzUyaEdGa1hDMm91ckp4QUhBMFhSaGpBZ1N2NmVZMXdrMFllMFVWb3otWEFzU1Vr?oc=5",
-   "published": "Sat, 17 Oct 2026 01:32:45 GMT",
-   "summary": "Trump waives Russia energy tariffs, sanctions in Graham law&nbsp;&nbsp;Moneycontrol.com",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Philippines’ ‘China-free’ manufacturing strategy is a high-risk bet",
-   "link": "https://www.scmp.com/opinion/asia-opinion/article/3370775/philippines-china-free-manufacturing-strategy-high-risk-bet?utm_source=rss_feed",
-   "published": "Sat, 17 Oct 2026 01:30:09 GMT",
-   "summary": "China and the Philippines recently traded accusations over the medical evacuation of a Philippine serviceman from a grounded naval vessel in the hotly disputed Second Thomas Shoal in the South China Sea. The incident has sparked renewed worries about potential armed skirmishes in a global artery of trade.\nBut Philippine President Ferdinand Marcos Jnr was also quick to emphasise the economic dimensions of a major conflict. After a decade of rapid economic growth, the Philippines is facing...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Trump waives Russia sanctions and tariff measures before law takes effect - Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmc5YXI3bjRKTmVDZFhlYUI5djBDMFpQbmczY3RZbVVxVkVHNGZIdHhBU3hvYWRnajcwZDF6c09QSWRUY2Y1blYyM0xIWWh1YjRtZ25KbEJXbjE1X05jT1liS2g2ak95VWFiektiLTUweUNjb3F0Q0pUS2NIZHdZblBWbXRUZFhCaGpTbC1RSDhmbnhWSjZ0eWhOYWJXcnJ3?oc=5",
-   "published": "Sat, 17 Oct 2026 01:24:22 GMT",
-   "summary": "Trump waives Russia sanctions and tariff measures before law takes effect&nbsp;&nbsp;Traders Union",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law - The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObGplWUNWWFhSZTFUSURfd0s3SHJCSUtmMjMtOWYzRGRtaE5HNW41WE40dmVIbkZDUmo3clFmaWc5WlVMNm1BaGdhOUtydHI0UzlrRGRHT1FOckpobjcxX2Nac1N5c0dTS0N3NGU5NU9RZjBNbXpaOWRNcGlOOXVKSVlXMnhFWFFJWnRpU1l2a000NVNvOVB2SWxUZHktZVlXVDRWeklLTHFUQVB4a2lRRkpDelJQTFB6djBlZU1mQklETEhOeHNZSnVvRmktQS1wUG5aWWVFLThBRl9zcEE?oc=5",
-   "published": "Sat, 17 Oct 2026 01:20:00 GMT",
-   "summary": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law&nbsp;&nbsp;The Straits Times",
-   "source": "Straits Times",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump waives many Russia-related sanctions, tariffs before they were to take effect under new law - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
-   "published": "Sat, 17 Oct 2026 01:17:00 GMT",
-   "summary": "Trump waives many Russia-related sanctions, tariffs before they were to take effect under new law&nbsp;&nbsp;Reuters",
-   "source": "Reuters | Trade/Tariff",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "S. Korean envoy condemns Houthi attacks, calls for stronger U.N. sanctions to block weapons supplies",
-   "link": "https://en.yna.co.kr/view/AEN20261017000200315",
-   "published": "Sat, 17 Oct 2026 01:13:45 GMT",
-   "summary": "WASHINGTON, Oct. 16 (Yonhap) -- South Korea has condemned recent deadly attacks ...",
-   "source": "Yonhap EN | RSS",
-   "module": "海外媒体RSS",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 1,
-   "content": "S. Korean envoy condemns Houthi attacks, calls for stronger U.N. sanctions to block weapons supplies | Yonhap News Agency Go to Contents Go to Navigation Facebook X More Pinterest Linked in Tumblr Reddit Facebook Messenger Copy URL URL is copied. OK By Chang Dong-woo WASHINGTON, Oct. 16 (Yonhap) -- South Korea has condemned recent deadly attacks by Yemen's Houthi rebels targeting civilian infrastructure and threatening commercial shipping in the Red Sea, calling on the U.N. Security Council to strengthen sanctions to cut off weapons supplies to the group. South Korean Ambassador to the United Nations Cha Ji-hoon made the remarks during a Security Council debate on the Middle East held Thursday, warning that the attacks pose serious threats to global peace, maritime security and energy supplies. \"We condemn such attacks and urge an immediate halt to all attacks against civilians,\" Cha said during the debate. \"We call on this council to strengthen sanctions, to effectively cut off the supply of weapons to the Houthis.\" Cha said the Houthis' recent attacks targeting civilian infrastructure and threats to commercial navigation in the Red Sea were posing \"severe risks to global peace as well as maritime and energy security.\" The attacks included two consecutive strikes on King Khalid International Airport in Riyadh last week, further escalating tensions in the Middle East. The first, on Saturday, killed 13 people and injured more than 300, while a second attack the following day k",
-   "content_status": "full"
-  },
-  {
-   "title": "Trump Waives Russia Energy Tariffs, Sanctions in Graham Law - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
-   "published": "Sat, 17 Oct 2026 01:05:00 GMT",
-   "summary": "Trump Waives Russia Energy Tariffs, Sanctions in Graham Law&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump waives some of the sanctions under the Graham Act ᐉ News from Fakti.bg - World - Fakti.bg",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVVDa25JcHdQdTkwbm9tUi1ZVXEzYkFhNmxKU29VR0x1a2Z0MUh6dUlFNUlGTTMxQk9XLTc1SldpY1g4Q3ZmNW5hTkN2Wm94S1lseGdPUXlodWNWOUthRGFtZFNqdU9sbjFpRmg5X3dKa25haW9rZDktbEhiMkltQVl1eG1NSVpU?oc=5",
-   "published": "Sat, 17 Oct 2026 01:04:00 GMT",
-   "summary": "Trump waives some of the sanctions under the Graham Act ᐉ News from Fakti.bg - World&nbsp;&nbsp;Fakti.bg",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "‘Hot economics, cold politics’: why China gave nod for expanded Japanese trade trip",
-   "link": "https://www.scmp.com/news/china/diplomacy/article/3371192/hot-economics-cold-politics-why-china-gave-nod-expanded-japanese-trade-trip?utm_source=rss_feed",
-   "published": "Sat, 17 Oct 2026 01:00:08 GMT",
-   "summary": "Beijing’s decision to allow a bigger Japanese business delegation to go to China next month may be cause for some optimism but “hot economics and cold politics” will continue to dominate the strained relationship between the two countries, observers say.\nKyodo news agency reported this week that Beijing had agreed to allow the Japanese Business Federation – the country’s most influential business lobby, also known as Keidanren – to expand its delegation coming to China next month.\nThe group will...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Trump suspends certain Russia sanctions, tariffs under Lindsey Graham Act; reserves right to restore them - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQWkJQbUtLbS14d0Q4aGVlY0d3dEZMVVRrWWtZbjQ0cGJmLTA1aUhIMVhDX085aEplRllUTUE4bndfQk5SWWczUG93Q3RaOFduT09EQkphbVZFUmFjNVloZzRFbExqd19RY3NHNHFwcHFpZERWU2dCZmVpLTItaFFOTGVxMG5JTV9qbGh1ZmJzZ1J4d0w3NVFoSmVpQjdBV0lSRWphZDBHQWV6YVpyZVBvZTgtWDBUcmpndFptYUVJTGZPZ1R0MGJJeG1DUDRmWThpN1R5T25ZcXN1aFFGRS1qYWFyVUxhMXg0c1hvRVB1bzRLYmx5ZkR2SjdPbXppb3RqdUlQd3o0ek9EdFZpNWctdl9tMDRCQlNiWklvXzlsRWZmV25f0gGqAkFVX3lxTE1vNWpSVXVmLTliOEI4NElsdl9PdmNiNTdDLVF2SnFqN2J3TVFkTFRTSTBKMDVqcmFXSkNodm9GcG9ORHZKcHNHMUhmMVhnQkV1U3N6WTMxcnd4b19vNkNVR1dTanBLYWo2LUNuQWhmTG1GeEh3bmk1THJkRldxZmE3ZHBsV3J6RF9USngzZnhmTDBkaVV5OVQ3cG5qV1RmU3Nic2doUUFaN05ES3pMWU5oZFJCVXliWllGdTZ6OU5ycVZtWV9rcmg5UzlZbzIwcnBKVVBUcGxTZ29nVlJ0YTRMZ01qdE50UHBvVDd5akhSemxVaTdQOVFDSmxnOXlKQ1dTMXIxdmRicnF5c2lGMEtHN0RJdnMwMktFMi0ydTR6dUNQcW1nRGQ2Q0E?oc=5",
-   "published": "Sat, 17 Oct 2026 00:53:05 GMT",
-   "summary": "Trump suspends certain Russia sanctions, tariffs under Lindsey Graham Act; reserves right to restore them&nbsp;&nbsp;The Economic Times",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
    "priority": 2
   },
   {
@@ -9804,6 +9631,16 @@
    "priority": 2
   },
   {
+   "title": "Trump Ordered Alaska Lawsuit, Exemption on Some Canadian Tariffs, More - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUpKcjRpcllxRW1YemNrWndWdFIzNlZJd25rbTRnY1dGSnBuUm93R2VWMzBvYmhwTEw4LVpCZzRFQzhEVlBYLUpuSUNIMmJyMWxwMERrRmZ2ZlBadDJjUkVHRTVzN1UtNDRFdXdvVURCZkdtWm5VRHJtbEpMZjdKWG5tUl9hSjY1NmlZYk9kbmV3UjNtWHpaNXlzX3dxd3pXd3lyY3V4UUVuSFhCNXluaA?oc=5",
+   "published": "Fri, 23 Oct 2026 23:05:24 GMT",
+   "summary": "Trump Ordered Alaska Lawsuit, Exemption on Some Canadian Tariffs, More&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Watch Gutierrez: US Has Gone Too Far With Tariffs - Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3E2Q2ZsUFBXSDJWaTN1cU1zNXRsdTdOZmdocmFPb1J3a0ExNzBMNVZZNHNRb1FBQkFzMTlLQk9NYVV4SWowQnoxM3kxRDlBdDN0NlQtUjVadHU3TDNXa05hTmhXZ1VxYVhXcWZPemNPT1JJVi05aG8zamsyTE1pWHU5a09QeENnSjM2UmZqSEw1ZTVmYWQyUTFWam0tQQ?oc=5",
    "published": "Fri, 23 Oct 2026 22:32:09 GMT",
@@ -9822,7 +9659,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -9834,7 +9671,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -9866,7 +9703,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -9898,7 +9735,7 @@
    "module": "海外媒体RSS",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -9932,6 +9769,26 @@
    "priority": 2
   },
   {
+   "title": "Coffins and Canoes From Canada Get 50% Tariff Under New Trump Order - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcExTdkQyc3dXRlpQSGVfXy1teVdtTUpMRTQ5bW9LRlU4ZFhXUFRNZlVKTDZwVEREdi1GVDlMNWxMTm93bWpCdkUwdno5VlZSaWJneWpQVXVpTmxoRFNqVWtJVnBNNVVmbnRQT1dMQWw5SlNBMXgyRTVPMjRka0xfa0k0Vml2d1B6NXF6cFpuR2dvc205Q2pZc2NvZmUtMEtSZVJJbGEyanFsakVFRmJjRkZaQV8xdTFO?oc=5",
+   "published": "Fri, 23 Oct 2026 20:54:50 GMT",
+   "summary": "Coffins and Canoes From Canada Get 50% Tariff Under New Trump Order&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "White House adds new tariffs on some Canadian imports - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3Yxb0l0YkU1Ym9iS29RMjVLRnRSdXFpNU1KY3RlejlWWERPazF1bV9XbDcwblItcENKWnBDb2otLTZwVEJ2ZVFkXzI3X1dVbEJVOXByOHhhR2lJRE1iVDQ0TVN5RUU3X0dtT19RbDNLYzk5M0N5Vld2YUxFXzV2ZmpJSU5BdHRaLWp5OHpPZUphSWJpaWlVWk1hY1I?oc=5",
+   "published": "Fri, 23 Oct 2026 20:34:42 GMT",
+   "summary": "White House adds new tariffs on some Canadian imports&nbsp;&nbsp;CNBC",
+   "source": "CNBC | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
    "title": "Trump Changes Some Canada Tariffs in Bid to Aid Maine Senator - Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjFBMU83aC1GcHBCSm5zbnM4NkRQRmJtOHoycTNVVmd0b0NGTm5RTTVhZ1ktWGR4QTJhaXE5cVd5bm1YY09yMFpsYzF1aWRrVnIzb29BU1VQX1k3Q0VfbWVfc2RjWmFGNnlJRlllbmJxU1hGVkdkbXlDek5kOC1FT3NKeW1sODc4UzFDQzRNQ2F4VzF5Y3hNdzY1MmVKeko1dTJPN2JXRmd3TmpOQjFGU3VR?oc=5",
    "published": "Fri, 23 Oct 2026 20:25:50 GMT",
@@ -9939,6 +9796,16 @@
    "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Executive Order Implements, and Immediately Waives, New Graham Act Sanctions and Tariffs Targeting Russia - Snell & Wilmer",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1k5dE9mT2FSRWpzZm1KSUx0QXI4aWVFeENScFFXai1VM2trbExNRmxWaEtORmY2bTdEQU9mcVpRdEhyRWhkQ3UtYllhZzlPQlM0YkFKeE1ZSnFnRHZkTHpTNWw2a0lwelVobzdWdExWTnJqdWJ5UWlCa05kd0piSjY5LXBnVmJ3SzU0aXdLVGZoZDNGQUFBSmhMRXNIeXVic0dvUERvdHRYMklsNlh2a2tvby01TFBpblVtOVgtSE5raWtoclZPTXlCZ0VGWGRNU0xDdQ?oc=5",
+   "published": "Fri, 23 Oct 2026 20:15:11 GMT",
+   "summary": "Executive Order Implements, and Immediately Waives, New Graham Act Sanctions and Tariffs Targeting Russia&nbsp;&nbsp;Snell & Wilmer",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
    "priority": 2
   },
   {
@@ -9950,7 +9817,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -10151,7 +10018,7 @@
    "module": "海外媒体RSS",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "error"
   },
   {
@@ -10275,6 +10142,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "Chinese embassy reception highlights opportunities from zero-tariff treatment for South African exports - Xinhua",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtRTZKNzRHRS1KVzRQeExRdjNoSERIMXlrbm01aXhUTXNudzZESTVJOHZyOXJuTzFUYWtyc0tXdzdXOGZnTWh4dmVWRUhwRmlNRjY1cEFLS2ZVcXg3RndTNVNlUDhTb2FlaVVWSTNWMjNiR3hCdGJ0Q05HYUw?oc=5",
+   "published": "Fri, 23 Oct 2026 12:23:53 GMT",
+   "summary": "Chinese embassy reception highlights opportunities from zero-tariff treatment for South African exports&nbsp;&nbsp;Xinhua",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "AI trade meets the Fed - Reuters",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
    "published": "Fri, 23 Oct 2026 12:11:56 GMT",
@@ -10314,6 +10191,16 @@
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "US Dollar Hits 274,000 Tomans in Iran as Maritime Sanctions Halt Oil Exports: 6 outlets compared - NewsCord",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQm10ZW1BNW9FOG5xdk1NVjJDd0prX1A3X09URktRTGExd3pXaFZnVnZ0MFN4TXZRbHlGV0lQUG9YT2JUcXRzMGIxUXNQV1VjbFRkdWtnQlRuYzAxcDBqOTZkWnRjMGVQbUVGVGhXdmNqZnlBUXNxUUM3Q0dVWGpfMmFaS05tNDY1OFowY1NScm1BamNsRVJITlh5U2ctMlBQOWFuUmJjY3QwbTZ3UzhvcUtvV1ZrX3RRM3ZpbGZnenAweUpmLUI5Vm5QWlhaMHdyUXp1dFZvSUkzZw?oc=5",
+   "published": "Fri, 23 Oct 2026 11:25:48 GMT",
+   "summary": "US Dollar Hits 274,000 Tomans in Iran as Maritime Sanctions Halt Oil Exports: 6 outlets compared&nbsp;&nbsp;NewsCord",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "航运物流",
    "priority": 2
   },
   {
@@ -10394,6 +10281,16 @@
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "COMMENTARY: Weekend Reads: Fractured trade, resurrected mines and betting on everything - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ2xGOTdQXzVmTF92VXlMN2tnTDRkUHhGUGExcEdFUEoxdlZ0QkZtZlo5TWo1MUltRjhxOXVkbmZQSXV6N0VkYV9wRGFURHJqeUozY3ZneTlMU210cnN0dFN2REhWVkN3X0FvQmdPcWpFZXJyRXM0UEg3MzVQbVhfRW96WFVBVXNkOFlYYnNCQld6cmRCZW9BY3BMdnk4VVJRRDVMdGNoLUx0Y0JUdnJDenFOcG5pUk1DZklhWVFGYjhnUk5KZnF2bWhvVXhyTjBX?oc=5",
+   "published": "Fri, 23 Oct 2026 10:51:44 GMT",
+   "summary": "COMMENTARY: Weekend Reads: Fractured trade, resurrected mines and betting on everything&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
    "priority": 2
   },
   {
@@ -10525,7 +10422,7 @@
    "module": "海外媒体RSS",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "error"
   },
   {
@@ -10674,6 +10571,16 @@
    "content_attempts": 1,
    "content": "Laskaridis linked to $312m newcastlemax order in China - Splash247 Changhong International Greek shipowner Panos Laskaridis is making a return to the newcastlemax newbuilding market, with his Lavinia Bulkers linked to an order for four vessels worth around $312m in China. Shipbroking sources have identified Zhoushan Changhong International Shipyard as the builder of the 212,000 dwt bulkers, with delivery scheduled for 2030. The reported contract is valued at approximately $78m per vessel and is understood to have been agreed last week. The order would mark Lavinia’s first move into newcastlemax newbuildings since 2013, when the company contracted six ships of this size. Those vessels remain part of the group’s dry bulk fleet. Lavinia has concentrated much of its recent bulker investment on smaller tonnage. The company booked eight kamsarmax newbuildings during 2023 and 2024 at Chinese yards, including CMI, COSCO Heavy Industry and Jiangsu New Hantong. Five have since joined the fleet, with another three scheduled for 2027. The Laskaridis group has also been expanding in crude tankers.In April, its Lavinia Tankers arm was linked to a fourth 157,000 dwt suezmax at South Korea’s DH Shipbuilding, following orders for three sisterships earlier this year. The $89m vessel extended a programme that began with two units in January before the owner exercised additional options. The tanker expansion followed earlier investments in MR product carriers at Changhong, where Lavinia is now r",
    "content_status": "full"
+  },
+  {
+   "title": "South Africa: China Zero Tariff to Give Exporters Certainty Beyond 2028 and Will Safeguard Jobs – Minister Tau - pan african visions",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVFduMVJYRlR4LTBLbTEtZlZ1Ni03N3FvN1dYdXI3cVQ1RFMydkhoOEdpTG8zQzlJY1ZqMUxuejRNVFhWSERUZEtScVZDdW15Rkw1SE0xM0tQMGw5MXoyRHhqd19PR3pLV0JNSXFoVzA1M09FUjduUGx3NWVHUGtrOGluQVpRcVVWclRwV0ExdV9RaTk1dXFlaFdMVWhjQkEwbHdkQWZmUDlBWnV6WG1nalFuOGFtcUMwVUZ4UVMwRGI3Q0Y1ZDE0aHRPTy1laEU0N1VKNDNSeHFNTHBsbmFj?oc=5",
+   "published": "Fri, 23 Oct 2026 06:58:04 GMT",
+   "summary": "South Africa: China Zero Tariff to Give Exporters Certainty Beyond 2028 and Will Safeguard Jobs – Minister Tau&nbsp;&nbsp;pan african visions",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "In Nigeria, Solar Panels Are the New Wedding Gift - Bloomberg.com",
@@ -11000,46 +10907,6 @@
    "source": "World Bank",
    "module": "国际组织",
    "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "China offers to address India’s trade concerns - The Hans India",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMHVNSjFxV0lDNG1IV3FiLWV0Y3hhVFpQYnlleEVOWnlldGllN2pWWTh0MHFrdDh0WXduSmVXMFRoTU9leGhzZUtUUURBbTVCb0pQdjlHVjhVSmg0aVhCa0JJbjZIZVBUeUhxclQ4TXhIaUpDS0NrMzBrZWpURExuTFo1Y3RuaVdOU1BEeHVQdjNjcFpBOVE?oc=5",
-   "published": "Fri, 16 Oct 2026 23:34:29 GMT",
-   "summary": "China offers to address India’s trade concerns&nbsp;&nbsp;The Hans India",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Watch Wall Street Week | America’s Relationship Woes, Battery Pivot, Farmers’ Fed Warning - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzdMNHItS0lhbGZHcVg3Uk1WNWRsX2NoRC1HSDMxS0FwVUp4a0phZ2x3WDVZYWFWZWIwOVItUDZYdDFOUFZpTU9ucDNKSjNoUE1CVTFZaGdwSnJmUHM3S3RrNS1HblQ1X3Vld09IZ1Y4NVFkT0xpOEVCUmdNa2ZzbnBGWUdrQlNaRjVMa3JHV0ZVaGk1cUhfdi1qMVVQMXFRTUdaSzVaVVY?oc=5",
-   "published": "Fri, 16 Oct 2026 23:30:39 GMT",
-   "summary": "Watch Wall Street Week | America’s Relationship Woes, Battery Pivot, Farmers’ Fed Warning&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "‘For global trade’s sake, hope our US deal is inked soon’: FM Nirmala Sitharaman - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWkFuU2VONjlmYlF3RGYxNGgzOFRiSE9NV1pQWFU3OG1QVHo2eUY2d3NMNWF4bEtJQ3Eyai1lOUM1bUFoUmRVT1pKcmNiNUlrZDlYV0FxR0tUZU0xbXdXMHprdXJaWlJCRmg5X3FKWXVoeWhWcWV0R1BNVF83RFFpTk9MR1JVSGp6V3ZIQjV5VUlkd2xhNmE0Y2tIcDRKay1kMHJFRlZmQnd4MVo2VUJOZHpRRnY2dUk0YTZXWHhjczhFbUJfRXFwTXlUV0VRSkt0azRmazRMdjRESUtZM1NscE9ESnpzODZGUnp5WtIB8gFBVV95cUxObmpHUnRxZEFXdnp6NzVaTTlHTkF4LUNCZEZGQjdBTm82ejN1STJSZHdRWUI3S0VTTWhpcHRyamNnbDJWWFgtZlRic2tjVjdadU5JNUFmM2tPLVAzeXBoQ3VIOHl2NnV6bmRkek9BaWxjajRZSjFLYThRMXp0eXF3UElPc2J6bUhFc0ZuRF9TVW9TX2x2YThHYnhkY2tENTVpWWlFMHVWOG0yX0tWUXJUVXdPV25pek5MTkJJYTBhd0wtekNVX1B5SGZwWXhNUFBHcDV6ZWJCUkdIQVFzTUxPTUl1bkxtdTNyZGFra05uRnhodw?oc=5",
-   "published": "Fri, 16 Oct 2026 23:30:00 GMT",
-   "summary": "‘For global trade’s sake, hope our US deal is inked soon’: FM Nirmala Sitharaman&nbsp;&nbsp;The Economic Times",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Check out Advanced Micro Devices, Inc.'s stock price (AMD) in real time - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XSDlBX1NJNFhyenlWSmRzV21iQnBWUktYby1yRkEteVNKWlRha3VBc18xT3Zrbk1LVkJDNTR0M1d4TmM4LWc?oc=5",
-   "published": "Fri, 16 Oct 2026 23:06:40 GMT",
-   "summary": "Check out Advanced Micro Devices, Inc.'s stock price (AMD) in real time&nbsp;&nbsp;CNBC",
-   "source": "CNBC | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "其他",
    "priority": 2
   },
   {
@@ -12673,6 +12540,76 @@
    "priority": 1
   },
   {
+   "title": "CFR Incoterm for Brazil trade: cost and freight, who pays and where risk passes - DHL",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByYXAycUtWUlo2c2JCenExTjQyNHc3SkdyQjVhUmllaGEwOU9LaWxBZXl4eFUwa19OcjFQc0otcDF0d2ctUW0wR2tBTkFWTkxiSFZ0R21QZnIzQUhYbTdybGk4MnhKYThiWWdZT3JOVlZnNENudUp6bDdvTQ?oc=5",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "summary": "CFR Incoterm for Brazil trade: cost and freight, who pays and where risk passes&nbsp;&nbsp;DHL",
+   "source": "DHL | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "CPT Incoterm for Brazil trade: carriage paid to destination, risk on handover to the carrier - DHL",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzcEx1eUVucVJKMGhzMDEzY2VSSm9PSm1SblpwdmduY3VDQ1ZYRFZmVElKeDE5VjI0dkZ6UWxoRXVmZXN6cnVGRDJlWW45WUhiOG0zb0VxLUp6T3RjZVB4dFNZalNEVTdQV1RPczZrRUVKSUVFTXN2aWY2QQ?oc=5",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "summary": "CPT Incoterm for Brazil trade: carriage paid to destination, risk on handover to the carrier&nbsp;&nbsp;DHL",
+   "source": "DHL | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Trading company in Brazil: what it is and when to export or import through one - DHL",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83bGdOam5veGtsbGJTYXNnM0JjYnhlLXUza2VNVTZ1WHNOS0tMT3paUFpTWFBXNWl1UE9DZHp1OXVMUFNoX29ncnVPRUwxVXlZbDdHM3Z5WXVLa283R3BtVlZRbS1uUWprN0N4QXZveW5uMzFSTHNfdFRCaExhNm8?oc=5",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "summary": "Trading company in Brazil: what it is and when to export or import through one&nbsp;&nbsp;DHL",
+   "source": "DHL | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Comex Stat Brazil: how to search export and import data to find a market - DHL",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xOUxCS2t0b2N5SnFyamFMOHZnYkw3Sjd2NGljczh5UGpvWkl6bVdTc0lzVXh6Vl81YXJhbkc0cVJmeXM5eWZnVTNwSE5kb1VLQi1FQzhjNlc2eXAzRzFXcGtzdU8tSzdLQVBvVUVKRktqUlZjWXhPQQ?oc=5",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "summary": "Comex Stat Brazil: how to search export and import data to find a market&nbsp;&nbsp;DHL",
+   "source": "DHL | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Coffee exports from Brazil: documents, certificates and shipping samples - DHL",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43eXZ6N3lFN1Z6VW12ekk3S05LLUJKTUZBSkZucjVwZEx4aHBYZi12dElURnBIa29oM2dZTm5RRnNFVGFuVHNUQzJZVFlOZnVqdmhfdVQyd0I3YXVDUFIwcTJCdkxOVU5CaDRQUzEwdWotc1NScXVVVGJiOEZuQQ?oc=5",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "summary": "Coffee exports from Brazil: documents, certificates and shipping samples&nbsp;&nbsp;DHL",
+   "source": "DHL | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "PTAX in Brazil: what it is and how the exchange rate shapes import costs - DHL",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUXhkWFhpYVJxWGdyRUJ3UERZOHVpMmdWQUdjTlhncWkwcUJkMFVQb284cFpYRmVxZXZwUjM3ZGVmVExpQU5nU1JBOFZORUFlNnVic0J5dkZpTVZnOE1rR21rSU80MWd2T25wbVlHWVA3ckdEdlFBeURnQmhrM0ZnT1F1QQ?oc=5",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "summary": "PTAX in Brazil: what it is and how the exchange rate shapes import costs&nbsp;&nbsp;DHL",
+   "source": "DHL | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Customs broker in Brazil: what a despachante aduaneiro does and when to hire one - DHL",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVDRlTDVScUhWOFozalZHTGlhSXFUaUc0c1prMmtTSGItNlkzU1RCcDB0OU5EZEx0akhhMW5RQ0Y2OC01aTh5bWZaOWZDN1JqUFJMMVUwcVZMSW5JYnVtaGRta2x0SXNjSXg3VlpCb3hub2ktSlRqQnB4RW12UQ?oc=5",
+   "published": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "summary": "Customs broker in Brazil: what a despachante aduaneiro does and when to hire one&nbsp;&nbsp;DHL",
+   "source": "DHL | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
    "title": "Buy Apple HomeView - Silver - Apple",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVmRFRzZiM2swQXprY3hEaFBTNi03bWIxV2ZhUVhUWS1WRy1zSkc2di0tQ2lrd1FMVkhFeXVjczJKY2RVUDBEYkZPMEVpNXVyTko5Z1N0NGswYzF4bHNpUko0R2Q3MEltWHBzajJ2aFVpZFBDaGNwUTJleURNVnFfZw?oc=5",
    "published": "Thu, 22 Oct 2026 05:45:19 GMT",
@@ -13373,6 +13310,26 @@
    "priority": 1
   },
   {
+   "title": "Pentagon designates China-funded Confucius Institutes as US national security threat",
+   "link": "https://www.channelnewsasia.com/east-asia/pentagon-designates-china-funded-confucius-institutes-us-national-security-threat-6488301",
+   "published": "Sat, 24 Oct 2026 09:27:00 GMT",
+   "summary": "US Defense Secretary Pete Hegseth accused China-funded Confucius Institutes of stealing intellectual property and spreading propaganda on American university campuses.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "France boosts police presence, hoping to prevent repeat of riots",
+   "link": "https://www.channelnewsasia.com/world/france-protests-security-police-presence-6488186",
+   "published": "Sat, 24 Oct 2026 07:16:47 GMT",
+   "summary": "Anger over living costs and strained public services has drawn students, workers and unions onto the streets in recent weeks.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Print isn’t dead: How a Singapore printer is keeping paper relevant in a digital world",
    "link": "https://www.channelnewsasia.com/people/allegro-print-singapore-creative-printing-6478201",
    "published": "Sat, 24 Oct 2026 06:14:00 GMT",
@@ -13420,6 +13377,16 @@
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
    "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Western Trade Barriers And ‘Made In China’ – Analysis - Eurasia Review",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSm9iUGdESFp3a2R0d0FwbHRiUkgydkF5QnNyMGc5RzRxZV9jckR6N1hXWnNOb1VLZHZ6MXJvcXl4WTlfY2ZpZ0IyakJYdFRvWDlmOFIyVW1QRWlSaVlPSVBCMXNsMC1Eb0xmbi1mYkF3MFh3azhtWEc2QkhWN25nYTRxeWl1a1BWMHkxWC1MTHcwWWc?oc=5",
+   "published": "Sat, 24 Oct 2026 00:48:15 GMT",
+   "summary": "Western Trade Barriers And ‘Made In China’ – Analysis&nbsp;&nbsp;Eurasia Review",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "中美经贸",
    "priority": 1
   },
   {
@@ -13690,16 +13657,6 @@
    "source": "eBay | Seller",
    "module": "企业官方",
    "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Latin America Eyes 20% Export Boom in 2026 as Gold, Copper, and Asia Fuel a Historic Trade Run - Latin Times",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3lfN0k2TzBHTVVSbXUtaUNvQVBpc0U0OWx4VVNXQTNHcm5XV25jcVA2WTFidU5Lckk2MWJNM2ZZYkpnTE1tRjhOMWFYc0xRTDIwYjZONktweUNmN0RCT3FFOTNVWTBnTDJWS1g3NUU0UUFNeWdaMGplVmdMcGZIdnNGbGdzcGRmNFdjNHV2dFJiMXNlUV8xa3Y4R0h0c2xuVGx2ZFlyMWRCSHp6d3B5MFJGUQ?oc=5",
-   "published": "Sat, 17 Oct 2026 01:33:15 GMT",
-   "summary": "Latin America Eyes 20% Export Boom in 2026 as Gold, Copper, and Asia Fuel a Historic Trade Run&nbsp;&nbsp;Latin Times",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "航运物流",
    "priority": 1
   },
   {
@@ -14553,6 +14510,16 @@
    "priority": 1
   },
   {
+   "title": "Buy Apple HomeView - Rose Pink - Apple",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZW9MS2JqWkJmOXZudktwSVRhMzdtT0JBU29ScG10UE11NTRzcmxwMEppVTVmbGN3VHhpUThsZUJMd3VscEg4N201bkE0S0RTb3I4MFM2NHhnSGpvQVhoYTRnQ1VVZWxhdHUxLTdnTXczM2JmNDRRa25IQnpMLW1jWXg3b3U?oc=5",
+   "published": "Fri, 23 Oct 2026 18:34:57 GMT",
+   "summary": "Buy Apple HomeView - Rose Pink&nbsp;&nbsp;Apple",
+   "source": "Apple | Supply Chain",
+   "module": "企业官方",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Customs Brokerage Coordinator - 3rd Shift in Tonawanda, New York - FedEx Careers",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeUlvOGJsT3ZWRnNOSlRheEJVTnp4OG0zcktrNURHSzNBbndkQ0Ffb0h4T1BJLU5fandJaWlEeTBmOFdpc2dtb1ZGMEpXQWhhT1hKSE1yV3k1bHYxaFR6c2hKdFFSc3kxWTlxdlFtQmdnU3lxTU5GYlI5ZDlleHIyOUE1Ukc1YmwwblE?oc=5",
    "published": "Fri, 23 Oct 2026 18:27:09 GMT",
@@ -14649,6 +14616,16 @@
    "summary": "KANANGA, Leyte — President Ferdinand Marcos Jr. on Friday inaugurated a P91-million solar-powered irrigation system in this town, a project expected to provide water to 155 hectares of farmland and benefit 66 farmers from two barangays amid the threat of prolonged dry conditions associated with El Niño. Marcos assured farmers that the national government would",
    "source": "Inquirer | RSS",
    "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Buy Apple HomeView — Silver - Apple",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX3ZpMEFrdEVlTkhGdTRNN0wtdkxJRTZZVksxSzJVeU54dGY5NUtlRUxlLVpEMnR6OUhVRjVJdGozdnh4UHU3MFljQ3lUVmpmZjM1dkxzaWlCU2RrX3BtNkJMYWZoLVBPbHMtZHZKbU9KM1ZmTHpKMEx0bmpwQUhEYQ?oc=5",
+   "published": "Fri, 23 Oct 2026 15:29:22 GMT",
+   "summary": "Buy Apple HomeView — Silver&nbsp;&nbsp;Apple",
+   "source": "Apple | Supply Chain",
+   "module": "企业官方",
    "category": "其他",
    "priority": 1
   },
@@ -15009,16 +14986,6 @@
    "summary": "",
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "George Mens Solar Digital Wristwatch Black Plastic Band 599964953 - eBay",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50dnBzSDMxN1dtYnNkX3hHMjRWYTBJbzhTLU5VUm15SmFqWWVVcnZ6MllQWTJmNjlqYm1GdmRKMG9KY19tU3pwYXRHR21Vdw?oc=5",
-   "published": "Fri, 16 Oct 2026 22:52:18 GMT",
-   "summary": "George Mens Solar Digital Wristwatch Black Plastic Band 599964953&nbsp;&nbsp;eBay",
-   "source": "eBay | Seller",
-   "module": "企业官方",
    "category": "其他",
    "priority": 1
   }
