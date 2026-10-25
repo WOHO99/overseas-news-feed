@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-25T18:38:33.900076+00:00",
- "total": 1406,
- "high_priority": 1015,
+ "updated": "2026-10-25T22:12:06.606460+00:00",
+ "total": 1412,
+ "high_priority": 1016,
  "fulltext_count": 45,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
-  "国际组织": 1,
-  "海外媒体": 14,
-  "企业官方": 4,
-  "亚太官方": 2,
-  "海外媒体RSS": 1,
-  "航运物流行业": 1
+  "国际组织": 0,
+  "海外媒体": 8,
+  "企业官方": 2,
+  "亚太官方": 3,
+  "海外媒体RSS": 4,
+  "航运物流行业": 0
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -6127,6 +6127,38 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "US-Canada Trade Talks Near Deal After Tariff Shifts - Briefs Finance",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjdwc0FrV1ZpLXVvQkE3NG4xZDFjejhQTl9QS2dCbHBsY1ZNOFBGMkUzc2hQc3BIdTd3dnN5QW5tMHhLbWxibTB5ODJ3WVJLZDQ3bGpKS3BFQ0FObXVmYkRHUVZ1SmcwUkFMQVVJWlV0b0hLZE5nekRjU3dEYzM5M0dLa2syeFMwSkhTa0VzZ1o?oc=5",
+   "published": "Sun, 25 Oct 2026 21:58:16 GMT",
+   "summary": "US-Canada Trade Talks Near Deal After Tariff Shifts&nbsp;&nbsp;Briefs Finance",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "More pain may be coming for the AI trade. Why I’m not giving up on it",
+   "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
+   "published": "Sun, 25 Oct 2026 21:13:50 GMT",
+   "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explains why the AI trade has cracked and what he's doing about it.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "agricultural export policy | US tariffs compel New Zealand dairy market optionality - https://en.edairynews.com/",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2pIeC1JSWZKRGpmdS1qTHNyTDJteTVxUTFDWmJheDI2Q24yZU11Z01hR1gwZlRzQ1MwTE5MbHc5XzBOSFI4bVd1aUhkWXdWUC1iT3RXTTBwTG5vMFZJUmRXVUpRbXg1bFRfUWhmSnExbUc5aXhFZmwtT1FHazFWX1EzTERDTVJ6?oc=5",
+   "published": "Sun, 25 Oct 2026 20:30:33 GMT",
+   "summary": "agricultural export policy | US tariffs compel New Zealand dairy market optionality&nbsp;&nbsp;https://en.edairynews.com/",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
    "title": "Hassett Says US-Canada Trade Talks Are ‘Very Close’ to a Deal - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmdYU2JKSktsSURRM0x5WDJUUXRIWlp6d2hEMEdHRHpEOEpHcnpIemdUdXp6ZDFCWFBzSGxqcU5OT3cza0xnS0ZFZGFGdGkxdU1TdWg2MnJScTVIWWtwNmw5NDN4UFN1Y3oyWkJtVXFLdXlNYjdtOWNCNE1ydVdKcTNwdDJ0aW0yWTFleTVLRVZNaVlHemg4SGswRW9tSDlSQXc4c0ZjNTNHb3dGcURF?oc=5",
    "published": "Sun, 25 Oct 2026 18:18:24 GMT",
@@ -6155,8 +6187,18 @@
    "module": "海外媒体RSS",
    "category": "美国关税",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "U.S., Canada nearing trade deal as negotiations gain momentum, Hassett says - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJyNUZaaGNoR1pYU2h5azY2WkNWUHpQY0NzaUJKOTAybzNKMk5mV0JkYkhXSG1EYUdCSGM5S2U4VkZoTWEtb0RSRlZ3bkQ2WjZhRjI2OUxzazdSbzdIblpUUE9WY2taS21mZnR2dkdXRlFPQXJ2V3RXQzlGTjlLcC11TGxSYXlWX3lHdUFUT3R3VU1NNVczTGVNNmV2cW9sbGNzQTZBTEQ1TG1OM204?oc=5",
+   "published": "Sun, 25 Oct 2026 16:04:38 GMT",
+   "summary": "U.S., Canada nearing trade deal as negotiations gain momentum, Hassett says&nbsp;&nbsp;Seeking Alpha",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
   },
   {
    "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs - CNBC",
@@ -6177,7 +6219,7 @@
    "module": "航运物流行业",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6537,80 +6579,6 @@
    "source": "World Bank",
    "module": "国际组织",
    "category": "航运物流",
-   "priority": 2
-  },
-  {
-   "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5",
-   "published": "Sun, 18 Oct 2026 22:07:25 GMT",
-   "summary": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Robin Xing on how China’s ‘two-speed’ economy can solve contrasting problems",
-   "link": "https://www.scmp.com/economy/china-economy/article/3371109/robin-xing-how-chinas-two-speed-economy-can-solve-contrasting-problems?utm_source=rss_feed",
-   "published": "Sun, 18 Oct 2026 22:00:12 GMT",
-   "summary": "Robin Xing is chief China economist at Morgan Stanley. A famed economist and Peking University graduate, Xing has a PhD in economics from the Chinese Academy of Social Sciences and previously worked at Goldman Sachs and China International Capital Corp.\nIn his second Open Questions interview, Xing dissects China’s K-shaped economic divergence and why he remains convinced that the “top half of the K” can offset challenges such as deflation and weak consumption. He also discusses Beijing’s real...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "How China made climate resilience part of its economic growth strategy",
-   "link": "https://www.scmp.com/opinion/china-opinion/article/3371034/how-china-made-climate-resilience-part-its-economic-growth-strategy?utm_source=rss_feed",
-   "published": "Sun, 18 Oct 2026 21:30:06 GMT",
-   "summary": "The war in the Middle East has disrupted oil and gas supplies, leaving governments to confront energy pressures as they prepare for next month’s Cop31 UN climate conference in Antalya, Turkey.\nThe crisis raises an enduring question: how can climate action strengthen the resilience of an economy?\nChina offers a useful case. Its factories supply technologically advanced products essential to the green transition at competitive prices. China has production cost advantages in electric cars,...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWdtNGVsOU02TXFvOUNyRUs4NTZLbXFZY1N3RkVSbjRuendpOE5waWFyWjVVMnF5aWlwZ3NOZG81QW95WG9fUUkydmltWkctaWg1R204UU1nRU1teU1FR2diZHdJMy13Z3NXbVliRTJLc3dSWEVubDRwVjV4WXh1dG9lcjJPa0dhbVBkWklyMVJIT3JSZ2VUQlFORHIyeWg0d3NjMG1vODFESXZlMVBXMVZlalk?oc=5",
-   "published": "Sun, 18 Oct 2026 20:00:04 GMT",
-   "summary": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "A Trump-Xi Deal Could Revive US Energy Exports to China - EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2VaaVNJRnN6RnhWM2U0cFI2MGg2VDNLVUEzS0daemVkTjc4WGIxRDI3Y2dvMTN5clRlaC1CTjNHdUJndmtsTnZVcFBvZnhZaTJRYjN1d2FqZ1MxY2o2M2VsaXhLWmVlWDJuVy1ERWowZWd2Q1JGOTNQUWhDR1VYWFJDeEFxTzJwZDdCQVZKQQ?oc=5",
-   "published": "Sun, 18 Oct 2026 19:40:53 GMT",
-   "summary": "A Trump-Xi Deal Could Revive US Energy Exports to China&nbsp;&nbsp;EnergyNow.com",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Tariff rate, applied, simple mean, manufactured products (%) - New Caledonia, Maldives - World Bank Open Data",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qUTkwUXZpSEwtMTh2dHozdTB4NG9Wck91dGpRaTdRd09vYVRsQnMxSHU4SmtUbmNiM3g0eVFlOElYMXU3QWFaQjRoSXNDdWNmODZmc0llSW5DcDFmaUt0bFp6OUJFOGpPODYwblJiY2d3V3NUUUdZdmMtckYxdw?oc=5",
-   "published": "Sun, 18 Oct 2026 19:08:25 GMT",
-   "summary": "Tariff rate, applied, simple mean, manufactured products (%) - New Caledonia, Maldives&nbsp;&nbsp;World Bank Open Data",
-   "source": "World Bank",
-   "module": "国际组织",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "UK Signals ‘Different View’ From Trump on Russia Sanctions - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTMtYlhaaWtFbVBlWXFUYUd4YjNYN0RKeWMzLTFTYlE1Wk1QRGNHSmZfZXpyWmwxMFZkM21Pc3RvUk1peWEzRkRnWGkxTGVPNGRZTkpzdU4ybFJfSzhrS3FDTVpEcW9FRHVHYjNTZGJsS2p0VTdqamFRYkF2S01OOTBDS0t1YVBDbUVXWmlVR1d5S01UNnJqUkdxcUlMSDlaQkNuVzBjWGk2b1k?oc=5",
-   "published": "Sun, 18 Oct 2026 18:44:13 GMT",
-   "summary": "UK Signals ‘Different View’ From Trump on Russia Sanctions&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
    "priority": 2
   },
   {
@@ -7194,6 +7162,16 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU1lTTF9xNGgtMjNvOUV5a3FVVVVBUkJhRHpmNVdHMTNlV2dqR2tuMkhIYXc0bWVyWWVQQTdtWUtkOUVvTXk5dU5adWt0emFNekRqOGhsVlpQNnU3dU80N24yZnFvRWdqSWh5OEdKY2dJbVI5VWVRXzRDdXNjVW1ES3JlV2NhdTNRckdLekFqckxZSVhfNTlMdWwwRWFVbjN0d1lQNW1VYjBwdmRGUm1yeVBR?oc=5",
    "published": "Sat, 24 Oct 2026 02:04:14 GMT",
    "summary": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision&nbsp;&nbsp;KATV",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision - KVII",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTU1XOE1sdmwtODNEOFhLeUNIendpZWpBRV9Dcmp4cHNlOUhfYUNsSW4wVmVsV3dUTEJGNDBPbzQzY2g5X2RWUWVwX3M0SmhyZ3ZuTk9uMHdmRjhCVnVETDBZWG1uczFkTkFMVmVIOERrVHk4OUdZMXdINU5DOThEazllU1ZnYURoZ25iQmNqaDFFbnFSNVdvYWE5RENxSk1hdzRyenFDSkFHLWIyM1MwdGg4c0NHZFBrNE1lYw?oc=5",
+   "published": "Sat, 24 Oct 2026 02:01:46 GMT",
+   "summary": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision&nbsp;&nbsp;KVII",
    "source": "Google News | US Trade",
    "module": "海外媒体",
    "category": "中美经贸",
@@ -9549,6 +9527,16 @@
    "priority": 2
   },
   {
+   "title": "Canada Clashes with the US Over Tariffs, Carney: Trump's Miscalculation - Nacionale",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1RzMXh6T2dTUTJ0cW0zX19mYjZrZXlfV0lyMzdWbjN3bFhHWERYWWRhWXA4S2pibjVQckNBNWVNa1BIM1hxaUFCN1cwdXZsSXJQVnQzSzhpUDBRYUhWSlo1VDlsdEw1QUJzNmtzWGhYRFB5aTA2Q0dMZUlNZHluRFZ5UjdDV0dnSDZ0ZFdIVEg4UWJjTEJF?oc=5",
+   "published": "Fri, 23 Oct 2026 19:13:00 GMT",
+   "summary": "Canada Clashes with the US Over Tariffs, Carney: Trump's Miscalculation&nbsp;&nbsp;Nacionale",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "New Drewry data shows import demand boosting trans-Pacific rates",
    "link": "https://www.freightwaves.com/news/new-drewry-data-shows-import-demand-boosting-trans-pacific-rates",
    "published": "Fri, 23 Oct 2026 18:55:28 GMT",
@@ -10017,6 +10005,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "China and the EU could turn Morocco into a surprise global hub for electric vehicles - ODI: Think change",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTdXY0xtUlVKZEJfR0xOZTlVZm1sTzdVaDNDa2V0OHRUWkk1ektMMzFERkJVWXI0OTdOZWhMaERteGRjR1JUTnJmMkpMc0xtYzF0Zms0UjNhVnhuUXAzQ3k4ZHFvQjYyVXA3b0RRbzFCVUlfbWZoUndVRjNJVTVORDJ0dHFjaS1oWDZ2LVA2WkEyRXBXb3BRaVJNVlRtdFBFY1F2OGdUZDdaLWtxQ3J6d1NNWQ?oc=5",
+   "published": "Fri, 23 Oct 2026 11:16:26 GMT",
+   "summary": "China and the EU could turn Morocco into a surprise global hub for electric vehicles&nbsp;&nbsp;ODI: Think change",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Could Europe’s cost-of-living protests sharpen EU-China trade tensions?",
    "link": "https://www.scmp.com/economy/global-economy/article/3371927/could-europes-cost-living-protests-sharpen-eu-china-trade-tensions",
    "published": "Fri, 23 Oct 2026 11:00:10 GMT",
@@ -10392,6 +10390,16 @@
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPalJ5TllVdTAwME5QelZ0ME9Ud09yWW1xanEySm1KblFPQjlyQ3pFY1Z0cEdXYUw3ajA5Q0ZwbU41SFotVklyTnE3b2V4MFJLZ1VFLXluaDZNS29TSjh1RjNiZElTUVV1T0wwUWJTREptYWZfVmpwaEo5Nk5NdkliQ2wxei1meVI2cHJ3eGJNQTdGdXpRbS1MUmQ5akdHdkh1TC1uQkotOU1PZjRmVEpUMUpjNkczeEREOC1GUVNuaFFnUThQV3VSY1VyMA?oc=5",
    "published": "Fri, 23 Oct 2026 07:03:04 GMT",
    "summary": "South Africa: China Zero Tariff to Give Exporters Certainty Beyond 2028 and Will Safeguard Jobs – Minister Tau&nbsp;&nbsp;Africa.com",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "South Africa: China Zero Tariff to Give Exporters Certainty Beyond 2028 and Will Safeguard Jobs – Minister Tau - Zawya",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLUJ6MW9pVVdDOWVkNXBDcDhtQWluRGFrXzhHTFJtbEw1dGlBLVhmZkUxdmRpRElpLWZwMmZHVmlFckozUU5sOHhjUG1LamFZWml3OHM1TzlWMTJuSEtiWnpQWmdDdTVkd2ItSGpiRHN2ejNWOG1HcnloYTA3bGtKakhZcnVQakhtQlRNNTlTSnNtVG4wM2NWaTUtQ0tSUk5USGtiM3J1bkJJbUVZQnVJQzhMdlI2NE5GQjFXNnZnQWJMakNOZk8xTkE1bWRkY3I2Z1IxRU0wMnktRjhVTmNTdGViX0g3N01ZZFdCZjd5VE1KVVQtZno0eFZ5MkhhRERsejZzTU1FTQ?oc=5",
+   "published": "Fri, 23 Oct 2026 07:01:00 GMT",
+   "summary": "South Africa: China Zero Tariff to Give Exporters Certainty Beyond 2028 and Will Safeguard Jobs – Minister Tau&nbsp;&nbsp;Zawya",
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
@@ -12628,6 +12636,26 @@
    "priority": 1
   },
   {
+   "title": "AHDB Targets Asia And Mexico For British Dairy Exports - https://en.edairynews.com/",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUhjQ0xLMEZpRldGWEZyVmZrX0Itam1BY3ZzQnhfV0RPTXpqYVZYSGtVUzNSa04tb1ZjcG5xMHdfNHlaNlpvNzlaUml2Q2MzNzNDWFpjb0cyOVRSRWRDQS1TT25MOG56RFZYdXpuV3lmTHIzSk5KVUhJbU0zQ01IeXJRTXIzZTY4?oc=5",
+   "published": "Sun, 25 Oct 2026 21:30:18 GMT",
+   "summary": "AHDB Targets Asia And Mexico For British Dairy Exports&nbsp;&nbsp;https://en.edairynews.com/",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "What the EU–China trade deal means for Asia - East Asia Forum",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRC1xd2RNdG44dE5tb0UwclFheHc1Q1g2ZlF6UER4VGcwNDhoRmdLamY1QkVCSEdZeUx5V1g1LXpIMHZCai0xRUJwX1hoUmtZWGNvVTVCRVcwSm9rSGpMbF92RVVmZUZ2Z0ZxQmdvRmpYUFVUSXdnbFB5TGhKZl8xamQ0Ti1oNDRz?oc=5",
+   "published": "Sun, 25 Oct 2026 21:00:00 GMT",
+   "summary": "What the EU–China trade deal means for Asia&nbsp;&nbsp;East Asia Forum",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
    "title": "Medvedev defends Almaty Open title to close in on ATP Finals",
    "link": "https://www.channelnewsasia.com/sport/medvedev-defends-almaty-open-title-close-in-atp-finals-6490531",
    "published": "Sun, 25 Oct 2026 20:51:29 GMT",
@@ -12645,6 +12673,16 @@
    "source": "Yonhap EN | RSS",
    "module": "海外媒体RSS",
    "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "Da Nang approves Free Trade Zone 7 investment plan - Vietnam+ (VietnamPlus)",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWFDZlEzMzBtS0tDeWlhWnEyVXdYVVJFbVdBbUpNR0ZuNUoxWndmZi1sZUtBbnAzWVVyWWNVUXIySE1WS09GQUhkc0Vqd0xSZHFLNDNLYmVWNUNYUWtpb1pVZ3ZKVjlaOHEwNUdmbHFuV0poU2FOLUZoWndwd0ZHMkZNclU2TnRuam5lWXNQWUlscE1lQ1E?oc=5",
+   "published": "Sun, 25 Oct 2026 17:28:19 GMT",
+   "summary": "Da Nang approves Free Trade Zone 7 investment plan&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
+   "source": "Vietnam Plus",
+   "module": "海外媒体",
+   "category": "亚太动态",
    "priority": 1
   },
   {
@@ -12764,6 +12802,16 @@
    "summary": "MANILA, Philippines — Water levels at five of the nine monitored dams across the country slightly increased in the past 24 hours, according to the state weather bureau. In its latest update issued at 8 a.m., the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) said the dams were La Mesa, Ambuklao, Binga, Pantabangan and",
    "source": "Inquirer | RSS",
    "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Vintage 90s Venice Beverly Hills Malibu T-Shirt Single Stitch Lucky USA XXXL - eBay",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sek9sVmtVTEtFVDhIdU5LaHRBb1FfWEt5OWE5TlVrcUVNUjlVWXp1NTh5WXVWOE9KWGZMZjhGQ0t1RTJBUnNnQ3BGZGNWQQ?oc=5",
+   "published": "Sun, 25 Oct 2026 09:45:53 GMT",
+   "summary": "Vintage 90s Venice Beverly Hills Malibu T-Shirt Single Stitch Lucky USA XXXL&nbsp;&nbsp;eBay",
+   "source": "eBay | Seller",
+   "module": "企业官方",
    "category": "其他",
    "priority": 1
   },
@@ -12892,46 +12940,6 @@
    "link": "https://www.channelnewsasia.com/sport/leverkusens-schick-strikes-end-freiburgs-unbeaten-run-6469801",
    "published": "Sun, 18 Oct 2026 23:42:24 GMT",
    "summary": "",
-   "source": "CNA | RSS",
-   "module": "海外媒体RSS",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Export forecast raised to 25% as September shipments hit record - Singapore Business Review",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkFQNkhXMlRidkVEbmxEQmlaM04xMkNyNHpnVjNIdGNaSUZtLTlGUmpma19keE9sTGJERl9KVDRjT09KWGctNVFZNlkzZDlzS1ZjOUNTbTlUSEhtVEdaLU9rMHdiWmNpeVpQMklBOEpuUmo2LS1MTjhLMVRvUWpHS2lDbFZRcTNWTG53aFNlMmlLY3E2TWNV?oc=5",
-   "published": "Sun, 18 Oct 2026 22:00:00 GMT",
-   "summary": "Export forecast raised to 25% as September shipments hit record&nbsp;&nbsp;Singapore Business Review",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
-   "link": "https://www.channelnewsasia.com/business/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-reports-6469576",
-   "published": "Sun, 18 Oct 2026 20:08:28 GMT",
-   "summary": "",
-   "source": "CNA | RSS",
-   "module": "海外媒体RSS",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "Petroleum boom powers India’s export diversification drive - The Financial Express",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHduaExPU0ozUXg2c3JCcGdnWlFjZEZZQVFGVGpXSUZxMlRDcERNYThzVGpFQzMxNVpyUXNtZ2RCUjlNUVhET245ZkxzUWxVZmFvd0hRbDlNODZ5QnpFenp1eHJMcGo3d3ZDbjlINGt1bENyQzNVY2FNdkR2Z09iVG84cktaLU5uTkxFbjBUdU1WcGFUek9MSkx3dXVuY0VxZGluYmw0X2t1YzhRLUxBRE5VaE_SAbsBQVVfeXFMTnY3c1RmbkVpY016NGdFeXMyellqTkRFMFFmel9ZNW9yWFRnUXh1Y3N2ekxZOXpTU01nTFVOeEQxNE9nakdkMEZBNWZyam1obFV6dEltWjVVNmJqUlRNN3VjQnZOS1JyM004ckZEWE9jREhqZEJEQktCLWVsMm5pR2pIckl1VlNScHZYOElybGhnOFV1ME5xZUcwQUhGVldRT0R5TGRRa1VQRUp0OVEtbHNicWVGSGh3TWhOOA?oc=5",
-   "published": "Sun, 18 Oct 2026 20:00:04 GMT",
-   "summary": "Petroleum boom powers India’s export diversification drive&nbsp;&nbsp;The Financial Express",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery",
-   "link": "https://www.channelnewsasia.com/world/pope-leo-gradually-resume-duties-vatican-cancer-surgery-6469501",
-   "published": "Sun, 18 Oct 2026 19:20:00 GMT",
-   "summary": "Pope Leo's surgeon said the pontiff was in \"absolutely satisfactory clinical condition\", estimating another ten days before he was fully recovered.",
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
    "category": "其他",
@@ -13313,6 +13321,46 @@
    "published": "Sat, 24 Oct 2026 00:30:00 GMT",
    "summary": "Vietnam–EFTA Free Trade Agreement opens new avenues for cooperation with Europe&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
    "source": "Vietnam Plus",
+   "module": "海外媒体",
+   "category": "欧盟贸易",
+   "priority": 1
+  },
+  {
+   "title": "Not every maritime threat needs a warship: Why Singapore is turning to offshore patrol vessels",
+   "link": "https://www.channelnewsasia.com/singapore/singapore-navy-warship-offshore-patrol-vessel-maritime-security-6478186",
+   "published": "Mon, 26 Oct 2026 06:00:00 GMT",
+   "summary": "From maritime terrorism to drones, navies face a wider range of threats that do not always fit neatly into either law enforcement or conventional warfare.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
+   "title": "Pagasa reports hike in water levels of 5 dams",
+   "link": "https://newsinfo.inquirer.net/2330079/pagasa-reports-hike-in-water-levels-of-5-dams",
+   "published": "Mon, 26 Oct 2026 05:00:00 GMT",
+   "summary": "A slight increase was monitored in the water levels of five out of nine dams in the past 24 hours, the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) said in an advisory on Sunday. It identified these as La Mesa, Ambuklao, Binga, Pantabangan and Caliraya. The biggest increase was noted in Binga Dam in",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Northern Samar develops ready-to-eat ‘champorado’",
+   "link": "https://newsinfo.inquirer.net/2330045/northern-samar-develops-ready-to-eat-champorado",
+   "published": "Mon, 26 Oct 2026 04:35:00 GMT",
+   "summary": "TACLOBAN CITY—The provincial government of Northern Samar is developing a coconut-based, ready-to-eat “champorado” (chocolate rice porridge) that could provide a convenient food option for families affected by typhoons, floods and other disasters that disrupt transportation, electricity and access to cooking facilities. Since the province is frequently exposed to tropical cyclones, flooding and other natural hazards",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Slovakia eyes closer trade ties",
+   "link": "https://www.bangkokpost.com/thailand/people/3343565/slovakia-eyes-closer-trade-ties",
+   "published": "Mon, 26 Oct 2026 04:04:00 GMT",
+   "summary": "Slovakia is seeking to transform its diplomatic ties with Thailand into stronger trade and investment cooperation, positioning the two countries as gateways to the European and Southeast Asian markets.",
+   "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
    "category": "欧盟贸易",
    "priority": 1
@@ -14694,6 +14742,16 @@
    "summary": "",
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Senior Software Engineer - Tools, Intelligent Automation & Developer Platforms - Apple",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcWFONGtscm0zdGdjdWxobzhqM2VMOE91MDFRR1UyUDloMkVZV3E5N3NyOFU4R25iS1lhWVhXTU1yb3hPcXdsMEVoOEotTXNtQWJWZTluWmJDdDc1RFV0dkNueE1qQ01mbmJlUHRpVnlRS2R2LXRELWVFSGVtbEZKeEJnTnV1MWp0X3FudFFobXo2RGdMZlVyZWVVVHd6d1l1anUzbmcwQ0UtX0dZblNSX0RQQ2w5SGdobTBKTDgtOG9pRUR6VDM1dDAxUW11RnFScEE?oc=5",
+   "published": "Fri, 23 Oct 2026 02:04:33 GMT",
+   "summary": "Senior Software Engineer - Tools, Intelligent Automation & Developer Platforms&nbsp;&nbsp;Apple",
+   "source": "Apple | Supply Chain",
+   "module": "企业官方",
    "category": "其他",
    "priority": 1
   }
