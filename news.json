@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-24T22:09:07.967772+00:00",
- "total": 1400,
- "high_priority": 979,
+ "updated": "2026-10-25T02:32:48.514115+00:00",
+ "total": 1394,
+ "high_priority": 974,
  "fulltext_count": 45,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
-  "国际组织": 1,
-  "海外媒体": 8,
-  "企业官方": 6,
+  "国际组织": 0,
+  "海外媒体": 6,
+  "企业官方": 0,
   "亚太官方": 1,
-  "海外媒体RSS": 3,
+  "海外媒体RSS": 5,
   "航运物流行业": 0
  },
  "fail_counts": {
@@ -5857,6 +5857,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "Trump Defends Tariffs at Rally as He Says Audi to Build US Plant - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0JOZjVEWWowZW1iS2tiQXA0MDAycnQxZVFpQk9jRjgzTlFuUjJLLXQ2UjVzQUZSUFJ3SC1qaTVhQ2FvYmVfNHBFRVBvWk9zS2NrU05mYm1PdjVPYWJ5Rzcxa0hGcnBPLVR4aFRDMHlkdG1hWFN3ektsc2tvODB4U2x0c1YwMlplWnFEaURxajdOUW1fZzZkSzhiSThLWUU4OFUtT0JoTFJIWi1oSFMwU0pQNmJuZw?oc=5",
+   "published": "Sun, 25 Oct 2026 01:07:00 GMT",
+   "summary": "Trump Defends Tariffs at Rally as He Says Audi to Build US Plant&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Canada looks to China as trade diversification gains momentum - China Daily",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uUUlYMFBxUm9GQ3Q5LUVoMXpkTVloWnVDajNaSjVuaG0tM09EbkNGck9ueTZZLUpUdFl6ZnBvcld1VG5JVVNMSVAxSlBMLUdJQUc5b3FyLWMxY0JfV0MyNEpZT3NpSDJQUTdYc1BWanJ1TVBsZGdLY0h4bU8zUQ?oc=5",
    "published": "Sun, 18 Oct 2026 23:43:10 GMT",
@@ -6402,60 +6412,6 @@
    "priority": 2
   },
   {
-   "title": "China’s ‘golden week’ holidays come at a cost",
-   "link": "https://www.scmp.com/opinion/china-opinion/article/3370840/chinas-golden-week-holidays-come-cost?utm_source=rss_feed",
-   "published": "Sun, 18 Oct 2026 01:30:06 GMT",
-   "summary": "For iPhone users in China, the calendar has long presented a small but recurring problem. On a Sunday designated as a make-up workday, an alarm might remain silent. On a regular Friday converted into a day off, it might ring anyway.\nNearly 17 years after entering the Chinese market, Apple quietly updated its operating system in September to automatically recognise China’s official schedule of adjusted holidays and workdays. The fix is modest, but it points to a larger question: what happens when...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Trump paused Russia sanctions to ‘analyse’ impact on global economy: Rubio - The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYUJjZTdfTldueVhhU25zNGpmTHRKSHM2bmhlV0NBSGpkLXlyYmJjQ2hQU0ZRN3o0cTZSWlNWNFBpR1VHTjJUXzU5bkhCQkc5NFNaUEpmNGE2RWt6Q0ktMmdCYXk2RWktOFp4REJkXzU0UXhWdHNGZ042cHNHNjBJUk5FMXhFb0lFS3g2Wk1ueE9QdjUwbG85WkhGZDN6a1F2eTlzMDR6YXU0UlZhUy1WY1J2Y0s0V1M3Vm5PSzVjeENtVXZUWEIxZmNjOA?oc=5",
-   "published": "Sun, 18 Oct 2026 01:15:00 GMT",
-   "summary": "Trump paused Russia sanctions to ‘analyse’ impact on global economy: Rubio&nbsp;&nbsp;The Straits Times",
-   "source": "Straits Times",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "How land power could help US forces counter China in the Indo-Pacific",
-   "link": "https://www.scmp.com/news/us/article/3371267/how-land-power-could-help-us-forces-counter-china-indo-pacific?utm_source=rss_feed",
-   "published": "Sun, 18 Oct 2026 01:00:10 GMT",
-   "summary": "Senior US commanders have highlighted the importance of land-based troops and equipment stationed in the Asia-Pacific in any conflict with China, countering assumptions that such a war would be fought mainly at sea and in the air.\nGeneral Ron Clark, commander of US Army Pacific, said the “tyranny of distance” made it difficult to rely on air and naval forces during a panel discussion at the Association of the United States Army’s annual meeting this week.\nThe comments reflect mounting concerns...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Trump’s Russia sanctions waiver called mistake by Republican Party allies - The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHZoS3c4bzQ5bDlBS2F5Nk04cnc4dW9uRFRMUVZZOVBsWWg2ZkQ2MjZfWE42c0dMajV4ZFZRYmUyTnJQaGZSdDlGV09sdXRUNjhuTnpVNG52MFdnXy00OWVZb2VDd0E3NFRuZ0xsZFpfaTFaaU5YWjhrN21MbEM5NXRZblFyLVRaWjgzRm45eHdrcTJ4UHphVkxQRWFXSWRsNW10YWNnVzdnQU1uTVc0OXp6SGM2ZmlDRloxUEFn?oc=5",
-   "published": "Sun, 18 Oct 2026 00:50:00 GMT",
-   "summary": "Trump’s Russia sanctions waiver called mistake by Republican Party allies&nbsp;&nbsp;The Straits Times",
-   "source": "Straits Times",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Zelensky criticises Trump’s waiver of sanctions on Russia as ‘wrong’ - The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNXFDbFhqTDJ1dTJ0Uk1jUTYzanJyZ0s1MHdzR1Bnd3Y1bjBoeVQta01rSnJGaWpmYndLbl9RZjQzX2hSQ2xCb2dpYl9LN1liN1JtQllmVmJJWHdNcDdDOEpscC04NmFVVGxfbU9HNlNxWXhDbTlMZmdUbVdDcllGWGpXd3FPb05jQjhSdDZTSFBLLXo2aDZxS3RWdk9MUTd6RWVLMnFPY1dvVHBfemxBdF80QVhrUQ?oc=5",
-   "published": "Sun, 18 Oct 2026 00:39:00 GMT",
-   "summary": "Zelensky criticises Trump’s waiver of sanctions on Russia as ‘wrong’&nbsp;&nbsp;The Straits Times",
-   "source": "Straits Times",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
    "title": "China’s next generation of leaders waiting in the wings for more senior roles",
    "link": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
    "published": "Sat, 24 Oct 2026 22:00:28 GMT",
@@ -6464,8 +6420,28 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "India-US differences persist in spite of Trump’s tariff waiver - The Sunday Guardian",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUlQWlZ6UGo0X2E5cmtlQk5BZVl5T0VpOHQ0S283VHphWVc0dTdwUUFiN1NLcnRkbnIyVFZySEJYWFhwczhGay1pSWFfNm1oWUpMZUZNRXpZV3F3TVdQazZfV1FzLTUtN0tXOXlhdVF3Y2UtUU1RUlcxZ1VrU2FLQWREUkp1eFhmQ1pFb3VFUmphbUpUb2JPZF9janVzeGhndlp6dUt3a3liay1GMEF3dER5LXFlZ9IBuwFBVV95cUxNZFl1dzJSMUZGdXFHVFpFNzAxWU5SODRPZHpHZEpQaE9FNlRPMHJxV1M5dWVXU05GVGp1TDc5UGEwckNZZVd4UjRmWVBqQ3RYSW5TQzh2WmhJb3hfaXVZTWpPZU1aT1hsR3QtWl9oMGp1Wk1xRXVwa3RlOHRPdHlnaENlVmp5RGhXRk5NbW05R01OQUhvckNmcThJWFpqVG01Q3REc1ljMm9hakxJaTIxUkYtZFNzVTVFb25z?oc=5",
+   "published": "Sat, 24 Oct 2026 21:57:19 GMT",
+   "summary": "India-US differences persist in spite of Trump’s tariff waiver&nbsp;&nbsp;The Sunday Guardian",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "India-US trade pact first phase finalised, legal drafting under way, says Piyush Goyal - Goodreturns",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXc5bnJGbTdMQjlRcnpvV0J4UGRiUFRPWHByRkJJREFTelVsU3JDQ3o5ejJOV01IazlHM1NsQVZGYk5oOUR3R19ETlVIZWxRcG1FR1FKaEtaNnJGZDBBOXRDLVUzamNWUTNBaDE1amNPQ3BPeUdBYnpMSVVMWThCWm1lYW5nYjVkSnBoVUNUcVZVR0dpNEtESG8wY0Vpc3JTUnctblpBaUFjdDcwdVRVVVJR?oc=5",
+   "published": "Sat, 24 Oct 2026 21:52:29 GMT",
+   "summary": "India-US trade pact first phase finalised, legal drafting under way, says Piyush Goyal&nbsp;&nbsp;Goodreturns",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
   },
   {
    "title": "Indonesia reduces gas exports to Singapore in order to 'safeguard reliability' of domestic supplies",
@@ -6681,6 +6657,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "China Trade Surges With South Africa As Duty-Free Access Boosts Exports - Trendsnafrica",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajZ1OTYxeElIWHB0cjJPeWNwSjQ5QXdhV1QtMGlFVmE5aTVYUjRZWUpXWWF6TzVuVklkVWZqU0tzTWFVN0RJd0lQZUoyZkY5ZmtoUE1lanJGMFlJdHl3ZWR1NTRfODlUQnhNVV9CR0lfLUhhdjBTUVBKeEk4X3RjeXRTVTBTbVktVnRIdDJLNXRub2tYSVY1LWc5WEwyTEnSAacBQVVfeXFMTmVER2M0WFRiUHUtX05rc2JveFd1eThjRFVmbWZ6aTdWcUY4d00xRFRsUlp6OFBNU1FiZ2g4TG1XeHVtdTIycTFNZzJsX2pBLUhwdXNJNXlydVVId3RtWjU0ZjdYbUNXdVRhQ0F3MVg5aWhscUdQdFZ0Sm92eXNpUEVQX1ROVXlBYkVReHZxTG1RRWwzUG9wWk9BWHJpX3l3R3B5SDhWQmM?oc=5",
+   "published": "Sat, 24 Oct 2026 07:33:45 GMT",
+   "summary": "China Trade Surges With South Africa As Duty-Free Access Boosts Exports&nbsp;&nbsp;Trendsnafrica",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "AL Circle Analysis: Guinea’s 150Mt bauxite cap, China’s import swings, US tariffs draw aluminium Q4’26 - AL Circle",
@@ -6953,58 +6939,6 @@
    "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Across US, ‘No Kings’ events seek to boost early voting and thwart Trump",
-   "link": "https://www.scmp.com/news/world/united-states-canada/article/3371279/across-us-no-kings-events-seek-boost-early-voting?utm_source=rss_feed",
-   "published": "Sat, 17 Oct 2026 23:56:30 GMT",
-   "summary": "Carrying an umbrella painted with the words “vote, power, people”, retired teacher Sabine Carlson said the lesson plan for Saturday’s “No King” marches was clear.\n“It’s great to voice your anger, and we have long lists of complaints, but the most important thing of all is to go and vote,” the 66-year-old Democrat from Washington’s suburbs said.\nAt the demonstration near the country’s Capitol, Carlson joined one of the estimated 3,000 events organised by the prominent anti-Trump movement across...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Moving Manufacturing From China to Mexico - Harris Sliwoski LLP",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUjJYNVU3VlZJUFJhempfVHFVQmszWHlYNDRSSDhoS2lXcnZsRFp1Ty1oT2RRMERybFZvQWpOVWV2dWh5aHNNdU9KU2FmdEFJQ2g5NFR1VmdRVnYybl9Uak5LVFhhaTA5WGtRQ0tUY1pPb2ViNzJTY2wyWWVXR2ltQnJ0bTlXVlk3elow?oc=5",
-   "published": "Sat, 17 Oct 2026 23:43:22 GMT",
-   "summary": "Moving Manufacturing From China to Mexico&nbsp;&nbsp;Harris Sliwoski LLP",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump eases 100% tariff threat over Russia: Could a US-India trade deal be closer now? - The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb0JDSi1wNEdVMVloUlNCSzE3UUtvbXJVVkowR2djWlZoZFUxWmRyR19jNWswUVpwWVBFYjBSMnBIWC1QZkdzalFCaEM4Vl9tb0xCd0UyeXg3WDJ0MkNXdHdWTHpuREhia29oNUV1c0Z5d0JtT3A3Y3pDcDFjaDBUM0RnN2d0M1lXMHVMNEZGSXpjOTNYa0UtS3UzT3hGTTdZc09IRWY5OFZkbGRNWjZ0NWkxRTZ1bnVDRnJPS0FQZGF6bUprNm1SZXBzWU9qT1BLZXhSRGZWa9IB3gFBVV95cUxOWjk0SzR1QmRtbzNOS1Z5MjlVN2Y3cWEwSThQUEN1MDQ1WlpXVTJMYXhCZ3VWajdnbTBkOS11UF9UWmFXRGxDZkZodGM0LVpNSHlKTF9vZEdzeXZjanlTdG51VUJaM0xVcUhtbHA4NmIyckc4ZUNyaDZBLURIT2NSd0ZyRjJzLWFyRy1WWGRTNkZSajFMdHdEWGcwTEFzbF9mbnZGSzdHSko4SWx6RWwyajJ1S1dMa3BoWjhsXy1Ba216TEM2c19aRmllY3dpV0VyWjFyczBJVEtMcnVZM3c?oc=5",
-   "published": "Sat, 17 Oct 2026 23:11:22 GMT",
-   "summary": "Trump eases 100% tariff threat over Russia: Could a US-India trade deal be closer now?&nbsp;&nbsp;The Indian Express",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump waives Russia energy sanctions, suspends threat of 100 pc Tariffs on India, China - Daily Excelsior",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUVk5ZDdwNFc1WlZfMUFJUEZiNnhhNDUzWVZ5eGVpUENfQW4wVWt4RXkzRC01SjlJSWhYZFduY2ZsV1VNQUliT3h0aW10VF9Ea2J0cWdUQVNTakg4ZW1pS2E0ZjVmcmUwWXRMMDV1NHg1RjgtTGQ5amotaGhLTFhkMzRFVXJ3LU5KNHM4cDFxV1V5SWh6dHl3a3ZTeUxVZFBMd3pzOTEzY2NoT1d4UGF0dzI4VTY5cVpH0gG8AUFVX3lxTE5kYkE3MWl2SkpjSjAxWmtWeFlwYjROdWR1NjlnaTVBQXU2bG04cGpDX1NxQjk2ZUVaUm1DZVhSaF9PWDc4NUUzSzZfWUNZdDhXWXR5bnpQVDlCQUhteldhclJVMmp6akpXMVBZWTRWY0tEM0dnT0V2SXJiaU9OVnh3bXZ6bkFJX1JoYk94OU03Szd3ZHVYUnlHa2otdW5VMUFZbS0yQnhFNmdUU2FfWkxTRUZvUEJXblFyRzdQ?oc=5",
-   "published": "Sat, 17 Oct 2026 22:31:52 GMT",
-   "summary": "Trump waives Russia energy sanctions, suspends threat of 100 pc Tariffs on India, China&nbsp;&nbsp;Daily Excelsior",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Christmas cheer, but caution remains: Exporters welcome US tariff relief, keep diversification plans - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOaFpjc1UyS1c4OV8tMTZKb1FjSm5LdG5KalYxTDhsQ08zcFJEcE5ILWVXWnJvQnYwdDJpZDh2bmdKTGtsS3hKVE1SMnJRdFJzQzQ3dFdMVnFxM2ZRQnk1azZhdXZUTkNnOW9FSGRYS0VURmFHb1JjSk9lNWVJSWV1a1gtTTJUUHpUeWFmSHZGeldFYkZaTURBZmtMa3BQdEhzVmdPRTFOX0hKcXpadlNSMGlJMnU0R080X3NmZlF4a1E2MktYMGE5cVZRbUxiNWVmRGRmZFFCMzFJSE5QMEVqMnJwdnVqOUd0LTFObjB0Y19VX2RKM3FXVXVKenNxZjhWOEJMMVR5RUVYQdIBjwJBVV95cUxQcGpFd2ZIZmNpNmN0MHFwZnc2NXBQTGUwLVdWRFN1SXYwSkJhT3BabTYySmFBV08zdUx4QVdCT3M0MkJucWh0SGZ4eEpzUzM5Z3hVd0lKcDYyRUIxckVkdUN5MHNQVjlLYThtaU5KZ0dSd2NNVmo3a3YxbC1DWXBKdkM3ZGFIOW9vQ3AxOFlSUTRJZjdybS1SU0U3UnB1TTRUYWJEY3d2NEF0aHNqNUJtQy1HNUsyX0g4cldxMUh5by1GQmYzcWtTcF80NnhfbUZINVVSVS13ZUkzSi1LTXNsTmJBSHdnLUl6ZHFjVm52d1c0WW9xNWNpUXhybEZkTVpGelpWakxZR1VXWnBkZl9r?oc=5",
-   "published": "Sat, 17 Oct 2026 22:30:00 GMT",
-   "summary": "Christmas cheer, but caution remains: Exporters welcome US tariff relief, keep diversification plans&nbsp;&nbsp;The Economic Times",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "美国关税",
    "priority": 2
   },
   {
@@ -10388,6 +10322,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "Falling exports to China take toll on US businesses, jobs - China Daily",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QU2FCT3gwd0RqbHNVR1dCNTlnQm1peUxzb0tXLW5TeUdMOVFCT214NFdsWVEtM3I1RFN3VHR4a19TaHZ3akZrQjFMNjl2Q1RXbzEwdDJiMFhFeDZ6amFGUGtZYkJXNHJiYy1ydzdYeDUxSGY3Yjl4dnk4cWVGdw?oc=5",
+   "published": "Fri, 23 Oct 2026 01:23:57 GMT",
+   "summary": "Falling exports to China take toll on US businesses, jobs&nbsp;&nbsp;China Daily",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "COMMENTARY: US tariff war is fueling Vietnam's coal boom - Reuters",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOG84XzgtRVI4UzlHbEhTWFNJMlVkOU1hTG13WWxmU25waWNBekhRSHZpODA5MlZWTlBmNUxvaFljaDZRcEU4LXdTc1RxTUpIUGRjcjNjLVdSTUVETV9jT3lWME5vR1pzOUN0cXpyU2x3dzg3Y0NwRkpqTGVaX2h2bm1GVmN1OEo1VG1Id3VGWmptd3RST2ZhTk94Y0kta1E2SnlhYUlDNmhLQjczTEVvT3ZR?oc=5",
    "published": "Fri, 23 Oct 2026 01:14:00 GMT",
@@ -12262,6 +12206,56 @@
    "priority": 1
   },
   {
+   "title": "Hyundai Motor, Kia's combined China sales fall below 10,000 units in Sept.",
+   "link": "https://en.yna.co.kr/view/AEN20261025001900320",
+   "published": "Sun, 25 Oct 2026 11:02:45 GMT",
+   "summary": "SEOUL, Oct. 25 (Yonhap) -- Hyundai Motor Co. and Kia Corp.&apos;s combined retail sal...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "5 PH dams see slight rise in water levels",
+   "link": "https://newsinfo.inquirer.net/2329780/5-ph-dams-see-slight-rise-in-water-levels",
+   "published": "Sun, 25 Oct 2026 10:19:44 GMT",
+   "summary": "MANILA, Philippines — Water levels at five of the nine monitored dams across the country slightly increased in the past 24 hours, according to the state weather bureau. In its latest update issued at 8 a.m., the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (Pagasa) said the dams were La Mesa, Ambuklao, Binga, Pantabangan and",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "S. Korea's Q2 current account surplus ranks 2nd on robust chip exports",
+   "link": "https://en.yna.co.kr/view/AEN20261025000800320",
+   "published": "Sun, 25 Oct 2026 09:32:33 GMT",
+   "summary": "SEOUL, Oct. 25 (Yonhap) -- South Korea posted the second-largest current account...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "(LEAD) N.K. leader vows to advance ties with China during surprise Dandong visit",
+   "link": "https://en.yna.co.kr/view/AEN20261025000351315",
+   "published": "Sun, 25 Oct 2026 09:11:38 GMT",
+   "summary": "SEOUL, Oct. 25 (Yonhap) -- North Korean leader Kim Jong-un has visited China and...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "N. Korea reports leader Kim's surprise visit to China",
+   "link": "https://en.yna.co.kr/view/AEN20261025000300315",
+   "published": "Sun, 25 Oct 2026 07:14:43 GMT",
+   "summary": "SEOUL, Oct. 25 (Yonhap) -- North Korea on Sunday confirmed leader Kim Jong-un&apos;s ...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
    "title": "(URGENT) N. Korea confirms leader Kim's Saturday visit to China",
    "link": "https://en.yna.co.kr/view/AEN20261025000200315",
    "published": "Sun, 25 Oct 2026 06:49:20 GMT",
@@ -12289,6 +12283,16 @@
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
    "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "Free trade pact with European Union shaping up for end of year",
+   "link": "https://www.bangkokpost.com/business/general/3343075/free-trade-pact-with-european-union-shaping-up-for-end-of-year",
+   "published": "Sun, 25 Oct 2026 05:03:00 GMT",
+   "summary": "Thailand and the European Union could conclude a free trade agreement (FTA) by the end of this year, says Foreign Minister Sihasak Phuangketkeow.",
+   "source": "Bangkok Post | Breaking",
+   "module": "海外媒体",
+   "category": "欧盟贸易",
    "priority": 1
   },
   {
@@ -12862,56 +12866,6 @@
    "priority": 1
   },
   {
-   "title": "MRTA to review Hat Yai's monorail",
-   "link": "https://www.bangkokpost.com/thailand/general/3339018/mrta-to-review-hat-yais-monorail",
-   "published": "Sun, 18 Oct 2026 01:31:00 GMT",
-   "summary": "The Mass Rapid Transit Authority of Thailand (MRTA) plans to review Hat Yai's monorail project next year, aiming to update a decade-old study to reflect new conditions and lessons from the 2025 major floods.",
-   "source": "Bangkok Post | Breaking",
-   "module": "海外媒体",
-   "category": "亚太动态",
-   "priority": 1
-  },
-  {
-   "title": "Ministry eyes illegal dumping",
-   "link": "https://www.bangkokpost.com/thailand/general/3338998/ministry-eyes-illegal-dumping",
-   "published": "Sun, 18 Oct 2026 01:22:00 GMT",
-   "summary": "The Industry Ministry is pushing to establish dedicated recycling industrial estates to manage growing volumes of solar panel and electric vehicle (EV) battery waste, while tightening controls on hazardous industrial waste disposal.",
-   "source": "Bangkok Post | Breaking",
-   "module": "海外媒体",
-   "category": "美国关税",
-   "priority": 1
-  },
-  {
-   "title": "Chelsea's Martinez suffered concussion after collision at Everton, says Alonso",
-   "link": "https://www.channelnewsasia.com/sport/chelseas-martinez-suffered-concussion-after-collision-everton-says-alonso-6468516",
-   "published": "Sun, 18 Oct 2026 00:56:47 GMT",
-   "summary": "",
-   "source": "CNA | RSS",
-   "module": "海外媒体RSS",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Geneva showcases watchmaking to woo Thais",
-   "link": "https://www.bangkokpost.com/thailand/general/3339073/geneva-showcases-watchmaking-to-woo-thais",
-   "published": "Sun, 18 Oct 2026 00:55:00 GMT",
-   "summary": "Switzerland is promoting Geneva's food, culture and watchmaking to attract more Thai visitors and strengthen tourism and trade ties between the two countries.",
-   "source": "Bangkok Post | Breaking",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Trump’s second Asean summit presence comes at a price for region - South China Morning Post",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMG1ZQWY2ZUdtYWxxaGY4SW55VmQ2QVRpQ1FKNHdWM0VoZXRWQkFIYXkydHdvMXBoV1NsRDFOTHFTRkRoVnpDU1ItdFY3c1NPWTd1UTl0eTBUVVVyTjhjdUhud0FKODZYZlA2THlyUXhnV2E4Q3owRWowVWpZMTdVZm52X1cwTnY5RllvWnZvVl84QnpuNFVyTk9MSFVHLUNFM1dsZnRKQUZXenp3V2pVczZxOGl6UERTOEZ1aElJV3o?oc=5",
-   "published": "Sun, 18 Oct 2026 00:00:08 GMT",
-   "summary": "Trump’s second Asean summit presence comes at a price for region&nbsp;&nbsp;South China Morning Post",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
    "title": "Soccsksargen hog raisers to DA: Stop pork imports",
    "link": "https://newsinfo.inquirer.net/2329528/soccsksargen-hog-raisers-to-da-stop-pork-imports",
    "published": "Sat, 24 Oct 2026 21:43:20 GMT",
@@ -13112,6 +13066,16 @@
    "priority": 1
   },
   {
+   "title": "China’s economy grows 4.5% on robust exports as domestic weakness persists - Yahoo News UK",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DWUtJYU5aWTFKa2R0bVRfbEhtVXlVY2wyWGtaRm1xVEdDOFBkR252T1R1MXExX1RZcHBMY1IzZWJvcDBKaXBUUlhPRndHZEFWQzFsODc2NW1BV0VpeHNjNGFydk5LUHRzZUF0NlBzV3EzZw?oc=5",
+   "published": "Sat, 24 Oct 2026 09:36:59 GMT",
+   "summary": "China’s economy grows 4.5% on robust exports as domestic weakness persists&nbsp;&nbsp;Yahoo News UK",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
    "title": "Pentagon designates China-funded Confucius Institutes as US national security threat",
    "link": "https://www.channelnewsasia.com/east-asia/pentagon-designates-china-funded-confucius-institutes-us-national-security-threat-6488301",
    "published": "Sat, 24 Oct 2026 09:27:00 GMT",
@@ -13239,36 +13203,6 @@
    "source": "Vietnam Plus",
    "module": "海外媒体",
    "category": "欧盟贸易",
-   "priority": 1
-  },
-  {
-   "title": "Why a ‘killer switch’ to tackle Europe’s trade issues with China may not be so straightforward - The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmxDY3R4NHpndjlLUUlhZUxLUUtYdzAyQnpSQUJYQVpKb3g3VExSckVJMjE0RXZUbW9RWUsxMmpRS3VCRmhhYzBnNl9SSXNUT2VnZk9sRWpCNFFTeUFwRkpSNXJ4ZEQ5ei1jTU96X204MnZKTXZDWkRzQVc2MDdUWko2ZFhKM1pLZUpELWJXVUxrYVhTMkJ3VExIYVpteUNTNzVYSW5SbGVUeTVpaEplR0h3OHNJS0sxeXI4QlBQektmNmJOS0E?oc=5",
-   "published": "Sat, 17 Oct 2026 23:30:00 GMT",
-   "summary": "Why a ‘killer switch’ to tackle Europe’s trade issues with China may not be so straightforward&nbsp;&nbsp;The Straits Times",
-   "source": "Straits Times",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "Four more Ebola cases detected in Kenya, bringing total to seven",
-   "link": "https://www.bangkokpost.com/world/3338859/four-more-ebola-cases-detected-in-kenya-bringing-total-to-seven",
-   "published": "Sat, 17 Oct 2026 22:45:00 GMT",
-   "summary": "NAIROBI - Kenya has confirmed four new Ebola cases, the health ministry said Saturday, including another relative of the first victim and three healthcare workers who treated him.",
-   "source": "Bangkok Post | Breaking",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Solar-powered water pumps seen to help save rice crops in Ilocos Norte",
-   "link": "https://newsinfo.inquirer.net/2325700/solar-pumps-seen-to-help-save-rice-crops-in-ilocos-norte",
-   "published": "Sat, 17 Oct 2026 22:19:51 GMT",
-   "summary": "SAN ILDEFONSO, Ilocos Sur &#8212; The National Irrigation Administration (NIA) in the Ilocos region turned over three solar-powered irrigation projects in Piddig, Ilocos Norte, to improve water access for farmers and boost agricultural productivity. The Bimmanga, Sallaguid and San Antonio projects will provide irrigation to 45 hectares of farmland, using solar energy to help ensure",
-   "source": "Inquirer | RSS",
-   "module": "海外媒体RSS",
-   "category": "其他",
    "priority": 1
   },
   {
