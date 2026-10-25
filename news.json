@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-25T15:20:13.517793+00:00",
- "total": 1391,
- "high_priority": 999,
+ "updated": "2026-10-25T18:38:33.900076+00:00",
+ "total": 1406,
+ "high_priority": 1015,
  "fulltext_count": 45,
  "stats_by_category": {
   "美国官方": 0,
   "欧盟官方": 0,
-  "国际组织": 0,
-  "海外媒体": 15,
+  "国际组织": 1,
+  "海外媒体": 14,
   "企业官方": 4,
   "亚太官方": 2,
-  "海外媒体RSS": 3,
-  "航运物流行业": 2
+  "海外媒体RSS": 1,
+  "航运物流行业": 1
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -1468,6 +1468,16 @@
    "source": "Federal Register | BIS",
    "module": "美国官方",
    "category": "中美经贸",
+   "priority": 3
+  },
+  {
+   "title": "WTO - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yMWs2dlFHS3BLZmV1RllTVEQwS1ZzZXhMYTJMR2p4SWR3STNvNGUwLWNkZ3h3M1RSNk9zRS1WSlBqdS1TQ1E4c3E1TllvRnFHZG1jbU1ydFBEQnlLY2NWUnotNnBoQQ?oc=5",
+   "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+   "summary": "WTO&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
+   "category": "其他",
    "priority": 3
   },
   {
@@ -6117,6 +6127,60 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "Hassett Says US-Canada Trade Talks Are ‘Very Close’ to a Deal - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmdYU2JKSktsSURRM0x5WDJUUXRIWlp6d2hEMEdHRHpEOEpHcnpIemdUdXp6ZDFCWFBzSGxqcU5OT3cza0xnS0ZFZGFGdGkxdU1TdWg2MnJScTVIWWtwNmw5NDN4UFN1Y3oyWkJtVXFLdXlNYjdtOWNCNE1ydVdKcTNwdDJ0aW0yWTFleTVLRVZNaVlHemg4SGswRW9tSDlSQXc4c0ZjNTNHb3dGcURF?oc=5",
+   "published": "Sun, 25 Oct 2026 18:18:24 GMT",
+   "summary": "Hassett Says US-Canada Trade Talks Are ‘Very Close’ to a Deal&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "Falana urges Africa to rally behind Cuba, demands end to US sanctions - The Guardian Nigeria News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVlYVXBWMkhlWG9xdFZDb0stQ1dXdEV6bzF5TzFXNkxhRHY3QVViUnhla0QtakdWR3V1T2tBdW9sRGViMmtGUUFoQjNwYmxaal9jc0RJaXdDN3o0YzE2RW5TQWpoNVNyOXFfMC1sYXlFMThQSW1hUVhaaW9TTkFrb2NCMVZWMExvVkxwRnNiNkVRUDVHUElaVTRn?oc=5",
+   "published": "Sun, 25 Oct 2026 18:15:04 GMT",
+   "summary": "Falana urges Africa to rally behind Cuba, demands end to US sanctions&nbsp;&nbsp;The Guardian Nigeria News",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+   "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+   "published": "Sun, 25 Oct 2026 16:42:42 GMT",
+   "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "美国关税",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUXRhRGhmQ1RVT1kteDNMTTY1SWpNV0tsY0plSkRZWkNmYjJOYzkwaEtldU5YN1dnUDhWel9JM09COTlOMlFpSHo1bTVKRTFZX2lmUS0tbnJKZm4xOGdWcTBCUlZmS0UwRG01bVk0YVZhaDlTMzB4bksyODBpVGZJYXBkZ9IBiAFBVV95cUxPT3JnTTR0VW9PX0RiY2NIc2ZoZFI5N0s5bTBrdDhqcFhpNXcxY3lsREszU2d2Z3VjeTZsQU5BOFE4LWRsSzB4N0tlRVNxaGdQY3V2SUxaZzZuMnB5d1BtU2tKUFFmaFRSWnotZzl5YWlDb3dfekg5dDRqbjdheG8wZFVGRl9ORFJj?oc=5",
+   "published": "Sun, 25 Oct 2026 16:02:56 GMT",
+   "summary": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs&nbsp;&nbsp;CNBC",
+   "source": "CNBC | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "China tightens export oversight with new technology and drone controls",
+   "link": "https://container-news.com/china-tightens-export-oversight-with-new-technology-and-drone-controls/",
+   "published": "Sun, 25 Oct 2026 16:00:22 GMT",
+   "summary": "China has announced new export control measures covering selected advanced technologies and unmanned aerial vehicles (UAVs), introducing additional compliance requirements for exporters and international logistics providers. The measures, outlined in separate announcements by China&#8217;s Ministry of Commerce (MOFCOM) in October 2026, affect technology transfers, export authorizations and customs documentation. While some requirements have already taken [&#8230;]\nThe post China tightens export oversight with new technology and drone controls appeared first on Container News.",
+   "source": "Container News",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
    "title": "Defying tariff odds: How Indian exporters navigate US duty threats & China trade barriers - Opinion News - Financial Express",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORzgtQkFmckc1NHZ4SGtpeUdnMDhPbFhjOU9RcllOUnA1WWExY0V4RWozcjZwQU9RdHZJVlR5c3BpMnIzSVZDR0J6QVZTSF9IanNCaXY0Ul9acElMcmRSb0VEeHBWRnd6N0xmRGJvTzRueU1nYVpJNEdUaUwzTTdRUEl5eHlMV2xZbnZlRkNhcTNqTWZsdnhaWGJIX1h1WENIRUZ2b2MyU3ZYV2laWDA4My1aaG5fQlhBTGstbGFZVHhIWk9fWlQyM1djWGNadDJ0N0k3V2NESQ?oc=5",
    "published": "Sun, 25 Oct 2026 14:05:57 GMT",
@@ -6135,7 +6199,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6147,7 +6211,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6169,7 +6233,7 @@
    "module": "航运物流行业",
    "category": "航运物流",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6194,7 +6258,7 @@
    "module": "海外媒体",
    "category": "其他",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6206,8 +6270,28 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "Audi to build $4bn Georgia SUV factory as Trump promotes tariffs - Nation Thailand",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWclE2ckFQdVpvVmhZOENoN2RjM21pYW1kam1oR2QwYjJOcHlkdVBNc0xXMGJlQlUyeXVna2t6emRxVnlZamVsOTZNSXAybDI1X1RCcFVQd015LTV6LWhN?oc=5",
+   "published": "Sun, 25 Oct 2026 09:51:00 GMT",
+   "summary": "Audi to build $4bn Georgia SUV factory as Trump promotes tariffs&nbsp;&nbsp;Nation Thailand",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Trump announced a deal with Putin releasing millions of barrels of Russian diesel oil onto U.S. and global markets - Cleveland.com",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdWdZS3pOX29qZDA1YWhXQjE4czV5QzFSdnRoNTc0Q1AwaHVLdUJFYl9VdXlDWW9EVEZLVUg4SGREbXYzbnJPQ2FzQTN1bWc1UFluUkVwVDYzUDAwSHJRTWh4VTZkYzNDMkZxZjUwcml3em9xWW51dzhUTXNJaGZ2dGxtTzdWR2lTX1UtU1VVMUFnNWNWYi1sejhoZVE5Z09lenZlYTFyaWZoVGVxVGxUbEV6QXhST093TUttdzN4cGNpN2lDZFBXSkhTR09JN04ycFBhcHJDcUJaSThHdUdlWkRNVUZmMDJOS01rZ2UzYVN6Zw?oc=5",
+   "published": "Sun, 25 Oct 2026 09:48:00 GMT",
+   "summary": "Trump announced a deal with Putin releasing millions of barrels of Russian diesel oil onto U.S. and global markets&nbsp;&nbsp;Cleveland.com",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "The Rubio Test: US Midterms, India-US Trade Deal, Tariffs and China - illustrated Daily News",
@@ -6308,6 +6392,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "Obama criticises Trump’s Canada Trade standoff, says tariffs have driven up prices across America - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNb2g2c0RoenJYN2piUUJXXzhoM29JTE1Na09QSk95TXlTUHQ4ZTNramtVdW52WXlEOXMwbEpZV1g5NWRpSm85aG5nNDV1S2RyMXpGZVk4S3Jxb1FleGtSX2ttS3lmTWE5NWR5TXRDeG9WZ1hsN21ZWVJLVW5Bc1BGYkVhdURudk50QVJGdlVBVU5GV3dzSmdEM1BvUXlRV2ZGcXBOend0OUxDLVBGYlpMV2poT2tuUVBtZXB4bkJ6dWd2MWUtVDVQWHhUNElmUnNOY1pJUWJ4MXlubktCel9fVTRqTGoxQ1dRVUFxcEVLb3RjcG4tMWFyQzhieUc?oc=5",
+   "published": "Sun, 25 Oct 2026 04:25:00 GMT",
+   "summary": "Obama criticises Trump’s Canada Trade standoff, says tariffs have driven up prices across America&nbsp;&nbsp;The Economic Times",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "Will China’s 4 peace principles for tackling African conflicts work?",
@@ -6520,26 +6614,6 @@
    "priority": 2
   },
   {
-   "title": "US says Europe refused to join push for tariffs on India, China over Russian oil - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdHFoWFlBWFVXUnpnX2FzbTdnZkQ2T0RaeFRicVJQX19nSjVmUllUalItTU4zZ3dWX3ZXRnJQekd3cGozcy03YmN0QVBzLTR5N1hpelFUa1ZMNkUwU1FTcmRMN0R5ZUVOMTJsSVF5Z3B4MnI2bzlsYzlDNGVKekc0dXVnemJwWEgxNU53cDVMZThIODhDcW5tNk1JYzRLOVNjNGZ0XzU5WlZfZzl6SEwwR2FURHhTZVFPeExZX0ZQd0dPSElEVFJLRVBWWFR6WEYtVFhEbnFZUkEtM2FVdGRBemVIZm9Wby1GSVFzY1lLcU5SZTFYYVBpZ9IB_gFBVV95cUxPd3locUp5OXZkeERtS0k2U3ZiR3d1WHFSNkxSNEZZNkI0NS1lUGVycHdDZTIwSG5ORURhUWwxUXJEM09SN3RrQlZ6WW56ODJ1SlB6YjVvSHpUQm1XclhhUFV5dnVjMEVzaUs4V2xSYzdrRmZEN1ozX3VfY0dZYi1FdXRNMWlGc2NRSTNoWlloOHYzTDV1TEFTZ3ZEdndzWDNEU2p1SEFwOXRWZm9pOU1KYnlsYW0tUGtTS2dlZ001T2dSZ1lPelllQllNdFNlSjNpekNhV0xReWZTaE55ZVVNTWh5Uk1NRnNQZHJqUm9VTXhvZzB1T1RCbHBZTnc2dw?oc=5",
-   "published": "Sun, 18 Oct 2026 17:51:00 GMT",
-   "summary": "US says Europe refused to join push for tariffs on India, China over Russian oil&nbsp;&nbsp;The Times of India",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Inside Trump’s Russia sanctions relief plan: What 60-day review means for India - The Financial Express",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEU0Y0l0VHFSVTNUTEMxSkNhSFFkbEV6N3ZZeVEtenNmY01LcVhDeXNTbllZTXY3NWxYSWRuV2dOQVNmbGN5QmpNemoxQ3lmcUlkblhRZVNjLTBTbDd4MGd2Qm9xci04alNCNjFtUERjRnZsTEhudVM2ZU5PT0dqNXVfVDYtd2NqZF9YcW16aFBZbnRHTno2LWZMSmJQRmc2QmJfWVN0aUVuRTNMM0cwcNIBtwFBVV95cUxOUVh6UFE0YnpkZnVZRTdFdmt4RGs1eDFLRTZld2NRU3NPQ0tpZi14MTRIZ1oxQnVZajFsdHd0R2hIbXBXbWVLcEVRWGRMbkhDZ21LVWdXOFJ6aWV6S0IwVDhBODNIYThzR0RhaFRINmR5REp1ZzVJRmtIaXVfelQ1NER0Tl9ZdTZZRDByNVFZQmxYeGQ5NFNjSDkyeUVtcEhKQlJYa0pRMUtiYWpnUWNtdkpjUko3dWc?oc=5",
-   "published": "Sun, 18 Oct 2026 17:16:57 GMT",
-   "summary": "Inside Trump’s Russia sanctions relief plan: What 60-day review means for India&nbsp;&nbsp;The Financial Express",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
    "title": "Import Electrical Parts and materials - MSC",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMXJrQnFZXzFReXk3ZmNqNDJrY0hxVVByMVpCSVhBMmdtRkFPamV5STVYZW5yakdiUllhVDlKYTBWam1XZ0RNNFNXenduS0VGaVhUV1Q3Rkk1WTk2NWNHeVgxQ0FuSFB0b1ZtLXRCR1A0RFBHcV9Uc3lTVVpJcG41VkQxdXRva0lXQ1dvd2ZLdkVsYk5OaHRLRU1hX0luQk02V0E?oc=5",
    "published": "Sat, 24 Oct 2026 23:55:12 GMT",
@@ -6625,6 +6699,16 @@
    "priority": 2
   },
   {
+   "title": "Trump Eases Canada Tariffs Amid Tight Maine Senate Race - Analytics Insight",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTFiNzY1aU5OWWZUbk15akdPZDRpOVgyb1JfSWpDbzVIUXppR3dHMWs3ZUl5dU1ySGt0NzhULWdZeVp1MkNRcy1RT3pJQ3NfQV9welhqdW9MeEJncnJpd0VTaU5Ha1NIbFYyU2xHd3lPUjRKR0M2NHk4ODJvMkNma2stVVZpR2p5N3NmeEI0WFQyR1A5QjdXNNIBpgFBVV95cUxNeVoxYjRzSjdyNWh1dHFDbzRSN05Hc1E4WTdadERON2ZxQ0tGb1ZGOGdGYm9paDg0V1h2YnNKUUs5TmRKMEkxZi1HbUVNYnhDcU9UWjM3emJQOHkwcm9Bdlg0LTN2T3hiUlY2WUFQdzBfaVVxbXp5SVhQS1QyQXo1YktOU21uczAtNlM0MDFBMDZKeEJkbVVyWkx6dWlxYVZaR09LS3ZR?oc=5",
+   "published": "Sat, 24 Oct 2026 16:00:00 GMT",
+   "summary": "Trump Eases Canada Tariffs Amid Tight Maine Senate Race&nbsp;&nbsp;Analytics Insight",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Indonesia-Canada CEPA to Cut Tariffs on 90.55 Percent of Tariff Lines - RRI.co.id",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0o2UHVJd1dzeHhiS1ZWaEtOSjhVMFVJQXlGbTc3QlZtV285akpfUDlrM0MxbHZfY0pWeVhNTFJaTF9wRU5xYm1heHJyWWFlWndjOHpqQnZUMlQ3c180MlJxdVdpQkd2Q2dOdFhUVVExRlB0UndlRkRVY19GaWlqTVFxQmNBbTgtaGtTMmNERENiR003UVFfTEJYYTdvLWEzbG5oRkViT2JhQQ?oc=5",
    "published": "Sat, 24 Oct 2026 15:34:47 GMT",
@@ -6679,6 +6763,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "Kenyan parliament speaker: Zero tariffs are boosting farmers and trade - CGTN",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWNVajVLRXJSN3BCOWFUN3hOenZtWWNnUGF5LTY5RFVZVC1NamhjclNrQWs1alNDSVFJVnBpUzB2U1hJYTZfTHg3V2xlOUdmRklUQ3JINGRpbF9GdkctR3NUUG9IRl90V1RVNk1VNENxRkZYck5HOVFLek8zZUk4eXFTUy1ocTFZdl80clQzdzhRdmxBSmtXM3kxcUh3eGc0QzR3QTJQaURVWUtsWEM0d3o5b2hzVU5ldU9fX0ZCaE94ZmpJUkNJdWdBMUluek0?oc=5",
+   "published": "Sat, 24 Oct 2026 13:12:56 GMT",
+   "summary": "Kenyan parliament speaker: Zero tariffs are boosting farmers and trade&nbsp;&nbsp;CGTN",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
   },
   {
    "title": "Evergreen’s HTW service returns to Tacoma",
@@ -6825,6 +6919,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "South Africa-China Trade Surges by 24 Per Cent - Voice of Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3S1lrdFgtSFh2SjhfbW9fV0FtcFAxY0F2LWZmS1hsQjNqRWxyOHlpZGgyU1BhSHIwWC1RTGtEbU1idTBmYWJ0Z3V4OTNhdENtQlR5TUpaUURlMkl6NTRhQVNHMGZOTmx1R3NqQURHQlAwM2tW?oc=5",
+   "published": "Sat, 24 Oct 2026 08:23:54 GMT",
+   "summary": "South Africa-China Trade Surges by 24 Per Cent&nbsp;&nbsp;Voice of Nigeria",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "China Trade Surges With South Africa As Duty-Free Access Boosts Exports - Trendsnafrica",
@@ -7074,6 +7178,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision - KOKH",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZU1DODRUYjdDcWNQdkhmV1VMYnhnQkxHTzh2cUV3dEhpVERYTmFHWGE4bXNVeHd2VjA0MDVWT3p1TXI2bFExbjBUdnRYZ0JydlFDdGhWcFpyXzN4NDU1T3JUSkh4QjdWNjdIT3ZnSUVEMGhIQ1pnT3IydFNlVVZ2V1lKZk5VNWd4V29jYnZyRUo1d1VEcmNMUjNVcmpzellPdWNTSzFoTGd5eS1peFNCbU8wQUs?oc=5",
+   "published": "Sat, 24 Oct 2026 02:08:46 GMT",
+   "summary": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision&nbsp;&nbsp;KOKH",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision - KATV",
@@ -9333,6 +9447,16 @@
    "priority": 2
   },
   {
+   "title": "Coffins and Canoes From Canada Get 50% Tariff Under New Trump Order - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS3BuS2dqcWlzQXVTWEFlRXRTSEszdnV1UVllOUtyZkhPSnZSMnVYcGFIcFk1VTdOMF8yRXZrc0lqVGtmR0FjeW1NcEMzdHNiVHBsZkZfTk5SZ0U5eElUaHJUNERnX3NmSElWV2dVUkxfbU1aMlBib1JES2NsZHEwdXYwWkRWYTZIcEpkeDdSUVBZUnBWNnhkNjljQlpHU3E0cTlCZVFtQWgxV0VYeVJ1eXhncEVMd0ZLbmhDSlpRck05ZUNhTW4xZXZuUk4?oc=5",
+   "published": "Fri, 23 Oct 2026 20:54:50 GMT",
+   "summary": "Coffins and Canoes From Canada Get 50% Tariff Under New Trump Order&nbsp;&nbsp;Bloomberg",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "White House adds new tariffs on some Canadian imports - CNBC",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3Yxb0l0YkU1Ym9iS29RMjVLRnRSdXFpNU1KY3RlejlWWERPazF1bV9XbDcwblItcENKWnBDb2otLTZwVEJ2ZVFkXzI3X1dVbEJVOXByOHhhR2lJRE1iVDQ0TVN5RUU3X0dtT19RbDNLYzk5M0N5Vld2YUxFXzV2ZmpJSU5BdHRaLWp5OHpPZUphSWJpaWlVWk1hY1I?oc=5",
    "published": "Fri, 23 Oct 2026 20:34:42 GMT",
@@ -9389,6 +9513,16 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVElRUlRYNE1DeV9WMkYwaXlScS01OTI1MVotc2Rob1AtZW90Tk13eGJuWWFhOVpEQndDUzBZeFQ3ZFlQcWJJZ0ZZdDdtaFlnTHg2WjdTT25wVm1FUkNEMFQwakN0c2NidkVrUlRseEJCd0g3cW1haXJVS1dhVURvWm9iTldyQWZPOHFjS1dIdVBtZk5nTmk5a3NB?oc=5",
    "published": "Fri, 23 Oct 2026 19:53:48 GMT",
    "summary": "Trump administration cancels some Canada tariffs amid close midterm races&nbsp;&nbsp;NBC News",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Trump Declines Tariffs On Wind Turbines, For Now - Law360",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTV5TERXZTJsUFJCRWp2bS1NRWdONHFPV2hZcVhkdjBtNG9NQ2x6eHU1emFiNXpjcE9aNG1FSk5HUlZtbjMwd19MRG85alpYV3BmRVlWXzQ0WC0zXzcySFRYR1pDSlZLQ1ZXMDU5WDdYY1YwdFhaWVVXZS15aW5VYkdTcWUybDBCSE5ybXZlSG43ZUQ5YjNwZWRaZTVrNTlTbnM5VHlBY3RHLXfSAVZBVV95cUxPbEljZlZUSkpVd0tSWXdHYXRXX2daRFFkSUs2SEJxeHRDSFU4cThPSUgtamcySEJuY0l5SUU5M1haOEdabF9aTnZvYlhOSEMzYmF0VE56dw?oc=5",
+   "published": "Fri, 23 Oct 2026 19:25:50 GMT",
+   "summary": "Trump Declines Tariffs On Wind Turbines, For Now&nbsp;&nbsp;Law360",
    "source": "Google News | US Trade",
    "module": "海外媒体",
    "category": "中美经贸",
@@ -9828,6 +9962,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "Australia and sanctions - Australian Government Department of Foreign Affairs and Trade",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15UWktUUk2NGQzVmJkNnFmZmVHSUpySlMwTm8zeXRXZy1lUjVpV2lJeXljY0dCQkJqVDNKSEVja0w1cklOS2hxYS1NN3ZfWUxVa3F4MGdKSVFVOEs0a1dQTktQQU9xVVpodldtdHE3Tml6SzZs?oc=5",
+   "published": "Fri, 23 Oct 2026 12:00:00 GMT",
+   "summary": "Australia and sanctions&nbsp;&nbsp;Australian Government Department of Foreign Affairs and Trade",
+   "source": "Australia DFAT | Trade",
+   "module": "亚太官方",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
    "title": "The Week in Trade: UK-EU reset progress amid Beijing threats, Healey set to extend hundreds of import tariff suspensions and Chartered Institute Graduation 2026 - The Chartered Institute of Export & International Trade",
    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPWlp0UVB3bnVCVFc1alRHZkNFZDdfNlRDckxCNnRXQ0U0R2JhTXJkdlF1RnBIaGRaR29wbWRTVkItZHJJMWJzY3ZnOWpuRzRac2Q4Uy1PdDlHSjRtd0dNVlBKQlJlNS16OFBObUMxa3pUZFVqc0Q2bDFNVl85dXpYRnBkR0hPM3JnckN5QnVVbVl1ZXAtV1h5akpkM1lYNnJYMDFKX055T0FNZElTY1JwNlNPM1puVkN5bTBiSnNuZDMzVVhVWjlPdDYxWDF5ZlBQWGJOejhnUlFTV0pMZFlObEJ2TlRpc0ZwNks0QkY3WlctNVBFMThWTzhwamNWYmdmcGFmOThUTlZVN3d2VmhlZ1hYVzRXQ2Y4dkMzSXBEOUlLcHB6Wm5EVzNURnBnZw?oc=5",
    "published": "Fri, 23 Oct 2026 11:35:14 GMT",
@@ -9918,6 +10062,16 @@
    "priority": 2
   },
   {
+   "title": "South Korea Finalizes Anti-Dumping Tariffs of Up to 33.67% on Chinese Galvanized Cold-Rolled Steel - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nN052VEFVWU5ZRTZkRHAzQWswVm1CQ1VUWjR0bU8wOC1yOFlvMHhJR0w0WUNSZzNOT3Bka01FVnQtb3QtdG5IR3VOTTJveUExVlVPSVAwOXhkREM0SFZlSHlMdkNyWmJIMUNXZWdxTUJ0cGR0eXc?oc=5",
+   "published": "Fri, 23 Oct 2026 10:55:00 GMT",
+   "summary": "South Korea Finalizes Anti-Dumping Tariffs of Up to 33.67% on Chinese Galvanized Cold-Rolled Steel&nbsp;&nbsp;BigGo Finance",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
    "title": "Volvo Cars Slashes 2,500 Jobs and Swings to Quarterly Loss Amid China Market Slump - https://streamlinefeed.co.ke/",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQklmYTRwMUdUbnFxdHJqZnNrUzRENGZBUnNSTm92eGYzVDVJdW51U1RTVjlMU0NabzhWSjUwQjFrQS1VeUNIbml5Uzg4NXg5RTdKR2xYTUs1Yi0tamdlaWJ6cWttMjZTUm5qSGx1SHB0QjVHd3UxcjZpYVVEdHI4MGJ3OTBfVldibVZxZk1IVzdhY3JTOTN6X2NwbXQ0ME93MWdmVU9HVDVzQ1hKTkFmdjdyUXZrdw?oc=5",
    "published": "Fri, 23 Oct 2026 10:52:13 GMT",
@@ -9955,6 +10109,16 @@
    "source": "World Bank",
    "module": "国际组织",
    "category": "航运物流",
+   "priority": 2
+  },
+  {
+   "title": "China threatens retaliation if UK follows EU with tariffs on Chinese electric cars - Car Dealer Magazine",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbEhIWERxSUZORmI1RzVLX242SDZWTFZ6elQwT2lHbkJ4TnVxMFM5RDhXbVF0Rm9zdEtHTFk2WWFVR0VQWHF6UVdjMEl6T0Z4SzBSanBrRVdOWWtad1RNZVVQQlNhOV82bzFjTXIwSl9uTmthRVdPU2NJM1RjRVYxb3cxV3YycXlhZ3BVUjJEMnpadUR2V0FlU1lEdjUyWHVYandzcU55S19FVmJNeHg4RzVjWm0tbjFUVmZ1ZFpB?oc=5",
+   "published": "Fri, 23 Oct 2026 10:36:00 GMT",
+   "summary": "China threatens retaliation if UK follows EU with tariffs on Chinese electric cars&nbsp;&nbsp;Car Dealer Magazine",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
    "priority": 2
   },
   {
@@ -12484,6 +12648,16 @@
    "priority": 1
   },
   {
+   "title": "Why is Russia redefining its ASEAN strategy by prioritising a new level of engagement? - Khmer Times",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFQ0T21MTkhJbmI2WkRBcWYxXzRNN1Z2U3F1eVlqQVJwY0JoN2FPSW5NSllKY3ZUMnd0WVAxZC1xdGpFLU5ISlNMcHVFMHJicjd1Q1BoWEdUdzNSaG84RFhoTnJwVUxUMjhIekxYVEg0dFhGMFVhUFN3cFJEQWs1WURhc2dVaDlicU4zdlRGb3dQeXBVWHRDaWVHcU1PVmluUjVFLXJlQlpzd05EVzkyc3ZQRWpNRmFiNmNrUllSeEtfU2M?oc=5",
+   "published": "Sun, 25 Oct 2026 17:01:34 GMT",
+   "summary": "Why is Russia redefining its ASEAN strategy by prioritising a new level of engagement?&nbsp;&nbsp;Khmer Times",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
    "title": "2 S. Koreans finish as runners-up at LPGA event on home soil",
    "link": "https://en.yna.co.kr/view/AEN20261025004400315",
    "published": "Sun, 25 Oct 2026 16:27:36 GMT",
@@ -12694,6 +12868,16 @@
    "priority": 1
   },
   {
+   "title": "INC International Concepts Women's Black Velvet Applique Mesh Sleeve Dress NWT L - eBay",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44MnI5SS11Zk9rV0RPREd6c2FFcUVxOHFKRmNObGxvNXBuWFB6RVJVNzVhQlFHa3E1T1BqdGhsNmNpSTBFamZ4UzFad2p1dw?oc=5",
+   "published": "Sun, 25 Oct 2026 01:49:26 GMT",
+   "summary": "INC International Concepts Women's Black Velvet Applique Mesh Sleeve Dress NWT L&nbsp;&nbsp;eBay",
+   "source": "eBay | Seller",
+   "module": "企业官方",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Gabriel shines at both ends as Arsenal ease past Everton to go level with Man City",
    "link": "https://www.channelnewsasia.com/sport/gabriel-shines-both-ends-arsenal-ease-past-everton-go-level-man-city-6489191",
    "published": "Sun, 25 Oct 2026 01:25:19 GMT",
@@ -12754,66 +12938,6 @@
    "priority": 1
   },
   {
-   "title": "GCC trade pact could cost Bangladesh Tk 17b a year - The Financial Express",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGJhWXAtZ0hKSXdSRG10WmxVU0Z1ZEY4MmtSeEZTMHpWNWlNQzhZdllTNVdSa2M1cmdFWmlLU3pvVktqbkNETVZNc1VaZkYteGYwcXVJMDRibm5yWU1hemdkSDRmTDZ3M3JjY21qMklsVy0xMFNxTHhxbWJwNURBSW5hN3ZSMFhXUWZlLV9PeXIzTW1DRC1oTHM0YW9UalpGbjE3SHlXbmtTYkx4ZUViUmxn0gG-AUFVX3lxTE96cEFLbEZjTWJvQ3p5U3ZnT2F0NVowMHRJT2thS2xJUWJVS2Y3dEdfZUhKcU8tSXBxWFZfdTRQZEFpNTlxRG9SeGY4ekk3XzFNeTVjNUR6RW9yejF0Z2JhX2phc1JHX3UtTlhWS3hDM0ljX191RjZYTS11d0hOc0VQNS1VN1pPb1BfcEJ5Z0k2cGRLMFc2WVBsRzV1dW5UMG1haWlocmcxdjkteXFDQTY4QXREMUFvZTFrZ2M5V1E?oc=5",
-   "published": "Sun, 18 Oct 2026 18:32:55 GMT",
-   "summary": "GCC trade pact could cost Bangladesh Tk 17b a year&nbsp;&nbsp;The Financial Express",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Parents take failed China study trip case to CSD",
-   "link": "https://www.bangkokpost.com/thailand/general/3339264/parents-take-failed-china-study-trip-case-to-csd",
-   "published": "Sun, 18 Oct 2026 17:36:00 GMT",
-   "summary": "Parents and teachers have asked the Crime Suppression Division (CSD) to investigate an alleged scheme in which people claiming links to the Office of the Basic Education Commission (Obec) collected money for a study trip to China that never took place.",
-   "source": "Bangkok Post | Breaking",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "Haze disrupts daily routines, hits businesses in Singapore's west as PSI reaches very unhealthy level",
-   "link": "https://www.channelnewsasia.com/singapore/haze-western-region-daily-routines-psi-businesses-6469406",
-   "published": "Sun, 18 Oct 2026 17:17:00 GMT",
-   "summary": "Singapore's west has seen some of the highest haze readings in recent days, but experts say this may not continue as the situation remains dynamic.",
-   "source": "CNA | RSS",
-   "module": "海外媒体RSS",
-   "category": "亚太动态",
-   "priority": 1
-  },
-  {
-   "title": "Vietnam signs FTA with four European nations - Khmer Times",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdFRTN09hNW5venViVEF1d0tYM2RBcVZrVjBDM0kwaUFidUdtM2N5M3o5Zmctc1RHd0M5cXpHUllLRV9LTzg1ZjNqQjJyYktJcXd4XzVhUzVZajFIVkNHbzc0SzJuTEYxWTJTS2dqWVRha3p1RmU5dUo3U2RjVFB5LWstTVBjTGNocnpVVw?oc=5",
-   "published": "Sun, 18 Oct 2026 17:09:43 GMT",
-   "summary": "Vietnam signs FTA with four European nations&nbsp;&nbsp;Khmer Times",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "欧盟贸易",
-   "priority": 1
-  },
-  {
-   "title": "India's exports to West Asia recover from US-Iran war shock in April-August; shipments to Africa, ASEAN rise - Livemint",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTjdEQ2o4YU1KRUR0RFpRRVRCY29VX05aLUptVGk5WWljdGNHb2FkVGpwYkoySU9KRERpRC1zRzRnMmNUaHNaN0M1cEhTdm0yMnZlell3S2MtdzhGX1IwdjJGUWVlNUdDX1NxcnlBQ2hwNnh6SF94YVl4YjZ3aDJkbWU4VFFud0taQktQenJyLXVhOC1BZU5ST0hLeGJLaEpQTWZFRWRESmpVRGNfa1hlWkFTWGVKQUR5c2VSZ0VUUV9JbHBtLWlsc0U4dkdDemFjMjUxUGVPOG1aVlpfOEhOLVJLcWtaRVJFOEJVcExuONIB9AFBVV95cUxQU2IybDRzc0l1SDQ3OGY1eTJkSVFveFpSTnV1a2VKRVl1ZzJxLXBLV2dseGJMWVpDWkVzTUxDdmhONEFHMWNnQjM3bE9ScnEtM29hTU9YMk00OFZuSnZOaS1tQzY3WHU0MHJaS25pY0xHNldhbjk4TmNYVmZDRUlUU29nMmtLanVWMFJqWFpxS21qOUliZkI5Z3ROR0RfWEN3cHJmZ0kyVm95MnVHa3I2b0taT2RMaXFTQThwZ1hPRXVYOXRHUjZJeGo0SnpfOUhBeUZIdWxSekt4LXloaXpKVy0xTVlzb3NJM0cxazNpbS1ZLUJ0?oc=5",
-   "published": "Sun, 18 Oct 2026 16:38:58 GMT",
-   "summary": "India's exports to West Asia recover from US-Iran war shock in April-August; shipments to Africa, ASEAN rise&nbsp;&nbsp;Livemint",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "Choi Hye-jin blows late lead, settles for 2nd place in LPGA event in Shanghai",
-   "link": "https://en.yna.co.kr/view/AEN20261018002500315",
-   "published": "Sun, 18 Oct 2026 16:31:34 GMT",
-   "summary": "SEOUL, Oct. 18 (Yonhap) -- On the verge of claiming her maiden LPGA Tour victory...",
-   "source": "Yonhap EN | RSS",
-   "module": "海外媒体RSS",
-   "category": "其他",
-   "priority": 1
-  },
-  {
    "title": "Soccsksargen hog raisers to DA: Stop pork imports",
    "link": "https://newsinfo.inquirer.net/2329528/soccsksargen-hog-raisers-to-da-stop-pork-imports",
    "published": "Sat, 24 Oct 2026 21:43:20 GMT",
@@ -12824,6 +12948,16 @@
    "priority": 1
   },
   {
+   "title": "Harley-Davidson Women's Sleeveless Denim Shirt Paisley Yoke Embroidered Sz S - eBay",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01QklBQ1VkTUJNMkE5TDFJMjdkcDItcFhvQkVkSFlnSzk1aFh4VVM5Ml9hRWdxTmRYeEFLNDhoYzB0TkRsbnk3VzdFcWtBQQ?oc=5",
+   "published": "Sat, 24 Oct 2026 21:32:09 GMT",
+   "summary": "Harley-Davidson Women's Sleeveless Denim Shirt Paisley Yoke Embroidered Sz S&nbsp;&nbsp;eBay",
+   "source": "eBay | Seller",
+   "module": "企业官方",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "(5th LD) N. Korean leader Kim Jong-un visits China, meets senior official amid ties push",
    "link": "https://en.yna.co.kr/view/AEN20261024001956320",
    "published": "Sat, 24 Oct 2026 21:26:04 GMT",
@@ -12831,6 +12965,16 @@
    "source": "Yonhap EN | RSS",
    "module": "海外媒体RSS",
    "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "Sleeves - Herschel Supply - New Arrivals - All Accessories - Apple",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcldxeklPMkVCV0ZTaE8tQWhVckd4ajlQUWQzV3VZM3NuMHFfYVZ5a1FLQWJDbU1GdjRmTUd1ei1XSzFuMFlPQlZlTGJFVjdIdDktUDdXTXNYVmx3blZEOFRmMWZ2b0ZXdndsT0FkcjNyZmU0MnNfRjFLb2pHTVBvcnlmNWVjQS1BQnpncHJtNA?oc=5",
+   "published": "Sat, 24 Oct 2026 21:16:16 GMT",
+   "summary": "Sleeves - Herschel Supply - New Arrivals - All Accessories&nbsp;&nbsp;Apple",
+   "source": "Apple | Supply Chain",
+   "module": "企业官方",
+   "category": "其他",
    "priority": 1
   },
   {
@@ -14321,6 +14465,16 @@
    "source": "Google News | SE Asia",
    "module": "亚太官方",
    "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "KYLE BUSCH NASCAR RACER GENUINE CERTIFIED AUTHENTIC EVENT USED MEMORABILIA NICE - eBay",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTlxaXRQRzIxUmhVeUtiUWplby1rSlltVVNON0tvR3VVSTZjUG93Ni1zeUNiQlBUNVM5UEtJbkQzYVhvN3pIOHVQdnRjOXo0Q2lCWHlja1FEN2M1WVpXMUdwUFVON2RpT2Y1cWxwWVR1ZFoxMnN4blViLUJ1bUMtam9ucFlTbXlPLUtpeDRWNVZnSm9XX1EtR25lSmc2MXc?oc=5",
+   "published": "Fri, 23 Oct 2026 10:43:43 GMT",
+   "summary": "KYLE BUSCH NASCAR RACER GENUINE CERTIFIED AUTHENTIC EVENT USED MEMORABILIA NICE&nbsp;&nbsp;eBay",
+   "source": "eBay | Seller",
+   "module": "企业官方",
+   "category": "其他",
    "priority": 1
   },
   {
