@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-31T16:36:23.277531+00:00",
+ "updated": "2026-10-31T22:56:50.891313+00:00",
  "total": 1340,
- "high_priority": 918,
- "fulltext_count": 38,
+ "high_priority": 927,
+ "fulltext_count": 37,
  "stats_by_category": {
   "美国官方": 0,
-  "欧盟官方": 1,
+  "欧盟官方": 0,
   "国际组织": 3,
-  "海外媒体": 16,
-  "企业官方": 5,
-  "亚太官方": 0,
-  "海外媒体RSS": 3,
-  "航运物流行业": 2
+  "海外媒体": 13,
+  "企业官方": 1,
+  "亚太官方": 2,
+  "海外媒体RSS": 1,
+  "航运物流行业": 1
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -1007,6 +1007,36 @@
    "summary": "The Department of Labor (DOL) is submitting this Mine Safety &amp; Health Administration (MSHA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
    "source": "Federal Register | USTR",
    "module": "美国官方",
+   "category": "其他",
+   "priority": 3
+  },
+  {
+   "title": "WTO | Cambodia - Building capacity for the next chapter in services trade - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UM0dNanZDVW9MeFhyZlJMT2Y0OWdERHhiWEVoU2ZuM1pVQWtjci1NTmFxd2RxMzVfYU5ySDNnRHJyTWZyNmZzS2M3dVNYb1gzejFTTHFqNk9IRnpUVFQ0NlBkbG5ueTUwSUhrUEgwbkFIYUJ2?oc=5",
+   "published": "Sat, 31 Oct 2026 19:48:31 GMT",
+   "summary": "WTO | Cambodia - Building capacity for the next chapter in services trade&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
+   "category": "其他",
+   "priority": 3
+  },
+  {
+   "title": "WTO | Nepal - How services are changing Nepal's trade journey - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mTEJoSDNkdHV3aVlfUEhXOW8tQ2lYZHl0b0FYTEZOWi1UTDNVcHhUSFRDZlhJQmZteEVWS2RBMDYtZmJWZUctejVhd01URmd5ekp2cnYybUFOMllaT2F3UHZTNFVjWnNsZUNGTTRR?oc=5",
+   "published": "Sat, 31 Oct 2026 19:48:30 GMT",
+   "summary": "WTO | Nepal - How services are changing Nepal's trade journey&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
+   "category": "其他",
+   "priority": 3
+  },
+  {
+   "title": "WTO | Senegal - It is not at the border that trade fails - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zNVJ3N2dOZ0RMU2lYR0p6VnRiYUhVRnVRdG1ET3BKaW5FYVhyTnhlNEtuSXN4bEx2MzM2N1ZCbmljSHFUaWE5MGtxd294Wmp6Qk1saUxaN3NYTEl5QzZETUh1QTByT3BBd3dMVU5XUXc?oc=5",
+   "published": "Sat, 31 Oct 2026 19:48:30 GMT",
+   "summary": "WTO | Senegal - It is not at the border that trade fails&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
    "category": "其他",
    "priority": 3
   },
@@ -5507,6 +5537,16 @@
    "priority": 2
   },
   {
+   "title": "Adidas sees Europe rebound in fourth quarter, streaks ahead in China - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU2NRNGpoVkVBT2tOYV9mVGRBRHJSdW9RUldIVFdzVTBXREZrc0JPQzA0LV81Z2c3QlRCTm9QMTl2MHpFT0Y1WldmOUZMM0hMUDVFbXJCdWptZXlBVmhJTzBub3JoS0t0RjZPX0RYeHNuMjBNMWZRN2dWalhkdEltVTBkUFp4OWIwRFgtbTV5aktTNzY3U0VudmN3YXd6VmNsRW1qNmFsY2syNGFFSHB4eU53?oc=5",
+   "published": "Thu, 29 Oct 2026 11:30:15 GMT",
+   "summary": "Adidas sees Europe rebound in fourth quarter, streaks ahead in China&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "U.S. worker job engagement hits lowest level since 2011, new Gallup poll finds",
    "link": "https://www.cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html",
    "published": "Thu, 29 Oct 2026 11:16:52 GMT",
@@ -5856,6 +5896,16 @@
    "source": "Reuters | Trade/Tariff",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Tariffs and gas prices are intensifying the affordability crunch. These 3 products can help - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JMHVFamxONzdFX1ZxeXZCOW5acGNzMTA4LWlKUG9nMGZRTV9YNUJzQmZCSXc3UlFCb1ZsbUlsWjd6eHdwMjZuRGtKUVRxek1jU3RNbXFfeElzcWV5TnBud3NXbS0yNUtiY0ZfT2J0eDRINWx3S2JXVdIBfkFVX3lxTE95RHRoTUp6VG1jc0szQ3Q2N0VPTThLU3hVVWpROTJBcXNzMXZ1YWUxVVh0SWFiNWRULUZ1WGFscXpyOExSMVQ4X0I5ZzBfVFJEc3VVcExNYjh6cFp2T3NYWnBFTnVmQUpwcjNlcWZITWc0M3ZERGZoRUN0MzVfQQ?oc=5",
+   "published": "Thu, 29 Oct 2026 07:00:00 GMT",
+   "summary": "Tariffs and gas prices are intensifying the affordability crunch. These 3 products can help&nbsp;&nbsp;CNBC",
+   "source": "CNBC | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
    "priority": 2
   },
   {
@@ -6714,6 +6764,70 @@
    "priority": 2
   },
   {
+   "title": "How the Zhuhai air show charted China’s path from catching up to flying high",
+   "link": "https://www.scmp.com/news/china/military/article/3372822/how-zhuhai-air-show-charted-chinas-path-catching-flying-high",
+   "published": "Sat, 31 Oct 2026 22:00:15 GMT",
+   "summary": "When Zhuhai hosted its inaugural air show in November 1996, the event showcased the J-8IIM fighter, a second-generation fighter equipped with Russian radar and weapons, alongside a limited line-up of home-made aircraft.\nImported planes were the focus and Chinese audiences curiously studied the much more advanced foreign designs. They crowded around two Russian fourth-generation Su-27 fighters and were wowed as the jets performed their famous cobra manoeuvre, sharply braking in mid-air.\nAt the...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Canada advancing its 'middle power' strategy with new trade deals, Anand says - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMkR4dzVKdEdBZ1paNXRBRkJQRHlCaFBWQlk3ZG5jQVBwam1LQXdtMFpQcl8tR3ZpdWRjLXdfVjhRTDlXX0J3dDl1a1NmTHZhV1ZGazBqd1prYjZ3UEpGZHN2MkZ6WkRmS0JJRFE5a0pQSmlCQ1hGbUZSUGFSckgzZ2l5bEFRSUFCR2puZUdRSEgyMENsTzhoZ2hxZGRiUjBYZjMyYW53ODVwX0IwWnNvbVB5YUlvUWZUY21reFVoMmFQZU0?oc=5",
+   "published": "Sat, 31 Oct 2026 21:11:43 GMT",
+   "summary": "Canada advancing its 'middle power' strategy with new trade deals, Anand says&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "CMA CGM announces new surcharges for Beira and Indian Ocean trades",
+   "link": "https://container-news.com/cma-cgm-announces-new-surcharges-for-beira-and-indian-ocean-trades/",
+   "published": "Sat, 31 Oct 2026 20:00:32 GMT",
+   "summary": "CMA CGM has announced three new freight surcharges affecting shipments from Mozambique, China and the Far East. The new charges will take effect on different dates throughout November 2026. The measures cover port congestion at Beira, overweight containers from China and cargo moving from the Far East to Réunion. CMA CGM introduces congestion surcharge at [&#8230;]\nThe post CMA CGM announces new surcharges for Beira and Indian Ocean trades appeared first on Container News.",
+   "source": "Container News",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Indian-Americans turning away from Donald Trump? What surveys reveal ahead of US midterms - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSG5oRDVpUVc4VmVSVS01ZHF5RUJZT1VpTzhMTFJfcW9WbElGbi1KZ3M1TDdxeS05cU9yV1ZROWZ2YzltYkdFQVpaa2NtSmJHUHIzanBiZjBSTUR2cF9oT1pfRlpUOTJyT0FkOGZvM2xlWURCVnpwa1pPRE9WZXRkNW9YaTIyYkRRbVUxTXpwaVNoUE40UFIwOEdNcXdmZl9oWUU0dW5ZUFdFQlRqUF9kcFJzcHhFSHVMa0c1X3JiNWxaN0gwQVB6VDNDZFJpRnh0bW9scU53UlZxXzjSAeABQVVfeXFMTkY2NXBNaDdEWWVoVmVCejBGbzM3ZXVrRjRmM21CVFQ1V0dJY0VCNkNfQTdMdm40MWxHVktDVHk3WWdrZ05wR1VYZHhNUmVucmkzWWlxZE5KdnI2bmdzRVFJUnotdEFSSExFTkU0eGM0bjBqTFFjZjFrSVNtQWl1RUpCRWtQVUd4RXk2TG03MTBQU3FrclFHcDk5cEhaUWxHNHdSQ0F4eUFTMUlUTU9FTmhRbC02dlg2NFk3UjJCdm40eDQ1WVNBUDg5ajFOQ3l6ejd6cm5ZLVl2LVV5aGpUb3Q?oc=5",
+   "published": "Sat, 31 Oct 2026 18:38:06 GMT",
+   "summary": "Indian-Americans turning away from Donald Trump? What surveys reveal ahead of US midterms&nbsp;&nbsp;Livemint",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Trade - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xWEU5emVndUhGM1NZb3VBWkF0VF9nTkNPekthSW9SZU5iMmRUd214Zy1iSjR2aG1yNGtqOGtjUVlGTHRZNk1aVDdlRkJaSFRCT2Fn?oc=5",
+   "published": "Sat, 31 Oct 2026 17:49:47 GMT",
+   "summary": "Trade&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "Carney Says No Hurry on Trade Deal If US Won’t Offer Good Terms - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWU1sNlY1ZkgtQkhzUWEwQVMtcEJrS2w4MDdhZDVNeENJOGJrV1FZWWk0ZWR5MU8xbkw5N1p0dG52VlI4Z0NBMUk4cHR0WmJlR1AxZlQyUnN6QUZRdkd0d1NzT25EZ095WVVzSjZrV3BLbmx6LVFmdXRiYUw1c2s3LXNoSW9WNGx4YWZSWFd1RzlQczduWjhWczctTzVINlVpWW9BWlpPZGd2bVRiOUxfMmctUjU?oc=5",
+   "published": "Sat, 31 Oct 2026 16:59:27 GMT",
+   "summary": "Carney Says No Hurry on Trade Deal If US Won’t Offer Good Terms&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
    "title": "Sea-Intelligence: Unprecedented Capacity Levels in Oct/Nov",
    "link": "https://container-news.com/sea-intelligence-unprecedented-capacity-levels-in-oct-nov/",
    "published": "Sat, 31 Oct 2026 16:24:30 GMT",
@@ -6721,6 +6835,18 @@
    "source": "Container News",
    "module": "航运物流行业",
    "category": "欧盟贸易",
+   "priority": 2,
+   "content_attempts": 2,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks",
+   "link": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
+   "published": "Sat, 31 Oct 2026 16:17:17 GMT",
+   "summary": "US Secretary of State Marco Rubio said on Saturday that the Quadrilateral Security Dialogue, or the Quad, was not an “anti-China” coalition, as the grouping’s top diplomats finalised preparations for the leaders’ summit in the Philippines next month.\nRubio’s statement comes just weeks before US President Donald Trump is scheduled to meet Chinese leader Xi Jinping in Shenzhen, China.\n“It is not an anti-China or anti-anybody coalition,” Rubio said at a press conference on the sidelines of the...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
    "priority": 2,
    "content_attempts": 1,
    "content_status": "bot_wall"
@@ -6734,7 +6860,7 @@
    "module": "海外媒体RSS",
    "category": "其他",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6746,7 +6872,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6768,7 +6894,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6792,6 +6918,16 @@
    "priority": 2
   },
   {
+   "title": "The countries fighting back against Trump's tariff tirade - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzBfZjVLY0RlUEllUTVEcUYyVXo2bktodGN5Y1BkX2c0blBxck44M3Y1c0g0YXJMd1JZUkM0SXYzNTR4MDY3a1VaRE9jQ2ZiM2Fsc2FlOHF5Q0xzblJDSUVHNG0yOE1QcFFMZ0V6UGphMmxRNHBYcmRZZVkxWjdqSkc0V0RCbV9kT0tyVm9YRzBRQ1YtRWdTZA?oc=5",
+   "published": "Sat, 31 Oct 2026 12:20:45 GMT",
+   "summary": "The countries fighting back against Trump's tariff tirade&nbsp;&nbsp;DW.com",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "COSCO SHIPPING Ports revenue rises as overseas volumes accelerate",
    "link": "https://container-news.com/cosco-shipping-ports-revenue-rises-as-overseas-volumes-accelerate/",
    "published": "Sat, 31 Oct 2026 12:00:52 GMT",
@@ -6800,7 +6936,7 @@
    "module": "航运物流行业",
    "category": "航运物流",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6842,7 +6978,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6854,7 +6990,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6879,7 +7015,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6929,6 +7065,16 @@
    "priority": 2
   },
   {
+   "title": "Nestlé Stock And Swiss Exporters Facing A New China Tariff Test - Simply Wall St",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbXdScjhVd1M2WERaazlPc0tpdDROc3lIM3dubUhYcjJsb3F5SmVKcG1SckdhNGllZ0xjWVBvLWVINDF5bzdIVkVFVEVOLWF4OTJVTTlZT0h1cVNGN2lNVy1LQnJIaHZxV3kwU1hJMXhCU3R0OWE3WGZBX1FEZGd1cGoxUmwxSl9EYUFjQnpsV2Y1NVpiR2J5Qm5hQzA0Q00wOUZoQWp4c0ppS3labWNTOXRCQlBTVDZrTXZHeVpoUHk4R1ltZ2RLN3k4blh6N3NUZWJmaTAzdUkzd9IB3wFBVV95cUxNT28yWHVHckZqUHAxTmU4V0cyM0R5Szl5Q1BZM0gwXzdvRm41RThwa042R1I4SVF4X05SX29wZXlFVXRzV0MzWDhJenNfUlR2S0tLTnR6T2Q1eUFIdWZOZmtacXdmczJjVXlhaFJkYnp5UHV4NFFET21DVlJiMFdGTVJFcmF6clk0bHdJZWFTcy11UVNGU21tQ0FaVXVmTlFXeUpHNERwU2dHeFMwM2JqOEdEZklZd1owMEtzOFh1d1BMek1weVVHS3M4MXBybWlKVTUzZ1RZZmRBU0NUdHpB?oc=5",
+   "published": "Sat, 31 Oct 2026 08:54:31 GMT",
+   "summary": "Nestlé Stock And Swiss Exporters Facing A New China Tariff Test&nbsp;&nbsp;Simply Wall St",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Both Japan and China can help Bangladesh reach its full potential",
    "link": "https://www.scmp.com/opinion/asia-opinion/article/3372553/both-japan-and-china-can-help-bangladesh-reach-its-full-potential",
    "published": "Sat, 31 Oct 2026 08:30:08 GMT",
@@ -6970,6 +7116,16 @@
    "source": "Australia DFAT | Trade",
    "module": "亚太官方",
    "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "3 Swiss Stocks With Direct China Trade Deal Exposure - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTDlkeGtYbTNPQmw0RWwtZmhUNFFQYTdFYTlJR3JDQmxGRktiVmFsQjdVYU9oOVR3MWhjRXdTZzZOTUtHNzBRaXkwMm5sQVQxQ21VbEczM2dncnF0dk1MT1pWeVppaFB2dUw2OGFhNmFKTmpGMUgyanNYMzhGLXZJU2U0dVhMaThzMzlvcFVjdDJvQUgxM3U4?oc=5",
+   "published": "Sat, 31 Oct 2026 07:11:52 GMT",
+   "summary": "3 Swiss Stocks With Direct China Trade Deal Exposure&nbsp;&nbsp;Yahoo Finance",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
    "priority": 2
   },
   {
@@ -7121,81 +7277,6 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOW9aaS1WT2hUWE5VTjd3U19BR0VxZ0xtUXd5QjQ5V3EzMkxsYWs2X0lHYm11TzU5YTY3RDQ2dGlnblllZklkV1AySElHOVF6a0RKZmNZZHpJMlVCaE82QjBXN1lHeFNFSGE4VlBjUGVwWlBSWkRQOTE0dzNRZ2NMQm9tWWRzN1FBaHhfbWVqcDl5Qkw5OW5wNlNDMEJjZXVmUkQ3NE5CSmdfci1IMkVVQktUdElSSEd2ZEs2VjRBQktYM3dXc2pvMmFR?oc=5",
    "published": "Sat, 24 Oct 2026 23:02:10 GMT",
    "summary": "Bolsonaro, Lula about even in polls for Brazil runoff vote&nbsp;&nbsp;Reuters",
-   "source": "Reuters | Trade/Tariff",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "North Korea's Kim Jong Un returns from China after war memorial visit, state media says - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmFRMDdLSEpoaWR3LVZkWTlFQy1DYjJiU3JObElYXzRHWkFDaXQ0YXFZaGpyQ2pSeWN1UTV3UUFnZjA3bzRLbk1YQXJqa1E0OWk0eEttYzVrNlRRNzZvRnhVMXNUYTBSZTh2MXJROXNobTdxRThFaFRoc2hyaGMtZFlDUE1mUUZZMG13SEt3WHZYNGJ5WlpfWDloU2hkMnVCUFUtbEZxQWZYdnBhS25mbnZZUHlmS0JjOWtTWXNNbDFHRXlUOWUyLTdCOHhLYzFKZjdWRGxxTUdmZDQ?oc=5",
-   "published": "Sat, 24 Oct 2026 22:24:00 GMT",
-   "summary": "North Korea's Kim Jong Un returns from China after war memorial visit, state media says&nbsp;&nbsp;Reuters",
-   "source": "Reuters | Trade/Tariff",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "China’s next generation of leaders waiting in the wings for more senior roles",
-   "link": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles",
-   "published": "Sat, 24 Oct 2026 22:00:28 GMT",
-   "summary": "When China’s political elites gather behind closed doors in Beijing for the Communist Party’s fifth plenum on Monday, much of the attention will be on the quiet preparations for allocating hundreds of pivotal roles in next year’s 21st party congress.\nAt the heart of this transition is the rise of the party’s seventh generation – often referred to as the 7G – who were born in the late 1960s and the 1970s and whose ascent will be critical in shaping China’s political trajectory.\nXie Maosong, a...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "India-US differences persist in spite of Trump’s tariff waiver - The Sunday Guardian",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUlQWlZ6UGo0X2E5cmtlQk5BZVl5T0VpOHQ0S283VHphWVc0dTdwUUFiN1NLcnRkbnIyVFZySEJYWFhwczhGay1pSWFfNm1oWUpMZUZNRXpZV3F3TVdQazZfV1FzLTUtN0tXOXlhdVF3Y2UtUU1RUlcxZ1VrU2FLQWREUkp1eFhmQ1pFb3VFUmphbUpUb2JPZF9janVzeGhndlp6dUt3a3liay1GMEF3dER5LXFlZ9IBuwFBVV95cUxNZFl1dzJSMUZGdXFHVFpFNzAxWU5SODRPZHpHZEpQaE9FNlRPMHJxV1M5dWVXU05GVGp1TDc5UGEwckNZZVd4UjRmWVBqQ3RYSW5TQzh2WmhJb3hfaXVZTWpPZU1aT1hsR3QtWl9oMGp1Wk1xRXVwa3RlOHRPdHlnaENlVmp5RGhXRk5NbW05R01OQUhvckNmcThJWFpqVG01Q3REc1ljMm9hakxJaTIxUkYtZFNzVTVFb25z?oc=5",
-   "published": "Sat, 24 Oct 2026 21:57:19 GMT",
-   "summary": "India-US differences persist in spite of Trump’s tariff waiver&nbsp;&nbsp;The Sunday Guardian",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "India-US trade pact first phase finalised, legal drafting under way, says Piyush Goyal - Goodreturns",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXc5bnJGbTdMQjlRcnpvV0J4UGRiUFRPWHByRkJJREFTelVsU3JDQ3o5ejJOV01IazlHM1NsQVZGYk5oOUR3R19ETlVIZWxRcG1FR1FKaEtaNnJGZDBBOXRDLVUzamNWUTNBaDE1amNPQ3BPeUdBYnpMSVVMWThCWm1lYW5nYjVkSnBoVUNUcVZVR0dpNEtESG8wY0Vpc3JTUnctblpBaUFjdDcwdVRVVVJR?oc=5",
-   "published": "Sat, 24 Oct 2026 21:52:29 GMT",
-   "summary": "India-US trade pact first phase finalised, legal drafting under way, says Piyush Goyal&nbsp;&nbsp;Goodreturns",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Indonesia reduces gas exports to Singapore in order to 'safeguard reliability' of domestic supplies",
-   "link": "https://www.channelnewsasia.com/singapore/indonesia-gas-singapore-supply-diversion-6488391",
-   "published": "Sat, 24 Oct 2026 17:49:00 GMT",
-   "summary": "Indonesia's diversion of exports to meet domestic needs involves 31 million standard cubic feet of natural gas a day from Natuna and Sumatra, Indonesia’s upstream oil and gas regulator told CNA.",
-   "source": "CNA | RSS",
-   "module": "海外媒体RSS",
-   "category": "欧盟贸易",
-   "priority": 2,
-   "content_attempts": 1,
-   "content": "Indonesia reduces gas exports to Singapore in order to 'safeguard reliability' of domestic supplies - CNA Skip to main content Close Close Top Stories Asia East Asia Singapore World Commentary CNA Explains Sustainability Business Sport Latest News Insider TODAY Big Read Up Close In Pixels Ground Up Voices Adulting Mental Health Matters Watch Live TV News Reports Documentaries & Shows TV Schedule Listen CNA938 Live Podcasts Radio Schedule Special Reports Singapore Parliament Mental Health Interactives Lifestyle Entertainment Women Wellness Living Style & Beauty Dining Travel Luxury Experiences Obsessions People Remarkable Living Sustainability Newsletters CNA Eyewitness Send us a news tip Events & Partnerships Branded Content Business Blueprint Health Matters The Asian Traveller Brand Studio Learning Minds Weather Edition: Singapore Indonesia Asia World Search Trending Topics CNA Explains China artificial intelligence Indonesia Malaysia podcasts Wellness Thailand Japan Follow CNA Follow our news Facebook X Youtube LinkedIn RSS Recent Searches Trending Topics CNA Explains China artificial intelligence Indonesia Malaysia podcasts Wellness Thailand Japan Advertisement Advertisement Singapore Indonesia reduces gas exports to Singapore in order to 'safeguard reliability' of domestic supplies Indonesia's diversion of exports to meet domestic needs involves 31 million standard cubic feet of natural gas a day from Natuna and Sumatra, Indonesia’s upstream oil and gas regulator told CNA",
-   "content_status": "full"
-  },
-  {
-   "title": "India-U.S. Trade Deal draft is ready, but still there are few gaps - The Northlines",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0RiVzRtWU1GQlpBM2NzYngtanotQmlDS1ZsRXpOdjRGTmE5cjRQc1BPdWVoRG1KOTlWTk1xVWFPM21CLXNFSUdhSy05MjJ1WXBPTnl5ZVRmREtxSVlmWVQwQXA3dG5sM0ZXRGdjcHdCQzJ1U0hUdDQ2VXlVdUxfQXFiM0lqcHdaS2lRRURhaUVlYUN5Mnc?oc=5",
-   "published": "Sat, 24 Oct 2026 17:18:58 GMT",
-   "summary": "India-U.S. Trade Deal draft is ready, but still there are few gaps&nbsp;&nbsp;The Northlines",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Fire devastates former Nazi guest house known as 'The Eagle's Nest' - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HNzIxajFldVhjU0VHek1DUjZUVldtR2cySVZwcXI2SlI4Q1IwZnJBY3h6aU5JZE1BbGg5ZE5DckNEWUhIblJPQVRuRHJBWFhSbENHU3p2VFd2cWUwcm9JUjBDZjhDR2M?oc=5",
-   "published": "Sat, 24 Oct 2026 17:02:55 GMT",
-   "summary": "Fire devastates former Nazi guest house known as 'The Eagle's Nest'&nbsp;&nbsp;Reuters",
    "source": "Reuters | Trade/Tariff",
    "module": "海外媒体",
    "category": "其他",
@@ -9143,6 +9224,16 @@
    "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "India's FX reserves dip for seventh straight week to hit over two-month low - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVdhVU9LVWhlNTdlQmJFYjdoWS15Nzd4YW1uZFM0UDlDbTNUcnFQMmtLWFRtU3A0WWN3S2pjd25KR1Vfc3NucHBMSGs2UDZJSVRhM0dETTg0WDlQcjRVUjNfWXc0eG1hOVY2Yk9KNl9PX2swM3lpR0J3cWxXZklZUl9acDFsQng4aHR5bi1JUEpBeVpZZzhUMUtIMEZoRWF3Nnpkdzd1ZlQ5bjZZckxwRmtSeXBsUQ?oc=5",
+   "published": "Fri, 30 Oct 2026 13:33:03 GMT",
+   "summary": "India's FX reserves dip for seventh straight week to hit over two-month low&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
    "priority": 2
   },
   {
@@ -12733,12 +12824,32 @@
    "priority": 1
   },
   {
+   "title": "Edcom: Learning gap can be fixed even before Grade 1",
+   "link": "https://newsinfo.inquirer.net/2333841/edcom-learning-gap-can-be-fixed-even-before-grade-1",
+   "published": "Sun, 01 Nov 2026 05:28:00 GMT",
+   "summary": "MANILA, Philippines — The Second Congressional Commission on Education (Edcom 2) has called on the Department of Education (DepEd) to strengthen early childhood and primary education curricula to address the growing number of “struggling readers” among Grade 1 students. Edcom 2 made the call after the DepEd’s Comprehensive Rapid Literacy Assessment for the start of",
+   "source": "Inquirer | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Alcaraz beats Medvedev to reach Vienna final",
    "link": "https://www.channelnewsasia.com/sport/alcaraz-beats-medvedev-reach-vienna-final-6509821",
    "published": "Sun, 01 Nov 2026 00:31:07 GMT",
    "summary": "",
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Forced to eat grass, Oleshky evacuees say truce was a 'blessing'",
+   "link": "https://www.bangkokpost.com/world/3346080/forced-to-eat-grass-oleshky-evacuees-say-truce-was-a-blessing",
+   "published": "Sat, 31 Oct 2026 23:59:00 GMT",
+   "summary": "CHERNIGIV REGION (UKRAINE) - Evacuees from Oleshky, a bombed-out city in Russian-occupied Ukraine, told AFP that residents had to eat grass and dogs to survive and that their rescue following a humanitarian truce was a \"blessing\".",
+   "source": "Bangkok Post | Breaking",
+   "module": "海外媒体",
    "category": "其他",
    "priority": 1
   },
@@ -12873,6 +12984,16 @@
    "priority": 1
   },
   {
+   "title": "China’s factory activity slips as new export orders weaken - myMotherLode.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkhBSTdTWS1xMml1OE1YOExwRlFlTEpQMEtTQU8zSGk0LWpibUNiM2NETlQ3Q1gwdzZHR3FxZGszVWg4cmxIMER6WVVuZ25tbXJ6UDJMenlyZDhmQW5DNUdGYVV4TU9Dck5LUjE0QjBNWTFsUS0wVlZZTXl0TU92RnVhMXh2YXhKRTk1am5mVTJMdko1QnpNdDlLbm9QOWJUOS1Ia1NzZFg5ck3SAbABQVVfeXFMUEFnVXBUZFdUX2lzZDBKRGRnRElOaUtrWURRNkRSdEN1RGtsWUQ0TFNDR1hYX21ST3VmQ18xNjRVS0ZmSWdfanZBVXNSMEJOSElCVFV4SkRwZWU1SnRnREVmSlN6M1RLYmdsczYxSkFTT3N4LWx1OVNrYy1QbkRRVFJiOTdQazFYTE91RGxxcGdmT2hNN2loUjZfUDFWN2NwS2gtbWJvOXM3UmNnNHFwQUY?oc=5",
+   "published": "Sat, 31 Oct 2026 05:02:16 GMT",
+   "summary": "China’s factory activity slips as new export orders weaken&nbsp;&nbsp;myMotherLode.com",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
    "title": "China’s factory activity slips as new export orders weaken - News4JAX",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1lWamVLU1RWOTFNV1NQUTBwbG1acnA1Zk5nWlN2RVNFS1pVbTd5ODFleW9seWZTeVFVVlVCVlpZWEROVmlDV2xZV2M1bGdqeTBnX2xZb2lyRVMtdUxGbTc0eDAzRnIzZnNNVXV5SlZHODZvWngySjc4a0F4UUNpSjAyalhCM3dONjJKWndOYmlIbkNEa01HOFlMUC02dkNIZXNjRWJR?oc=5",
    "published": "Sat, 31 Oct 2026 04:13:56 GMT",
@@ -12939,146 +13060,6 @@
    "summary": "China’s factory activity slips as new export orders weaken&nbsp;&nbsp;WAVY.com",
    "source": "Google News | SE Asia",
    "module": "亚太官方",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "Soccsksargen hog raisers to DA: Stop pork imports",
-   "link": "https://newsinfo.inquirer.net/2329528/soccsksargen-hog-raisers-to-da-stop-pork-imports",
-   "published": "Sat, 24 Oct 2026 21:43:20 GMT",
-   "summary": "KORONADAL CITY, South Cotabato — Hog raisers in Soccsksargen or Region 12 on Thursday called on the Department of Agriculture (DA) to stop pork importation, as they are already reeling from low farmgate prices and high feed costs, which so far forced at least 100 growers to sell their breeding sows and abandon the swine",
-   "source": "Inquirer | RSS",
-   "module": "海外媒体RSS",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "Harley-Davidson Women's Sleeveless Denim Shirt Paisley Yoke Embroidered Sz S - eBay",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01QklBQ1VkTUJNMkE5TDFJMjdkcDItcFhvQkVkSFlnSzk1aFh4VVM5Ml9hRWdxTmRYeEFLNDhoYzB0TkRsbnk3VzdFcWtBQQ?oc=5",
-   "published": "Sat, 24 Oct 2026 21:32:09 GMT",
-   "summary": "Harley-Davidson Women's Sleeveless Denim Shirt Paisley Yoke Embroidered Sz S&nbsp;&nbsp;eBay",
-   "source": "eBay | Seller",
-   "module": "企业官方",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "(5th LD) N. Korean leader Kim Jong-un visits China, meets senior official amid ties push",
-   "link": "https://en.yna.co.kr/view/AEN20261024001956320",
-   "published": "Sat, 24 Oct 2026 21:26:04 GMT",
-   "summary": "SEOUL, Oct. 24 (Yonhap) -- North Korean leader Kim Jong-un visited China on Satu...",
-   "source": "Yonhap EN | RSS",
-   "module": "海外媒体RSS",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "Sleeves - Herschel Supply - New Arrivals - All Accessories - Apple",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcldxeklPMkVCV0ZTaE8tQWhVckd4ajlQUWQzV3VZM3NuMHFfYVZ5a1FLQWJDbU1GdjRmTUd1ei1XSzFuMFlPQlZlTGJFVjdIdDktUDdXTXNYVmx3blZEOFRmMWZ2b0ZXdndsT0FkcjNyZmU0MnNfRjFLb2pHTVBvcnlmNWVjQS1BQnpncHJtNA?oc=5",
-   "published": "Sat, 24 Oct 2026 21:16:16 GMT",
-   "summary": "Sleeves - Herschel Supply - New Arrivals - All Accessories&nbsp;&nbsp;Apple",
-   "source": "Apple | Supply Chain",
-   "module": "企业官方",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Lululemon Black Everywhere Belt Bag NWT Wordmark Strap Embroidered Vallerie - eBay",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tVTJRTjcwU2REQm1seXhNa2hJQjNHMEJzbTNSQlVtS1VvamVUTmU0LWx4cGZLa2E2S2ZZX1hxODlFNzR2alQtSEFjWFEtUQ?oc=5",
-   "published": "Sat, 24 Oct 2026 20:27:44 GMT",
-   "summary": "Lululemon Black Everywhere Belt Bag NWT Wordmark Strap Embroidered Vallerie&nbsp;&nbsp;eBay",
-   "source": "eBay | Seller",
-   "module": "企业官方",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "(URGENT) N. Korean leader Kim Jong-un leaves Dandong, seen off by China's top political adviser: Xinhua",
-   "link": "https://en.yna.co.kr/view/AEN20261024005800320",
-   "published": "Sat, 24 Oct 2026 20:22:10 GMT",
-   "summary": "(END)",
-   "source": "Yonhap EN | RSS",
-   "module": "海外媒体RSS",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "(4th LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
-   "link": "https://en.yna.co.kr/view/AEN20261024001955320",
-   "published": "Sat, 24 Oct 2026 18:51:14 GMT",
-   "summary": "SEOUL, Oct. 24 (Yonhap) -- North Korean leader Kim Jong-un has arrived in China&apos;...",
-   "source": "Yonhap EN | RSS",
-   "module": "海外媒体RSS",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "DHL Express Global Trade Services - DHL",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNm5Cb0Y5dDRzekM2R3RYVWlLQ2ZjTG1FbjRlNXhaVmkyb3pPa01FMVI5ejdKQWNXWWNubUN0eFkzTXpUaHJhZXZSU1ItTlMtZVlodXpDamIxajRXMzJzZzJ2VWY2TnVVWS1LalhsbU5aLXN2Z1h6eWI3djZBamdPUUFIOEtRN3FxQzJxQWZSX0c2SnZMSGhlUXY1eDRWUQ?oc=5",
-   "published": "Sat, 24 Oct 2026 17:44:05 GMT",
-   "summary": "DHL Express Global Trade Services&nbsp;&nbsp;DHL",
-   "source": "DHL | Logistics",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "(3rd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
-   "link": "https://en.yna.co.kr/view/AEN20261024001954320",
-   "published": "Sat, 24 Oct 2026 17:42:07 GMT",
-   "summary": "SEOUL, Oct. 24 (Yonhap) -- North Korean leader Kim Jong-un has arrived in China&apos;...",
-   "source": "Yonhap EN | RSS",
-   "module": "海外媒体RSS",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "Probe into deadly PAF plane crash to cover several flight aspects – DND",
-   "link": "https://newsinfo.inquirer.net/2329449/probe-into-deadly-paf-plane-crash-to-cover-several-flight-aspects-dnd",
-   "published": "Sat, 24 Oct 2026 17:18:00 GMT",
-   "summary": "MANILA, Philippines — The investigation into the Philippine Air Force (PAF) aircraft crash that killed four pilots in Batangas will examine flight planning, pilot training, maintenance and command leadership, Defense Secretary Gilberto Teodoro Jr. said on Saturday. Teodoro said investigators would look into all aspects of the incident, stressing that established accident investigation procedures must",
-   "source": "Inquirer | RSS",
-   "module": "海外媒体RSS",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Ryu Hae-ran builds 4-shot lead at LPGA event in S. Korea",
-   "link": "https://en.yna.co.kr/view/AEN20261024005300315",
-   "published": "Sat, 24 Oct 2026 17:12:03 GMT",
-   "summary": "SEOUL, Oct. 24 (Yonhap) -- Hometown favorite Ryu Hae-ran is taking a four-stroke...",
-   "source": "Yonhap EN | RSS",
-   "module": "海外媒体RSS",
-   "category": "亚太动态",
-   "priority": 1
-  },
-  {
-   "title": "People are at the core of a successful supply chain Denmark - DHL",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdHFseGdRRnFTdVg2VU9OWFRXWFVlV1BDeXhpd1FOQmRSZnpzZ0ZxTVBvRWk2STRSazBqOHR1V1dYSC1keE9VU3A3TTFVRHNaX2kwU1dCdm9fRmw4LUs4QkRHdkk2Q2p4VTE3SkpRNnY5T3BwS3ZtVzFEU3dIWDNmUWdnTlhxbVVzSWVGbFhoOVlDQ0VYVDVjSlp0TVJTWVRBUGU2eWZKcVN6OXgxbC1wMWtMY0pwQTBQMEYtdw?oc=5",
-   "published": "Sat, 24 Oct 2026 16:57:58 GMT",
-   "summary": "People are at the core of a successful supply chain Denmark&nbsp;&nbsp;DHL",
-   "source": "DHL | Logistics",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "(2nd LD) N. Korea's Kim arrives in China's Dandong via newly opened bridge",
-   "link": "https://en.yna.co.kr/view/AEN20261024001953320",
-   "published": "Sat, 24 Oct 2026 16:41:26 GMT",
-   "summary": "SEOUL, Oct. 24 (Yonhap) -- North Korean leader Kim Jong-un has arrived in China&apos;...",
-   "source": "Yonhap EN | RSS",
-   "module": "海外媒体RSS",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "(URGENT) N. Korea's Kim appears to be planning to return home Saturday after visiting China's Dandong: ruling party source",
-   "link": "https://en.yna.co.kr/view/AEN20261024002300320",
-   "published": "Sat, 24 Oct 2026 16:39:18 GMT",
-   "summary": "fairydust@yna.co.kr\n(END)",
-   "source": "Yonhap EN | RSS",
-   "module": "海外媒体RSS",
    "category": "中美经贸",
    "priority": 1
   },
@@ -13573,6 +13554,16 @@
    "priority": 1
   },
   {
+   "title": "Europe’s trade pivot towards diversification, growth: QNB | Gulf Times - Gulf Times",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWRuZ0hIZkkzazJJUnFjd0Y0cjRLM09ZRnBPS0JWQVZvMktMbUloNDJLVWFmX1JleGwxLWVNSUlYdEZyMzZ0V3ZlNUdIekpQaUJ6Rk9WS2QzNUhUODZsbkJrS3FfV3B4Z0lFb1VXLUx1Mi1SWGlMUjZhaWRfWnhiNzREUFRCNmt1YVh2YkkzRlY0NXpKQ2VQeFgyd3JVaTNjT3hNZXdUNzNXWUhQdEHSAa4BQVVfeXFMT3VkbmdISGZJM2sySVJxY3dGNHI0SzNPWUZwT0tCVkFWbzJLTG1JaDQyS1VhZl9SZXhsMS1lTUlJWHRGcjM2dFd2ZTVHSHpKUGlCekZPVktkMzVIVDg2bG5Ca0txX1dweGdJRW9VVy1MdTItUlhpTFI2YWlkX1p4Yjc0RFBUQjZrdWFYdmJJM0ZWNDV6SkNlUHhYMndyVWkzY094TWV3VDczV1lIUHRB?oc=5",
+   "published": "Fri, 30 Oct 2026 21:00:00 GMT",
+   "summary": "Europe’s trade pivot towards diversification, growth: QNB | Gulf Times&nbsp;&nbsp;Gulf Times",
+   "source": "Google News | ASEAN Trade",
+   "module": "亚太官方",
+   "category": "欧盟贸易",
+   "priority": 1
+  },
+  {
    "title": "3\" Dual 2 Ohm flat Aluminum Subwoofer Voice Coil VC140937 - eBay",
    "link": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxNcEVDbjNJZWhLaVRRYjZaOHNqY2NMTjFBV3ZJUkdBakhRT1dvZHRtZWNISWVTWkNkVUM3UnR1SGVvMmwtejIzOUdnQ2ptUlNVUkRQbnc5RVZIbFVEb2hWU0pyRkFtbDVXZEt0N0VySU5zek5aOElHTU4ya2xibEc3VGdjUUhrZ1FLLU5zZ29HMUtvcHhxUnRvUjV4bzloa1ZfRDB0SWt3UWN1TmhwXzVlTldTZlo4QV9NNVdrSFRPOVBDREF3YzgtdVVYbDZScWxQQjBjTkpMbGg3WGdBRk45cVVVTHlhUnltTkxjQVdTanBqUFJFenh5b2EzdzJSTU5mSVIxT3I3dUxSTF9Hcl9EbVN0czZUV2dGSXpyNC14NFNrSGt3bkd0Nzc5UTFQYnJnZ3B5RDhlVDNGNmZLUWFDYjBvdEEzZl9Qb0RqbldWNXRwcXVQQzJOOXBFRFRfOE5NZERxMVFGaXVvNG54SlJjS2ItYjVTRmRKM1lOZDZlSDNNZDZtU0pvUmx1RndpanczRlA4NDdnSVZUeUFEUFJLbnRldlF2azNOUXRuSzY0UnYyRlhVbF85ZFBDVU1tY0xlOVptME00eElsTkxhcEpRTTlyUmVPVWNnZ0IzaFRHMnZwb2JuMDFWWXhpX1NpaEpFNkQ1RjVkb0k3Si1IT1hZOUVSYnBCTlBZWFZqWmdLekhQTHRWc1ZfYVFrQmV4QVJKYjlyakFnMDhQVUZKZXpkQlhvUmc1NkdWbHZFNmFNZDBSVjJmVmpuZ0gyTjJxS01qVU1STnNFOHF2OXpZTTlKVklEbVB6c1E?oc=5",
    "published": "Fri, 30 Oct 2026 20:53:10 GMT",
@@ -13819,6 +13810,16 @@
    "summary": "MANILA, Philippines — In a country where millions live in poverty and struggle to make ends meet, the cost of holding a wake and burying a loved one can be overwhelming, especially for families still burdened by hospital bills and debts after prolonged medical treatment. Government data showed that 9.7% of the Philippine population, or",
    "source": "Inquirer | RSS",
    "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Complete Events - Apple",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTGxjOXBJUlRpNGltTVdvUFNEVWQzT0FYM3hqR1hfMnhSWGpCYURhLVBnSjdubVlhRHpUSUxhdmFZdXB0OUFRMXFGUXY2eWNJVGkxWUhFd0N4VDZ4YWwwQjZyQ3pZNEFjMlVDSE1nNDdKZHFzcU5yQTdDdXVieTdFcS0ybF9XVlNidW9nTGVJZl80dldBMXc?oc=5",
+   "published": "Fri, 30 Oct 2026 11:24:29 GMT",
+   "summary": "Complete Events&nbsp;&nbsp;Apple",
+   "source": "Apple | Supply Chain",
+   "module": "企业官方",
    "category": "其他",
    "priority": 1
   },
