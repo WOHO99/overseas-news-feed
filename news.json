@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-30T23:23:51.900946+00:00",
- "total": 1351,
- "high_priority": 924,
- "fulltext_count": 38,
+ "updated": "2026-10-31T03:29:50.693050+00:00",
+ "total": 1344,
+ "high_priority": 918,
+ "fulltext_count": 39,
  "stats_by_category": {
   "美国官方": 0,
-  "欧盟官方": 0,
-  "国际组织": 4,
-  "海外媒体": 26,
+  "欧盟官方": 1,
+  "国际组织": 2,
+  "海外媒体": 7,
   "企业官方": 2,
-  "亚太官方": 0,
-  "海外媒体RSS": 7,
-  "航运物流行业": 4
+  "亚太官方": 1,
+  "海外媒体RSS": 2,
+  "航运物流行业": 0
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -75,6 +75,16 @@
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pU3kzUFBkUmZRV1ZaX3NCeVJwOU9qcTE5eHdMaVN1SDJFR0xvLW9VanVTaXBXSjI2OW91OEdFS3pKRVk3WUFpRVdwTnk0bnNJQWtzY0NNSHdBZmdvU3R5UENyeW01WkUzb0VwaDNHOF9IZw?oc=5",
    "published": "Wed, 28 Oct 2026 13:26:59 GMT",
    "summary": "Trade policy review - Democratic Republic of the Congo 2026&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
+   "category": "其他",
+   "priority": 3
+  },
+  {
+   "title": "From cotton to textiles: lessons learned from countries that have successfully localized processing - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWW5VSVVSMW1qbi1YaFA4alpzRjZjcEoxQ0E3ZGtGT3QtOWdwYTdKZ2g3b0Z4cjBoSTc4a05md29VYmFTQ3F6ZzdVTHVQRnNBRFZzclh2bGptdkJ6bVF6ZGVIZEdCNEJ6UGxiVmRyREdpS0h0RXc3VUpaclhLX2duRVZkM1k5NWZ6Smc4MG5VWllmOEw2dTN5MThxb3NWWHNEZDNDdw?oc=5",
+   "published": "Wed, 28 Oct 2026 07:35:35 GMT",
+   "summary": "From cotton to textiles: lessons learned from countries that have successfully localized processing&nbsp;&nbsp;World Trade Organization",
    "source": "WTO",
    "module": "国际组织",
    "category": "其他",
@@ -1317,6 +1327,26 @@
    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the names of one or more persons that have been placed on OFAC's Specially Designated Nationals and Blocked Persons List (SDN List) based on OFAC's determination that one or more applicable legal criteria were satisfied. All property and interests in property subject to U.S. jurisdiction of these persons are blocked, and U.S. persons are generally prohibited from engaging in transactions with them. The vessels placed on the SDN List have been identified as property in which a blocked person has an interest.",
    "source": "Federal Register | USTR",
    "module": "美国官方",
+   "category": "其他",
+   "priority": 3
+  },
+  {
+   "title": "Trustworthy evidence for policy - Knowledge for policy",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NaTdSaVd1UEw3ZjYxanROSkJIbjlUc0RNX3JnYlBVR042TWQ0VmUxNmM2NTM5clUtV2NQWkwwRG1kUXJIVlNCSVZmUmhQMXdGTXl2S2pYNGozeGpHV3c?oc=5",
+   "published": "Fri, 30 Oct 2026 23:34:37 GMT",
+   "summary": "Trustworthy evidence for policy&nbsp;&nbsp;Knowledge for policy",
+   "source": "EU DG Trade",
+   "module": "欧盟官方",
+   "category": "其他",
+   "priority": 3
+  },
+  {
+   "title": "DJI26-1 - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9wSGtNS2hzYk90c2pMcXcxd0cyZWNnUjdxcU5KU1JYTlROcHlOeXNDM19zSzV1RGxadjRBR19iMlhURHlvUGc?oc=5",
+   "published": "Fri, 30 Oct 2026 22:07:19 GMT",
+   "summary": "DJI26-1&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
    "category": "其他",
    "priority": 3
   },
@@ -2690,6 +2720,16 @@
    "priority": 2
   },
   {
+   "title": "Indian stocks could see November rebound; oil, AI trade pose risks - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVN4U1J2anUxVmFraWd2aGNPNFJ0ajVTNk5GOVVUQ1MxbmtqUmtsd195X1lQWWhwRlNUcS1WcnJlRFEyUTN4b2JUWFZnSTd2WDFFS1NSWV9PeFlOTU9YUmJtb2ZIbHBVdE0tNUI1TUtOT2RSOHpsdHJLdFFwYmszQW5YcDdSLWdoWVRCSEJwYUZ3MU8xdHVGYjlpTHZDUEVyV2JLN2NKVFZBRG8ydU5wR3B3?oc=5",
+   "published": "Wed, 28 Oct 2026 09:34:52 GMT",
+   "summary": "Indian stocks could see November rebound; oil, AI trade pose risks&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
    "title": "Bond Traders Bet on UK’s Newfound Resilience to Survive Budget - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUlZU0w0NzBYQ2Vmd1hrR3RUOF91TThpVzVya0hMcVMzdHlWMkZyR3VxUWdKU2F3ZXZlVEJZWDVGd21JRFNMN0Z0dXJjUTB2SXh3UUdDcW9GMWNBMXFMcERHbTZFbzluRm5abERjX1Z5XzZfZkRHekllQ1pOeWx3Tk41MzloZU1kcTVaTFg5RjJhZGhhNkFWRTlMSjE1SE1Tdll5NE4xWnNpUzBGSklDNENFTQ?oc=5",
    "published": "Wed, 28 Oct 2026 09:19:55 GMT",
@@ -2893,6 +2933,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "error"
+  },
+  {
+   "title": "Executive Order Implements, and Immediately Waives, New Graham Act Sanctions and Tariffs Targeting Russia - Snell & Wilmer",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1k5dE9mT2FSRWpzZm1KSUx0QXI4aWVFeENScFFXai1VM2trbExNRmxWaEtORmY2bTdEQU9mcVpRdEhyRWhkQ3UtYllhZzlPQlM0YkFKeE1ZSnFnRHZkTHpTNWw2a0lwelVobzdWdExWTnJqdWJ5UWlCa05kd0piSjY5LXBnVmJ3SzU0aXdLVGZoZDNGQUFBSmhMRXNIeXVic0dvUERvdHRYMklsNlh2a2tvby01TFBpblVtOVgtSE5raWtoclZPTXlCZ0VGWGRNU0xDdQ?oc=5",
+   "published": "Wed, 28 Oct 2026 07:19:40 GMT",
+   "summary": "Executive Order Implements, and Immediately Waives, New Graham Act Sanctions and Tariffs Targeting Russia&nbsp;&nbsp;Snell & Wilmer",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
   },
   {
    "title": "China's new export curbs draw a line around its AI crown jewels - Reuters",
@@ -5264,6 +5314,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "Albanese presses lawmakers to pass the EU trade deal, saying it would free 98% of exports from tariffs - Vinetur",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUFmRmU1WEptZzZ5cHVmWmhSZ0JrR2FlNGFYLVlKUmFCYjNWeExSY0NveUt1bmc0MjU3WDBMaTR6RmU3S0tUQ2xDOEtXQTRwdlVMTzAzX0VGR0hHTjZaM2h2cE5iZmJrelB5Z3pVc0RPamFBZnp6eDV4MkFma2xnUVZGSF9jQmpxOVJhU1hVTGd2YkFMSllJeW1rYmhVNHd2Y2lrNWUtYkQ2U3NQZ0lkbGkyY09nTG5IM2FjSnhnS3IzVjJmczh2Q0tMenBaZTlXT0NvMEVYaU1XNHRXdDMzTdIB5gFBVV95cUxNc2Q0aVVwV3c0cnFiTVFWeXc1VjNpWVBBbXRVNXJoWWtnR0RzdnFsRUlCbnBIanp4anJhN2hjLUgyZzFNZ3lpRUNzYUUwRGxSRmpRUUpnWWhBUlFaM1FtS05wWG5Bb3VSZW9qLXMxV1JTNTFJbDZOUXVVYUlnWEVnSkFfQXFERHVCazlNWXZPeDdJZGFrTzN1WjcwcUV5RlhvWWFCZTZtRlRSS2M0RzJ0em1TcHVSU3VtNE9IbnRYeUFpSUhvUzduM1FfeUROMXhRaVdfRkNBRXgweldSZGlzMDAyem1SZw?oc=5",
+   "published": "Thu, 29 Oct 2026 13:55:27 GMT",
+   "summary": "Albanese presses lawmakers to pass the EU trade deal, saying it would free 98% of exports from tariffs&nbsp;&nbsp;Vinetur",
+   "source": "Google News | SE Asia",
+   "module": "亚太官方",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
    "title": "U.S. House Ranking Member Raskin Investigates Trump’s Tariff-Exception Grift: American Families Pay Thousands Each Year So Trump Can Get Richer Selling Special-Interest Carve-Outs to His Own Tariffs - Sierra Sun Times",
    "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbVBtUHJZRk5Lcm4tdG9jU1g3Z1V1WS0yQWJDdWZyNVdKQ1RtR1RVdHRrMFZZN245Tll2eE9keHBRbGM4WkRmYTlPNVZnTW5sY2hTVTdSTldKTElLSWM2UWdxaGhrVzBmTjUxX3pJUGhXSE83eDlwMUtwTXVZQmg0MVQ0Y19uZ0pFaTBfd29ZUUdEMU5hYjZFSFNBVExwOWhpT3pma0NIb21uYTN3a0NEc2tqa1NfV0xraE5XQmhGdkpFQlMxQ1BXUjJvNXlBZzZkQmN4ZXJBM2h4ZHJjN1JSU25DQ05OcE1FczNwNWVNQXRuS29mZTV4NnItTXZqMHA3MllQVHZ3WGhXMENwenlLMWNMLVgxekNmbzR5UGlKblpZN3dSemh1bHd6ZVY0MF9ZOWVBQi1KMnZ3bV82TkRQRHNrVXMyRTBTQ0FhU1ExR0FQUG9OUmJqT1hXT0VfeUQtUEZvV2dpU2xybmJJbEw4SlJhVGFyT2JzX2dGYjRoUzU?oc=5",
    "published": "Thu, 29 Oct 2026 13:48:46 GMT",
@@ -6604,6 +6664,65 @@
    "priority": 2
   },
   {
+   "title": "N. Korea slams multination statement backing anti-Pyongyang sanctions as 'strategic failure'",
+   "link": "https://en.yna.co.kr/view/AEN20261031001300315",
+   "published": "Sat, 31 Oct 2026 10:38:40 GMT",
+   "summary": "SEOUL, Oct. 31 (Yonhap) -- North Korea blasted Saturday a joint statement recent...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "亚太动态",
+   "priority": 2,
+   "content_attempts": 1,
+   "content": "N. Korea slams multination statement backing anti-Pyongyang sanctions as 'strategic failure' | Yonhap News Agency Go to Contents Go to Navigation Facebook X More Pinterest Linked in Tumblr Reddit Facebook Messenger Copy URL URL is copied. OK SEOUL, Oct. 31 (Yonhap) -- North Korea blasted Saturday a joint statement recently issued by the United States, South Korea and other partner nations calling for continued enforcement of sanctions against Pyongyang's nuclear and weapons programs, branding the move as a \"strategic failure.\" A spokesperson from the North's foreign ministry issued the criticism in a statement, after 11 countries and the European Union (EU) released the joint statement earlier this week reaffirming their commitment to monitoring the North's activities in violation of U.N. Security Council (UNSC) sanctions resolutions. The joint statement also highlighted the findings of the Multilateral Sanctions Monitoring Team (MSMT) on the North's illicit activities and welcomed fresh independent sanctions imposed by the U.S., Australia and the EU over the North's cyberactivities and dispatch of its workers overseas to finance its nuclear weapons and missile programs. This illustration depicts U.N. sanctions against North Korea and its overseas labor program. (Yonhap) \"This is another case that reminds us that the hostile forces' bad habit of denying the constitutional status of our state,\" the spokesperson said in the statement carried by the North's Korean Central News A",
+   "content_status": "full"
+  },
+  {
+   "title": "‘Zero-cost’ lifestyle: China cash-strapped youth embrace thrifty living for mental relief",
+   "link": "https://www.scmp.com/news/people-culture/trending-china/article/3372804/zero-cost-lifestyle-china-cash-strapped-youth-embrace-thrifty-living-mental-relief",
+   "published": "Sat, 31 Oct 2026 02:00:11 GMT",
+   "summary": "A growing number of young people in China are embracing a “zero-cost” lifestyle, seeking out free perks, complimentary gifts, and trial services.\nAcross mainland social media, tens of thousands of posts share tips on scoring free samples at shopping malls or booking test drives with no intention of buying.\nOne popular variation is mall-walking, in which budget-conscious shoppers stroll through air-conditioned malls while spending next to nothing.\nA classic routine might go like this: grab a...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "White House confirms temporary 10 per cent tariff for India after US Supreme Court ruling | Akashvani News - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbUVtOUxmV0ZtMHh0M01NWDRQN0ItVlNBd3ZvZVI0bUJLRnEyT3p2Xy1Hb1N6ZDdmME1LVUt6NzRkNzVyTmdydGxQS3VkSm5iTWY4N0JOWThfLWw0Y0VxVkFDSTZrSzhSZHNiZFZpQmVaai1JOUFqQVQ2MmNNREVRTGI2YTJ0NmVYY1VPSHNoc1g2bWxRU01jMFVtWWNtMVJpWXFMbmhWOA?oc=5",
+   "published": "Sat, 31 Oct 2026 01:04:54 GMT",
+   "summary": "White House confirms temporary 10 per cent tariff for India after US Supreme Court ruling | Akashvani News&nbsp;&nbsp;News On AIR",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "Are the latest Communist Party promotions a sign of a new political trend in China?",
+   "link": "https://www.scmp.com/news/china/politics/article/3372766/are-latest-communist-party-promotions-sign-new-political-trend-china",
+   "published": "Sat, 31 Oct 2026 01:00:09 GMT",
+   "summary": "Beijing promoted 10 officials to full membership of the Communist Party’s Central Committee at a major political gathering this week, where the normally routine process of filling vacancies took on new significance.\nThe names of the officials who have filled the vacant slots were included in a communique released at the end of the fifth plenum of the party’s 20th Central Committee on Thursday.\nThe event, which focused on party discipline and the fight against corruption, confirmed that 24 full...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "New Everest film hopes to nudge US-China relations into a higher altitude",
+   "link": "https://www.scmp.com/news/us/society-culture/article/3372803/new-everest-film-hopes-nudge-us-china-relations-higher-altitude",
+   "published": "Sat, 31 Oct 2026 00:02:46 GMT",
+   "summary": "The film Everest: The Other Side, a collaborative US-China project that opened on Friday in 515 US cinemas and that will premiere at 700 IMAX theatres in China on November 6, starts with a majestic shot of the world’s tallest mountain. Then the music builds and more challenging weather rolls in, foreshadowing what is at stake.\nThe film invokes a well-trod narrative for fans of the mountaineering genre: a mix of the grit and sacrifice driving world-class climbers, along with no small amount of...",
+   "source": "SCMP | China Economy",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
    "title": "Import Electrical Parts and materials - MSC",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMXJrQnFZXzFReXk3ZmNqNDJrY0hxVVByMVpCSVhBMmdtRkFPamV5STVYZW5yakdiUllhVDlKYTBWam1XZ0RNNFNXenduS0VGaVhUV1Q3Rkk1WTk2NWNHeVgxQ0FuSFB0b1ZtLXRCR1A0RFBHcV9Uc3lTVVpJcG41VkQxdXRva0lXQ1dvd2ZLdkVsYk5OaHRLRU1hX0luQk02V0E?oc=5",
    "published": "Sat, 24 Oct 2026 23:55:12 GMT",
@@ -7184,174 +7303,6 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
-  },
-  {
-   "title": "Joint ministerial statement on the risk of famine in Sudan - Australian Government Department of Foreign Affairs and Trade",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDJ6WUdLZ25HMlJmT2RWOGtJU19mZE5wYThCUTU5cko3OF9qNzQ2Tm9JUFg3TTBKaXNpeVoycGtWSEx6eHhlMzdCaDR6MVFFUU5BZmN5a3docEJEcTRzcjB2UWV4TDNoNU5qNFlmM2FIdGhoN2ZCYnRBREJ2YVd1QVRKNmw2dEpUMUpVMC1qYlVtZm9oY0w0RUQ1LWlhS1RlTDhOQVdidHVGUTQ?oc=5",
-   "published": "Sat, 24 Oct 2026 03:00:37 GMT",
-   "summary": "Joint ministerial statement on the risk of famine in Sudan&nbsp;&nbsp;Australian Government Department of Foreign Affairs and Trade",
-   "source": "Australia DFAT | Trade",
-   "module": "亚太官方",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Trump eases Canada tariffs on farm goods in bid to Bolster Senator collins ahead of midterms - Business Upturn",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcS1vbDdDNG5KU2hxb1VmZlVOd3dsSVdCamtEaEZtaUkyc0xEby1SWmgtRzBaVmZ2UTR6b0ptS0psNkZmakVuTTdsc3JCb01ReVJGODFKVmYxZUFNZGk4em9rUkFhUUpVMm54dldCRkZYbmM1MnI0U0RXa09STlpIZlVaWDJGQ1ZPbmFKTHVaNHdzNl9SZnoxeUVyX1VqZXdnS3B3Q3BGNmtOc3BWVGIzX0pSYzZqVGh4ZVExMUlTelhvNXhG?oc=5",
-   "published": "Sat, 24 Oct 2026 03:00:17 GMT",
-   "summary": "Trump eases Canada tariffs on farm goods in bid to Bolster Senator collins ahead of midterms&nbsp;&nbsp;Business Upturn",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "US trade curbs put Malaysia's solar, semiconductor ambitions to the test - NST Online",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTJXQjlzTWpvclhVT0Y1c2VNUTZRenBPQ0k0YzM4TnRmUmZfY3ctZ0RDWE5OQi1pcEUzWmIycWhpeERwN1pjTUhtMEtrS1VQYkp1cldHbzNuYi1fcDBfTW54TDJ2bVNLbUd1SlJyQkhtNUVPa0prVTZNZG81OF9QT1h3ajdXTkw1akhpTFZOS0JVM2lkWUpVUzg0UlMtbnBwcUVwWW11MUVlaEpCcFR1RE5yMzc3aENabUVKSEVR0gHDAUFVX3lxTE9FR0dlWDFmdU1MVk5WYzdWbm1qYUdrcTRxZGdZX1hpVVlzTGNfQmdUVTVoSnZwVzlab3AxUXhnQlFwS2dEUGJJcXhyM052VEE5S29KWkNCSWIwaHBDZFF5VTNaQmRnVDNIb3dUMFFKS3FJN19qd3M5QlVOQWZEeUl1ajI0VElNMFp5QnhhTnpqbnY4Qkk1bHNkQk9wY0toRW1ZdnFhSTBNaEJEWjJqa19VSUROVXFOZ1Z3M1pLODM4VDJjaw?oc=5",
-   "published": "Sat, 24 Oct 2026 03:00:00 GMT",
-   "summary": "US trade curbs put Malaysia's solar, semiconductor ambitions to the test&nbsp;&nbsp;NST Online",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision - WPDE",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ3pxQjV5VnE0a1dMNlhlWlRDM3JxWk1aSUZscmhPOWZCbGxCR0ltZ1NpZExLcXcyZzRkaC1RNlJaYzdJaVdWcVN0OWZXUzRYNU1xaGoyNkJlUWdoelVLd2tiYlB4VmV6TzZtekdpdzFwekZHZkZ4TllPOVpSdkdlSGN0d0Y2UWNHaFVVeVRJZVhqYXlQQUZoQzV2SmxCMkF2bGo4Q1gzS0FSUnIxX3V1MHBR?oc=5",
-   "published": "Sat, 24 Oct 2026 02:54:56 GMT",
-   "summary": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision&nbsp;&nbsp;WPDE",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Some Canadian Tariffs Exempted, Trump Ordered Alaska Lawsuit, More - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFBTN2dXUnNBYUswOTV4M21wRkdhbkprNU9CSTZ1RExlQV82LUw5Skd6WExTYXVoZ05OSlNJVVkzWVhhU0g2NVpEOWt1YllqTkljbGptbGpYaTR0c01MbUZRSlVWdEJEdzgxblVoTXNGMnlpLUM1cU01ZlNSSllqbDlVSmdRc0FrZlY4VUJNS29vX3IxQk9QQVRabTdyamRQQVE2X3dad01xelE?oc=5",
-   "published": "Sat, 24 Oct 2026 02:47:36 GMT",
-   "summary": "Some Canadian Tariffs Exempted, Trump Ordered Alaska Lawsuit, More&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Portfolio manager prefers Microsoft, Amazon, Google in AI trade - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BNi1mM1lyNnh6MlpMa1A2c3NKSFozT0stalRkalE3QTZkZ0U3TWJaRFZhMC16Q0VOWTNjZXNZT21CNmlCd2N4S1VyZ1JJRVhGcEZndWwxeDBOaGRkQTFXVHlzVk9KMkE?oc=5",
-   "published": "Sat, 24 Oct 2026 02:37:30 GMT",
-   "summary": "Portfolio manager prefers Microsoft, Amazon, Google in AI trade&nbsp;&nbsp;Reuters",
-   "source": "Reuters | Trade/Tariff",
-   "module": "海外媒体",
-   "category": "跨境电商",
-   "priority": 2
-  },
-  {
-   "title": "Emirates Shipping Line launches China–Red Sea service",
-   "link": "https://container-news.com/emirates-shipping-line-launches-china-red-sea-service/",
-   "published": "Sat, 24 Oct 2026 02:20:40 GMT",
-   "summary": "Emirates Shipping Line will introduce a new service connecting China with Egypt, Jordan and Saudi Arabia in November. According to DynaLiners, the new service will be marketed as the China Red Sea Connector (CRC). The carrier will deploy four container ships of approximately 2,500 TEU, providing sailings at an approximately fortnightly frequency. The published port [&#8230;]\nThe post Emirates Shipping Line launches China–Red Sea service appeared first on Container News.",
-   "source": "Container News",
-   "module": "航运物流行业",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Pet custody disputes draw increasing attention in China, where pets are treated as property",
-   "link": "https://www.scmp.com/news/people-culture/trending-china/article/3371992/pet-custody-disputes-draw-increasing-attention-china-where-pets-are-treated-property",
-   "published": "Sat, 24 Oct 2026 02:14:29 GMT",
-   "summary": "Pets in China have become deeply woven into people’s lives and romantic relationships, especially those of younger couples.\nWhen romance sours, deciding “who gets custody” is becoming a painful legal grey area for many couples.\nAccording to pet industry data, China’s urban dog and cat population reached 126 million in 2025, driven largely by Gen Z and millennial.\nMany young couples treat their pets like children, calling each other the “Mum” and “Dad” of their fur babies. “While love may fade,...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision - KOKH",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZU1DODRUYjdDcWNQdkhmV1VMYnhnQkxHTzh2cUV3dEhpVERYTmFHWGE4bXNVeHd2VjA0MDVWT3p1TXI2bFExbjBUdnRYZ0JydlFDdGhWcFpyXzN4NDU1T3JUSkh4QjdWNjdIT3ZnSUVEMGhIQ1pnT3IydFNlVVZ2V1lKZk5VNWd4V29jYnZyRUo1d1VEcmNMUjNVcmpzellPdWNTSzFoTGd5eS1peFNCbU8wQUs?oc=5",
-   "published": "Sat, 24 Oct 2026 02:08:46 GMT",
-   "summary": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision&nbsp;&nbsp;KOKH",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision - KATV",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU1lTTF9xNGgtMjNvOUV5a3FVVVVBUkJhRHpmNVdHMTNlV2dqR2tuMkhIYXc0bWVyWWVQQTdtWUtkOUVvTXk5dU5adWt0emFNekRqOGhsVlpQNnU3dU80N24yZnFvRWdqSWh5OEdKY2dJbVI5VWVRXzRDdXNjVW1ES3JlV2NhdTNRckdLekFqckxZSVhfNTlMdWwwRWFVbjN0d1lQNW1VYjBwdmRGUm1yeVBR?oc=5",
-   "published": "Sat, 24 Oct 2026 02:04:14 GMT",
-   "summary": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision&nbsp;&nbsp;KATV",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision - NBC 15 WPMI",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTZxaXdBdnRLQzFoc3luNkdhYzNIR3dmWGlHSUZqSWhaUEFvb184bjQ2LVVmRGgzSWx6RGRiSDVtX0hrdUcxdzJOQ3MyaEJGd0FQZFNyNS16M3NkMWRIRWh6a3ZlTHJnVTdRYURvU0xMSkl6LUN4d0dqc09RbGczbU9saW9iVDdsdVVtaVFEdGdWZ0ptU19saC1jOF84NW9SblU1SVNKZEY4XzlFYzBNN3ZIYTZRUQ?oc=5",
-   "published": "Sat, 24 Oct 2026 02:04:08 GMT",
-   "summary": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision&nbsp;&nbsp;NBC 15 WPMI",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision - KVII",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTU1XOE1sdmwtODNEOFhLeUNIendpZWpBRV9Dcmp4cHNlOUhfYUNsSW4wVmVsV3dUTEJGNDBPbzQzY2g5X2RWUWVwX3M0SmhyZ3ZuTk9uMHdmRjhCVnVETDBZWG1uczFkTkFMVmVIOERrVHk4OUdZMXdINU5DOThEazllU1ZnYURoZ25iQmNqaDFFbnFSNVdvYWE5RENxSk1hdzRyenFDSkFHLWIyM1MwdGg4c0NHZFBrNE1lYw?oc=5",
-   "published": "Sat, 24 Oct 2026 02:01:46 GMT",
-   "summary": "Trump lifts tariffs on some Canadian imports, adds others in sweeping revision&nbsp;&nbsp;KVII",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Danger, death and devotion: Japan’s festivals face crisis after fatal accidents",
-   "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3371913/danger-death-and-devotion-japans-festivals-face-crisis-after-fatal-accidents",
-   "published": "Sat, 24 Oct 2026 01:30:16 GMT",
-   "summary": "Japan’s centuries-old festivals are facing renewed scrutiny after a series of fatal accidents in recent weeks, raising questions over how communities can preserve their cultural traditions without putting lives at risk.\nThree people have been killed and more than a dozen injured in accidents at autumn festivals across the country in recent weeks. Meanwhile, organisers of another major festival, where two men died in February, have cancelled next year’s event, citing public safety concerns.\nThe...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "亚太动态",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
-   "link": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
-   "published": "Sat, 24 Oct 2026 01:00:11 GMT",
-   "summary": "China’s access to artificial intelligence computing power will double next year, but US-designed chips will account for about 65 per cent of that capacity, an indication of its continued reliance on foreign hardware, according to new research.\nTotal compute available to Chinese entities was expected to expand in 2027 from about 4.6 million to 8.8 million “H100-equivalents” – a metric benchmarked against Nvidia’s data-centre graphics processing units, according to a report by the Washington-based...",
-   "source": "SCMP | China Economy",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "US Trade Rep Greer says tariff policy 'hasn't changed' despite SCOTUS ruling - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdS1kSUdLMVlCZjZOT2YxYjVPMVlrVlZjb2pLRk42ZzVXdEsxZlAtcTIxM2FXS2NkMl9FOUVNYU1UaXdRblhCVEJCZzk5SEhuMWJvNThLem50empkS3pyVGNVUy1hLXF2MmhRNFg4ZGpLcFhWLUtKSGI1VzBwNFV4STFFcERCNXh6OTBhakxNXzJqTmdOVEdLU2hR0gGfAUFVX3lxTE9BLWdtYzR4aWs0NHhrazhZUW9ZcUY1SndkYkJxV1JKeHVySm9NWjItUzdMdVh1VzlMWXV3bnFVRDZCVUdMcmwwU2NBMFU0SFJfMEdFT3RyOW4yQzBLTG43Rk1XeWpxODRkVnh1NDJ0b0FBcHdMbU5ERHdXZmlGZENTVVhZVEhoWTc0LUZ4a3ViWVVOM3poektYLWRXRTgyWQ?oc=5",
-   "published": "Sat, 24 Oct 2026 00:27:38 GMT",
-   "summary": "US Trade Rep Greer says tariff policy 'hasn't changed' despite SCOTUS ruling&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Trump Ordered Alaska Lawsuit, Some Canadian Tariffs Exempted, More - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDZlMDBjM2tDOHQ3NDYzSnUyZzByYk5VU3Zjclp0QXZCSEpXWml0VjR3LUNvUUpkaDlrQmxJODBBWFlfQ24tbkg1andJMGpOaGdNbkl5UkRFSFdYM2dEZkFzdHZOa2k2bU1zbGVvQ1RwYS1pY2U5MGhIYkstXy02TzVwVU84R0VSMnBTX2MtNE85N0RDT1c1Nkk5WUJweV9BNzdBOWFOQjEwZkJFQ1NWTVpB?oc=5",
-   "published": "Sat, 24 Oct 2026 00:05:29 GMT",
-   "summary": "Trump Ordered Alaska Lawsuit, Some Canadian Tariffs Exempted, More&nbsp;&nbsp;Bloomberg.com",
-   "source": "Bloomberg | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
   },
   {
    "title": "Steelmaker Cliffs Defends Stelco Cuts, Seeks Meeting With Joly - Bloomberg.com",
@@ -8860,7 +8811,7 @@
    "module": "海外媒体RSS",
    "category": "其他",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -8872,7 +8823,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -8884,8 +8835,18 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "Customs Compass: Canadian Tariffs, IEEPA Refunds and New Import Rules - Scan Global Logistics",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOEZ2dGs1R1hYaFFybTJyT1NmbkZFbTYxa1FweXhoa2l6S093d1hTVWl1MFJhMXE0eW5EbVNsNlRrSWtQX0gyM2MwNG5CNzItemFPQndBQmFhYU9KVzJtc0hpQVQxUHg3VVUwTlBCenkwWEN0Rl9xN1cxc1o3a3llVlZMWjJqQU5qR0pvZE9BTkw0dnQ0NGMyMGhmZlRkSkZwZU9pVA?oc=5",
+   "published": "Fri, 30 Oct 2026 21:54:51 GMT",
+   "summary": "Customs Compass: Canadian Tariffs, IEEPA Refunds and New Import Rules&nbsp;&nbsp;Scan Global Logistics",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
   },
   {
    "title": "China-Switzerland Free Trade Deal Update: 99.8% Tariff Exemptions - News and Statistics - IndexBox",
@@ -8906,7 +8867,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -8928,7 +8889,7 @@
    "module": "航运物流行业",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -9865,26 +9826,6 @@
    "priority": 2
   },
   {
-   "title": "Trump Says He Does Not Care About USMCA as US, Canada Plan Trade Talks - EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemtPdVNBQjFoVWFreGpKWnJkVWU5cVdqNjJBSUREcVBMcndGYjkzNDZ2eDUwZTVkZDY3RmNOeFVRd1lpV2NfRGE5VmRaWWFwaXJ4SmRwc1BORlU0dTY2cEViWW9lM3lFNkQycnF4SmpnYmVTQk14dmsxV3ViWVBvOFVMYVVMQW5KRFJTTjc4cnk5SjRwT1VtWDMxQVRVUm9xZEE?oc=5",
-   "published": "Fri, 23 Oct 2026 23:33:07 GMT",
-   "summary": "Trump Says He Does Not Care About USMCA as US, Canada Plan Trade Talks&nbsp;&nbsp;EnergyNow.com",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "US Senate Passes Sweeping Russia Energy Sanctions, Next Stop US House - EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSzRPWW9ZaG5rYlg3RGhsalJOdjZ2N2h1eUlUVk1vd1BqWHJMR2V2MU4weFpKeVlRbXVTNVhlRmwzSTVOSm5mdVVzQ1RyZGVJT0JTaXhsWVJfM2RqVjh2YUw0WmZoeThvSVBScWRIMTFEMkgyYzQyZVc4WC1lNWRGX1F0ZGNuVlVtcDNHaHdaTzdla3p0RGtmZDNrZXdEM2Ey?oc=5",
-   "published": "Fri, 23 Oct 2026 23:26:21 GMT",
-   "summary": "US Senate Passes Sweeping Russia Energy Sanctions, Next Stop US House&nbsp;&nbsp;EnergyNow.com",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
    "title": "VP, Head of FCL & Trade Management, Asia Pacific in Singapore, North East, Singapore | at DHL Group - DHL",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOE4xdFRtdjc5V2puSm83RlNIZ1VFZWJHWlU5RVZlSWJPdFVkV2twOWxiQXZpdVhIUDF5OHVHTnZMUkdsajA1ckJ0LU5nV2JIWFBaZTlqWXNoYU1oX00yVW9HZUhqa2huRUNIa1l3b0lDTWJTUUtWNzhpTmJYNXJRSWoxWmdvR0pyb1M0dklXRUZCNHZuNmoxVEIxa0ZfQ0J4VkdMeTkzeklGaUhsUXc?oc=5",
    "published": "Wed, 28 Oct 2026 23:56:19 GMT",
@@ -10201,6 +10142,16 @@
    "summary": "Germany set for record trade deficit with Asia-Pacific in 2026, report says&nbsp;&nbsp;American Journal of Transportation",
    "source": "Google News | SE Asia",
    "module": "亚太官方",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Customs Trade Coordinator in Memphis, Tennessee - FedEx Careers",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wbGNfME1jVHhEZGhqQ1FpeHhZN0NXWm1rLS1BY3preWlfdExSQndLQWUya19hQ09mdzNnZ3A0QnNsUFBZeTdWSnRycktOZGttTWNCYWdsZnVGUGFnTjRVblYtSU0yRmlodDZtQnFldTF6T1BGcWlR?oc=5",
+   "published": "Wed, 28 Oct 2026 14:33:02 GMT",
+   "summary": "Customs Trade Coordinator in Memphis, Tennessee&nbsp;&nbsp;FedEx Careers",
+   "source": "FedEx | Logistics",
+   "module": "企业官方",
    "category": "航运物流",
    "priority": 1
   },
@@ -12755,6 +12706,16 @@
    "priority": 1
   },
   {
+   "title": "No drug-related violations found in special crackdown on eve of Halloween",
+   "link": "https://en.yna.co.kr/view/AEN20261031001200315",
+   "published": "Sat, 31 Oct 2026 10:20:47 GMT",
+   "summary": "SEOUL, Oct. 31 (Yonhap) -- Police said Saturday they have found no drug-related ...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
    "title": "Extra B6.7bn fuel subsidy to come from energy fund",
    "link": "https://www.bangkokpost.com/business/general/3345841/extra-b67bn-fuel-subsidy-to-come-from-energy-fund",
    "published": "Sat, 31 Oct 2026 05:44:00 GMT",
@@ -13192,46 +13153,6 @@
    "source": "CNA | RSS",
    "module": "海外媒体RSS",
    "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Customs Entry Writer- Houston TX job | jobs at DHL Group - DHL",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZGd5a2dhWHFfOVF3M1g1NFNWQTZGR3BhdFVsTEpCMkFTQWJjZlBBU08yaHRGUG9UdUNXOHZqa3dmNGJwSDZ2MElhY0x0aGZIYU9ZcnNmZ3JCU0dXWm1Zc0ZhSEhmcl9VTWJIbXlEcXd6RTNtdS00ODV2c1VzcEJ4dFJvTV82Q3VvcF9ja0RsYU5LSkhHT3k2QWFwUkhwU2NJZGg3c2t4NA?oc=5",
-   "published": "Sat, 24 Oct 2026 03:05:58 GMT",
-   "summary": "Customs Entry Writer- Houston TX job | jobs at DHL Group&nbsp;&nbsp;DHL",
-   "source": "DHL | Logistics",
-   "module": "企业官方",
-   "category": "航运物流",
-   "priority": 1
-  },
-  {
-   "title": "Juren Men's Black Forever Blessed Embroidered Denim Jean Jacket NWT Sz 2XL - eBay",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmSWJIWlZLX2N0U3VGTVVSLTR2TWxvRWxody01RlRid1B4QU1yTWVZa3FheW5fa3o5Y2Z3NFhzbWZVWTJVVERfV0Z2d2ZjZw?oc=5",
-   "published": "Sat, 24 Oct 2026 02:55:05 GMT",
-   "summary": "Juren Men's Black Forever Blessed Embroidered Denim Jean Jacket NWT Sz 2XL&nbsp;&nbsp;eBay",
-   "source": "eBay | Seller",
-   "module": "企业官方",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Western Trade Barriers And ‘Made In China’ – Analysis - Eurasia Review",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSm9iUGdESFp3a2R0d0FwbHRiUkgydkF5QnNyMGc5RzRxZV9jckR6N1hXWnNOb1VLZHZ6MXJvcXl4WTlfY2ZpZ0IyakJYdFRvWDlmOFIyVW1QRWlSaVlPSVBCMXNsMC1Eb0xmbi1mYkF3MFh3azhtWEc2QkhWN25nYTRxeWl1a1BWMHkxWC1MTHcwWWc?oc=5",
-   "published": "Sat, 24 Oct 2026 00:48:15 GMT",
-   "summary": "Western Trade Barriers And ‘Made In China’ – Analysis&nbsp;&nbsp;Eurasia Review",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "Vietnam–EFTA Free Trade Agreement opens new avenues for cooperation with Europe - Vietnam+ (VietnamPlus)",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbDRZV0l6SG12QWlLQ2cxZm1SeEFQUTNCampJb3E4cFpGNXZ6cUZCZTBzTTh2Mllxd0IxNGNiS0E0YWZHdXlzd05TVFVHNExON19CYXd3bzJTcEM0MkRFcGhxM2pKRlB2N0k1SlV3N2VEeVQxNVRaTVFCYlByeldjNHFpay1oT3RQUHFMTjE2UGZtc2p4Qnk3UmwzVVlnMGN6M2oxWEpJakx3LVFlaGJTLUlwNlAxM2l2NGk4?oc=5",
-   "published": "Sat, 24 Oct 2026 00:30:00 GMT",
-   "summary": "Vietnam–EFTA Free Trade Agreement opens new avenues for cooperation with Europe&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
-   "source": "Vietnam Plus",
-   "module": "海外媒体",
-   "category": "欧盟贸易",
    "priority": 1
   },
   {
@@ -13721,6 +13642,16 @@
    "summary": "LEGAZPI CITY, Albay — Four natural and historical sites in Albay province are being eyed for development as sustainable tourism destinations under bills sponsored by Rep. Raymond Adrian Salceda. The proposed measures seek to generate jobs, protect the environment and preserve local heritage while promoting tourism beyond the province’s main attraction, Mayon Volcano. Salceda sponsored",
    "source": "Inquirer | RSS",
    "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "3\" Dual 2 Ohm flat Aluminum Subwoofer Voice Coil VC140937 - eBay",
+   "link": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxNcEVDbjNJZWhLaVRRYjZaOHNqY2NMTjFBV3ZJUkdBakhRT1dvZHRtZWNISWVTWkNkVUM3UnR1SGVvMmwtejIzOUdnQ2ptUlNVUkRQbnc5RVZIbFVEb2hWU0pyRkFtbDVXZEt0N0VySU5zek5aOElHTU4ya2xibEc3VGdjUUhrZ1FLLU5zZ29HMUtvcHhxUnRvUjV4bzloa1ZfRDB0SWt3UWN1TmhwXzVlTldTZlo4QV9NNVdrSFRPOVBDREF3YzgtdVVYbDZScWxQQjBjTkpMbGg3WGdBRk45cVVVTHlhUnltTkxjQVdTanBqUFJFenh5b2EzdzJSTU5mSVIxT3I3dUxSTF9Hcl9EbVN0czZUV2dGSXpyNC14NFNrSGt3bkd0Nzc5UTFQYnJnZ3B5RDhlVDNGNmZLUWFDYjBvdEEzZl9Qb0RqbldWNXRwcXVQQzJOOXBFRFRfOE5NZERxMVFGaXVvNG54SlJjS2ItYjVTRmRKM1lOZDZlSDNNZDZtU0pvUmx1RndpanczRlA4NDdnSVZUeUFEUFJLbnRldlF2azNOUXRuSzY0UnYyRlhVbF85ZFBDVU1tY0xlOVptME00eElsTkxhcEpRTTlyUmVPVWNnZ0IzaFRHMnZwb2JuMDFWWXhpX1NpaEpFNkQ1RjVkb0k3Si1IT1hZOUVSYnBCTlBZWFZqWmdLekhQTHRWc1ZfYVFrQmV4QVJKYjlyakFnMDhQVUZKZXpkQlhvUmc1NkdWbHZFNmFNZDBSVjJmVmpuZ0gyTjJxS01qVU1STnNFOHF2OXpZTTlKVklEbVB6c1E?oc=5",
+   "published": "Fri, 30 Oct 2026 20:53:10 GMT",
+   "summary": "3\" Dual 2 Ohm flat Aluminum Subwoofer Voice Coil VC140937&nbsp;&nbsp;eBay",
+   "source": "eBay | Seller",
+   "module": "企业官方",
    "category": "其他",
    "priority": 1
   },
