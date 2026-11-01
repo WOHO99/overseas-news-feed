@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-01T17:27:18.855489+00:00",
- "total": 1413,
- "high_priority": 995,
+ "updated": "2026-11-01T23:15:24.461177+00:00",
+ "total": 1426,
+ "high_priority": 1009,
  "fulltext_count": 36,
  "stats_by_category": {
   "美国官方": 0,
-  "欧盟官方": 1,
-  "国际组织": 2,
-  "海外媒体": 16,
-  "企业官方": 3,
-  "亚太官方": 1,
+  "欧盟官方": 2,
+  "国际组织": 4,
+  "海外媒体": 15,
+  "企业官方": 2,
+  "亚太官方": 0,
   "海外媒体RSS": 3,
-  "航运物流行业": 0
+  "航运物流行业": 2
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -1051,6 +1051,16 @@
    "priority": 3
   },
   {
+   "title": "ZMB25-3 - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WVEs0Tm91c0ZMT0psbVd2UExWYmJJWnR4WlJJV0x2eHhDeVRCbFlzVzg1UEFCQ0RMZE1TcDhFSk9DenhZNGc?oc=5",
+   "published": "Sat, 31 Oct 2026 19:26:10 GMT",
+   "summary": "ZMB25-3&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
+   "category": "其他",
+   "priority": 3
+  },
+  {
    "title": "Conversaciones de alto nivel en Doha destacan oportunidades de comercio e inversión para los PMA - World Trade Organization",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RLTQ5clhYY216czExTlR2clRUWkJLZFhadmZWcDdSRURJd0lPaXhaVTJyVm5nSUU2dHNXMWtsRnJMbjQxSk1JbGlMLVZFYzRyVEh0WUQ4VVcyY2NjS19lZmE1al9ZQ0Z1UE05ZmVtakNPTWNuTFE?oc=5",
    "published": "Mon, 26 Oct 2026 07:00:00 GMT",
@@ -1891,6 +1901,16 @@
    "priority": 3
   },
   {
+   "title": "WTO | 2026 News items - Global Review concludes with a declaration on partnerships for trade and development - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XWF9qRDZMXzdXZE5Rd3lsU0hyZ2F0Mjd3WXBQc1EtdzZDUTN6bWNwcjFrdGJUdlNfcVZtajY5WlVucFhiOU5lS21EcDI4MU5DZlllbGZJcnp2dDdRRTREZlhMbFVSdTFCM2M4d1ZvS0FfT0tj?oc=5",
+   "published": "Fri, 30 Oct 2026 13:26:29 GMT",
+   "summary": "WTO | 2026 News items - Global Review concludes with a declaration on partnerships for trade and development&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
+   "category": "其他",
+   "priority": 3
+  },
+  {
    "title": "EU Trade - The EU's single voice in International Trade and Economic Security - policy.trade.ec.europa.eu",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Tc0hfaXBVb05TNEJsX0c0aVJNVHpNajE5LUpmVjlBLTZLd1F5YzhfSVlPSENFQkRiNU1ieEpuOEstMjlCWU1nV2h4ZUZOd0tJUmFtUA?oc=5",
    "published": "Fri, 30 Oct 2026 12:00:00 GMT",
@@ -1911,6 +1931,26 @@
    "priority": 3
   },
   {
+   "title": "Import barometer – Frequently asked questions - policy.trade.ec.europa.eu",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd0RtY00xcE9PTkRLYjBQaDBZdjBEQmd1ZmYzNWcyV09MQkx5YkF6SElSMXdtTE5BeEdaYWxIY0l0X0NfdVN5Y0llWllBN3c5cVRDZUprb01WSWt0dXpaMkFtVVR6MlRUWVJ1bXZkM1UzdHA5X0tYaWNVQTM0ZEh1RV85TXFCdXY0eXRmblNMOTBRclhqREVrZWx2VEEySWVNZ0c3QVlUUW9DOHZOM2pETVN6b3ZuMXQ4amQtdUVmOWo2bkl2U2FVMTczVnpaVE9wSV92Mw?oc=5",
+   "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+   "summary": "Import barometer – Frequently asked questions&nbsp;&nbsp;policy.trade.ec.europa.eu",
+   "source": "EU DG Trade",
+   "module": "欧盟官方",
+   "category": "欧盟贸易",
+   "priority": 3
+  },
+  {
+   "title": "Import barometer - policy.trade.ec.europa.eu",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZE0weXB6Y25kVVNlLUZ6YnRMMlBGSExfTldRNEYtOUM5Q280dklDWl91MmNESjlETFE1Um03VU81bnlscDgxRzV5YVdfZ3FXd1Q4SEMxb0tpcHhWR1M0VVZKM1BBUjJILTllcEVOMGtwelUxdkRGQ3FQYUpFWUFHZV84VmI3XzFkMVJJZU9oNkZxMkxVYWFzaUd3?oc=5",
+   "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+   "summary": "Import barometer&nbsp;&nbsp;policy.trade.ec.europa.eu",
+   "source": "EU DG Trade",
+   "module": "欧盟官方",
+   "category": "欧盟贸易",
+   "priority": 3
+  },
+  {
    "title": "La OMS, la OMPI y la OMC celebrarán el 13er Simposio Técnico Conjunto el 25 de noviembre de 2026 - World Trade Organization",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lQ0hDbk84bGpHdnpWVW02a3RrT25ISFdTYlJBS25jVzJhVk14RWtKaGZzc2o5QzB1R3dOWTRldXc0ZUc0YVlOSWNBc2J1VkRuUHBua29KT2VPTjBaempDSmlrMHhFZElfNmhaaTR3RXd1ZGZf?oc=5",
    "published": "Fri, 30 Oct 2026 10:17:02 GMT",
@@ -1925,6 +1965,16 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJdlo5dXByT1JEc2cxLTctWVZCNkh2d252QXVjSEhBbGl3ZjBaOEx2VjY5QlF2VjllNU5XdWRBU3BpMURTb085bnNtRGw4Q1doX0RIWS05SmxWZXBTQ013bHp0ck0yQnBvM21fYlgyT19KVDBM?oc=5",
    "published": "Fri, 30 Oct 2026 10:12:39 GMT",
    "summary": "WHO, WIPO and the WTO to hold 13th Joint Technical Symposium on 25 November 2026&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
+   "category": "其他",
+   "priority": 3
+  },
+  {
+   "title": "Regional Trade Agreements Database - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UWTNJdGpJbHNld0NuTElxNVhMcnhUVWJHcEZOX3NWYWNGM3BsdTI3b0tLUW5xY2RoLW1hSjlLZnlMYVZvUkhfZHJUWEs?oc=5",
+   "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+   "summary": "Regional Trade Agreements Database&nbsp;&nbsp;World Trade Organization",
    "source": "WTO",
    "module": "国际组织",
    "category": "其他",
@@ -6823,85 +6873,91 @@
    "priority": 2
   },
   {
-   "title": "A Trump-Xi Deal Could Revive US Energy Exports to China - EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2VaaVNJRnN6RnhWM2U0cFI2MGg2VDNLVUEzS0daemVkTjc4WGIxRDI3Y2dvMTN5clRlaC1CTjNHdUJndmtsTnZVcFBvZnhZaTJRYjN1d2FqZ1MxY2o2M2VsaXhLWmVlWDJuVy1ERWowZWd2Q1JGOTNQUWhDR1VYWFJDeEFxTzJwZDdCQVZKQQ?oc=5",
-   "published": "Sun, 25 Oct 2026 22:34:47 GMT",
-   "summary": "A Trump-Xi Deal Could Revive US Energy Exports to China&nbsp;&nbsp;EnergyNow.com",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "US-Canada Trade Talks Near Deal After Tariff Shifts - Briefs Finance",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjdwc0FrV1ZpLXVvQkE3NG4xZDFjejhQTl9QS2dCbHBsY1ZNOFBGMkUzc2hQc3BIdTd3dnN5QW5tMHhLbWxibTB5ODJ3WVJLZDQ3bGpKS3BFQ0FObXVmYkRHUVZ1SmcwUkFMQVVJWlV0b0hLZE5nekRjU3dEYzM5M0dLa2syeFMwSkhTa0VzZ1o?oc=5",
-   "published": "Sun, 25 Oct 2026 21:58:16 GMT",
-   "summary": "US-Canada Trade Talks Near Deal After Tariff Shifts&nbsp;&nbsp;Briefs Finance",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Trump Signs Oil Deal With Russia Despite Imposing Sanctions On India Last Month - Inventiva",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTZla0NTbEhrN2VIYmRScjI5SnBOWFhrTWRBNG5lYS12VEZ3RTVRZWEzalJYd3Zwb092d1FxRHFGb1AyWlFiT0NQb3dHRUFRTS1CaXRGZWpPSVpvQ3ZHOVpBLXJDYlZHc3ZmaTRVQUpIdm5mN2xpbVN6UWtUX2sxSl8zRm1oWU5pcjRKaWN6M0ZNajNkOV9LZ041QU5VSW9QeWdFSDVDWnBheTZUc2lueG1sRURvZw?oc=5",
-   "published": "Sun, 25 Oct 2026 21:38:13 GMT",
-   "summary": "Trump Signs Oil Deal With Russia Despite Imposing Sanctions On India Last Month&nbsp;&nbsp;Inventiva",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "More pain may be coming for the AI trade. Why I’m not giving up on it",
-   "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
-   "published": "Sun, 25 Oct 2026 21:13:50 GMT",
-   "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explains why the AI trade has cracked and what he's doing about it.",
-   "source": "CNBC | RSS",
-   "module": "海外媒体RSS",
-   "category": "其他",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "agricultural export policy | US tariffs compel New Zealand dairy market optionality - https://en.edairynews.com/",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2pIeC1JSWZKRGpmdS1qTHNyTDJteTVxUTFDWmJheDI2Q24yZU11Z01hR1gwZlRzQ1MwTE5MbHc5XzBOSFI4bVd1aUhkWXdWUC1iT3RXTTBwTG5vMFZJUmRXVUpRbXg1bFRfUWhmSnExbUc5aXhFZmwtT1FHazFWX1EzTERDTVJ6?oc=5",
-   "published": "Sun, 25 Oct 2026 20:30:33 GMT",
-   "summary": "agricultural export policy | US tariffs compel New Zealand dairy market optionality&nbsp;&nbsp;https://en.edairynews.com/",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Hassett Says US-Canada Trade Talks Are ‘Very Close’ to a Deal - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmdYU2JKSktsSURRM0x5WDJUUXRIWlp6d2hEMEdHRHpEOEpHcnpIemdUdXp6ZDFCWFBzSGxqcU5OT3cza0xnS0ZFZGFGdGkxdU1TdWg2MnJScTVIWWtwNmw5NDN4UFN1Y3oyWkJtVXFLdXlNYjdtOWNCNE1ydVdKcTNwdDJ0aW0yWTFleTVLRVZNaVlHemg4SGswRW9tSDlSQXc4c0ZjNTNHb3dGcURF?oc=5",
-   "published": "Sun, 25 Oct 2026 18:18:24 GMT",
-   "summary": "Hassett Says US-Canada Trade Talks Are ‘Very Close’ to a Deal&nbsp;&nbsp;Bloomberg.com",
+   "title": "Canada and US to Outline Trade Plan in Coming Weeks, Carney Says - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FUU1FQR1dZRDZVcXBERWhJVEFWd0NSZ3hOTDFmZTlTQWRnTWt5eVZPdUR2Q0sxSHp0ZFhOMllONHE0aU04aWxDbndOaU45ZWhnUFFfZ0FVMElMVngyU0F5NzV0ZjJ2dWxHYV9UMGhZeGU1V1liZ0t5M1Rsa3RvVWNOXzlId04tcEplUW96M2JTUUZpSmVnNVRhU2dfaHpIaS1sM2UwbWlzam5Pb21HV04zb3o?oc=5",
+   "published": "Sun, 01 Nov 2026 22:26:53 GMT",
+   "summary": "Canada and US to Outline Trade Plan in Coming Weeks, Carney Says&nbsp;&nbsp;Bloomberg",
    "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "其他",
    "priority": 2
   },
   {
-   "title": "Falana urges Africa to rally behind Cuba, demands end to US sanctions - The Guardian Nigeria News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVlYVXBWMkhlWG9xdFZDb0stQ1dXdEV6bzF5TzFXNkxhRHY3QVViUnhla0QtakdWR3V1T2tBdW9sRGViMmtGUUFoQjNwYmxaal9jc0RJaXdDN3o0YzE2RW5TQWpoNVNyOXFfMC1sYXlFMThQSW1hUVhaaW9TTkFrb2NCMVZWMExvVkxwRnNiNkVRUDVHUElaVTRn?oc=5",
-   "published": "Sun, 25 Oct 2026 18:15:04 GMT",
-   "summary": "Falana urges Africa to rally behind Cuba, demands end to US sanctions&nbsp;&nbsp;The Guardian Nigeria News",
-   "source": "Google News | US Trade",
+   "title": "Joshua Cooper Ramo on whether the US can handle the stress test of China’s rise",
+   "link": "https://www.scmp.com/news/china/diplomacy/article/3372879/joshua-cooper-ramo-whether-us-can-handle-stress-test-chinas-rise",
+   "published": "Sun, 01 Nov 2026 22:00:18 GMT",
+   "summary": "Joshua Cooper Ramo is chairman and CEO of Sornay, an investment and advisory firm. Previously he was CEO of Kissinger Associates. Ramo is the author of the new book Darwin’s Lock: America, China and the Shared Future of Nations. His 2004 analysis of “the Beijing consensus” contrasted the Western and Chinese economic development models. He is the author of two New York Times best-selling books and now lives in Shanghai with his family.\nFor other interviews in the Open Questions series, click...",
+   "source": "SCMP | China Economy",
    "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Sidra Line returns to Red Sea trade with two services",
+   "link": "https://container-news.com/sidra-line-returns-to-red-sea-trade-with-two-services/",
+   "published": "Sun, 01 Nov 2026 22:00:09 GMT",
+   "summary": "Sidra Line is returning to the Red Sea trade with two container services, according to DynaLiners. The carrier will operate the Red Sea Express (RSA) between the Eastern Mediterranean and the Red Sea. It will also offer an intra-Red Sea connection under the IRS service. The RSA service will deploy one 270 TEU vessel and [&#8230;]\nThe post Sidra Line returns to Red Sea trade with two services appeared first on Container News.",
+   "source": "Container News",
+   "module": "航运物流行业",
+   "category": "欧盟贸易",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
+   "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+   "published": "Sun, 01 Nov 2026 21:06:42 GMT",
+   "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
    "category": "其他",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Arken Intermodal Terminal achieves near-doubled yard capacity",
+   "link": "https://container-news.com/arken-intermodal-terminal-achieves-near-doubled-yard-capacity/",
+   "published": "Sun, 01 Nov 2026 20:00:04 GMT",
+   "summary": "The Port of Gothenburg has significantly increased yard capacity at Arken Intermodal Terminal through a reconfiguration of the railway track layout, freeing up approximately 4,000 square metres of additional yard space for trailers and other units. The result is an increase of almost double the previous yard capacity from a five percent expansion in available [&#8230;]\nThe post Arken Intermodal Terminal achieves near-doubled yard capacity appeared first on Container News.",
+   "source": "Container News",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Electronic integrated circuits and microassemblies exports by country |2024 - WITS (World Integrated Trade Solution)",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWEyQzJ4cmVuZnU3UVVfaFdsNXFYUXc5b245WVdWd1ZBMkNzVDRtTFR3MHV2SGg1TGdhS0s1U2Q0M3YxVE9wTFVvRnE5V2tlakxYMk1GMTd1RXB0ZWFiNHMwWTF1dzJfOU9IaHFBOXR1b3VydngtbUc1NWhORWxzWkN5Vkx3eUhjR0w0clBjOWNqQndEemZnbXp0UHg5X2N0Ykp3aTRlME5QTWhhWmtLRko5ODVMVlBDbXNyZQ?oc=5",
+   "published": "Sun, 01 Nov 2026 19:49:02 GMT",
+   "summary": "Electronic integrated circuits and microassemblies exports by country |2024&nbsp;&nbsp;WITS (World Integrated Trade Solution)",
+   "source": "World Bank",
+   "module": "国际组织",
+   "category": "航运物流",
    "priority": 2
   },
   {
-   "title": "Eve of Brazil's Presidential Runoff: U.S. Reportedly Working Quietly to Return the Bolsonaro Family to Power - BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82c2dnbFNKTnU2ZFdHeWhyMTdzMGVkV0JwWVg4WGJVRmxWMVJWN1djbkhZY1hfNkNTQ2Y5eVo1N0dJa3FIVUN0Q0NRaGdJVlVOaDIyQ05ZNTFobnFQWGx5NDRsUkNWMjJ4RkJqb1BqTXpqN05SOHc?oc=5",
-   "published": "Sun, 25 Oct 2026 18:05:00 GMT",
-   "summary": "Eve of Brazil's Presidential Runoff: U.S. Reportedly Working Quietly to Return the Bolsonaro Family to Power&nbsp;&nbsp;BigGo Finance",
-   "source": "Google News | US Trade",
+   "title": "Canada PM Carney said he had a good conversation with Trump on trade - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2ZUM3VWU2twNlU5YnJfamYzWWJtaDV3bm5WTFZMNHpWWVdwSk1BY1REWjl2cEsweU5UQ3ZjbkZkWVlkNFZKZFRDb0tNUFJ0bXVBczAwdWNsV19uMFNCUnNWRHZ0T1NNQ1ZoV2lvY0piVFgzY1lJWnN4bWE0eU16cllQUW9WSGJKSUJQY3FGeDhqN2JJdmJnZkt1MjdXc1hscE1zdGxqQ1NIeFJsUVRvLUxjTlA?oc=5",
+   "published": "Sun, 01 Nov 2026 19:05:37 GMT",
+   "summary": "Canada PM Carney said he had a good conversation with Trump on trade&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
    "module": "海外媒体",
-   "category": "航运物流",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Canada and US to Outline Trade Plan in Coming Weeks, Carney Says - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa1NWcWlVazFaT0JkSVo3aGMycm84V3Ywa0NrNVpNYkphdXVxRHJGSjlmUUl2UGFrdi1SRW9LRGVRaVZlc2VaeEhCbTh5c2dlWVowbTYyc0c4SUVZU2M0OHdoXzViRVplckpzNFFMRVNUYmllcFJ4NU5xcEgya0Y1cnV5c2RIUHVrdWFjckNydTdLYU05OUhlZlFhNXZCdXdIT3hmN2wxa1I2b3QxZW53eTllVE5OdlVEM2VHOW5HTWlCV1pVS0FIOE5KekthYW5JeTRrQnhvSQ?oc=5",
+   "published": "Sun, 01 Nov 2026 18:16:09 GMT",
+   "summary": "Canada and US to Outline Trade Plan in Coming Weeks, Carney Says&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "其他",
    "priority": 2
   },
   {
@@ -6913,7 +6969,7 @@
    "module": "海外媒体RSS",
    "category": "其他",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6925,7 +6981,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6937,7 +6993,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6949,7 +7005,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6963,6 +7019,16 @@
    "priority": 2
   },
   {
+   "title": "Portugal weighing bigger Galp stake after Moeve merger collapse, minister says - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3pBN0NNOHJZSlM2X0RCbnVjRHJYWUI1bzdrVFg0bjhqQTUzeTN1a2hsZDhGazJQNzR0V3gwb0ZLWHpfTUM2dGhrTjVDdmlHREE2Q0I2M1Q1SUIzZ0VJUzh1dGR2MkUxMFNEZlp5Rk1uTTJYaDlTWVpKd0VLbVJ0ZTFnT2VkTFlOVzY1STFKZkRHcHlWcjNLa283VTBxTDJBNVZ1MzFUQlRPMGs1eTJxMkd6c0FJY0JoWW1SN3l1T3FCOUlZSzcySg?oc=5",
+   "published": "Sun, 01 Nov 2026 13:05:45 GMT",
+   "summary": "Portugal weighing bigger Galp stake after Moeve merger collapse, minister says&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "航运物流",
+   "priority": 2
+  },
+  {
    "title": "High Court redevelopment plan ‘not workable’, Hong Kong Bar Association warns",
    "link": "https://www.scmp.com/news/hong-kong/society/article/3372893/high-court-redevelopment-plan-not-workable-hong-kong-bar-association-warns",
    "published": "Sun, 01 Nov 2026 12:05:39 GMT",
@@ -6971,7 +7037,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6983,7 +7049,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -7012,6 +7078,16 @@
    "published": "Sun, 01 Nov 2026 11:14:38 GMT",
    "summary": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks&nbsp;&nbsp;Reuters",
    "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - Yahoo! Finance Canada",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlgwM1BTdFFYWEpXTFJSYldnNmJCTGstcFQ4SWZGODhfWDRacXlLM2tTNzZ0cWlyMXpOX1pnNDJPeEszQzF2cTEyRTRfM1o1MGl3ek1DTXBQaVZGeHRhNzNUSHJzTUdXR0FnczdOaGlaYmNYQzNLWVFfaXByUl9lU2hvWTVIZ3RIVzN6STVR?oc=5",
+   "published": "Sun, 01 Nov 2026 11:04:54 GMT",
+   "summary": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks&nbsp;&nbsp;Yahoo! Finance Canada",
+   "source": "Google News | US Trade",
    "module": "海外媒体",
    "category": "美国关税",
    "priority": 2
@@ -7283,6 +7359,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "Rubio Says Trump Will Take Up To 60 Days To Assess Impact Of Russia-Related Sanctions And Tariffs: Report - Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVE14R3FJcDh4QkQzeERFbkktNElNOVNtTmhzWnB2cTl6ano0c2dhQnF5dnphZXRFdFY3aTkwQ3NQcGM1Z2FnRlAyaE5TMklwaFpXUW9BNU1vUTF3Y1VnUWlWempPNVd6U28yRkpaTHhGSk9IcWp2TFZqNFY2LTdjODEzVllWVmFpeEVXR3FRbjBoTjF0RlhqODdrMVpoUVZvM3RUUWFqTll2U3ZSRy1wMVFVR1hVTEtrTzV6R2hrcG83dw?oc=5",
+   "published": "Sun, 01 Nov 2026 01:00:37 GMT",
+   "summary": "Rubio Says Trump Will Take Up To 60 Days To Assess Impact Of Russia-Related Sanctions And Tariffs: Report&nbsp;&nbsp;Stocktwits",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Southeast Asia’s EV boom sidelines local car parts suppliers",
    "link": "https://www.scmp.com/week-asia/economics/article/3372760/southeast-asias-ev-boom-sidelines-local-car-parts-suppliers",
    "published": "Sun, 01 Nov 2026 00:00:10 GMT",
@@ -7381,6 +7467,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+   "published": "Sat, 31 Oct 2026 16:18:40 GMT",
+   "summary": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Quad not ‘anti-China’, says Rubio as first summit in two years set before Trump-Xi talks",
    "link": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
    "published": "Sat, 31 Oct 2026 16:17:17 GMT",
@@ -7412,6 +7508,16 @@
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "US Senate Passes Sweeping Russia Energy Sanctions, Next Stop US House - EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSzRPWW9ZaG5rYlg3RGhsalJOdjZ2N2h1eUlUVk1vd1BqWHJMR2V2MU4weFpKeVlRbXVTNVhlRmwzSTVOSm5mdVVzQ1RyZGVJT0JTaXhsWVJfM2RqVjh2YUw0WmZoeThvSVBScWRIMTFEMkgyYzQyZVc4WC1lNWRGX1F0ZGNuVlVtcDNHaHdaTzdla3p0RGtmZDNrZXdEM2Ey?oc=5",
+   "published": "Sat, 31 Oct 2026 15:21:49 GMT",
+   "summary": "US Senate Passes Sweeping Russia Energy Sanctions, Next Stop US House&nbsp;&nbsp;EnergyNow.com",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "其他",
    "priority": 2
   },
   {
@@ -9512,6 +9618,16 @@
    "priority": 2
   },
   {
+   "title": "Five children among seven dead in eastern Syria floods - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWVXYi05clFmVk4yZXM2MVdNeEhHY19SeWVjMmtIVkZKY01jUGxnUzNoaVJMR2RYOWJsQ252OFkwRUJScXN0SXNWenY0U3BYMmw0OWtfRGl0Ql8wTjBzckZXYl9tQWoyMnNzTThTbnFsZFp3TEZocVRBaTlHcERSUFlpNTRHc0s2djQ5MDVTVWNBZjlpZjZMLVdwY1NQdUt0SnZEVDI3a1V5VlNm?oc=5",
+   "published": "Fri, 30 Oct 2026 19:17:31 GMT",
+   "summary": "Five children among seven dead in eastern Syria floods&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
    "title": "Why is it easier for China to reach an agreement with Bern than with Brussels? - Tomorrow's Affairs",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFY4MTdSb2pRWWx4MjVWN19aSktZZzNrOXlHaVlWTi1GR0pqQUVVMVlxXzNHTEVPYmtaV1N0VHYxc05kYXFyc09FTVRDMkxPcXE5U0xMWlhtUmhXa3VDano2M0txRXBhdlZqUjdfelZCVGN3a2VnTGk4aGMzOFdodEkySEVMVFBZVjJ5Rk13MVNqclFLS3hwTkJLWFBIdjhRaEo2aTZQM0prUQ?oc=5",
    "published": "Fri, 30 Oct 2026 19:11:04 GMT",
@@ -9595,6 +9711,16 @@
    "source": "Google News | US Trade",
    "module": "海外媒体",
    "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "Ep 67: Zombie 232s, Tariff Frights, Excess Capacity Haunted Houses, and Election Ghosts and Goblins - Washington International Trade Association",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9zUnBqdlFiZVpyMTdFaWpNblUyVmdaQV9yQTV4RlNXR2RHeUo4WGs4bF9SSXFMVXdIQ1BNaHRLaFk?oc=5",
+   "published": "Fri, 30 Oct 2026 16:54:19 GMT",
+   "summary": "Ep 67: Zombie 232s, Tariff Frights, Excess Capacity Haunted Houses, and Election Ghosts and Goblins&nbsp;&nbsp;Washington International Trade Association",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
    "priority": 2
   },
   {
@@ -9711,6 +9837,16 @@
    "source": "Bloomberg | Tariff/Trade",
    "module": "海外媒体",
    "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "Steven T. Dennis - Congressional Reporter - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82V2t4blgxelMyMy1hNjd1RlF5SlRpb2oxUC1la2gyd3FZMlNEOWFqNHFITG5kem14aHdZX0RiVVJxZ0kwcWk0TVJHTEtXOW9TS09MZWRZRFJId3JIM1I5WmlzLWlsd09J?oc=5",
+   "published": "Fri, 30 Oct 2026 14:45:00 GMT",
+   "summary": "Steven T. Dennis - Congressional Reporter&nbsp;&nbsp;Bloomberg.com",
+   "source": "Bloomberg | Tariff/Trade",
+   "module": "海外媒体",
+   "category": "航运物流",
    "priority": 2
   },
   {
@@ -10318,6 +10454,16 @@
    "source": "Reuters | Trade/Tariff",
    "module": "海外媒体",
    "category": "欧盟贸易",
+   "priority": 2
+  },
+  {
+   "title": "Securing an American Aluminum Supply Chain: Why Downstream Tariff Coverage Is Essential - Coalition For A Prosperous America",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEZFMHd6ekxxV0x0Q05KMW0zR19QV251QW9GTTZscDBnYjZnZ05ERTA4RGpRUGd1bTlmLUx5YktEWGtvQzFOWF82X2pfdWFSckJvSWpWR2xTdUpUQjUtekRtdy1VbHM0eEtuMVFwT0Y1MmxDQmFVb2lxbUNhUlZKRlBfYW55WUNpQmpoODJLb21Ud2M0aFVWR0J4T1hHZ2VXNTNibWJ0TWVjRGF6bXZwREdUX2t1OHha?oc=5",
+   "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+   "summary": "Securing an American Aluminum Supply Chain: Why Downstream Tariff Coverage Is Essential&nbsp;&nbsp;Coalition For A Prosperous America",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
    "priority": 2
   },
   {
@@ -13175,76 +13321,6 @@
    "priority": 1
   },
   {
-   "title": "Truck carrying steel bars causes footbridge collapse in South Cotabato",
-   "link": "https://newsinfo.inquirer.net/2329994/truck-carrying-steel-bars-causes-footbridge-collapse-in-south-cotabato",
-   "published": "Sun, 25 Oct 2026 22:18:50 GMT",
-   "summary": "KORONADAL CITY, Philippines — A footbridge in Barangay Denlag, Lake Sebu, South Cotabato, collapsed on Saturday, Oct. 24, while a truck carrying steel bars crossed it, forcing residents to use a makeshift bamboo walkway to cross the river. Sangguniang Kabataan (SK) Kagawad Jericho Palmaera Layang said a section of the bridge suddenly gave way as",
-   "source": "Inquirer | RSS",
-   "module": "海外媒体RSS",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "AHDB Targets Asia And Mexico For British Dairy Exports - https://en.edairynews.com/",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUhjQ0xLMEZpRldGWEZyVmZrX0Itam1BY3ZzQnhfV0RPTXpqYVZYSGtVUzNSa04tb1ZjcG5xMHdfNHlaNlpvNzlaUml2Q2MzNzNDWFpjb0cyOVRSRWRDQS1TT25MOG56RFZYdXpuV3lmTHIzSk5KVUhJbU0zQ01IeXJRTXIzZTY4?oc=5",
-   "published": "Sun, 25 Oct 2026 21:30:18 GMT",
-   "summary": "AHDB Targets Asia And Mexico For British Dairy Exports&nbsp;&nbsp;https://en.edairynews.com/",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "What the EU–China trade deal means for Asia - East Asia Forum",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRC1xd2RNdG44dE5tb0UwclFheHc1Q1g2ZlF6UER4VGcwNDhoRmdLamY1QkVCSEdZeUx5V1g1LXpIMHZCai0xRUJwX1hoUmtZWGNvVTVCRVcwSm9rSGpMbF92RVVmZUZ2Z0ZxQmdvRmpYUFVUSXdnbFB5TGhKZl8xamQ0Ti1oNDRz?oc=5",
-   "published": "Sun, 25 Oct 2026 21:00:00 GMT",
-   "summary": "What the EU–China trade deal means for Asia&nbsp;&nbsp;East Asia Forum",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "Medvedev defends Almaty Open title to close in on ATP Finals",
-   "link": "https://www.channelnewsasia.com/sport/medvedev-defends-almaty-open-title-close-in-atp-finals-6490531",
-   "published": "Sun, 25 Oct 2026 20:51:29 GMT",
-   "summary": "",
-   "source": "CNA | RSS",
-   "module": "海外媒体RSS",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "Pokémon Acc Go- Level 1 shiny pikachu fragment! And shundo London shiny rayquaza - eBay",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5URmVhZERlRVFwNWExOEJrVUNqTFY1VW5XeWRiQ2tJZzU4cHdsM1NtT2JpXzZybVlqV0poQ0RfNTh5T0VHd0YxV0otNE5sZw?oc=5",
-   "published": "Sun, 25 Oct 2026 19:57:19 GMT",
-   "summary": "Pokémon Acc Go- Level 1 shiny pikachu fragment! And shundo London shiny rayquaza&nbsp;&nbsp;eBay",
-   "source": "eBay | Seller",
-   "module": "企业官方",
-   "category": "其他",
-   "priority": 1
-  },
-  {
-   "title": "(3rd LD) N.K. leader vows to advance ties with China during surprise Dandong visit",
-   "link": "https://en.yna.co.kr/view/AEN20261025000353315",
-   "published": "Sun, 25 Oct 2026 19:30:45 GMT",
-   "summary": "SEOUL, Oct. 25 (Yonhap) -- North Korean leader Kim Jong-un has visited China and...",
-   "source": "Yonhap EN | RSS",
-   "module": "海外媒体RSS",
-   "category": "中美经贸",
-   "priority": 1
-  },
-  {
-   "title": "Da Nang approves Free Trade Zone 7 investment plan - Vietnam+ (VietnamPlus)",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWFDZlEzMzBtS0tDeWlhWnEyVXdYVVJFbVdBbUpNR0ZuNUoxWndmZi1sZUtBbnAzWVVyWWNVUXIySE1WS09GQUhkc0Vqd0xSZHFLNDNLYmVWNUNYUWtpb1pVZ3ZKVjlaOHEwNUdmbHFuV0poU2FOLUZoWndwd0ZHMkZNclU2TnRuam5lWXNQWUlscE1lQ1E?oc=5",
-   "published": "Sun, 25 Oct 2026 17:28:19 GMT",
-   "summary": "Da Nang approves Free Trade Zone 7 investment plan&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
-   "source": "Vietnam Plus",
-   "module": "海外媒体",
-   "category": "亚太动态",
-   "priority": 1
-  },
-  {
    "title": "Sharp reverses retirement and joins eighth-tier AFC Rushden",
    "link": "https://www.channelnewsasia.com/sport/sharp-reverses-retirement-and-joins-eighth-tier-afc-rushden-6511066",
    "published": "Sun, 01 Nov 2026 23:30:28 GMT",
@@ -13262,6 +13338,16 @@
    "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
    "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Transform Customs Clearance with AI and Cross-Border Trade Solutions Czech Republic - DHL",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXZxYW9Rd2t4aDlscWRtU0NUbmxXcmduVUdnVHI3dVlQZ1ZEM3M0WWhoQ3RNSlduZzVEVlJqVlUzeVo3VXgwZlItQjVERUVtSzBzRndYSUxjTWZLT3kwT0lnVm5pNjQzaVcyN2pLV2ZNMlVndUQwa0h1T0xWNi16MEl6eVVqVW9NWG9DYlEzTU4tQ1pvTW5lemlnUGdCV3dodUtGa24wWlJxbEtDNmRFQXNaSTJSbmRlbWQ3NjF0R09mUUlyUzZmUm1LYzhjdw?oc=5",
+   "published": "Sun, 01 Nov 2026 19:40:35 GMT",
+   "summary": "Transform Customs Clearance with AI and Cross-Border Trade Solutions Czech Republic&nbsp;&nbsp;DHL",
+   "source": "DHL | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
    "priority": 1
   },
   {
@@ -13562,6 +13648,16 @@
    "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
    "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "(A3) PM FDA Customs Entry Writer (Monday-Friday, 8:00 pm - 4:30 am) - DHL",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2pCS0picng0QkNURjVOMU9RcDFfMkJwN3d4RldBWElpSUdqcVprcDV5UW5RZDFCZDBZaTFwNy1Hb2ZyeTFpVnItQjBpNjJ0bDJrVkp6Q0hsTy1Eei03ZEJBaWVaSjNjdWUycVlnaGNZMy1TMURBVkdndFRoemUzVzdMTU15WUxJOVhrVGt1V0hqRU0tN2RPb2F5Mk9waGFWME9WLXlSRGtzWmlNLWQwSEltdU1hNVZrVDNkbFhYZGlwSEZ4UGhYN3Bn?oc=5",
+   "published": "Sat, 31 Oct 2026 23:12:16 GMT",
+   "summary": "(A3) PM FDA Customs Entry Writer (Monday-Friday, 8:00 pm - 4:30 am)&nbsp;&nbsp;DHL",
+   "source": "DHL | Logistics",
+   "module": "企业官方",
+   "category": "航运物流",
    "priority": 1
   },
   {
@@ -14232,6 +14328,46 @@
    "source": "Google News | SE Asia",
    "module": "亚太官方",
    "category": "跨境电商",
+   "priority": 1
+  },
+  {
+   "title": "Commentary: What revised Maju Forest plans could mean for future development decisions",
+   "link": "https://www.channelnewsasia.com/commentary/maju-forest-housing-hdb-flats-revised-plans-nature-6510501",
+   "published": "Mon, 02 Nov 2026 06:00:00 GMT",
+   "summary": "Framing the outcome in terms of winners and losers risks reinforcing the zero-sum thinking we should move beyond, says NUS landscape architecture professor Yun Hye Hwang.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Ukraine evacuates civilians from parts of Kherson region as expiry of Oleshky ceasefire nears",
+   "link": "https://www.channelnewsasia.com/world/ukraine-evacuates-civilians-parts-kherson-region-expiry-oleshky-ceasefire-nears-6511466",
+   "published": "Mon, 02 Nov 2026 05:40:24 GMT",
+   "summary": "The Oleshky ceasefire is the longest local pause in fighting since Russia's full-scale invasion in 2022.",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Rice exports face mounting headwinds",
+   "link": "https://www.bangkokpost.com/business/general/3346760/rice-exports-face-mounting-headwinds",
+   "published": "Mon, 02 Nov 2026 05:24:00 GMT",
+   "summary": "Thailand's rice exports are expected to miss the target of 7 million tonnes this year, even as shipments to Asian markets surge.",
+   "source": "Bangkok Post | Breaking",
+   "module": "海外媒体",
+   "category": "航运物流",
+   "priority": 1
+  },
+  {
+   "title": "Fresh crackdown on illegal dumping",
+   "link": "https://www.bangkokpost.com/thailand/general/3346631/fresh-crackdown-on-illegal-dumping",
+   "published": "Mon, 02 Nov 2026 05:04:00 GMT",
+   "summary": "The government has launched a coordinated crackdown on illegal electronic and industrial waste disposal, deploying 50 inspection teams to examine factories while tightening import controls and reviewing penalties for offenders.",
+   "source": "Bangkok Post | Breaking",
+   "module": "海外媒体",
+   "category": "美国关税",
    "priority": 1
   },
   {
