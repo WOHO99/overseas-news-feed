@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-01T23:15:24.461177+00:00",
- "total": 1426,
- "high_priority": 1009,
+ "updated": "2026-11-02T03:41:33.057694+00:00",
+ "total": 1437,
+ "high_priority": 1014,
  "fulltext_count": 36,
  "stats_by_category": {
   "美国官方": 0,
-  "欧盟官方": 2,
-  "国际组织": 4,
-  "海外媒体": 15,
-  "企业官方": 2,
+  "欧盟官方": 0,
+  "国际组织": 1,
+  "海外媒体": 21,
+  "企业官方": 0,
   "亚太官方": 0,
-  "海外媒体RSS": 3,
-  "航运物流行业": 2
+  "海外媒体RSS": 7,
+  "航运物流行业": 3
  },
  "fail_counts": {
   "USTR | Press Releases": 0,
@@ -1975,6 +1975,16 @@
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UWTNJdGpJbHNld0NuTElxNVhMcnhUVWJHcEZOX3NWYWNGM3BsdTI3b0tLUW5xY2RoLW1hSjlLZnlMYVZvUkhfZHJUWEs?oc=5",
    "published": "Fri, 30 Oct 2026 07:00:00 GMT",
    "summary": "Regional Trade Agreements Database&nbsp;&nbsp;World Trade Organization",
+   "source": "WTO",
+   "module": "国际组织",
+   "category": "其他",
+   "priority": 3
+  },
+  {
+   "title": "WTO | News - What’s happening at the WTO - World Trade Organization",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHeVdqTXpnTXZRTWlheEJYTFBkNkx6NVZnUjdnWks5c2lOX09hUkhuNjNUQzhYVFhELUEzWk92czc5SWVXWmpTbUFzRXp5S2FTNEs0ZWw1YnY?oc=5",
+   "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+   "summary": "WTO | News - What’s happening at the WTO&nbsp;&nbsp;World Trade Organization",
    "source": "WTO",
    "module": "国际组织",
    "category": "其他",
@@ -6853,26 +6863,6 @@
    "priority": 2
   },
   {
-   "title": "Trump says Canada tariff deal coming 'soon' at Michigan border rally - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEJMMGdRVDJoVkVSSGFSV1FvRmJMTy1LWnZhMWRzeUFjNlN4QUFKQ2tZc285cEs4akdIZ0dvZzJtSTBWU3ZwX1VGX2l3TllKVGxfNnh0Vm5rOTVtX2JpLXhwOXdJTEJURVBjYjRLS3hWSHk4bXBCT3lIWmZGMS1YTE5WQmpYVTVWcEk3YnE3WWV6anVTdElYUlV0Q3o4cnF2N0Z1NXJlazBvcG9L?oc=5",
-   "published": "Sun, 25 Oct 2026 23:56:22 GMT",
-   "summary": "Trump says Canada tariff deal coming 'soon' at Michigan border rally&nbsp;&nbsp;Reuters",
-   "source": "Reuters | Trade/Tariff",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Trump Floats 200% Tariffs on Ukraine and Russia as Further Sanctions Relief Is Discussed. - Ukraine Business News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkdDaVpjeC1PVmNQeGJFN2x0amxmeGpSZG1oQXNZM0VZRXo5ZXJKZkd6eW1lMkN3T1JEMmpQWmQxRjNRMVM2VVFHQjFmU2ZhNEt5VmprTk9oVTJweEJSMEhVWW5lWElMUEZRS0hmbk1NVi03cTFqQmY2SXJObzgzU1B5bTU3M2pReFB6RjlyTHNnUU1tZVllaE1UTm1pbUxGSmhRRWJUOFrSAbABQVVfeXFMT1FOdS1HRXZlc0xQLXRoUFlUSHJ1TGhpLVJNZDdTdUlYVnExcmJ4aEFhejQtNnpSUElQVHZqT1hWSFpLYXllTUtnOGFyODZJanNVYk14LVR4bkJZLVltc1NfMEFjRzZuX2Zka1E3MXRxNmU4SVNTbktrLTFqMFBUTWR2bzhlS2ZwMy0xc2t6M0N0aDJpWVpwMDRKTjR2TmpuZmEybXNmVFdDM1dBNnZ5aXM?oc=5",
-   "published": "Sun, 25 Oct 2026 23:55:49 GMT",
-   "summary": "Trump Floats 200% Tariffs on Ukraine and Russia as Further Sanctions Relief Is Discussed.&nbsp;&nbsp;Ukraine Business News",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
    "title": "Canada and US to Outline Trade Plan in Coming Weeks, Carney Says - Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0FUU1FQR1dZRDZVcXBERWhJVEFWd0NSZ3hOTDFmZTlTQWRnTWt5eVZPdUR2Q0sxSHp0ZFhOMllONHE0aU04aWxDbndOaU45ZWhnUFFfZ0FVMElMVngyU0F5NzV0ZjJ2dWxHYV9UMGhZeGU1V1liZ0t5M1Rsa3RvVWNOXzlId04tcEplUW96M2JTUUZpSmVnNVRhU2dfaHpIaS1sM2UwbWlzam5Pb21HV04zb3o?oc=5",
    "published": "Sun, 01 Nov 2026 22:26:53 GMT",
@@ -6891,7 +6881,7 @@
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6903,8 +6893,18 @@
    "module": "航运物流行业",
    "category": "欧盟贸易",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "Trump says US, Canada have 'concept' of a new trade deal - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkdVQi1MWlZSQ24xUkR6aC12d0llYjlUWlFDcmVuX1ByZk5tZ3JoQ3NTd01CM2piUFV2MGlEMWdCSnRTV1ExRDFUVGhYNjVVU2ZQT3lIS1UxbEVxSzNfZmdlY2duVXkySm8yNGNpbWRCdXpOMEF4ZFk3NXlJME5yZmRJTVVnVXUwa3VmcVBwWkNIejVkVjYtQWlYblJmdmVZbzI0eHR6YlMwTUJpWTZyR3hwZ1g?oc=5",
+   "published": "Sun, 01 Nov 2026 21:11:43 GMT",
+   "summary": "Trump says US, Canada have 'concept' of a new trade deal&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
@@ -6915,7 +6915,7 @@
    "module": "海外媒体RSS",
    "category": "其他",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6927,7 +6927,7 @@
    "module": "航运物流行业",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 1,
+   "content_attempts": 2,
    "content_status": "bot_wall"
   },
   {
@@ -6961,6 +6961,16 @@
    "priority": 2
   },
   {
+   "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal - PBS",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdDTGJYWklRa09zNVZrZGpGa3ptMkN6eTBVbGw5V01RVl9VTktCMVNpSmFFWGR5YWJpUkJmQVUxeUNTSm5tYlJvQ05SNTFUQVZ3Z1NfbE9UVmQydDZ5LTk2YS12S3R3VzY2cHptSktvaUdmR3FOamhENFY5bG1LOFRVQzdGV09iY2Y1VGZ5Vi1oQThBWVQ4Q3V5aG9tajNZXzBwSVBOaTVKd1ZVazhHYkxCb09wVFd2OHlzeE1wSS1fTXJXNlNlaDRuanhwUdIB0wFBVV95cUxOTHBudWVpLWJfSkQ5RkJiay1FeWRtYzJmUnpRMEFzeXZzWlZqcDBqOUNmcE05cm54cnNhU0EwU2prTXg1Ml9tdUdlcGxHbWhXZXliZVV2WjZYWDlGSHVBcG1HNTVuUG1XX3F0a3FwWWQ3NFdDaG1FanlCbFcyT3dlTzZhRGx6TWJpZGxZbWJuVVctQ2tOdjl6NWc5enMwWm9EOWNxcjdYU2xXdU03YVBRa2RWblBkclF4RzNSMGV1MFNHQWxQUm81SmlvX0pGWE9MVW84?oc=5",
+   "published": "Sun, 01 Nov 2026 18:00:43 GMT",
+   "summary": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal&nbsp;&nbsp;PBS",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "Everything changed for the oil, AI and bond trades over the past month",
    "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
    "published": "Sun, 01 Nov 2026 15:58:24 GMT",
@@ -6985,6 +6995,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "Carney says Canada won't rush a U.S. trade deal, even if it means waiting - Briefs Finance",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjl5RmswV1BwYzExcmFZdjNxcU5MQmRjYTdFUkxPelNpdktld0J0bGlqVi1ESktSTjY4Ml9RZkoybmlBMTBJTVIwMm5MOUdjUjNXU1VxLWNCZy1pU1RKdjhJWFFoRlBVaWRxcjJvUnJ4c2JJZ1BSMnlFdTdaTzlfcXd0UEc2QTVVbGlJeEd2b09Vdw?oc=5",
+   "published": "Sun, 01 Nov 2026 15:05:57 GMT",
+   "summary": "Carney says Canada won't rush a U.S. trade deal, even if it means waiting&nbsp;&nbsp;Briefs Finance",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
+  },
+  {
    "title": "Communist Party pledges to reach deeper into China’s tech, digital platform sectors",
    "link": "https://www.scmp.com/news/china/politics/article/3372899/communist-party-pledges-reach-deeper-chinas-tech-digital-platform-sectors",
    "published": "Sun, 01 Nov 2026 15:00:10 GMT",
@@ -7007,6 +7027,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "SPECIAL REPORT-Iran’s hidden web of military agencies is slipping hardware past the US blockade - Devdiscourse",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd2NScFU3X2RzM1BNeVRIaXA1bTlrdE1qd2F2bVlVd2lTM1lzakp2OUlka21ITklNQS1UMWhIc2lwVjBxbGxOTUtOeHJtaGNubk9UMjN1U3lDVWpmOVRpYThIMkhVSEtnb2g5V1FodUxPM0NKMVlUc1AwVFJPeUxpYXJiVjJaY2YwaXNBWktzV2JndHl5anNIa19YNmtJdUdCMDBvZFBiOENyOWxhay1lTlpTOG1KUnNJX3g5NU9tdS1ZM19GNEFPTGJTei1URVhUZ0pfWDBxSTgzWE1CdmthRnJhc1N5OHJybFA5dWdn0gHuAUFVX3lxTE93Y1JwVTdfZHMzUE15VEhpcDVtOWt0TWp3YXZtWVV3aVMzWXNqSnY5SWRrbUhOSU1BLVQxaEhzaXBWMHFsbE5NS054cm1oY25uT1QyM3VTeUNVamY5VGlhOEgySFVIS2dvaDlXUWh1TE8zQ0oxWVRzUDBUUk95TGlhcmJWMlpjZjBpc0FaS3NXYmd0eXlqc0hrX1g2a0l1R0IwMG9kUGI4Q3I5bGFrLWVOWlM4bUpSc0lfeDk1T211LVkzX0Y0QU9MYlN6LVRFWFRnSl9YMHFJODNYTUJ2a2FGcmFzU3k4cnJsUDl1Z2c?oc=5",
+   "published": "Sun, 01 Nov 2026 13:38:25 GMT",
+   "summary": "SPECIAL REPORT-Iran’s hidden web of military agencies is slipping hardware past the US blockade&nbsp;&nbsp;Devdiscourse",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "航运物流",
+   "priority": 2
   },
   {
    "title": "Brazil Shakeup Sounds Warning on Crowded Emerging-Market Trades - Bloomberg.com",
@@ -7053,6 +7083,16 @@
    "content_status": "bot_wall"
   },
   {
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "published": "Sun, 01 Nov 2026 12:00:00 GMT",
+   "summary": "The US-China trade war seems to have subsided – but the sense of calm is misleading&nbsp;&nbsp;The Guardian",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
+  },
+  {
    "title": "China's BYD extends sales growth streak on strong exports - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS21scll6NjBGOTVLUm15YmNsNE9saEN4SE1oLU4zV0VCWFA3dWlVV0tHM09hcUtKMmdsOGVHZGtSVzNvenVmRndlMml1eHVSUzBsR0JPNFI3SjVTdFRncURKX1RRdV95T2s3bzdKMmFtNUNNalVzaTNpdkpzYVZoVHVBYTItSWV1VXpmVTdZRmZyN3NZQnExcnlpYmlCTmNMQ3cxQVRwSE9oODJsLUF6Q0xfMk1JZy1VTWpF?oc=5",
    "published": "Sun, 01 Nov 2026 11:39:44 GMT",
@@ -7087,6 +7127,16 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlgwM1BTdFFYWEpXTFJSYldnNmJCTGstcFQ4SWZGODhfWDRacXlLM2tTNzZ0cWlyMXpOX1pnNDJPeEszQzF2cTEyRTRfM1o1MGl3ek1DTXBQaVZGeHRhNzNUSHJzTUdXR0FnczdOaGlaYmNYQzNLWVFfaXByUl9lU2hvWTVIZ3RIVzN6STVR?oc=5",
    "published": "Sun, 01 Nov 2026 11:04:54 GMT",
    "summary": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks&nbsp;&nbsp;Yahoo! Finance Canada",
+   "source": "Google News | US Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
+  },
+  {
+   "title": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks - Devdiscourse",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS3NqUnhnaVlHMm14YU9HeFZkVGJBaW56V0RNQlBmeTMxVE1VanJ0MkZacTE1VWlMZlY4QkFMdGdoWkdNbVV5V00xX2hzUjNxOFhjbjJnQ2Y0UjBaRVQwYjZkQlBTdjhhS0ZId2JLMlY3Sk5ocUxuRVlQWlphYWh2aXFUdWVzV2l4ZGZ1V1dKejZVa0t6eU0yX0RJVG1MczdNM05ydDl6eThLTzBRd3R1cUV5UTQ0UjhqTnJUNDdPWGZjamNYb29vZlEwSWVXa1hhZGN0QjZRMTAzanFrdlRDcXBmWTnSAeQBQVVfeXFMT0tzalJ4Z2lZRzJteGFPR3hWZFRiQWlueldETUJQZnkzMVRNVWpydDJGWnExNVVpTGZWOEJBTHRnaFpHTW1VeVdNMV9oc1IzcThYY24yZ0NmNFIwWkVUMGI2ZEJQU3Y4YUtGSHdiSzJWN0pOaHFMbkVZUFpaYWFodmlxVHVlc1dpeGRmdVdXSno2VWtLenlNMl9ESVRtTHM3TTNOcnQ5enk4S08wUXd0dXFFeVE0NFI4ak5yVDQ3T1hmY2pjWG9vb2ZRMEllV2tYYWRjdEI2UTEwM2pxa3ZUQ3FwZlk5?oc=5",
+   "published": "Sun, 01 Nov 2026 11:00:32 GMT",
+   "summary": "Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks&nbsp;&nbsp;Devdiscourse",
    "source": "Google News | US Trade",
    "module": "海外媒体",
    "category": "美国关税",
@@ -7213,6 +7263,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "US Trade Rep Greer says tariff policy 'hasn't changed' despite SCOTUS ruling - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdS1kSUdLMVlCZjZOT2YxYjVPMVlrVlZjb2pLRk42ZzVXdEsxZlAtcTIxM2FXS2NkMl9FOUVNYU1UaXdRblhCVEJCZzk5SEhuMWJvNThLem50empkS3pyVGNVUy1hLXF2MmhRNFg4ZGpLcFhWLUtKSGI1VzBwNFV4STFFcERCNXh6OTBhakxNXzJqTmdOVEdLU2hR0gGfAUFVX3lxTE9BLWdtYzR4aWs0NHhrazhZUW9ZcUY1SndkYkJxV1JKeHVySm9NWjItUzdMdVh1VzlMWXV3bnFVRDZCVUdMcmwwU2NBMFU0SFJfMEdFT3RyOW4yQzBLTG43Rk1XeWpxODRkVnh1NDJ0b0FBcHdMbU5ERHdXZmlGZENTVVhZVEhoWTc0LUZ4a3ViWVVOM3poektYLWRXRTgyWQ?oc=5",
+   "published": "Sun, 01 Nov 2026 07:23:11 GMT",
+   "summary": "US Trade Rep Greer says tariff policy 'hasn't changed' despite SCOTUS ruling&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "美国关税",
+   "priority": 2
   },
   {
    "title": "United Kingdom Tomatoes, fresh or chilled imports by country - WITS (World Integrated Trade Solution)",
@@ -7401,6 +7461,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "A Trump-Xi Deal Could Revive US Energy Exports to China - EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2VaaVNJRnN6RnhWM2U0cFI2MGg2VDNLVUEzS0daemVkTjc4WGIxRDI3Y2dvMTN5clRlaC1CTjNHdUJndmtsTnZVcFBvZnhZaTJRYjN1d2FqZ1MxY2o2M2VsaXhLWmVlWDJuVy1ERWowZWd2Q1JGOTNQUWhDR1VYWFJDeEFxTzJwZDdCQVZKQQ?oc=5",
+   "published": "Sat, 31 Oct 2026 21:55:27 GMT",
+   "summary": "A Trump-Xi Deal Could Revive US Energy Exports to China&nbsp;&nbsp;EnergyNow.com",
+   "source": "Google News | China Trade",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 2
   },
   {
    "title": "Canada advancing its 'middle power' strategy with new trade deals, Anand says - Reuters",
@@ -9264,186 +9334,120 @@
    "priority": 2
   },
   {
-   "title": "Singapore and the Kingdom of Saudi Arabia announce joint intent to establish a crude oil storage arrangement in Singapore - Ministry of Trade and Industry",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUzI4OWJMMTdLOEt5NnpENnBKR3MycW9iZUN5UkgxNGw2c21MSzhSWjk0US1vWVFSYnE2Y3liZHhIQWQ2dmdraENQWTZoNi1MQzlGazMtUEV1T3ItbUtoZ2gxSGlZVVVhY1N1MVdDbUY4V3pkMl9zTVRKQ2s2N3lQMWx5Wlh0N3BNMDc5VlFtaURfVHZtT1dkXzdlZFpvQ1ZJck5SOFpZLVNaQ2dPMHRWVXRxTzdwd3BnYV9ma1ozcVdKWXgyNk80djRQU2JYQk5rbXpIRzd5TWs1b0dwZlB1TmtwTmtfOUpQUFE?oc=5",
-   "published": "Mon, 26 Oct 2026 03:35:45 GMT",
-   "summary": "Singapore and the Kingdom of Saudi Arabia announce joint intent to establish a crude oil storage arrangement in Singapore&nbsp;&nbsp;Ministry of Trade and Industry",
-   "source": "Singapore MTI | Trade",
-   "module": "亚太官方",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Soybeans Hit 2-Month Low as Lula’s Win Lifts China Trade Outlook - Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xRzBCWDV2YjNuSE5WdF8yYXNSSTg0RHJCM3lFUXQwd1VMZF9fcUduQk1pX2hOekJlbzFGTl9PSVRCOWlReGFZR3ZOMUptcGtMRHNDY3VidGhBcVhpVHRYdDBObHpEOFIwNVJPOUQ3bmhhVTNQNzI0U1pvN3JQUQ?oc=5",
-   "published": "Mon, 26 Oct 2026 03:18:00 GMT",
-   "summary": "Soybeans Hit 2-Month Low as Lula’s Win Lifts China Trade Outlook&nbsp;&nbsp;Yahoo! Finance Canada",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "100 million views: why China’s viral AI rap track has struck a chord",
-   "link": "https://www.scmp.com/news/china/article/3372086/100-million-views-why-chinas-viral-ai-rap-track-has-struck-chord",
-   "published": "Mon, 26 Oct 2026 03:00:24 GMT",
-   "summary": "An AI-generated Chinese rap song featuring some of the country’s most well-known historical figures has taken social media by storm.\nTitled “The One Who’s Been There” (Guo Lai Ren), the track crossed 100 million views across platforms in less than two weeks as it tapped into the anxieties of modern life.\nThe song brings together 10 iconic figures from Chinese history and mythology – from revered poets and statesmen to the legendary Monkey King. Rather than reciting classical verses or lecturing...",
+   "title": "China’s fifth plenum readout",
+   "link": "https://www.scmp.com/plus/news/china/politics/article/3372928/chinas-fifth-plenum-readout",
+   "published": "Mon, 02 Nov 2026 03:29:22 GMT",
+   "summary": "This article is the official English translation of the original Chinese document released by Xinhua.",
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 2,
+   "content_attempts": 1,
    "content_status": "bot_wall"
   },
   {
-   "title": "Effectiveness of Section 232 on Steel Products: Nucor’s Perspective - Opportimes",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3pOLU1ack5sN1VqVjZZX3Y5cm1vYUcwTGRWOEtDZ2R0YS13TU15ZzJjTUNhXzFvbEVsQm53Ul9icnpOdFhvQ0NubHN2cVg3WU9haUV4c1R3ZzFEUlJsYzFYLW4tN1puYVR6TURhd20teWFUeE1YN0ticDhKRkxabkRhMlJ0TmM4d2tIbG05ZVlSNzhUOWFEWWhMTlE?oc=5",
-   "published": "Mon, 26 Oct 2026 02:43:52 GMT",
-   "summary": "Effectiveness of Section 232 on Steel Products: Nucor’s Perspective&nbsp;&nbsp;Opportimes",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "美国关税",
-   "priority": 2
-  },
-  {
-   "title": "Weapon or armour? The contentious debate over China’s open-weight AI",
-   "link": "https://www.scmp.com/tech/tech-trends/article/3371961/weapon-or-armour-contentious-debate-over-chinas-open-weight-ai",
-   "published": "Mon, 26 Oct 2026 02:00:12 GMT",
-   "summary": "Are China’s increasingly powerful open-weight AI models a cybersecurity threat, or could restricting them ultimately make the internet less secure?\nThe dilemma has become a growing concern as Chinese developers including DeepSeek, Z.ai and Alibaba Group Holding – owner of the South China Morning Post – continue to challenge their American rivals by releasing models that anyone can download, modify and deploy.\nThe growing impact of advanced AI on global cybersecurity has also forced governments...",
+   "title": "Ex-Kissinger partner on how China, US can evolve together or die together",
+   "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3372921/ex-kissinger-partner-how-china-us-can-evolve-together-or-die-together",
+   "published": "Mon, 02 Nov 2026 03:05:02 GMT",
+   "summary": "Joshua Cooper Ramo is chairman and CEO of Sornay, an investment and advisory firm. Previously he was CEO of Kissinger Associates. Ramo is the author of the new book Darwin’s Lock: America, China and the Shared Future of Nations. His 2004 analysis of “the Beijing consensus” contrasted the Western and Chinese economic development models. He is the author of two New York Times bestselling books and now lives in Shanghai with his family.\nFor other interviews in the Open Questions series, click...",
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 2,
+   "content_attempts": 1,
    "content_status": "bot_wall"
   },
   {
-   "title": "[Jung Inkyo's Trade-Off] Trump's Russian Diesel Deal Undermines Trust in Multilateral Economic Sanctions - 아시아경제",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96RlZhQTlyNHBDR1hsWkdPMzJfUFMwQlFuQ1dwVE11SjhINU04SnFYM3RoeXpZS1RyVlJkS2NxdjNjWl9jQ0JDVkE0Q2gyWTZ6SnBQck1TYVdrcG1GelI4QjhNeHU?oc=5",
-   "published": "Mon, 26 Oct 2026 02:00:00 GMT",
-   "summary": "[Jung Inkyo's Trade-Off] Trump's Russian Diesel Deal Undermines Trust in Multilateral Economic Sanctions&nbsp;&nbsp;아시아경제",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Lula Wins Brazil’s Runoff: Will Trump Escalate Tariffs and Sanctions? - Diplomacy and Law",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91UFlteXdRbnduOC1rQnRMZ0xLSnp3dDUxWFRDZnlGbHoteU01N2RReUk4UXZYZGN0akp6bWdyaDZfZWVvVHhUOWhkZlJCajlzSWZiYnJHZmR1RFhnVVJvOXJYdw?oc=5",
-   "published": "Mon, 26 Oct 2026 01:31:03 GMT",
-   "summary": "Lula Wins Brazil’s Runoff: Will Trump Escalate Tariffs and Sanctions?&nbsp;&nbsp;Diplomacy and Law",
-   "source": "Google News | US Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "CEVA Logistics and Zalando advance AI-powered warehouse robotics",
-   "link": "https://container-news.com/ceva-logistics-and-zalando-advance-ai-powered-warehouse-robotics/",
-   "published": "Mon, 26 Oct 2026 01:30:49 GMT",
-   "summary": "CEVA Logistics and Zalando are collaborating with Sereact, NVIDIA and Nebius on an artificial intelligence training system designed to improve robotic handling of e-commerce returns and accelerate the development of automated warehouse operations. Announced on October 22, 2026, the initiative introduces a closed-loop training process for Cortex, Sereact&#8217;s robotic AI system, combining real-world warehouse data [&#8230;]\nThe post CEVA Logistics and Zalando advance AI-powered warehouse robotics appeared first on Container News.",
+   "title": "Everllence appoints Fabian Kley as new CFO",
+   "link": "https://container-news.com/everllence-appoints-fabian-kley-as-new-cfo/",
+   "published": "Mon, 02 Nov 2026 03:00:43 GMT",
+   "summary": "Everllence has appointed Dr Fabian Kley as Chief Financial Officer (CFO) and member of its Executive Board, effective 1 November 2026. Kley has already led the company&#8217;s Finance division since March 2026. He will now formally assume the CFO position following a decision by the Everllence Supervisory Board. He joined Everllence in 2019 and has [&#8230;]\nThe post Everllence appoints Fabian Kley as new CFO appeared first on Container News.",
    "source": "Container News",
    "module": "航运物流行业",
-   "category": "跨境电商",
+   "category": "其他",
    "priority": 2,
-   "content_attempts": 2,
+   "content_attempts": 1,
    "content_status": "bot_wall"
   },
   {
-   "title": "China shoots ahead on AI video models",
-   "link": "https://www.scmp.com/plus/tech/big-tech/article/3371915/china-shoots-ahead-ai-video-models",
-   "published": "Mon, 26 Oct 2026 01:06:01 GMT",
-   "summary": "While few dispute that China is narrowing the gap with the United States in developing artificial intelligence (AI) models, there is one area where Chinese firms are already the undisputed leaders: video.\nChina has seen a proliferation of advanced generative AI video models – systems trained on visual data to generate or edit video content based on user inputs such as text prompts, images and audio.\nThe country’s vast short-video ecosystems and looser copyright rules have helped give Chinese...",
+   "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+   "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+   "published": "Mon, 02 Nov 2026 02:58:53 GMT",
+   "summary": "OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "航运物流",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
+   "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
+   "published": "Mon, 02 Nov 2026 02:39:35 GMT",
+   "summary": "The remarks come as reports suggest that both sides are gearing up for additional military strikes after the U.S. midterm elections.",
+   "source": "CNBC | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Returning to Suez, Iran blacklists Sinokor - Maritime in Minutes Oct in review",
+   "link": "https://www.seatrade-maritime.com/security/returning-to-suez-iran-blacklists-sinokor-maritime-in-minutes-oct-in-review",
+   "published": "Mon, 02 Nov 2026 02:10:38 GMT",
+   "summary": "A round-up of the top maritime and shipping stories in October on the Seatrade Maritime Podcast",
+   "source": "Seatrade Maritime",
+   "module": "航运物流行业",
+   "category": "航运物流",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "error"
+  },
+  {
+   "title": "CU Lines adds Duqm to China–Gulf Express service",
+   "link": "https://container-news.com/cu-lines-adds-duqm-to-china-gulf-express-service/",
+   "published": "Mon, 02 Nov 2026 02:00:58 GMT",
+   "summary": "CU Lines has added Duqm, Oman, to its China–Gulf Express (CGX) service, according to DynaLiners. The carrier introduced the new call earlier this month. Duqm replaces the service’s previous call at Sohar. The CGX service operates once every three weeks. Its revised rotation is: Qingdao – Ningbo – Shenzhen (Shekou) – Nansha – Port Klang [&#8230;]\nThe post CU Lines adds Duqm to China–Gulf Express service appeared first on Container News.",
+   "source": "Container News",
+   "module": "航运物流行业",
+   "category": "中美经贸",
+   "priority": 2,
+   "content_attempts": 1,
+   "content_status": "bot_wall"
+  },
+  {
+   "title": "Apec China summit: from traffic curbs to tree planting, Shenzhen’s plans enter final phase",
+   "link": "https://www.scmp.com/news/china/politics/article/3372880/apec-china-summit-traffic-curbs-tree-planting-shenzhens-plans-enter-final-phase",
+   "published": "Mon, 02 Nov 2026 02:00:10 GMT",
+   "summary": "Construction workers have been working late into the night in downtown Shenzhen as the city makes its final preparations for the Asia-Pacific Economic Cooperation summit in two weeks’ time.\nOn a weekday night, a South China Morning Post reporter saw at least 50 construction workers gathered at an intersection about 1km (just over half a mile) from the Apec venues in the central district of Futian, laying down pebbles and planting trees along the pavements.\nThe main road that leads up to the...",
    "source": "SCMP | China Economy",
    "module": "海外媒体",
    "category": "中美经贸",
    "priority": 2,
-   "content_attempts": 2,
+   "content_attempts": 1,
    "content_status": "bot_wall"
   },
   {
-   "title": "Trump says Canada tariff deal coming ‘soon’ at Michigan border rally - The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUURRQUdRSWozSXU2MFlNdnJCUEV2OFREcGlDdlZISmRtY2ZmWEJBZjYyMlZqVC1uWWUtTmxDakx0OHhCajZBN3ViaU5haTctMDF5U3BpemNiV1Z1aUdZVjBNOExLZUlYaWQ5eVhGVEd4QkJ2a1NacXppRVBMdThxVWdYSXJ0c0xLRzFhajdsLTZDb3FKakJ1ZjlpRkI2cUVKOFM1WFg0Mm5UT1ExcURILUl3YURFZw?oc=5",
-   "published": "Mon, 26 Oct 2026 00:58:00 GMT",
-   "summary": "Trump says Canada tariff deal coming ‘soon’ at Michigan border rally&nbsp;&nbsp;The Straits Times",
-   "source": "Straits Times",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war - CEPR",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5",
-   "published": "Mon, 26 Oct 2026 00:45:00 GMT",
-   "summary": "Washing away the US: Tariff evasion on the other side of the US–China trade war&nbsp;&nbsp;CEPR",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "Falling exports to China take a toll on US businesses, jobs - Asia News Network",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVGVkWW9NbFkwT2JIcWFoV1c3RFpmSG1ZaWxhYUV4anFwYTFBSFRuekZfeVpsbUJFcHhxdGVIMWliVG8zeDdwV3c3Qmx4SGxTZl9YcUVYTkdydl83SjNKT3EyWkp5WG92RVVWYjlQS1d5dFJMSG9ocE5aUEJEcnhmam1GMU1ZT1lpZl9hRg?oc=5",
-   "published": "Mon, 26 Oct 2026 00:44:15 GMT",
-   "summary": "Falling exports to China take a toll on US businesses, jobs&nbsp;&nbsp;Asia News Network",
-   "source": "Google News | China Trade",
-   "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2
-  },
-  {
-   "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-   "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-   "published": "Mon, 26 Oct 2026 00:37:51 GMT",
-   "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
-   "source": "CNBC | RSS",
-   "module": "海外媒体RSS",
-   "category": "其他",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTJ4MWVBeEtEdjR1T3U3TDJvZnFSd1UtTVJ5RFljSG90MUs3OW0xRUFTZ2p3T3FjRGZINFUzY1Qwa2MyZWZ3cmlYbkQwd09xTzF1cEdZSFkzTHdpNGhaNno5bW13RXdmaldaSlpBYTN4djJnTUF0YXRsX0ZaX0FQYXlfQnBWSzU4bWJweC1CcjNPNGVKNV9MMHhqTdIBoAFBVV95cUxNOExaVU8tRkNSSVpLS19wVmxBMzl3a2tvYVJfQy1PTzBoTUlGc21yQ2pHNWpnSWxxN1IzN0RiSHZROFBqNFlTR2dfeS11T1BWMUxKMktpMHVlbFRmTjVGdmxqbFBBeUJHelM0eU8tSWQyRDhEVGc3cmdnbGxlSDVDbE1hc3BqNUlNUktNUUR5SGNNT3poc1k4QUxOczJNNm5j?oc=5",
-   "published": "Mon, 26 Oct 2026 00:37:00 GMT",
-   "summary": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says&nbsp;&nbsp;CNBC",
-   "source": "CNBC | Tariff/Trade",
-   "module": "海外媒体",
-   "category": "其他",
-   "priority": 2
-  },
-  {
-   "title": "Lula pulls off Brazil’s first-ever run-off comeback to beat Trump ally Flavio Bolsonaro",
-   "link": "https://www.scmp.com/news/china/article/3372099/lula-pulls-brazils-first-ever-run-comeback-beat-trump-ally-flavio-bolsonaro",
-   "published": "Mon, 26 Oct 2026 00:30:22 GMT",
-   "summary": "Brazilian President Luiz Inacio Lula da Silva won re-election on Sunday in a dramatic comeback after trailing in the first round, extending the rule of a government that has overseen record Chinese investment.\nThe Superior Electoral Court said Lula had 51.79 per cent of valid votes against 48.21 per cent for right-wing Senator Flavio Bolsonaro, with 99.99 per cent votes counted. No candidate who trailed after the first round had won a run-off since Brazil adopted the system in 1989.\nAddressing...",
+   "title": "Why reforms alone won’t prevent a repeat of Tai Po fire",
+   "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3372734/why-reforms-alone-wont-prevent-repeat-tai-po-fire",
+   "published": "Mon, 02 Nov 2026 01:30:09 GMT",
+   "summary": "In the end, it was Winnie Ho Wing-yin, housing secretary at the time of the Wang Fuk Court fire in Tai Po, who took the rap. Her resignation came after weeks of talk within political circles suggesting that bureau chiefs would not have to bear responsibility for the tragedy that killed 168 people and displaced 1,984 families.\nThese suggestions were met with shock. Some spoke out against such talk, including Andrew Fung Wai-kwong, former information coordinator for the Chief Executive’s Office,...",
    "source": "SCMP | China Economy",
    "module": "海外媒体",
-   "category": "中美经贸",
-   "priority": 2,
-   "content_attempts": 2,
-   "content_status": "bot_wall"
-  },
-  {
-   "title": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
-   "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
-   "published": "Mon, 26 Oct 2026 00:28:36 GMT",
-   "summary": "Jim Cramer remembers Cliff Mason, the head writer of \"Mad Money,\" who died last week at age 41.",
-   "source": "CNBC | RSS",
-   "module": "海外媒体RSS",
    "category": "其他",
    "priority": 2,
-   "content_attempts": 2,
+   "content_attempts": 1,
    "content_status": "bot_wall"
   },
   {
-   "title": "US Tariffs Push New Zealand Dairy Exporters to Diversify Markets - Dairynews.today",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVFBRGJiQVQ2YkRPTndLM3g5R0FjMjFjS3psMnhqMHNNMFk4eWhuZGlzNkpiNlAySWg5ZHh0NE8wZTRyX3RIQktpNExySHNpRmpFRnFSUFp3Rnh0dEVZbTc0Rld1TjY1djBVdFdQWlBsT0UwZjJQamVPODJrazZYUzFkVm5xd3N2U0l4V3VMdmI0NjFmRW1IT0RXVFhEY0FvV0E1QlhPNUI3UQ?oc=5",
-   "published": "Mon, 26 Oct 2026 00:15:48 GMT",
-   "summary": "US Tariffs Push New Zealand Dairy Exporters to Diversify Markets&nbsp;&nbsp;Dairynews.today",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
+   "title": "Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTUJxSGZ6aEZSWjV4VHFHeVBzTXMxVDFKcEg5OG1sbEdjTkliSDZSS2NvYmlRbUxfQks0eUVUbjJRSktzZVFqWnZTWlplTHM5YjVnUkNESHd4ZmgyRk5ib2lHdlNKYlZlQ3VqUHdvcHZvMjAzYXE2NDZLbnFnel9CZ1FoSHI5Nk1zY3NiTy1tSjhrZ1hZdVRnNVB3eHBfVUticXc1ejZ2cWlhUjR6ajRhTGRsVWVDVV9I?oc=5",
+   "published": "Mon, 02 Nov 2026 01:02:00 GMT",
+   "summary": "Tesla, Samsung oppose new US tariffs on Vietnam as probe deadline nears&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
    "category": "美国关税",
    "priority": 2
   },
@@ -9534,6 +9538,16 @@
    "priority": 2
   },
   {
+   "title": "North Korea says sanctions don't work to deny its status as nuclear weapons state - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVo5aGdRLXQ0a3ltRnJzMUVTRjBjNUJKNW5fWGxtTmh2NEVMZ0ZUUTRqSktEeXotdkNNWk9TS2ExREYtQWZmdFVZUV9MWUZVaGNIaVk0RXJtdXk0LXN5V29CNmY3ME54ZkRueXh5YzB4OXVEakVOYUVBSlFzaVUtV3hBLVZ0WnNHSmwwcGd4ZHJmVzFwR2VPMndoZGxObmtQRVJxM3dEZmdobnlWOGpCYjEwNFRrTERnUFd5S2NEcVhITjFxSndtaw?oc=5",
+   "published": "Fri, 30 Oct 2026 21:44:09 GMT",
+   "summary": "North Korea says sanctions don't work to deny its status as nuclear weapons state&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "亚太动态",
+   "priority": 2
+  },
+  {
    "title": "The flaw in Australia’s ‘China threat’ thesis",
    "link": "https://www.scmp.com/opinion/asia-opinion/article/3372519/flaw-australias-china-threat-thesis",
    "published": "Fri, 30 Oct 2026 21:30:08 GMT",
@@ -9576,6 +9590,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "Intel on course for worst day ever, triggers global chip rout - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2NqOERFZ1pGS25NV2RwTVlCSUVMbXdBQ0QxRzlmWTdWd3EzT2N6YUo4QVNHanQwUC1aRHdqcmtOeWdDUGpQcTg1X1pFWDdydHhyQWUzNnVUQk9Tc3h1Z29WbWxHa1VFZmdod3Z6bG1LNzkwQ3h2a3ZHdlA5cEF4X3d6LVdCUEVEc0RkVTNYcG5IQmlZcy10cmhDSmxDcndVeGFtUURSOXc?oc=5",
+   "published": "Fri, 30 Oct 2026 20:50:09 GMT",
+   "summary": "Intel on course for worst day ever, triggers global chip rout&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
   },
   {
    "title": "Kazakhstan Bananas, including plantains, fresh or dried exports by country | 2025 | Data - WITS (World Integrated Trade Solution)",
@@ -9635,6 +9659,16 @@
    "source": "Google News | China Trade",
    "module": "海外媒体",
    "category": "中美经贸",
+   "priority": 2
+  },
+  {
+   "title": "Evonik rejects BASF bid despite sweetened $12.5 billion terms - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTRqSW93Q2hhVE5ZQmFNXzZqTi1tbWRCT3Vab1BOWkxQeHlTVGRNZXFkOFlxandocDhZRy1mOHpQbEJmQkViQ2VYRWtRVk1SUjZhRTVBdUxGck9MM3VSNkFsWWdDc0lLVThnUWYtN0E0RXUtcm9fX3ZfQVNQTmd5TjZjaF8xeWszWVd2SVczbUZUN3Q5Ni1GV1h6ZjBfSkE?oc=5",
+   "published": "Fri, 30 Oct 2026 19:04:12 GMT",
+   "summary": "Evonik rejects BASF bid despite sweetened $12.5 billion terms&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
    "priority": 2
   },
   {
@@ -9754,6 +9788,16 @@
    "priority": 2,
    "content_attempts": 2,
    "content_status": "bot_wall"
+  },
+  {
+   "title": "Air Force One flyover for White House Halloween event causes flight delays - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEttMHpKVWpJQ1Bna1dmd1pKY0JTM0pCbUZudEJ0eThrSWhKckFmTWNGblZMM0hxNXJCUkdEa2V6VzAtUzA0R3FnUWFiSTNuRWdzOWU2eC1LSFN1cnltTHppRkp0UW1vNGJTZm0tNnlabTlvMjJYMzFFMlN2NkVIb1lCek9uUmxDYzIwcUhidkpYcGtBQmt1MzFtRDZERGV4OXZ1THpYeVpRWHpDblN4ak4wbTBZcFkwbW9ZeFViYmxFWVEwczk2THBsX1lPUQ?oc=5",
+   "published": "Fri, 30 Oct 2026 16:30:09 GMT",
+   "summary": "Air Force One flyover for White House Halloween event causes flight delays&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "其他",
+   "priority": 2
   },
   {
    "title": "What the shrinking US port budget says about the contest with China",
@@ -10046,6 +10090,16 @@
    "source": "Reuters | Trade/Tariff",
    "module": "海外媒体",
    "category": "其他",
+   "priority": 2
+  },
+  {
+   "title": "China's CXMT reports quarterly profit after Asia's biggest IPO this year - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzBWcFZ0YVExMFpoc3A4QkhtX1oxQkREcnl0M3ZaOGFieU91OXpxN1p6T2RtOTJHazcxNjBXOHc5dlNOTzBuRFZnQzZleHNuUk54TmRBYTdIZ1ZnU0NFaEpPME94bklrRFR5dFBhczR5UnZhVFVMbmFZckZlZk9nQWw1NllweW9kbXBma1lHc0F1TW5SUFZIcGdabWw5ekVhMjhLbmxqbEZNbzQ?oc=5",
+   "published": "Fri, 30 Oct 2026 12:43:37 GMT",
+   "summary": "China's CXMT reports quarterly profit after Asia's biggest IPO this year&nbsp;&nbsp;Reuters",
+   "source": "Reuters | Trade/Tariff",
+   "module": "海外媒体",
+   "category": "中美经贸",
    "priority": 2
   },
   {
@@ -13331,6 +13385,26 @@
    "priority": 1
   },
   {
+   "title": "Trump says US-Canada trade deal is close after talks with Carney - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHhZUXZHR1FtbElfejJHa3R1N3JDMkhHSTFGZHI2b1RQU2dHcGFieVRiVWEzMTl1TlJPcFV4ZWFHNDRXQWR4NFdmeFl4ZElUdE1XUFpUNkl0SmQyYXlla3pUX3U0T0s5MFFXa0tnTVlHaGNmNUdhQ0M0ZTJDRHdrMVRjOS0yMlV6M2hUdkQyRk5UVEdNbDF5M3hEOEdNWXlNeklHdzlIVW9KLU5SLWp6UG8xNA?oc=5",
+   "published": "Sun, 01 Nov 2026 23:13:00 GMT",
+   "summary": "Trump says US-Canada trade deal is close after talks with Carney&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
+   "module": "海外媒体",
+   "category": "中美经贸",
+   "priority": 1
+  },
+  {
+   "title": "Vietnam-EFTA trade agreement opens new doors after 14 years - Vietnam+ (VietnamPlus)",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjEtVUJsUG1SSS1NN0RJM0sxMmhEUEJrUXRfMFFWaV9xTEIxTzRCSkp3c1ZvdFpiRE1HQzZ3QjAzcmJLQWRKTDN3VDBncXBCUXV3NlA0N0FTYzRLQUZZZjhScUZjNUNCaDBSUS1mOWpZMWRNaE8xanFzQUVkSkJSOHgwVzB3R2k5OTV5R0lkQ055TGgzZERIM2hkbVFGemFDb1E?oc=5",
+   "published": "Sun, 01 Nov 2026 23:00:00 GMT",
+   "summary": "Vietnam-EFTA trade agreement opens new doors after 14 years&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
+   "source": "Vietnam Plus",
+   "module": "海外媒体",
+   "category": "亚太动态",
+   "priority": 1
+  },
+  {
    "title": "Tens of thousands protest in India's capital against voter roll revision",
    "link": "https://www.bangkokpost.com/world/3346541/tens-of-thousands-protest-in-indias-capital-against-voter-roll-revision",
    "published": "Sun, 01 Nov 2026 19:45:00 GMT",
@@ -14311,23 +14385,53 @@
    "priority": 1
   },
   {
-   "title": "[Next FTA] 1: K-Food Exports Hit Record High... 'FTA Partners' Account for 82% of Exports - 아시아경제",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fak5rbDRaMnNTbndVQnNfOHBLR2pubms5dWJJaVNZTC1uZGF0d3kyU3V6c1ZpUjVRV1o3T0ZqRHltcTFNZWs1ekZ5dWdDMmVLa0ljdTBzY1RHbXlNOW1SVnZkeGw?oc=5",
-   "published": "Mon, 26 Oct 2026 02:54:01 GMT",
-   "summary": "[Next FTA] 1: K-Food Exports Hit Record High... 'FTA Partners' Account for 82% of Exports&nbsp;&nbsp;아시아경제",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "航运物流",
+   "title": "(URGENT) Lee pledges focused investment for youth, regional development, education",
+   "link": "https://en.yna.co.kr/view/AEN20261102002500315",
+   "published": "Mon, 02 Nov 2026 10:12:00 GMT",
+   "summary": "(END)",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
    "priority": 1
   },
   {
-   "title": "Hyundai Glovis Teams Up with Shopee to Offer One-Stop Logistics for K-Beauty Exports to Southeast Asia - BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyX0Q4dG1mRHFCeFJHTEpBalJwbjBGMy1HSVdoQjZxSHBFbm9MeG9CMHZTUzZzbGxrYTFRdGFUSlZwQzIxR3U3WTBCX2VQX0Zjd0dGamFwWk1xaU91eFFoSGQzdFBzM1h4WS1BUV9ONU51RGpEcWc?oc=5",
-   "published": "Mon, 26 Oct 2026 01:05:00 GMT",
-   "summary": "Hyundai Glovis Teams Up with Shopee to Offer One-Stop Logistics for K-Beauty Exports to Southeast Asia&nbsp;&nbsp;BigGo Finance",
-   "source": "Google News | SE Asia",
-   "module": "亚太官方",
-   "category": "跨境电商",
+   "title": "(URGENT) Lee calls for 'growth for all' to ensure everyone shares benefits of growth",
+   "link": "https://en.yna.co.kr/view/AEN20261102002400315",
+   "published": "Mon, 02 Nov 2026 10:09:11 GMT",
+   "summary": "(END)",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Lee's approval rating rises on summit achievements, economic policies: poll",
+   "link": "https://en.yna.co.kr/view/AEN20261102001200315",
+   "published": "Mon, 02 Nov 2026 09:34:25 GMT",
+   "summary": "SEOUL, Nov. 2 (Yonhap) -- President Lee Jae Myung&apos;s approval rating came to 36.9...",
+   "source": "Yonhap EN | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years",
+   "link": "https://www.channelnewsasia.com/entertainment/heidi-klum-halloween-2026-costume-6510581",
+   "published": "Mon, 02 Nov 2026 09:01:00 GMT",
+   "summary": "Klum was unrecognisable, with only her eyes and mouth showing, blood dripping from her mouth as she stuck her tongue out.&nbsp;",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "其他",
+   "priority": 1
+  },
+  {
+   "title": "Canada's Carney hails 'good conversation' on trade with Trump",
+   "link": "https://www.channelnewsasia.com/world/canada-mark-carney-trade-talk-donald-trump-6511851",
+   "published": "Mon, 02 Nov 2026 08:53:42 GMT",
+   "summary": "",
+   "source": "CNA | RSS",
+   "module": "海外媒体RSS",
+   "category": "中美经贸",
    "priority": 1
   },
   {
@@ -14368,6 +14472,16 @@
    "source": "Bangkok Post | Breaking",
    "module": "海外媒体",
    "category": "美国关税",
+   "priority": 1
+  },
+  {
+   "title": "Singapore, Argentina deepen trade ties as key South American trade pact enters into force - The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSzgtN0NvUS1rUWt5a1BCb0tNcmV6ZnhRQUxsZHZhbzdJSC00czRleWtwdk9mN25VQVl3bVJjSllCVFZpSWU0VlBRY2RlSGtnakFVSWplclFPQW9CVEVYdVJUWlRhaWZheHdyVlhrTWdJM0dMZnpFNVQ1R0NUOHNkUVJMQ2JFdXJtaGRCUDdFZElTdDdyVnV0ZXFuVDFyVUdDYnh1elFsVVNvdjRKa1ppVWdnWTRpN01mcHJQYXN0NEgtbGtNTjJPUUJuSFFfYzk5NnRj?oc=5",
+   "published": "Mon, 02 Nov 2026 02:14:00 GMT",
+   "summary": "Singapore, Argentina deepen trade ties as key South American trade pact enters into force&nbsp;&nbsp;The Straits Times",
+   "source": "Straits Times",
+   "module": "海外媒体",
+   "category": "亚太动态",
    "priority": 1
   },
   {
